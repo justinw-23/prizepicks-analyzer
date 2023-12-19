@@ -15,7 +15,6 @@ class EdgePicksSpider(scrapy.Spider):
                 playwright = True,
                 playwright_include_page = True,
                 playwright_page_methods = [
-                    #PageMethod('wait_for_timeout', 4000),
                     PageMethod('wait_for_selector', '.reactable.html-widget.html-widget-output.shiny-bound-output'),
                     PageMethod('wait_for_selector', '.rt-next-button.rt-page-button')
                 ]
@@ -40,12 +39,9 @@ class EdgePicksSpider(scrapy.Spider):
                 'BET': values[4],
                 'WIN%': values[5]
             }
-        #i = 0
 
         while True:
             await page.locator('button:text("Next")').click()
-            # await page.screenshot(path=f'nextpage{i}.png')
-            # i += 1
 
             picks_table = await page.query_selector_all('.reactable.html-widget.html-widget-output.shiny-bound-output')
             for element in picks_table:

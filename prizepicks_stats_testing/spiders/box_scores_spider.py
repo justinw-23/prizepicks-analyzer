@@ -5,7 +5,6 @@ class BoxScoresSpiderSpider(scrapy.Spider):
     name = "box_scores_spider"
     allowed_domains = ["basketball.realgm.com"]
     start_urls = ["https://basketball.realgm.com/nba/scores"]
-    # start_urls = ["https://basketball.realgm.com/nba/scores/2023-11-28"]
 
     def parse(self, response):
         box_scores = response.xpath('// *[contains(text(), "Box Score")]')
@@ -52,6 +51,7 @@ class BoxScoresSpiderSpider(scrapy.Spider):
                 categories[17]: stats[17]
             }        
 
+            # Clear the list
             stats = list()
         
 

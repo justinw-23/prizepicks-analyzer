@@ -9,8 +9,7 @@ Prizepicks Analyzer is a tool designed to analyze the performance of Prizepicks 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [What's Next](#whats_next)
+- [What's Next](#whatsnext)
 
 ## Installation
 

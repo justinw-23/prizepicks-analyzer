@@ -38,5 +38,7 @@ Set up crontab to automate your spiders:
 ./configure.sh
 ```
 
+That's it! If you are hosting your spiders on a virtual server, such as EC2 from Amazon Web Services (AWS), then you are good to go. The spiders will run at their automated times every day and save data to the virtual server.
+
 ## What's Next
 This repository has a lot more to come in the future. I plan on integrating other edge tools into its system and also perform real time anlaysis of player stats to formulate its own picks as well! Stay tuned for more!

@@ -21,7 +21,7 @@ def main():
                     hits_over_60 += 1
                 total_over_60 += 1
                 
-    with open("hits.txt", "a") as outfile:
+    with open("data/hits.txt", "a") as outfile:
         outfile.write(f"Hits/Total for {formatted_date}: {hits}/{total}\n")
         outfile.write(f"\tHits/Total for {formatted_date} over 60.0%: {hits_over_60}/{total_over_60}\n")
     

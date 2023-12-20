@@ -90,7 +90,7 @@ def main():
                     if bet == "OVER" or bet == "":
                         hit = True
                 elif total < line:
-                    if bet == "UNDER" or bet -- "":
+                    if bet == "UNDER" or bet == "":
                         hit = True
                 if hit:
                     row.append("Hit")

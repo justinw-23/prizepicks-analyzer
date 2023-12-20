@@ -2,7 +2,6 @@ import csv
 import sys
 from datetime import datetime
 
-# main
 def main():
     formatted_date = datetime.now().strftime("%m/%d/%y")
     total = 0

@@ -11,18 +11,21 @@ def main():
     args = parser.parse_args()
 
     bsfpath = args.box_score_filename
-    bsdict = dict()
+    box_score_dict = dict()
     try:
         with open(bsfpath, 'r', newline='', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile)
-            header = next(reader)
+            header = next(reader, None)
+            if header is None:
+                print("Box scores CSV file is empty.")
+                return
             for row in reader:
-                bsdict[row[1]] = row
-                #print(row)
+                name = row[1]
+                box_score_dict[name] = row
     except FileNotFoundError:
         print(f"The file bsfpath '{bsfpath}' was not found.")
     except Exception as e:
-        print(f"An error occurdfdgdsgfdred: {e}")
+        print(f"Error arg 1 occurred: {e}")
 
     eppath = args.edge_picks_filename
     output_file = args.output_filename
@@ -31,14 +34,17 @@ def main():
             reader = csv.reader(csvfile)
             writer = csv.writer(outfile)
 
-            header = next(reader)
+            header = next(reader, None)
+            if header is None:
+                print("Edge picks CSV file is empty.")
+                return
             for row in reader:
                 hit = False
                 category = row[2]
                 line = float(row[3])
                 bet = row[4]
-                if row[0] in bsdict:
-                    player_stats = bsdict[row[0]]
+                if row[0] in box_score_dict:
+                    player_stats = box_score_dict[row[0]]
                 else:
                     continue
                 threes = int(player_stats[6].split('-')[0])
@@ -93,8 +99,8 @@ def main():
                 writer.writerow(row)
     except FileNotFoundError:
         print(f"The file eppath '{eppath}' was not found.")
-    # except Exception as e:
-    #     print(f"An error occurred: {e}")
+    except Exception as e:
+        print(f"Error arg 2 occurred: {e}")
 
 
 if __name__ == "__main__":

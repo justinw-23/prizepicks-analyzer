@@ -11,8 +11,8 @@ class BoxScoresSpiderSpider(scrapy.Spider):
         for box_score in box_scores:
             if 'href' in box_score.attrib:
                 box_score_href = box_score.css('a').attrib['href']
-                box_score_url = "https://basketball.realgm.com" + box_score_href
-                yield scrapy.Request(url=box_score_url, callback=self.parse_box_score)
+                url = "https://basketball.realgm.com" + box_score_href
+                yield scrapy.Request(url=url, callback=self.parse_box_score)
 
     def parse_box_score(self, response):
         header_tag = response.css('.tablesaw.compact thead')
@@ -49,10 +49,7 @@ class BoxScoresSpiderSpider(scrapy.Spider):
                 categories[15]: stats[15],
                 categories[16]: stats[16],
                 categories[17]: stats[17]
-            }        
+            }
 
             # Clear the list
             stats = list()
-        
-
-

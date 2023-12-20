@@ -1,0 +1,3 @@
+0 12 * * * /root/dev/prizepicks-analyzer/prizepicks_stats_testing/run_edge_spider.sh
+30 23 * * * /root/dev/prizepicks-analyzer/prizepicks_stats_testing/run_box_scores_spider.sh
+32 23 * * * /root/dev/prizepicks-analyzer/prizepicks_stats_testing/run_analysis.sh

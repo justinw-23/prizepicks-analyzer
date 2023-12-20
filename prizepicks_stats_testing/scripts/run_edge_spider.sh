@@ -1,5 +1,6 @@
 #!/bin/bash
 
+export TZ="America/Los_Angeles"
 current_date=$(date +"%Y-%m-%d")
 current_date_snake_case=$(date +"%Y_%m_%d")
 current_month=$(date +"%B")

@@ -7,7 +7,7 @@ script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 patterns=("run_edge_spider.sh" 
           "run_box_scores_spider.sh"
           "run_analysis.sh")
-new_commands=("0 12 * * * $script_dir/scripts/run_edge_spider.sh"
+new_commands=("45 12 * * * $script_dir/scripts/run_edge_spider.sh"
               "45 22 * * * $script_dir/scripts/run_box_scores_spider.sh"
               "47 23 * * * $script_dir/scripts/run_analysis.sh")
 

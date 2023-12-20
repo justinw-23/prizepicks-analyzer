@@ -7,8 +7,8 @@ current_month=$(date +"%B")
 current_year=$(date +"%Y")
 month="${current_month} ${current_year}"
 
-output_path="$(realpath ../data/${month}/${current_date}-Data/nba_edge_picks_${current_date_snake_case}.csv)"
-venv_path="$(realpath ../../venv/bin/activate)"
+output_path="$(realpath ..)/data/${month}/${current_date}-Data/nba_edge_picks_${current_date_snake_case}.csv"
+venv_path="$(realpath ../..)/venv/bin/activate"
 
 source "$venv_path"
 

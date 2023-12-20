@@ -8,8 +8,8 @@ patterns=("run_edge_spider.sh"
           "run_box_scores_spider.sh"
           "run_analysis.sh")
 new_commands=("0 12 * * * $script_dir/scripts/run_edge_spider.sh"
-              "0 23 * * * $script_dir/scripts/run_box_scores_spider.sh"
-              "2 23 * * * $script_dir/scripts/run_analysis.sh")
+              "20 23 * * * $script_dir/scripts/run_box_scores_spider.sh"
+              "22 23 * * * $script_dir/scripts/run_analysis.sh")
 
 # Check if matching cron jobs are present and replace them with the corresponding new cron commands
 existing_cron_jobs=$(crontab -l | grep -E "$(IFS=\|; echo "${patterns[*]}")")

@@ -7,9 +7,9 @@ script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 patterns=("run_edge_spider.sh" 
           "run_box_scores_spider.sh"
           "run_analysis.sh")
-new_commands=("45 12 * * * $script_dir/scripts/run_edge_spider.sh >> /home/ubuntu/crontest.log 2>&1"
-              "45 22 * * * $script_dir/scripts/run_box_scores_spider.sh >> /home/ubuntu/crontest.log 2>&1"
-              "47 22 * * * $script_dir/scripts/run_analysis.sh >> /home/ubuntu/crontest.log 2>&1")
+new_commands=("59 12 * * * /bin/bash $script_dir/scripts/run_edge_spider.sh >> /home/ubuntu/crontest.log 2>&1"
+              "45 22 * * * /bin/bash $script_dir/scripts/run_box_scores_spider.sh >> /home/ubuntu/crontest.log 2>&1"
+              "47 22 * * * /bin/bash $script_dir/scripts/run_analysis.sh >> /home/ubuntu/crontest.log 2>&1")
 
 # Check if matching cron jobs are present and replace them with the corresponding new cron commands
 existing_cron_jobs=$(crontab -l | grep -E "$(IFS=\|; echo "${patterns[*]}")")

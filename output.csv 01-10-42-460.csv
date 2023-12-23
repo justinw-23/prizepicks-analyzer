@@ -1,0 +1,301 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes
+Boston vs. LA Clippers,Jaylen Brown,Blocks,0.5,1.02,1.00,1.0,8,2,Over
+Memphis vs. Atlanta,Ja Morant,Three Points Made,1.5,0.50,0.50,0.5,0,2,Under
+Detroit vs. Brooklyn,Isaiah Stewart,Blocks,0.5,0.23,0.30,0.0,3,7,Under
+Memphis vs. Atlanta,Jaren Jackson Jr.,Three Points Made,1.5,2.23,2.00,2.0,6,4,Over
+Houston vs. New Orleans,Fred VanVleet,SB,1.5,2.22,2.40,2.5,6,4,Over
+Boston vs. LA Clippers,Jaylen Brown,SB,1.5,2.11,2.00,2.0,6,4,Over
+Utah vs. Toronto,OG Anunoby,Assists,2.5,3.43,3.30,3.0,7,3,Over
+LA Lakers vs. Oklahoma City,Shai Gilgeous-Alexander,Turnovers,2.5,1.63,1.60,2.0,2,8,Under
+Utah vs. Toronto,Jakob Poeltl,Steals,0.5,0.33,0.30,0.0,2,8,Under
+Detroit vs. Brooklyn,Cade Cunningham,SB,1.5,1.99,1.90,2.0,6,4,Over
+Houston vs. New Orleans,Fred VanVleet,Turnovers,1.5,1.97,1.80,2.0,6,4,Over
+Houston vs. New Orleans,Dillon Brooks,Turnovers,1.5,1.96,1.90,2.0,7,3,Over
+Houston vs. New Orleans,Jalen Green,Steals,0.5,0.35,0.40,0.0,3,7,Under
+Memphis vs. Atlanta,Vince Williams Jr.,Assists,2.5,1.80,1.90,1.5,4,6,Under
+Houston vs. New Orleans,Jabari Smith Jr.,RA,9.5,12.08,12.50,13.0,7,3,Over
+Milwaukee vs. New York,Khris Middleton,RA,8.5,10.80,10.00,9.0,5,5,Over
+Denver vs. Charlotte,Terry Rozier,Assists,6.5,8.23,8.20,7.0,8,2,Over
+Memphis vs. Atlanta,Vince Williams Jr.,SB,1.5,1.11,1.20,1.0,3,7,Under
+Memphis vs. Atlanta,Clint Capela,PA,11.5,14.43,15.00,16.5,8,2,Over
+Memphis vs. Atlanta,Clint Capela,Points,10.5,13.09,13.50,14.5,7,3,Over
+Utah vs. Toronto,Dennis Schroder,Points,13.5,10.20,10.30,8.5,2,8,Under
+Denver vs. Charlotte,Terry Rozier,SB,1.5,1.86,2.00,2.0,6,4,Over
+Denver vs. Charlotte,Nick Richards,Turnovers,0.5,0.38,0.60,0.0,4,6,Under
+Orlando vs. Indiana,Paolo Banchero,SB,1.5,1.15,1.10,1.0,3,7,Under
+Minnesota vs. Sacramento,Keegan Murray,Rebounds,5.5,4.21,4.50,4.5,2,8,Under
+Houston vs. New Orleans,Jalen Green,Points,17.5,13.48,14.00,14.5,1,9,Under
+Milwaukee vs. New York,Damian Lillard,Assists,6.5,7.93,7.90,7.5,7,3,Over
+Milwaukee vs. New York,RJ Barrett,Turnovers,1.5,1.17,1.20,1.0,4,6,Under
+Memphis vs. Atlanta,Bismack Biyombo,Rebounds,6.5,5.09,5.30,5.5,2,8,Under
+Memphis vs. Atlanta,Bismack Biyombo,PR,12.5,9.83,9.40,9.5,2,8,Under
+Houston vs. New Orleans,Jabari Smith Jr.,Points,14.5,11.40,13.50,9.5,4,6,Under
+Minnesota vs. Sacramento,Kevin Huerter,Points,10.5,8.26,8.40,9.0,5,5,Under
+Minnesota vs. Sacramento,Jaden McDaniels,Points,13.5,10.70,10.20,11.5,2,8,Under
+Utah vs. Toronto,Dennis Schroder,Three Points Made,1.5,1.19,1.20,1.0,3,7,Under
+Memphis vs. Atlanta,Vince Williams Jr.,Blocks,0.5,0.60,0.60,0.0,4,6,Under
+Memphis vs. Atlanta,Jaren Jackson Jr.,Points,21.5,25.87,24.90,23.0,6,4,Over
+Minnesota vs. Sacramento,Rudy Gobert,Points,14.5,11.58,12.60,12.0,5,5,Under
+Denver vs. Charlotte,Miles Bridges,Turnovers,1.5,1.20,1.50,1.0,4,6,Under
+Denver vs. Charlotte,Nick Richards,SB,1.5,1.20,1.40,1.0,4,6,Under
+LA Lakers vs. Oklahoma City,Jalen Williams,SB,1.5,1.20,1.60,1.0,4,6,Under
+Memphis vs. Atlanta,Trae Young,SB,1.5,1.20,1.30,1.0,4,6,Under
+Orlando vs. Indiana,Franz Wagner,SB,1.5,1.20,1.20,1.0,3,7,Under
+Houston vs. New Orleans,Jabari Smith Jr.,Three Points Made,1.5,1.20,1.30,1.0,2,8,Under
+Orlando vs. Indiana,Tyrese Haliburton,SB,1.5,1.20,1.30,1.0,4,6,Under
+Utah vs. Toronto,Jakob Poeltl,Blocks,1.5,1.20,1.30,1.0,4,6,Under
+Utah vs. Toronto,OG Anunoby,SB,1.5,1.20,1.40,1.0,3,7,Under
+Houston vs. New Orleans,Jabari Smith Jr.,SB,1.5,1.20,1.50,1.0,4,6,Under
+Denver vs. Charlotte,Terry Rozier,Three Points Made,2.5,3.00,3.40,2.5,5,5,Over
+Houston vs. New Orleans,Dillon Brooks,Steals,0.5,0.60,0.80,0.5,5,5,Under
+Denver vs. Charlotte,Brandon Miller,Steals,0.5,0.60,0.70,0.5,5,5,Under
+Denver vs. Charlotte,Brandon Miller,Blocks,0.5,0.60,0.70,0.5,5,5,Under
+Milwaukee vs. New York,Khris Middleton,Turnovers,1.5,1.80,2.10,1.5,5,5,Over
+Houston vs. New Orleans,Alperen Sengun,SB,1.5,1.80,2.00,1.5,5,5,Over
+LA Lakers vs. Oklahoma City,LeBron James,Blocks,0.5,0.60,0.50,0.0,4,6,Under
+Detroit vs. Brooklyn,Spencer Dinwiddie,Turnovers,1.5,1.80,1.90,2.0,8,2,Over
+Boston vs. LA Clippers,Kawhi Leonard,Blocks,0.5,0.40,0.50,0.5,5,5,Under
+Memphis vs. Atlanta,Trae Young,Assists,10.5,12.56,12.40,12.5,7,3,Over
+Houston vs. New Orleans,Jalen Green,PA,20.5,16.54,16.90,17.0,3,7,Under
+Minnesota vs. Sacramento,Anthony Edwards,Points,29.5,23.87,22.90,25.5,3,7,Under
+Houston vs. New Orleans,Jabari Smith Jr.,Rebounds,8.5,10.08,10.40,10.0,7,3,Over
+Memphis vs. Atlanta,Trae Young,RA,13.5,15.92,15.60,16.0,8,2,Over
+Memphis vs. Atlanta,Clint Capela,PAR,22.5,26.45,27.10,27.0,7,3,Over
+Memphis vs. Atlanta,Clint Capela,PR,21.5,25.14,25.60,25.5,7,3,Over
+Memphis vs. Atlanta,Jaren Jackson Jr.,Rebounds,6.5,5.40,5.20,4.5,3,7,Under
+Milwaukee vs. New York,Jalen Brunson,PR,28.5,33.29,32.00,28.0,5,5,Over
+Milwaukee vs. New York,Isaiah Hartenstein,Points,7.5,6.25,6.30,6.0,3,7,Under
+Memphis vs. Atlanta,Saddiq Bey,SB,1.5,1.25,1.10,1.5,5,5,Under
+Houston vs. New Orleans,Jalen Green,PR,21.5,17.96,18.60,18.0,3,7,Under
+Milwaukee vs. New York,Damian Lillard,RA,10.5,12.20,12.50,13.0,6,4,Over
+Utah vs. Toronto,Pascal Siakam,Rebounds,6.5,5.46,6.00,5.0,4,6,Under
+Detroit vs. Brooklyn,Cam Thomas,Assists,2.5,2.90,2.80,2.5,5,5,Over
+Utah vs. Toronto,Dennis Schroder,PR,15.5,13.11,12.80,12.0,2,8,Under
+Minnesota vs. Sacramento,Keegan Murray,Points,16.5,18.96,19.70,16.0,5,5,Over
+Orlando vs. Indiana,Tyrese Haliburton,Points,24.5,20.87,21.60,19.5,3,7,Under
+Detroit vs. Brooklyn,Cam Thomas,PR,28.5,24.32,24.20,22.5,2,8,Under
+LA Lakers vs. Oklahoma City,Luguentz Dort,Rebounds,4.5,3.84,3.80,3.5,3,7,Under
+Milwaukee vs. New York,Khris Middleton,PR,18.5,21.18,20.90,21.5,6,4,Over
+Minnesota vs. Sacramento,Kevin Huerter,Rebounds,3.5,3.00,3.10,3.0,4,6,Under
+Memphis vs. Atlanta,Saddiq Bey,Rebounds,6.5,7.43,7.70,8.5,7,3,Over
+Utah vs. Toronto,Jakob Poeltl,RA,10.5,9.00,9.20,8.5,2,8,Under
+Milwaukee vs. New York,Brook Lopez,Three Points Made,1.5,1.71,1.90,1.5,5,5,Over
+Houston vs. New Orleans,Jalen Green,PAR,24.5,21.02,21.50,22.0,3,7,Under
+Utah vs. Toronto,Dennis Schroder,PAR,23.5,20.22,19.80,18.5,3,7,Under
+Milwaukee vs. New York,Jalen Brunson,PA,30.5,34.72,34.10,30.0,4,6,Over
+Memphis vs. Atlanta,Jaren Jackson Jr.,PA,23.5,26.74,26.20,24.0,6,4,Over
+Memphis vs. Atlanta,Clint Capela,Rebounds,10.5,11.94,12.10,11.0,5,5,Over
+Utah vs. Toronto,Dennis Schroder,PA,20.5,17.69,17.30,16.0,2,8,Under
+Denver vs. Charlotte,Miles Bridges,Rebounds,6.5,5.61,6.10,5.0,4,6,Under
+Milwaukee vs. New York,Julius Randle,Assists,4.5,5.10,5.20,5.0,6,4,Over
+Milwaukee vs. New York,Damian Lillard,Three Points Made,3.5,3.96,3.90,4.0,6,4,Over
+Orlando vs. Indiana,Franz Wagner,Rebounds,5.5,6.22,6.10,6.0,8,2,Over
+Boston vs. LA Clippers,Jayson Tatum,Points,29.5,25.64,25.30,25.0,3,7,Under
+Memphis vs. Atlanta,Trae Young,Turnovers,4.5,5.08,4.90,5.0,7,3,Over
+Orlando vs. Indiana,Tyrese Haliburton,PR,28.5,24.84,25.70,21.5,3,7,Under
+Memphis vs. Atlanta,Desmond Bane,SB,1.5,1.69,1.80,1.5,5,5,Over
+Minnesota vs. Sacramento,Domantas Sabonis,Points,17.5,19.73,19.50,17.5,5,5,Over
+Milwaukee vs. New York,Jalen Brunson,Points,24.5,27.60,27.20,23.0,3,7,Over
+Orlando vs. Indiana,Paolo Banchero,Rebounds,7.5,8.45,7.60,7.5,5,5,Over
+Detroit vs. Brooklyn,Isaiah Stewart,Points,8.5,7.44,7.50,7.0,4,6,Under
+Denver vs. Charlotte,Brandon Miller,Assists,2.5,2.81,2.70,3.0,7,3,Over
+LA Lakers vs. Oklahoma City,Luguentz Dort,Points,12.5,10.98,11.20,11.5,4,6,Under
+Orlando vs. Indiana,Paolo Banchero,Blocks,0.5,0.44,0.40,0.0,3,7,Under
+Boston vs. LA Clippers,Jaylen Brown,PAR,37.5,33.01,34.00,35.5,5,5,Under
+Denver vs. Charlotte,Gordon Hayward,PA,18.5,20.69,20.70,22.0,6,4,Over
+Denver vs. Charlotte,Terry Rozier,RA,10.5,11.74,12.20,12.5,6,4,Over
+Detroit vs. Brooklyn,Isaiah Stewart,PR,15.5,13.67,13.80,15.0,4,6,Under
+Memphis vs. Atlanta,Jaren Jackson Jr.,SB,2.5,2.79,2.70,2.5,5,5,Over
+Boston vs. LA Clippers,Jaylen Brown,Points,27.5,24.31,24.90,26.5,5,5,Under
+LA Lakers vs. Oklahoma City,Luguentz Dort,PAR,18.5,16.38,16.60,18.5,5,5,Under
+Minnesota vs. Sacramento,Domantas Sabonis,Rebounds,11.5,12.78,13.10,13.0,6,4,Over
+Boston vs. LA Clippers,Jayson Tatum,PR,38.5,34.29,33.70,33.0,2,8,Under
+Denver vs. Charlotte,Nick Richards,Rebounds,7.5,6.69,6.70,7.0,5,5,Under
+Boston vs. LA Clippers,Jayson Tatum,PAR,43.5,38.87,38.20,38.0,2,8,Under
+Minnesota vs. Sacramento,Harrison Barnes,Rebounds,3.5,3.13,3.00,3.0,4,6,Under
+Minnesota vs. Sacramento,De'Aaron Fox,Points,27.5,30.41,29.60,29.5,7,3,Over
+Utah vs. Toronto,Pascal Siakam,Points,22.5,24.85,24.20,23.5,5,5,Over
+Utah vs. Toronto,Scottie Barnes,PR,29.5,32.56,32.00,33.5,6,4,Over
+Houston vs. New Orleans,Fred VanVleet,PR,21.5,23.72,23.80,23.0,7,3,Over
+Boston vs. LA Clippers,Kawhi Leonard,Rebounds,6.5,5.84,6.10,6.5,5,5,Under
+LA Lakers vs. Oklahoma City,Chet Holmgren,Points,17.5,15.72,15.70,16.5,3,7,Under
+Boston vs. LA Clippers,Jayson Tatum,PA,33.5,30.11,29.80,30.0,3,7,Under
+Houston vs. New Orleans,Fred VanVleet,Points,17.5,19.27,19.30,19.0,5,5,Over
+Detroit vs. Brooklyn,Cam Thomas,Points,24.5,22.04,21.60,20.0,2,8,Under
+LA Lakers vs. Oklahoma City,Luguentz Dort,PR,16.5,14.85,15.00,16.0,5,5,Under
+Boston vs. LA Clippers,Jaylen Brown,PR,32.5,29.26,29.80,30.0,5,5,Under
+Detroit vs. Brooklyn,Cam Thomas,PAR,30.5,27.50,27.00,26.0,3,7,Under
+Boston vs. LA Clippers,Jaylen Brown,PA,31.5,28.40,29.10,29.5,4,6,Under
+Orlando vs. Indiana,Tyrese Haliburton,PA,36.5,33.04,33.70,31.0,3,7,Under
+Memphis vs. Atlanta,Jaren Jackson Jr.,PAR,29.5,32.30,31.40,29.0,5,5,Over
+LA Lakers vs. Oklahoma City,Chet Holmgren,PAR,29.5,26.70,26.10,26.0,2,8,Under
+Detroit vs. Brooklyn,Bojan Bogdanovic,PR,23.5,21.32,21.78,24.0,5,4,Under
+Milwaukee vs. New York,Brook Lopez,Rebounds,4.5,4.08,4.50,4.5,5,5,Under
+Utah vs. Toronto,Scottie Barnes,PAR,35.5,38.77,38.20,38.5,5,5,Over
+Detroit vs. Brooklyn,Cam Thomas,PA,27.5,24.97,24.40,25.0,3,7,Under
+Denver vs. Charlotte,Gordon Hayward,Points,14.5,15.83,16.10,17.0,6,4,Over
+Orlando vs. Indiana,Franz Wagner,RA,10.5,11.45,11.50,12.0,7,3,Over
+Denver vs. Charlotte,Gordon Hayward,PAR,22.5,24.54,24.80,25.5,5,5,Over
+Memphis vs. Atlanta,Jaren Jackson Jr.,PR,28.5,31.06,30.10,28.5,5,5,Over
+Detroit vs. Brooklyn,Isaiah Stewart,RA,8.5,7.75,7.90,8.0,3,7,Under
+Memphis vs. Atlanta,Bismack Biyombo,RA,7.5,6.84,7.00,6.5,4,6,Under
+Detroit vs. Brooklyn,Mikal Bridges,PAR,30.5,27.82,27.90,26.0,3,7,Under
+LA Lakers vs. Oklahoma City,Chet Holmgren,PA,20.5,18.71,18.30,18.5,3,7,Under
+Detroit vs. Brooklyn,Cameron Johnson,PR,19.5,17.83,17.70,18.5,4,6,Under
+Utah vs. Toronto,Scottie Barnes,Points,21.5,23.34,22.90,23.0,7,3,Over
+Detroit vs. Brooklyn,Mikal Bridges,PR,26.5,24.28,24.40,24.0,3,7,Under
+Detroit vs. Brooklyn,Spencer Dinwiddie,RA,11.5,10.55,10.80,11.0,5,5,Under
+Detroit vs. Brooklyn,Cade Cunningham,RA,12.5,11.47,11.80,12.5,5,5,Under
+Detroit vs. Brooklyn,Bojan Bogdanovic,PAR,25.5,23.42,24.11,26.0,5,4,Under
+Milwaukee vs. New York,Brook Lopez,PR,18.5,16.99,17.90,20.0,6,4,Under
+Utah vs. Toronto,Scottie Barnes,Rebounds,8.5,9.18,9.10,9.5,6,4,Over
+LA Lakers vs. Oklahoma City,Jalen Williams,PA,21.5,19.77,20.30,19.0,4,6,Under
+Detroit vs. Brooklyn,Isaiah Stewart,PAR,16.5,15.18,15.40,15.0,4,6,Under
+Utah vs. Toronto,Scottie Barnes,PA,27.5,29.57,29.10,30.0,6,4,Over
+Milwaukee vs. New York,Julius Randle,RA,14.5,13.42,13.60,13.5,4,6,Under
+LA Lakers vs. Oklahoma City,Luguentz Dort,PA,13.5,12.50,12.80,14.0,5,5,Under
+Memphis vs. Atlanta,Ja Morant,SB,1.5,1.61,1.50,1.5,5,5,Under
+Memphis vs. Atlanta,Ja Morant,RA,14.5,13.46,13.50,13.5,0,2,Under
+Houston vs. New Orleans,Fred VanVleet,Assists,8.5,7.89,8.30,7.5,4,6,Under
+Denver vs. Charlotte,Gordon Hayward,PR,18.5,19.82,20.20,20.5,5,5,Over
+Orlando vs. Indiana,Tyrese Haliburton,Turnovers,3.5,3.25,3.10,3.5,5,5,Under
+Memphis vs. Atlanta,Trae Young,PAR,44.5,47.62,48.10,48.5,8,2,Over
+Detroit vs. Brooklyn,Bojan Bogdanovic,PA,22.5,20.93,22.00,24.0,5,4,Under
+Memphis vs. Atlanta,Vince Williams Jr.,RA,8.5,7.91,7.90,7.5,4,6,Under
+Detroit vs. Brooklyn,Cameron Johnson,PAR,21.5,20.01,19.90,20.5,4,6,Under
+Denver vs. Charlotte,Terry Rozier,PAR,33.5,35.82,37.30,37.5,8,2,Over
+Denver vs. Charlotte,Brandon Miller,PA,20.5,19.09,19.00,18.5,3,7,Under
+Milwaukee vs. New York,Julius Randle,PA,29.5,31.52,32.60,30.0,6,4,Over
+Memphis vs. Atlanta,Trae Young,PA,41.5,44.33,44.90,44.5,8,2,Over
+Detroit vs. Brooklyn,Cameron Johnson,Points,14.5,13.52,13.50,14.5,5,5,Under
+Milwaukee vs. New York,Brook Lopez,Points,13.5,12.59,13.40,14.0,6,4,Under
+Detroit vs. Brooklyn,Cade Cunningham,Assists,7.5,7.00,7.40,7.0,4,6,Under
+Utah vs. Toronto,OG Anunoby,Turnovers,1.5,1.60,1.60,2.0,7,3,Under
+Denver vs. Charlotte,Miles Bridges,Three Points Made,1.5,1.60,1.80,2.0,7,3,Under
+Utah vs. Toronto,Dennis Schroder,Turnovers,1.5,1.60,1.50,2.0,6,4,Under
+Memphis vs. Atlanta,Desmond Bane,Rebounds,4.5,4.20,4.60,3.5,4,6,Under
+Memphis vs. Atlanta,Dejounte Murray,Rebounds,4.5,4.20,4.90,3.5,4,6,Under
+Memphis vs. Atlanta,Dejounte Murray,PA,24.5,26.11,26.50,26.0,7,3,Over
+Orlando vs. Indiana,Paolo Banchero,Assists,4.5,4.79,4.40,4.0,4,6,Over
+Milwaukee vs. New York,Isaiah Hartenstein,PR,16.5,15.43,15.60,14.0,4,6,Under
+Denver vs. Charlotte,Miles Bridges,PA,21.5,20.10,21.10,22.5,6,4,Under
+Utah vs. Toronto,Pascal Siakam,PA,27.5,29.28,28.70,27.0,5,5,Over
+LA Lakers vs. Oklahoma City,Jalen Williams,PR,21.5,20.11,20.10,18.0,4,6,Under
+LA Lakers vs. Oklahoma City,Shai Gilgeous-Alexander,PA,41.5,38.84,37.60,36.5,2,8,Under
+LA Lakers vs. Oklahoma City,LeBron James,Points,26.5,24.81,25.30,25.0,3,7,Under
+Denver vs. Charlotte,Brandon Miller,Points,17.5,16.41,16.30,16.0,4,6,Under
+Houston vs. New Orleans,Dillon Brooks,PR,16.5,17.52,18.80,20.0,6,4,Over
+LA Lakers vs. Oklahoma City,Anthony Davis,PA,30.5,32.39,32.40,33.5,6,4,Over
+Denver vs. Charlotte,Miles Bridges,PR,25.5,23.94,24.90,24.0,3,7,Under
+Utah vs. Toronto,Scottie Barnes,RA,14.5,15.37,15.30,15.0,6,4,Over
+Memphis vs. Atlanta,Vince Williams Jr.,PR,13.5,14.30,14.10,16.5,6,4,Over
+Memphis vs. Atlanta,Ja Morant,Assists,8.5,8.00,8.00,8.0,0,2,Under
+Milwaukee vs. New York,Julius Randle,Points,25.5,26.94,27.40,26.5,6,4,Over
+Utah vs. Toronto,OG Anunoby,PA,16.5,17.40,17.30,14.5,4,6,Over
+Milwaukee vs. New York,Isaiah Hartenstein,PAR,18.5,17.50,17.60,16.5,4,6,Under
+Memphis vs. Atlanta,Dejounte Murray,PAR,29.5,31.09,31.40,31.0,7,3,Over
+LA Lakers vs. Oklahoma City,Shai Gilgeous-Alexander,PAR,46.5,44.04,42.80,42.5,2,8,Under
+Memphis vs. Atlanta,Saddiq Bey,PA,14.5,15.26,15.70,17.5,6,4,Over
+Detroit vs. Brooklyn,Cameron Johnson,PA,16.5,15.65,15.70,17.5,7,3,Under
+Utah vs. Toronto,Pascal Siakam,Assists,4.5,4.28,4.50,4.0,4,6,Under
+Detroit vs. Brooklyn,Spencer Dinwiddie,Assists,7.5,7.13,6.90,7.5,5,5,Under
+Orlando vs. Indiana,Tyrese Haliburton,Assists,11.5,12.07,12.10,12.0,5,5,Over
+Detroit vs. Brooklyn,Cade Cunningham,PA,31.5,29.97,30.90,30.5,4,6,Under
+Memphis vs. Atlanta,Trae Young,PR,33.5,35.10,35.70,34.5,7,3,Over
+Boston vs. LA Clippers,Kawhi Leonard,PA,30.5,31.94,32.40,31.5,5,5,Over
+LA Lakers vs. Oklahoma City,Shai Gilgeous-Alexander,PR,39.5,37.66,36.40,36.5,2,8,Under
+Denver vs. Charlotte,Gordon Hayward,RA,8.5,8.90,8.70,8.0,4,6,Over
+Memphis vs. Atlanta,Ja Morant,PAR,42.5,40.53,40.50,40.5,1,1,Under
+Houston vs. New Orleans,Dillon Brooks,PA,14.5,15.17,16.40,17.5,6,4,Over
+Denver vs. Charlotte,Miles Bridges,PAR,27.5,26.23,27.20,27.0,5,5,Under
+Minnesota vs. Sacramento,Harrison Barnes,Points,10.5,10.02,10.90,10.5,5,5,Under
+Boston vs. LA Clippers,Jayson Tatum,SB,1.5,1.43,1.40,1.5,5,5,Under
+LA Lakers vs. Oklahoma City,Jalen Williams,PAR,25.5,24.36,24.20,22.5,4,6,Under
+Denver vs. Charlotte,Terry Rozier,PR,26.5,27.67,29.10,30.5,7,3,Over
+Denver vs. Charlotte,Terry Rozier,PA,30.5,31.79,33.30,33.0,7,3,Over
+Denver vs. Charlotte,Brandon Miller,PAR,24.5,23.47,23.20,22.5,2,8,Under
+Detroit vs. Brooklyn,Cameron Johnson,Rebounds,4.5,4.32,4.20,4.5,5,5,Under
+Houston vs. New Orleans,Fred VanVleet,PAR,30.5,31.73,32.10,30.0,4,6,Over
+Milwaukee vs. New York,Damian Lillard,PAR,37.5,39.01,39.10,38.0,6,4,Over
+Denver vs. Charlotte,Nick Richards,Points,7.5,7.20,7.70,6.0,4,6,Under
+Memphis vs. Atlanta,Ja Morant,PA,36.5,35.06,35.00,35.0,1,1,Under
+Memphis vs. Atlanta,Trae Young,Points,30.5,31.69,32.50,31.5,6,4,Over
+Memphis vs. Atlanta,Saddiq Bey,PAR,21.5,22.34,23.40,24.5,8,2,Over
+Houston vs. New Orleans,Alperen Sengun,Rebounds,9.5,9.14,9.50,9.0,4,6,Under
+Denver vs. Charlotte,Brandon Miller,PR,21.5,20.69,20.50,20.0,2,8,Under
+Boston vs. LA Clippers,Kawhi Leonard,Points,27.5,28.53,28.70,29.0,6,4,Over
+Houston vs. New Orleans,Jabari Smith Jr.,PR,22.5,23.26,23.90,21.0,4,6,Over
+Detroit vs. Brooklyn,Bojan Bogdanovic,Points,19.5,18.85,19.67,22.0,5,4,Under
+LA Lakers vs. Oklahoma City,LeBron James,RA,16.5,15.96,16.60,17.5,6,4,Under
+Orlando vs. Indiana,Franz Wagner,Points,22.5,21.78,21.10,19.5,4,6,Under
+Denver vs. Charlotte,Miles Bridges,Points,18.5,17.93,18.80,19.0,6,4,Under
+Detroit vs. Brooklyn,Cade Cunningham,PR,28.5,27.62,27.90,28.0,5,5,Under
+Milwaukee vs. New York,RJ Barrett,Points,18.5,17.93,17.70,16.5,4,6,Under
+Houston vs. New Orleans,Jabari Smith Jr.,PAR,24.5,25.25,26.00,24.5,5,5,Over
+Houston vs. New Orleans,Dillon Brooks,Points,13.5,13.91,15.10,16.0,6,4,Over
+Houston vs. New Orleans,Jabari Smith Jr.,PA,15.5,15.03,15.60,14.0,4,6,Under
+Milwaukee vs. New York,Khris Middleton,PA,18.5,19.06,19.10,20.0,7,3,Over
+Detroit vs. Brooklyn,Spencer Dinwiddie,PAR,26.5,25.71,25.50,27.5,5,5,Under
+Orlando vs. Indiana,Franz Wagner,PAR,32.5,33.47,32.60,31.5,3,7,Over
+Milwaukee vs. New York,Khris Middleton,Points,14.5,14.93,15.00,14.0,4,6,Over
+Houston vs. New Orleans,Fred VanVleet,PA,26.5,27.26,27.60,26.0,5,5,Over
+Memphis vs. Atlanta,Dejounte Murray,PR,24.5,25.19,25.60,24.0,3,7,Over
+Memphis vs. Atlanta,Dejounte Murray,Points,19.5,20.05,20.70,20.5,8,2,Over
+Detroit vs. Brooklyn,Spencer Dinwiddie,Points,14.5,14.90,14.70,16.0,6,4,Over
+Utah vs. Toronto,Jakob Poeltl,PR,18.5,17.99,18.00,20.0,6,4,Under
+Milwaukee vs. New York,Giannis Antetokounmpo,PA,37.5,38.52,38.90,38.5,6,4,Over
+Utah vs. Toronto,OG Anunoby,PR,18.5,18.00,17.80,15.0,3,7,Under
+Utah vs. Toronto,Pascal Siakam,PAR,33.5,34.39,34.70,34.0,6,4,Over
+Utah vs. Toronto,Pascal Siakam,PR,29.5,30.29,30.20,30.5,6,4,Over
+Memphis vs. Atlanta,Saddiq Bey,Points,13.5,13.15,14.30,16.0,6,4,Under
+Utah vs. Toronto,OG Anunoby,PAR,20.5,21.00,21.10,17.5,4,6,Over
+Orlando vs. Indiana,Franz Wagner,PA,27.5,26.85,26.50,24.0,4,6,Under
+Memphis vs. Atlanta,Ja Morant,PR,33.5,32.72,32.50,32.5,1,1,Under
+Orlando vs. Indiana,Tyrese Haliburton,RA,15.5,15.86,16.20,14.5,5,5,Over
+Detroit vs. Brooklyn,Cade Cunningham,Points,23.5,22.96,23.50,23.0,4,6,Under
+Utah vs. Toronto,OG Anunoby,Points,13.5,13.80,14.00,11.5,3,7,Over
+Houston vs. New Orleans,Alperen Sengun,PR,27.5,26.89,27.30,27.0,4,6,Under
+Utah vs. Toronto,Jakob Poeltl,PAR,20.5,20.05,19.90,21.5,6,4,Under
+Utah vs. Toronto,Jakob Poeltl,PA,12.5,12.78,12.60,13.0,6,4,Over
+Detroit vs. Brooklyn,Mikal Bridges,Points,21.5,21.03,20.70,19.5,3,7,Under
+Houston vs. New Orleans,Alperen Sengun,RA,13.5,13.79,14.00,13.5,5,5,Over
+Detroit vs. Brooklyn,Spencer Dinwiddie,PA,22.5,22.02,21.60,23.5,7,3,Under
+Minnesota vs. Sacramento,Rudy Gobert,Rebounds,13.5,13.21,13.00,12.5,3,7,Under
+Orlando vs. Indiana,Paolo Banchero,PAR,34.5,35.21,34.20,34.0,4,6,Over
+Detroit vs. Brooklyn,Mikal Bridges,Assists,3.5,3.57,3.50,3.0,4,6,Under
+LA Lakers vs. Oklahoma City,Shai Gilgeous-Alexander,Rebounds,5.5,5.40,5.20,4.5,4,6,Under
+Memphis vs. Atlanta,Saddiq Bey,PR,20.5,20.87,22.00,23.0,6,4,Over
+Houston vs. New Orleans,Fred VanVleet,RA,12.5,12.29,12.80,12.0,4,6,Under
+Houston vs. New Orleans,Dillon Brooks,PAR,18.5,18.80,20.10,21.5,6,4,Over
+Milwaukee vs. New York,Damian Lillard,PR,30.5,30.98,31.20,31.0,6,4,Over
+Orlando vs. Indiana,Franz Wagner,PR,27.5,27.92,27.20,27.0,4,6,Over
+LA Lakers vs. Oklahoma City,Anthony Davis,PAR,45.5,46.20,45.90,45.5,5,5,Over
+Memphis vs. Atlanta,Desmond Bane,Points,26.5,26.86,26.40,27.5,6,4,Over
+Orlando vs. Indiana,Paolo Banchero,PA,27.5,27.14,26.60,26.5,3,7,Under
+Houston vs. New Orleans,Alperen Sengun,PA,22.5,22.20,22.30,24.5,6,4,Under
+LA Lakers vs. Oklahoma City,Jalen Williams,Points,16.5,16.70,16.20,14.0,4,6,Over
+Boston vs. LA Clippers,Jayson Tatum,RA,13.5,13.34,12.90,12.0,4,6,Under
+Memphis vs. Atlanta,Desmond Bane,PAR,37.5,37.06,36.50,37.0,5,5,Under
+Denver vs. Charlotte,Nick Richards,PR,14.5,14.67,14.40,14.0,5,5,Over
+Detroit vs. Brooklyn,Cade Cunningham,PAR,35.5,35.13,35.30,35.0,5,5,Under
+Boston vs. LA Clippers,Kawhi Leonard,PAR,37.5,37.88,38.50,37.5,5,5,Over
+Memphis vs. Atlanta,Vince Williams Jr.,PA,10.5,10.39,10.00,11.0,6,4,Under
+Minnesota vs. Sacramento,Mike Conley,Points,13.5,13.63,13.20,14.0,6,4,Over
+Memphis vs. Atlanta,Ja Morant,Points,27.5,27.26,27.00,27.0,1,1,Under
+Houston vs. New Orleans,Alperen Sengun,Points,17.5,17.65,17.80,18.5,5,5,Over
+Memphis vs. Atlanta,Vince Williams Jr.,PAR,16.5,16.38,16.00,18.5,6,4,Under
+Milwaukee vs. New York,RJ Barrett,PA,20.5,20.35,20.20,19.5,5,5,Under
+Detroit vs. Brooklyn,Spencer Dinwiddie,PR,18.5,18.62,18.60,19.5,5,5,Over
+Utah vs. Toronto,Dennis Schroder,RA,9.5,9.56,9.50,9.5,5,5,Under
+Denver vs. Charlotte,Terry Rozier,Points,23.5,23.61,25.10,25.0,6,4,Over
+Milwaukee vs. New York,RJ Barrett,PAR,24.5,24.62,24.40,24.0,5,5,Over
+Milwaukee vs. New York,Giannis Antetokounmpo,Points,31.5,31.65,32.20,32.0,6,4,Over
+Boston vs. LA Clippers,Kawhi Leonard,PR,34.5,34.65,34.80,35.0,6,4,Over
+Detroit vs. Brooklyn,Cade Cunningham,Rebounds,4.5,4.52,4.40,4.5,5,5,Under
+Memphis vs. Atlanta,Desmond Bane,PR,31.5,31.37,31.00,30.5,4,6,Under
+Milwaukee vs. New York,Damian Lillard,Points,26.5,26.44,26.60,24.5,4,6,Under
+Memphis vs. Atlanta,Ja Morant,Turnovers,3.5,3.49,3.50,3.5,5,5,Under
+Detroit vs. Brooklyn,Mikal Bridges,PA,24.5,24.55,24.20,21.5,3,7,Over
+Memphis vs. Atlanta,Desmond Bane,PA,32.5,32.56,31.90,31.5,4,6,Over
+Houston vs. New Orleans,Alperen Sengun,PAR,31.5,31.46,31.80,33.5,6,4,Under
+Orlando vs. Indiana,Paolo Banchero,PR,30.5,30.47,29.80,29.5,3,7,Under

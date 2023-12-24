@@ -13,7 +13,7 @@ def main():
         reader = csv.reader(csvfile)
         header = next(reader, None)
         if header is None:
-            print("Pine picks analyzed CSV file is empty.")
+            print("FTN picks analyzed CSV file is empty.")
             return
         for row in reader:
             if row[6] == "Hit":

@@ -43,6 +43,8 @@ def main():
                 category = row[2]
                 line = float(row[3])
                 bet = row[4]
+                if bet != "OVER" and bet != "UNDER":
+                    continue
                 if row[0] in box_score_dict:
                     player_stats = box_score_dict[row[0]]
                 else:
@@ -87,10 +89,10 @@ def main():
                     continue
 
                 if total > line:
-                    if bet == "OVER" or bet == "":
+                    if bet == "OVER":
                         hit = True
                 elif total < line:
-                    if bet == "UNDER" or bet == "":
+                    if bet == "UNDER":
                         hit = True
                 if hit:
                     row.append("Hit")

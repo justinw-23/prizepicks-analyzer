@@ -43,8 +43,8 @@ def main():
                 category = row[2]
                 line = float(row[3])
                 bet = row[9]
-                if row[0] in box_score_dict:
-                    player_stats = box_score_dict[row[0]]
+                if row[1] in box_score_dict:
+                    player_stats = box_score_dict[row[1]]
                 else:
                     continue
                 threes = int(player_stats[6].split('-')[0])

@@ -11,13 +11,13 @@ scripts_dir="$(cd "$(dirname "$(realpath "${BASH_SOURCE[0]}")")" && pwd)"
 core_dir="$(cd "$(dirname "$(dirname "$(realpath "${BASH_SOURCE[0]}")")")" && pwd)"
 
 box_score_filename="${core_dir}/data/${month}/${current_date}-Data/nba_box_scores_${current_date_snake_case}.csv"
-edge_picks_filename="${core_dir}/data/${month}/${current_date}-Data/nba_edge_picks_${current_date_snake_case}.csv"
+ftn_picks_filename="${core_dir}/data/${month}/${current_date}-Data/nba_ftn_picks_${current_date_snake_case}.csv"
 pine_picks_filename="${core_dir}/data/${month}/${current_date}-Data/nba_pine_picks_${current_date_snake_case}.csv"
-analyzed_filename="${core_dir}/data/${month}/${current_date}-Data/edge_picks_analyzed_${current_date_snake_case}.csv"
+analyzed_filename="${core_dir}/data/${month}/${current_date}-Data/ftn_picks_analyzed_${current_date_snake_case}.csv"
 pine_analyzed_filename="${core_dir}/data/${month}/${current_date}-Data/pine_picks_analyzed_${current_date_snake_case}.csv"
 hits_filename="${core_dir}/data/hits.txt"
 
-python3 "$scripts_dir/process_csv_files.py" "$box_score_filename" "$edge_picks_filename" "$analyzed_filename"
+python3 "$scripts_dir/process_csv_files.py" "$box_score_filename" "$ftn_picks_filename" "$analyzed_filename"
 python3 "$scripts_dir/count_hits.py" "$analyzed_filename" "$hits_filename"
 
 # python3 "$scripts_dir/process_pine_picks.py" "$box_score_filename" "$pine_picks_filename" "$pine_analyzed_filename"

@@ -11,12 +11,12 @@ core_dir="$(cd "$(dirname "$(dirname "$(realpath "${BASH_SOURCE[0]}")")")" && pw
 repo_dir="$(dirname $core_dir)"
 
 venv_path="$repo_dir/venv/bin/activate"
-output_path="$core_dir/data/${month}/${current_date}-Data/nba_edge_picks_${current_date_snake_case}.csv"
+output_path="$core_dir/data/${month}/${current_date}-Data/nba_ftn_picks_${current_date_snake_case}.csv"
 
 source $venv_path
 
 cd $core_dir
 
-scrapy crawl edge_picks_spider -o "$output_path"
+scrapy crawl ftn_picks_spider -o "$output_path"
 
 deactivate

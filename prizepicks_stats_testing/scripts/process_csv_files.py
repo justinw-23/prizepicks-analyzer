@@ -5,7 +5,7 @@ def main():
     parser = ArgumentParser()
 
     parser.add_argument('box_score_filename', type=str)
-    parser.add_argument('edge_picks_filename', type=str)
+    parser.add_argument('ftn_picks_filename', type=str)
     parser.add_argument('output_filename', type=str)
 
     args = parser.parse_args()
@@ -27,7 +27,7 @@ def main():
     except Exception as e:
         print(f"Error arg 1 occurred: {e}")
 
-    eppath = args.edge_picks_filename
+    eppath = args.ftn_picks_filename
     output_file = args.output_filename
     try:
         with open(eppath, 'r', newline='', encoding='utf-8') as csvfile, open(output_file, 'w', newline='') as outfile:
@@ -36,7 +36,7 @@ def main():
 
             header = next(reader, None)
             if header is None:
-                print("Edge picks CSV file is empty.")
+                print("FTN picks CSV file is empty.")
                 return
             for row in reader:
                 hit = False

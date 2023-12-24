@@ -3,8 +3,8 @@ from scrapy_playwright.page import PageMethod
 from scrapy.http import TextResponse
 
 
-class EdgePicksSpider(scrapy.Spider):
-    name = 'edge_picks_spider'
+class FtnPicksSpider(scrapy.Spider):
+    name = 'ftn_picks_spider'
     start_urls = ['https://ftnnetwork.shinyapps.io/ppNBA/']
 
     def start_requests(self):

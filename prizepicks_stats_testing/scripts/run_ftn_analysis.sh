@@ -17,7 +17,7 @@ analyzed_filename="${core_dir}/data/${month}/${current_date}-Data/ftn_picks_anal
 pine_analyzed_filename="${core_dir}/data/${month}/${current_date}-Data/pine_picks_analyzed_${current_date_snake_case}.csv"
 hits_filename="${core_dir}/data/hits.txt"
 
-python3 "$scripts_dir/process_csv_files.py" "$box_score_filename" "$ftn_picks_filename" "$analyzed_filename"
+python3 "$scripts_dir/process_ftn_picks.py" "$box_score_filename" "$ftn_picks_filename" "$analyzed_filename"
 python3 "$scripts_dir/count_ftn_hits.py" "$analyzed_filename" "$hits_filename"
 
 # python3 "$scripts_dir/process_pine_picks.py" "$box_score_filename" "$pine_picks_filename" "$pine_analyzed_filename"

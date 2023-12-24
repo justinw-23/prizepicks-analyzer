@@ -35,10 +35,13 @@ def main():
             writer = csv.writer(outfile)
 
             header = next(reader, None)
+
             if header is None:
                 print("Pine picks CSV file is empty.")
                 return
             for row in reader:
+                if row[0] == "Game":
+                    return # duplicate data was appended to the csv file
                 hit = False
                 category = row[2]
                 line = float(row[3])

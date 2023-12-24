@@ -7,8 +7,8 @@ current_month=$(date +"%B")
 current_year=$(date +"%Y")
 month="${current_month} ${current_year}"
 
-scripts_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-core_dir="$(cd "$(dirname "$(dirname "${BASH_SOURCE[0]}")")" && pwd)"
+scripts_dir="$(cd "$(dirname "$(realpath "${BASH_SOURCE[0]}")")" && pwd)"
+core_dir="$(cd "$(dirname "$(dirname "$(realpath "${BASH_SOURCE[0]}")")")" && pwd)"
 
 box_score_filename="${core_dir}/data/${month}/${current_date}-Data/nba_box_scores_${current_date_snake_case}.csv"
 edge_picks_filename="${core_dir}/data/${month}/${current_date}-Data/nba_edge_picks_${current_date_snake_case}.csv"

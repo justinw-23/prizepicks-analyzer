@@ -7,7 +7,7 @@ current_month=$(date +"%B")
 current_year=$(date +"%Y")
 month="${current_month} ${current_year}"
 
-core_dir="$(cd "$(dirname "$(dirname "${BASH_SOURCE[0]}")")" && pwd)"
+core_dir="$(cd "$(dirname "$(dirname "$(realpath "${BASH_SOURCE[0]}")")")" && pwd)"
 repo_dir="$(dirname $core_dir)"
 
 venv_path="$repo_dir/venv/bin/activate"

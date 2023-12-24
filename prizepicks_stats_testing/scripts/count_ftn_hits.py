@@ -11,6 +11,10 @@ def main():
     fpath = sys.argv[1]
     with open(fpath, 'r', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
+        header = next(reader, None)
+        if header is None:
+            print("Pine picks analyzed CSV file is empty.")
+            return
         for row in reader:
             if row[6] == "Hit":
                 hits += 1

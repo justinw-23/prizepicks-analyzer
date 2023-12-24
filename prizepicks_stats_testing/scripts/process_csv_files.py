@@ -38,12 +38,15 @@ def main():
             if header is None:
                 print("FTN picks CSV file is empty.")
                 return
+            else:
+                header.append("Result")
+                writer.writerow(header)
             for row in reader:
                 hit = False
                 category = row[2]
                 line = float(row[3])
                 bet = row[4]
-                if bet != "OVER" and bet != "UNDER":
+                if bet.upper() != "OVER" and bet.upper() != "UNDER":
                     continue
                 if row[0] in box_score_dict:
                     player_stats = box_score_dict[row[0]]

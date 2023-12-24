@@ -27,26 +27,30 @@ def main():
     except Exception as e:
         print(f"Error arg 1 occurred: {e}")
 
-    eppath = args.pine_picks_filename
+    pine_picks_path = args.pine_picks_filename
     output_file = args.output_filename
     try:
-        with open(eppath, 'r', newline='', encoding='utf-8') as csvfile, open(output_file, 'w', newline='') as outfile:
+        with open(pine_picks_path, 'r', newline='', encoding='utf-8') as csvfile, open(output_file, 'w', newline='') as outfile:
             reader = csv.reader(csvfile)
             writer = csv.writer(outfile)
 
             header = next(reader, None)
-
             if header is None:
                 print("Pine picks CSV file is empty.")
                 return
+            else:
+                header.append("Result")
+                writer.writerow(header)
             for row in reader:
+                print(row)
                 if row[0] == "Game":
+                    print("Reached duplicate header, aborting...")
                     return # duplicate data was appended to the csv file
                 hit = False
                 category = row[2]
                 line = float(row[3])
                 bet = row[9]
-                if bet != "OVER" and bet != "UNDER":
+                if bet.upper() != "OVER" and bet.upper() != "UNDER":
                     continue
                 if row[1] in box_score_dict:
                     player_stats = box_score_dict[row[1]]
@@ -103,7 +107,7 @@ def main():
                     row.append("Miss")
                 writer.writerow(row)
     except FileNotFoundError:
-        print(f"The file eppath '{eppath}' was not found.")
+        print(f"The file pine_picks_path '{pine_picks_path}' was not found.")
     except Exception as e:
         print(f"Error arg 2 occurred: {e}")
 

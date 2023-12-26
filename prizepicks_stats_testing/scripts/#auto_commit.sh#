@@ -1,4 +1,4 @@
-current_date=$(date +"%m/%d/%Y")
+lcurrent_date=$(date +"%m-%d-%Y")
 cd "$(dirname "$(dirname "$(dirname "$(realpath "${BASH_SOURCE[0]}")")")")"
 
 git add .

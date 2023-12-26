@@ -8,12 +8,14 @@ patterns=("run_ftn_picks_spider.sh"
           "run_pine_picks_spider.sh"
           "run_box_scores_spider.sh"
           "run_pine_analysis.sh"
-          "run_ftn_analysis.sh")
+          "run_ftn_analysis.sh"
+	  "auto_commit.sh")
 new_commands=("0 12 * * * /bin/bash $script_dir/scripts/run_ftn_picks_spider.sh >> /home/ubuntu/crontest.log 2>&1"
               "2 12 * * * /bin/bash $script_dir/scripts/run_pine_picks_spider.sh >> /home/ubuntu/crontest.log 2>&1"
               "43 22 * * * /bin/bash $script_dir/scripts/run_box_scores_spider.sh >> /home/ubuntu/crontest.log 2>&1"
               "45 22 * * * /bin/bash $script_dir/scripts/run_pine_analysis.sh >> /home/ubuntu/crontest.log 2>&1"
-              "47 22 * * * /bin/bash $script_dir/scripts/run_ftn_analysis.sh >> /home/ubuntu/crontest.log 2>&1")
+              "47 22 * * * /bin/bash $script_dir/scripts/run_ftn_analysis.sh >> /home/ubuntu/crontest.log 2>&1"
+	      "50 22 * * * /bin/bash $script_dir/scripts/auto_commit.sh >> /home/ubuntu/crontest.log 2>&1")
 
 # Check if matching cron jobs are present and replace them with the corresponding new cron commands
 existing_cron_jobs=$(crontab -l | grep -E "$(IFS=\|; echo "${patterns[*]}")")

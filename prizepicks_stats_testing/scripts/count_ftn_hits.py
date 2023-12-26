@@ -26,8 +26,8 @@ def main():
     
     outpath = sys.argv[2]
     with open(outpath, "a") as outfile:
-        outfile.write(f"Hits/Total for {formatted_date}: {hits}/{total}\n")
-        outfile.write(f"\tHits/Total for {formatted_date} over 60.0%: {hits_over_60}/{total_over_60}\n")
+        outfile.write(f"FTN Hits/Total for {formatted_date}: {hits}/{total}\n")
+        outfile.write(f"\tFTN Hits/Total for {formatted_date} over 60.0%: {hits_over_60}/{total_over_60}\n")
     
 if __name__ == "__main__":
     try:

@@ -20,7 +20,7 @@ def main():
     
     outpath = sys.argv[2]
     with open(outpath, "a") as outfile:
-        outfile.write(f"Pine Picks Hits/Total for {formatted_date}: {hits}/{total}\n")
+        outfile.write(f"Pine Hits/Total for {formatted_date}: {hits}/{total}\n")
         # outfile.write(f"\tHits/Total for {formatted_date} over 60.0%: {hits_over_60}/{total_over_60}\n")
     
 if __name__ == "__main__":

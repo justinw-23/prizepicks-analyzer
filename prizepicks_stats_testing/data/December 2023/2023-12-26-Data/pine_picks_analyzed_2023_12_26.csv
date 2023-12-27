@@ -1,0 +1,331 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes,Result
+Brooklyn vs. Detroit,Day'Ron Sharpe,Blocks,0.5,1.02,1.00,1.00,7,3,Over,Hit
+Memphis vs. New Orleans,Jonas Valanciunas,Three Points Made,0.5,0.89,0.90,1.00,7,3,Over,Miss
+Orlando vs. Washington,Jalen Suggs,Blocks,0.5,0.87,0.90,1.00,7,3,Over,Hit
+Minnesota vs. Oklahoma City,Anthony Edwards,Blocks,0.5,0.80,0.70,1.00,6,4,Over,Miss
+Orlando vs. Washington,Corey Kispert,SB,0.5,0.80,0.70,1.00,6,4,Over,Miss
+Brooklyn vs. Detroit,Dorian Finney-Smith,Turnovers,0.5,0.80,0.70,1.00,6,4,Over,Miss
+Indiana vs. Houston,Dillon Brooks,Three Points Made,1.5,2.20,2.30,2.00,7,3,Over,Miss
+Brooklyn vs. Detroit,Cam Thomas,Rebounds,3.5,1.88,2.10,2.00,2,8,Under,Hit
+Brooklyn vs. Detroit,Mikal Bridges,SB,1.5,0.93,1.00,1.00,3,7,Under,Hit
+Orlando vs. Washington,Jalen Suggs,Three Points Made,1.5,2.03,2.00,2.00,6,4,Over,Hit
+Minnesota vs. Oklahoma City,Mike Conley,Rebounds,2.5,3.30,3.10,3.00,5,5,Over,Miss
+Atlanta vs. Chicago,Trae Young,Three Points Made,3.5,4.61,4.70,4.50,7,3,Over,Miss
+Orlando vs. Washington,Bilal Coulibaly,Points,8.5,11.18,10.90,11.50,7,3,Over,Miss
+Atlanta vs. Chicago,Clint Capela,Blocks,1.5,1.97,1.80,2.00,6,4,Over,Miss
+Memphis vs. New Orleans,Trey Murphy III,Turnovers,0.5,0.65,0.50,0.00,4,6,Under,Miss
+Memphis vs. New Orleans,Trey Murphy III,PA,14.5,18.88,17.80,16.00,7,3,Over,Miss
+Orlando vs. Washington,Bilal Coulibaly,PA,10.0,12.97,12.60,13.00,7,3,Over,Miss
+Brooklyn vs. Detroit,Day'Ron Sharpe,RA,7.5,9.69,10.20,9.50,6,4,Over,Hit
+Indiana vs. Houston,Dillon Brooks,Points,11.5,14.85,14.60,16.00,6,4,Over,Miss
+Memphis vs. New Orleans,Trey Murphy III,PR,16.5,21.25,20.10,18.50,8,2,Over,Hit
+Minnesota vs. Oklahoma City,Karl-Anthony Towns,Three Points Made,1.5,1.93,2.00,2.00,6,4,Over,Miss
+Orlando vs. Washington,Jordan Poole,Rebounds,2.5,1.79,2.10,2.00,4,6,Under,Hit
+Brooklyn vs. Detroit,Mikal Bridges,Rebounds,5.0,3.60,3.80,4.50,2,8,Under,Hit
+Minnesota vs. Oklahoma City,Mike Conley,PR,13.5,17.13,16.70,18.00,7,3,Over,Hit
+Indiana vs. Houston,Dillon Brooks,PR,15.0,19.03,18.60,20.00,6,4,Over,Miss
+Indiana vs. Houston,Dillon Brooks,PAR,16.5,20.80,20.30,21.50,6,4,Over,Miss
+Brooklyn vs. Detroit,Royce O'Neale,Assists,2.5,3.15,3.10,3.00,6,4,Over,Miss
+Orlando vs. Washington,Bilal Coulibaly,PR,12.5,15.73,15.30,16.00,7,3,Over,Miss
+Memphis vs. New Orleans,Trey Murphy III,Points,13.5,16.80,16.10,14.00,7,3,Over,Miss
+Memphis vs. New Orleans,Trey Murphy III,PAR,18.5,22.96,21.80,20.50,7,3,Over,Miss
+Atlanta vs. Chicago,Clint Capela,Steals,0.5,0.38,0.50,0.00,4,6,Under,Hit
+Minnesota vs. Oklahoma City,Anthony Edwards,Points,28.5,21.80,22.80,25.50,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Mike Conley,Points,11.0,13.57,13.60,14.00,8,2,Over,Hit
+Indiana vs. Houston,Dillon Brooks,PA,13.5,16.65,16.30,17.50,6,4,Over,Miss
+Atlanta vs. Chicago,Coby White,Rebounds,5.0,6.17,6.20,6.50,7,3,Over,Miss
+Brooklyn vs. Detroit,Mikal Bridges,RA,9.0,6.96,7.70,7.50,3,7,Under,Hit
+Orlando vs. Washington,Tyus Jones,Fantasy Points - PrizePicks,28.5,34.88,34.68,32.35,7,3,Over,Hit
+Minnesota vs. Oklahoma City,Anthony Edwards,PR,34.5,26.80,27.60,31.50,3,7,Under,Hit
+Indiana vs. Houston,Jalen Green,Points,18.0,14.07,13.90,14.50,1,9,Under,Hit
+Brooklyn vs. Detroit,Day'Ron Sharpe,Rebounds,6.5,7.86,8.10,8.50,6,4,Over,Hit
+Indiana vs. Houston,Jalen Green,PA,21.5,16.99,16.80,17.00,2,8,Under,Hit
+Brooklyn vs. Detroit,Dorian Finney-Smith,Points,8.5,10.21,9.80,10.00,6,4,Over,Hit
+Indiana vs. Houston,Tyrese Haliburton,SB,1.5,1.20,1.20,1.00,4,6,Under,Hit
+Memphis vs. New Orleans,Brandon Ingram,Rebounds,4.5,3.60,4.20,3.00,3,7,Under,Miss
+Indiana vs. Houston,Tari Eason,Three Points Made,0.5,0.60,0.90,0.50,5,5,Under,Miss
+Atlanta vs. Chicago,Alex Caruso,Turnovers,1.5,1.80,2.00,1.50,5,5,Over,Miss
+Orlando vs. Washington,Tyus Jones,SB,1.5,1.80,2.30,1.50,5,5,Over,Hit
+Atlanta vs. Chicago,Coby White,Turnovers,2.5,2.01,2.00,2.00,4,6,Under,Hit
+Minnesota vs. Oklahoma City,Jaden McDaniels,PAR,19.5,15.67,15.80,16.00,2,8,Under,Hit
+Minnesota vs. Oklahoma City,Anthony Edwards,Assists,5.0,5.98,5.50,5.00,4,6,Over,Hit
+Memphis vs. New Orleans,Trey Murphy III,Three Points Made,2.5,2.97,2.80,2.50,5,5,Over,Hit
+Indiana vs. Houston,Jalen Green,PR,22.5,18.29,18.20,18.00,2,8,Under,Hit
+Minnesota vs. Oklahoma City,Anthony Edwards,PA,33.5,27.32,28.30,31.50,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Anthony Edwards,PAR,39.5,32.29,33.10,37.50,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Mike Conley,PAR,20.5,24.01,23.40,25.50,6,4,Over,Hit
+Orlando vs. Washington,Tyus Jones,Points,12.5,14.63,15.10,14.00,8,2,Over,Hit
+Atlanta vs. Chicago,Alex Caruso,PA,14.0,11.63,11.60,11.00,2,8,Under,Miss
+Indiana vs. Houston,Jalen Green,PAR,25.5,21.22,21.10,22.00,2,8,Under,Hit
+Indiana vs. Houston,Buddy Hield,Rebounds,5.0,4.16,4.30,3.50,3,7,Under,Miss
+Minnesota vs. Oklahoma City,Mike Conley,Fantasy Points - PrizePicks,25.5,29.67,28.97,31.40,6,4,Over,Hit
+Atlanta vs. Chicago,Alex Caruso,PAR,17.5,14.67,14.70,14.50,3,7,Under,Miss
+Indiana vs. Houston,Buddy Hield,Points,15.5,12.99,12.40,12.50,3,7,Under,Hit
+Atlanta vs. Chicago,Alex Caruso,Points,11.0,9.22,9.20,9.00,2,8,Under,Miss
+Minnesota vs. Oklahoma City,Jaden McDaniels,PR,17.5,14.73,14.70,15.00,2,8,Under,Hit
+Indiana vs. Houston,Buddy Hield,PR,20.5,17.26,16.70,16.50,3,7,Under,Hit
+Brooklyn vs. Detroit,Mikal Bridges,Fantasy Points - PrizePicks,35.5,29.89,30.61,29.85,2,8,Under,Hit
+Brooklyn vs. Detroit,Day'Ron Sharpe,PR,13.5,15.61,15.80,16.00,6,4,Over,Hit
+Orlando vs. Washington,Kyle Kuzma,Assists,3.5,2.95,3.10,2.50,4,6,Under,Miss
+Atlanta vs. Chicago,Alex Caruso,PR,14.5,12.27,12.30,11.50,2,8,Under,Miss
+Brooklyn vs. Detroit,Mikal Bridges,PR,27.5,23.27,23.20,24.00,2,8,Under,Hit
+Minnesota vs. Oklahoma City,Jaden McDaniels,PA,15.5,13.12,13.30,12.50,4,6,Under,Hit
+Brooklyn vs. Detroit,Mikal Bridges,Points,23.0,19.46,19.40,19.50,2,8,Under,Hit
+Memphis vs. New Orleans,Zion Williamson,SB,1.5,1.73,1.60,1.50,5,5,Over,Miss
+Indiana vs. Houston,Tyrese Haliburton,Points,24.5,20.76,20.10,19.50,3,7,Under,Miss
+Indiana vs. Houston,Buddy Hield,PAR,23.5,19.92,19.40,19.50,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Karl-Anthony Towns,Rebounds,9.5,10.95,10.30,10.50,6,4,Over,Miss
+Brooklyn vs. Detroit,Cameron Johnson,Rebounds,4.5,3.82,3.70,4.00,4,6,Under,Hit
+Orlando vs. Washington,Daniel Gafford,Fantasy Points - PrizePicks,29.0,33.32,34.16,31.70,6,4,Over,Hit
+Atlanta vs. Chicago,Trae Young,Assists,11.0,12.62,12.30,12.50,6,4,Over,Hit
+Indiana vs. Houston,Alperen Sengun,PA,28.0,23.95,24.00,24.50,2,8,Under,Miss
+Atlanta vs. Chicago,Clint Capela,Points,12.5,14.30,14.30,15.00,7,3,Over,Hit
+Indiana vs. Houston,Alperen Sengun,Assists,5.0,4.28,4.60,5.00,4,6,Under,Miss
+Orlando vs. Washington,Tyus Jones,PR,15.5,17.73,18.50,17.00,8,2,Over,Hit
+Brooklyn vs. Detroit,Cade Cunningham,Rebounds,4.0,4.57,4.50,4.50,5,5,Under,Miss
+Indiana vs. Houston,Jalen Green,Fantasy Points - PrizePicks,28.0,24.02,23.81,27.35,4,6,Under,Hit
+Memphis vs. New Orleans,Zion Williamson,Points,23.0,19.76,20.80,18.00,4,6,Under,Miss
+Atlanta vs. Chicago,Trae Young,RA,14.0,15.91,15.60,16.00,6,4,Over,Hit
+Brooklyn vs. Detroit,Mikal Bridges,PAR,31.5,27.25,27.10,26.00,3,7,Under,Hit
+Orlando vs. Washington,Tyus Jones,PA,18.5,20.99,21.50,22.00,7,3,Over,Hit
+Indiana vs. Houston,Alperen Sengun,PAR,38.5,33.43,33.30,33.50,2,8,Under,Miss
+Minnesota vs. Oklahoma City,Shai Gilgeous-Alexander,Assists,6.0,6.79,6.70,7.00,6,4,Over,Hit
+Orlando vs. Washington,Bilal Coulibaly,Rebounds,4.0,4.53,4.40,4.50,5,5,Under,Miss
+Minnesota vs. Oklahoma City,Jaden McDaniels,Points,14.0,12.17,12.20,12.00,2,8,Under,Hit
+Indiana vs. Houston,Buddy Hield,PA,18.0,15.65,15.10,16.00,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Karl-Anthony Towns,Points,21.5,24.28,23.80,22.00,5,5,Over,Miss
+Indiana vs. Houston,Tyrese Haliburton,PR,28.5,24.84,24.20,21.50,3,7,Under,Miss
+Indiana vs. Houston,Alperen Sengun,Points,22.5,19.63,19.40,18.50,2,8,Under,Miss
+Brooklyn vs. Detroit,Royce O'Neale,Three Points Made,1.5,1.69,1.70,2.00,6,4,Over,Hit
+Memphis vs. New Orleans,Zion Williamson,PA,27.5,24.06,25.00,22.00,4,6,Under,Hit
+Orlando vs. Washington,Jordan Poole,PR,21.5,18.84,19.80,18.00,4,6,Under,Miss
+Atlanta vs. Chicago,Clint Capela,RA,12.0,13.45,13.90,13.00,6,4,Over,Miss
+Minnesota vs. Oklahoma City,Anthony Edwards,Rebounds,6.0,5.27,4.80,5.00,4,6,Under,Miss
+Minnesota vs. Oklahoma City,Mike Conley,PA,18.5,20.73,20.30,21.50,6,4,Over,Hit
+Atlanta vs. Chicago,DeMar DeRozan,Rebounds,4.5,5.04,4.60,4.50,5,5,Over,Miss
+Minnesota vs. Oklahoma City,Karl-Anthony Towns,PR,31.5,35.27,34.10,33.00,5,5,Over,Miss
+Orlando vs. Washington,Corey Kispert,Points,11.0,12.31,12.20,10.50,5,5,Over,Hit
+Orlando vs. Washington,Tyus Jones,RA,9.0,10.06,9.80,9.00,4,6,Over,Hit
+Orlando vs. Washington,Tyus Jones,PAR,21.5,24.03,24.90,24.50,7,3,Over,Hit
+Atlanta vs. Chicago,Coby White,RA,11.5,12.85,12.70,12.00,6,4,Over,Miss
+Brooklyn vs. Detroit,Spencer Dinwiddie,Turnovers,1.5,1.67,1.80,2.00,7,3,Under,Hit
+Brooklyn vs. Detroit,Cam Thomas,Fantasy Points - PrizePicks,32.5,28.79,28.02,28.40,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Karl-Anthony Towns,PAR,34.5,38.38,37.20,37.00,6,4,Over,Miss
+Brooklyn vs. Detroit,Cam Thomas,PR,27.0,24.02,23.70,22.00,2,8,Under,Hit
+Atlanta vs. Chicago,Trae Young,Turnovers,4.5,5.00,4.90,5.00,7,3,Over,Hit
+Indiana vs. Houston,Tyrese Haliburton,Assists,11.5,12.76,12.60,13.00,6,4,Over,Miss
+Minnesota vs. Oklahoma City,Karl-Anthony Towns,Fantasy Points - PrizePicks,38.5,42.71,41.81,39.25,5,5,Over,Miss
+Memphis vs. New Orleans,Zion Williamson,PR,29.0,25.83,26.80,27.50,5,5,Under,Miss
+Orlando vs. Washington,Franz Wagner,Points,23.5,20.94,20.40,19.50,4,6,Under,Miss
+Memphis vs. New Orleans,Desmond Bane,Rebounds,4.5,4.01,4.50,3.50,4,6,Under,Hit
+Brooklyn vs. Detroit,Royce O'Neale,Points,6.5,7.20,7.50,6.00,4,6,Over,Hit
+Indiana vs. Houston,Alperen Sengun,RA,15.5,13.84,13.90,13.50,3,7,Under,Miss
+Indiana vs. Houston,Alperen Sengun,PR,32.5,29.04,28.70,27.00,2,8,Under,Miss
+Indiana vs. Houston,Alperen Sengun,Rebounds,10.5,9.38,9.30,9.00,2,8,Under,Miss
+Orlando vs. Washington,Jalen Suggs,PAR,18.5,16.56,16.80,18.00,4,6,Under,Hit
+Memphis vs. New Orleans,Brandon Ingram,RA,10.5,9.40,9.70,10.00,3,7,Under,Miss
+Minnesota vs. Oklahoma City,Jalen Williams,RA,7.5,8.28,8.30,8.50,6,4,Over,Miss
+Brooklyn vs. Detroit,Mikal Bridges,PA,26.5,23.74,23.30,21.50,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Anthony Edwards,Fantasy Points - PrizePicks,45.0,40.32,40.01,41.70,4,6,Under,Hit
+Orlando vs. Washington,Kyle Kuzma,Three Points Made,2.5,2.24,2.40,2.50,5,5,Under,Hit
+Memphis vs. New Orleans,Jonas Valanciunas,PA,16.5,18.18,18.90,18.00,7,3,Over,Hit
+Memphis vs. New Orleans,Zion Williamson,PAR,33.5,30.10,31.00,30.50,5,5,Under,Miss
+Minnesota vs. Oklahoma City,Anthony Edwards,Three Points Made,2.5,2.25,2.20,2.00,3,7,Under,Hit
+Atlanta vs. Chicago,Coby White,Assists,6.0,6.60,6.50,5.50,4,6,Under,Hit
+Orlando vs. Washington,Corey Kispert,PA,12.5,13.75,13.60,11.50,4,6,Over,Hit
+Memphis vs. New Orleans,Jonas Valanciunas,Fantasy Points - PrizePicks,35.0,38.44,38.20,38.10,5,5,Over,Hit
+Orlando vs. Washington,Tyus Jones,Assists,6.0,6.58,6.40,6.00,4,6,Under,Miss
+Atlanta vs. Chicago,Clint Capela,PAR,25.5,27.98,28.20,29.50,7,3,Over,Miss
+Brooklyn vs. Detroit,Cam Thomas,PAR,29.5,26.64,26.30,25.00,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Jalen Williams,PA,19.5,21.38,22.10,23.50,6,4,Over,Hit
+Brooklyn vs. Detroit,Spencer Dinwiddie,Fantasy Points - PrizePicks,31.0,33.98,32.83,33.05,6,4,Over,Miss
+Orlando vs. Washington,Deni Avdija,Three Points Made,0.5,0.45,0.40,0.00,4,6,Under,Hit
+Atlanta vs. Chicago,Clint Capela,Rebounds,11.0,12.03,12.40,12.00,6,4,Over,Miss
+Indiana vs. Houston,Fred VanVleet,RA,13.0,11.80,11.90,11.50,4,6,Under,Miss
+Orlando vs. Washington,Jordan Poole,Points,18.5,16.80,17.70,14.00,4,6,Under,Miss
+Brooklyn vs. Detroit,Dorian Finney-Smith,PR,13.0,14.19,14.00,15.00,6,4,Over,Hit
+Minnesota vs. Oklahoma City,Luguentz Dort,PA,11.5,12.55,13.10,14.00,7,3,Over,Hit
+Memphis vs. New Orleans,Desmond Bane,Points,25.5,27.77,28.40,28.00,7,3,Over,Hit
+Memphis vs. New Orleans,Desmond Bane,PA,30.5,33.18,33.60,33.50,7,3,Over,Hit
+Memphis vs. New Orleans,Zion Williamson,Fantasy Points - PrizePicks,39.5,36.07,36.80,36.30,3,7,Under,Hit
+Atlanta vs. Chicago,Clint Capela,PA,14.5,15.75,15.80,17.00,7,3,Over,Miss
+Minnesota vs. Oklahoma City,Luguentz Dort,PAR,15.5,16.82,17.20,18.50,6,4,Over,Hit
+Orlando vs. Washington,Franz Wagner,PR,29.5,27.00,26.50,27.00,3,7,Under,Miss
+Minnesota vs. Oklahoma City,Karl-Anthony Towns,PA,25.5,27.64,26.90,25.00,4,6,Over,Miss
+Memphis vs. New Orleans,Jonas Valanciunas,RA,13.0,14.09,14.30,15.50,6,4,Over,Miss
+Indiana vs. Houston,Tyrese Haliburton,RA,15.5,16.79,16.70,16.50,6,4,Over,Hit
+Orlando vs. Washington,Deni Avdija,Fantasy Points - PrizePicks,23.0,24.90,24.52,20.75,4,6,Over,Miss
+Brooklyn vs. Detroit,Bojan Bogdanovic,Three Points Made,2.5,2.70,2.90,2.50,5,5,Over,Hit
+Minnesota vs. Oklahoma City,Mike Conley,RA,9.5,10.25,9.80,10.00,5,5,Over,Miss
+Orlando vs. Washington,Kyle Kuzma,PAR,33.5,30.87,31.80,32.50,5,5,Under,Hit
+Memphis vs. New Orleans,Desmond Bane,PAR,34.5,37.20,38.10,39.00,7,3,Over,Hit
+Orlando vs. Washington,Kyle Kuzma,RA,10.0,9.22,9.60,9.50,3,7,Under,Miss
+Orlando vs. Washington,Franz Wagner,PA,28.0,25.83,25.50,23.50,3,7,Under,Miss
+Indiana vs. Houston,Alperen Sengun,Fantasy Points - PrizePicks,44.5,41.08,40.56,41.55,1,9,Under,Miss
+Brooklyn vs. Detroit,Cam Thomas,Assists,2.5,2.69,2.60,2.50,5,5,Over,Miss
+Minnesota vs. Oklahoma City,Chet Holmgren,Points,17.5,16.18,16.00,17.00,4,6,Under,Miss
+Atlanta vs. Chicago,Patrick Williams,PA,16.0,17.21,16.20,16.00,5,5,Over,Miss
+Orlando vs. Washington,Jordan Poole,PAR,24.5,22.66,23.60,22.00,4,6,Under,Miss
+Orlando vs. Washington,Franz Wagner,PAR,34.5,31.94,31.60,30.50,2,8,Under,Miss
+Brooklyn vs. Detroit,Cameron Johnson,PAR,21.5,19.90,19.70,20.50,4,6,Under,Miss
+Orlando vs. Washington,Kyle Kuzma,PA,26.5,24.57,25.30,25.50,5,5,Under,Hit
+Indiana vs. Houston,Fred VanVleet,PA,28.5,26.46,26.00,22.50,3,7,Under,Hit
+Brooklyn vs. Detroit,Royce O'Neale,PR,11.0,11.78,11.60,10.00,4,6,Over,Miss
+Minnesota vs. Oklahoma City,Shai Gilgeous-Alexander,Fantasy Points - PrizePicks,55.0,58.91,58.21,57.40,6,4,Over,Hit
+Orlando vs. Washington,Jordan Poole,PA,22.5,20.92,21.50,18.50,4,6,Under,Miss
+Indiana vs. Houston,Tyrese Haliburton,PA,36.0,33.47,32.70,31.00,3,7,Under,Miss
+Orlando vs. Washington,Jordan Poole,Assists,3.5,3.75,3.80,3.50,5,5,Over,Miss
+Atlanta vs. Chicago,Trae Young,PAR,42.5,45.47,46.60,48.00,8,2,Over,Miss
+Indiana vs. Houston,Tari Eason,PAR,21.5,20.01,20.20,19.00,3,7,Under,Miss
+Memphis vs. New Orleans,Jonas Valanciunas,PAR,28.0,29.93,30.40,30.00,6,4,Over,Hit
+Memphis vs. New Orleans,Jonas Valanciunas,Points,14.5,15.48,16.10,15.00,6,4,Over,Hit
+Atlanta vs. Chicago,Trae Young,PA,39.5,42.15,43.30,44.00,8,2,Over,Miss
+Memphis vs. New Orleans,Brandon Ingram,PR,27.5,25.66,26.80,26.50,5,5,Under,Miss
+Orlando vs. Washington,Deni Avdija,Turnovers,1.5,1.60,1.40,2.00,6,4,Under,Miss
+Orlando vs. Washington,Kyle Kuzma,Fantasy Points - PrizePicks,36.5,34.08,35.15,35.25,5,5,Under,Hit
+Indiana vs. Houston,Fred VanVleet,PAR,32.5,30.37,30.00,28.50,3,7,Under,Hit
+Orlando vs. Washington,Franz Wagner,Fantasy Points - PrizePicks,40.5,37.87,37.67,35.90,3,7,Under,Miss
+Memphis vs. New Orleans,Ja Morant,Rebounds,6.0,6.38,6.30,6.00,2,8,Under,Hit
+Brooklyn vs. Detroit,Cameron Johnson,Fantasy Points - PrizePicks,25.5,23.88,23.79,24.00,4,6,Under,Miss
+Minnesota vs. Oklahoma City,Jalen Williams,Fantasy Points - PrizePicks,30.0,31.90,32.49,31.80,7,3,Over,Hit
+Indiana vs. Houston,Tari Eason,PA,13.5,12.64,12.30,12.00,3,7,Under,Miss
+Minnesota vs. Oklahoma City,Jalen Williams,Rebounds,4.0,4.25,4.20,4.50,5,5,Under,Hit
+Memphis vs. New Orleans,Desmond Bane,Fantasy Points - PrizePicks,39.5,41.97,43.20,46.20,7,3,Over,Hit
+Minnesota vs. Oklahoma City,Luguentz Dort,Fantasy Points - PrizePicks,19.5,20.72,21.32,20.10,5,5,Over,Hit
+Minnesota vs. Oklahoma City,Jalen Williams,PR,20.5,21.74,22.20,21.50,5,5,Over,Hit
+Minnesota vs. Oklahoma City,Chet Holmgren,Rebounds,8.5,7.98,8.00,7.50,4,6,Under,Hit
+Indiana vs. Houston,Fred VanVleet,Assists,8.5,7.99,7.90,7.00,4,6,Under,Miss
+Orlando vs. Washington,Kyle Kuzma,Points,23.0,21.63,22.20,24.00,5,5,Under,Hit
+Orlando vs. Washington,Paolo Banchero,Assists,4.5,4.23,4.40,4.00,4,6,Under,Miss
+Brooklyn vs. Detroit,Cam Thomas,Points,23.5,22.12,21.60,20.00,3,7,Under,Hit
+Indiana vs. Houston,Fred VanVleet,Turnovers,1.5,1.59,1.60,1.50,5,5,Under,Miss
+Indiana vs. Houston,Buddy Hield,Fantasy Points - PrizePicks,28.0,26.36,25.51,28.40,5,5,Under,Hit
+Memphis vs. New Orleans,Desmond Bane,Assists,5.0,5.29,5.20,5.00,4,6,Under,Miss
+Indiana vs. Houston,Fred VanVleet,Points,19.5,18.37,18.10,16.00,4,6,Under,Hit
+Minnesota vs. Oklahoma City,Luguentz Dort,PR,14.5,15.32,15.60,16.00,6,4,Over,Hit
+Atlanta vs. Chicago,Trae Young,PR,32.0,33.81,34.30,34.50,8,2,Over,Miss
+Orlando vs. Washington,Kyle Kuzma,PR,29.5,27.83,28.70,31.50,6,4,Under,Hit
+Memphis vs. New Orleans,Zion Williamson,Blocks,0.5,0.47,0.40,0.00,4,6,Under,Hit
+Orlando vs. Washington,Paolo Banchero,RA,12.5,11.80,12.30,11.00,4,6,Under,Hit
+Brooklyn vs. Detroit,Bojan Bogdanovic,PAR,25.5,24.10,24.80,27.00,6,4,Under,Miss
+Minnesota vs. Oklahoma City,Luguentz Dort,Points,10.5,11.07,11.50,11.50,6,4,Over,Hit
+Minnesota vs. Oklahoma City,Chet Holmgren,PA,19.5,18.44,18.00,18.50,2,8,Under,Miss
+Atlanta vs. Chicago,Trae Young,Points,29.0,30.56,31.00,30.50,9,1,Over,Miss
+Orlando vs. Washington,Jordan Poole,Fantasy Points - PrizePicks,27.5,26.02,26.32,25.10,3,7,Under,Miss
+Orlando vs. Washington,Jalen Suggs,Points,11.5,12.12,12.10,12.00,6,4,Over,Miss
+Memphis vs. New Orleans,Brandon Ingram,Fantasy Points - PrizePicks,37.5,35.51,36.49,38.35,5,5,Under,Miss
+Indiana vs. Houston,Tari Eason,PR,19.5,18.47,18.80,17.00,3,7,Under,Miss
+Indiana vs. Houston,Jalen Green,Rebounds,4.0,4.21,4.30,4.00,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Chet Holmgren,PR,25.5,24.15,24.00,24.50,4,6,Under,Hit
+Brooklyn vs. Detroit,Cade Cunningham,Points,24.0,22.73,22.60,22.50,3,7,Under,Miss
+Brooklyn vs. Detroit,Spencer Dinwiddie,Rebounds,4.0,3.79,3.90,3.50,3,7,Under,Miss
+Indiana vs. Houston,Fred VanVleet,PR,23.5,22.28,22.10,22.00,4,6,Under,Hit
+Minnesota vs. Oklahoma City,Jalen Williams,PAR,24.5,25.77,26.30,26.00,5,5,Over,Hit
+Memphis vs. New Orleans,Jonas Valanciunas,PR,25.5,26.82,27.60,28.00,6,4,Over,Hit
+Minnesota vs. Oklahoma City,Jalen Williams,Points,16.5,17.35,18.00,18.00,5,5,Over,Hit
+Atlanta vs. Chicago,Patrick Williams,Points,14.5,15.24,14.30,14.00,5,5,Over,Miss
+Orlando vs. Washington,Daniel Gafford,Points,11.5,12.08,13.00,14.00,6,4,Over,Hit
+Memphis vs. New Orleans,Ja Morant,Fantasy Points - PrizePicks,48.0,45.58,45.41,45.00,4,6,Under,Miss
+Brooklyn vs. Detroit,Cam Thomas,PA,26.0,24.71,24.20,24.00,3,7,Under,Hit
+Indiana vs. Houston,Tyrese Haliburton,PAR,39.5,37.55,36.80,35.00,3,7,Under,Miss
+Atlanta vs. Chicago,Coby White,PAR,34.5,36.15,35.80,34.00,4,6,Over,Miss
+Memphis vs. New Orleans,Brandon Ingram,Points,23.0,21.92,22.60,21.50,4,6,Under,Miss
+Brooklyn vs. Detroit,Cade Cunningham,PA,31.0,29.58,29.80,29.00,3,7,Under,Miss
+Memphis vs. New Orleans,Desmond Bane,PR,30.5,31.89,32.90,32.50,6,4,Over,Hit
+Minnesota vs. Oklahoma City,Luguentz Dort,Rebounds,4.0,4.18,4.10,4.00,4,6,Under,Miss
+Orlando vs. Washington,Jalen Suggs,PA,14.5,13.85,14.00,13.50,4,6,Under,Hit
+Brooklyn vs. Detroit,Spencer Dinwiddie,RA,11.0,11.48,11.20,11.50,5,5,Over,Miss
+Memphis vs. New Orleans,Brandon Ingram,PAR,32.5,31.07,32.30,31.50,5,5,Under,Miss
+Brooklyn vs. Detroit,Cade Cunningham,Fantasy Points - PrizePicks,39.5,41.21,41.00,38.75,5,5,Over,Hit
+Orlando vs. Washington,Jalen Suggs,PR,15.5,14.83,14.90,16.50,6,4,Under,Hit
+Orlando vs. Washington,Daniel Gafford,PAR,20.5,21.38,22.50,21.50,5,5,Over,Hit
+Orlando vs. Washington,Kyle Kuzma,Rebounds,6.5,6.22,6.50,7.00,6,4,Under,Hit
+Orlando vs. Washington,Corey Kispert,PR,13.5,14.08,13.80,13.00,5,5,Over,Hit
+Indiana vs. Houston,Myles Turner,Fantasy Points - PrizePicks,34.0,35.45,34.14,35.00,5,5,Over,Miss
+Atlanta vs. Chicago,DeMar DeRozan,PR,30.5,29.23,28.40,27.00,3,7,Under,Hit
+Indiana vs. Houston,Obi Toppin,PA,11.5,11.97,11.70,10.50,5,5,Over,Miss
+Minnesota vs. Oklahoma City,Chet Holmgren,PAR,27.5,26.38,26.00,26.00,4,6,Under,Miss
+Memphis vs. New Orleans,Brandon Ingram,Turnovers,2.5,2.40,2.70,2.00,4,6,Under,Miss
+Memphis vs. New Orleans,Zion Williamson,Turnovers,2.5,2.40,2.30,2.00,4,6,Under,Miss
+Orlando vs. Washington,Deni Avdija,PR,15.5,14.89,15.40,14.50,4,6,Under,Hit
+Brooklyn vs. Detroit,Cade Cunningham,PR,28.5,27.38,27.10,26.50,4,6,Under,Miss
+Brooklyn vs. Detroit,Cameron Johnson,PR,18.5,17.77,17.60,18.50,5,5,Under,Miss
+Orlando vs. Washington,Daniel Gafford,PA,13.5,14.01,15.20,14.50,5,5,Over,Hit
+Brooklyn vs. Detroit,Bojan Bogdanovic,Points,19.5,18.77,19.60,20.50,5,5,Under,Miss
+Brooklyn vs. Detroit,Cameron Johnson,Points,14.5,13.96,13.90,15.00,6,4,Under,Miss
+Memphis vs. New Orleans,Zion Williamson,RA,10.5,10.11,10.20,11.00,6,4,Under,Miss
+Memphis vs. New Orleans,Ja Morant,RA,14.0,14.52,14.20,14.00,4,6,Over,Miss
+Atlanta vs. Chicago,Patrick Williams,Rebounds,5.5,5.30,4.80,5.00,5,5,Under,Hit
+Indiana vs. Houston,Tyrese Haliburton,Fantasy Points - PrizePicks,47.0,45.32,44.32,42.40,3,7,Under,Miss
+Brooklyn vs. Detroit,Cade Cunningham,PAR,35.5,34.24,34.30,33.00,4,6,Under,Miss
+Orlando vs. Washington,Deni Avdija,RA,9.5,9.84,10.70,9.50,5,5,Over,Miss
+Orlando vs. Washington,Paolo Banchero,PR,32.5,33.65,32.90,30.00,4,6,Over,Miss
+Indiana vs. Houston,Obi Toppin,Points,10.5,10.87,10.60,10.00,5,5,Over,Miss
+Atlanta vs. Chicago,Coby White,PR,28.5,29.49,29.30,28.50,5,5,Over,Miss
+Orlando vs. Washington,Deni Avdija,Points,9.5,9.17,9.30,8.50,3,7,Under,Hit
+Orlando vs. Washington,Paolo Banchero,Fantasy Points - PrizePicks,40.5,41.84,41.58,41.70,5,5,Over,Hit
+Indiana vs. Houston,Fred VanVleet,Rebounds,4.0,3.88,4.00,4.00,4,6,Under,Miss
+Memphis vs. New Orleans,Jonas Valanciunas,Rebounds,11.0,11.34,11.50,12.00,5,5,Over,Hit
+Brooklyn vs. Detroit,Cameron Johnson,PA,16.5,16.00,16.00,18.50,7,3,Under,Miss
+Indiana vs. Houston,Fred VanVleet,Fantasy Points - PrizePicks,40.0,41.21,40.65,37.20,4,6,Over,Hit
+Indiana vs. Houston,Tari Eason,Points,11.5,11.16,10.90,10.00,3,7,Under,Miss
+Minnesota vs. Oklahoma City,Anthony Edwards,RA,11.5,11.17,10.30,12.00,7,3,Under,Miss
+Brooklyn vs. Detroit,Spencer Dinwiddie,Points,14.5,14.08,13.90,15.00,5,5,Under,Hit
+Minnesota vs. Oklahoma City,Jalen Williams,Assists,3.5,3.60,4.10,3.00,4,6,Under,Hit
+Brooklyn vs. Detroit,Spencer Dinwiddie,PR,18.5,17.97,17.80,18.00,4,6,Under,Hit
+Atlanta vs. Chicago,DeMar DeRozan,Points,25.5,24.78,23.80,22.00,4,6,Under,Hit
+Minnesota vs. Oklahoma City,Chet Holmgren,RA,10.5,10.21,10.00,10.00,4,6,Under,Hit
+Atlanta vs. Chicago,Patrick Williams,PR,20.5,19.95,19.10,18.50,4,6,Under,Hit
+Orlando vs. Washington,Franz Wagner,Rebounds,6.0,6.16,6.10,6.00,4,6,Under,Miss
+Indiana vs. Houston,Tari Eason,Rebounds,7.5,7.31,7.90,8.00,6,4,Under,Miss
+Memphis vs. New Orleans,Zion Williamson,Rebounds,6.0,5.86,6.00,5.50,4,6,Under,Miss
+Memphis vs. New Orleans,Ja Morant,PR,34.5,33.69,33.67,36.00,2,1,Under,Miss
+Memphis vs. New Orleans,Brandon Ingram,Assists,5.5,5.63,5.50,6.00,6,4,Under,Miss
+Indiana vs. Houston,Jalen Green,RA,7.0,7.16,7.20,8.00,6,4,Under,Hit
+Brooklyn vs. Detroit,Day'Ron Sharpe,Points,7.5,7.66,7.70,8.00,6,4,Under,Miss
+Orlando vs. Washington,Franz Wagner,Assists,5.0,4.90,5.10,5.00,4,6,Under,Miss
+Atlanta vs. Chicago,Patrick Williams,PAR,21.5,21.91,21.00,19.50,4,6,Over,Miss
+Atlanta vs. Chicago,DeMar DeRozan,PAR,36.5,35.82,34.90,34.50,3,7,Under,Hit
+Atlanta vs. Chicago,Coby White,PA,29.5,30.04,29.60,28.50,5,5,Over,Miss
+Orlando vs. Washington,Bilal Coulibaly,Blocks,0.5,0.51,0.50,0.50,5,5,Under,Miss
+Atlanta vs. Chicago,DeMar DeRozan,RA,11.0,10.80,11.10,9.00,4,6,Under,Hit
+Indiana vs. Houston,Obi Toppin,Blocks,0.5,0.51,0.40,0.00,3,7,Under,Hit
+Minnesota vs. Oklahoma City,Shai Gilgeous-Alexander,RA,12.0,12.20,12.00,12.00,3,7,Over,Hit
+Minnesota vs. Oklahoma City,Mike Conley,Assists,7.0,7.11,6.70,7.00,4,6,Under,Hit
+Brooklyn vs. Detroit,Bojan Bogdanovic,PR,23.0,22.62,22.30,25.00,6,4,Under,Miss
+Orlando vs. Washington,Deni Avdija,Rebounds,5.5,5.41,6.10,6.00,6,4,Under,Hit
+Memphis vs. New Orleans,Ja Morant,Assists,8.0,8.12,7.90,8.00,3,7,Under,Hit
+Indiana vs. Houston,Obi Toppin,Rebounds,4.5,4.57,4.50,4.50,5,5,Under,Hit
+Orlando vs. Washington,Deni Avdija,PA,13.5,13.68,13.90,12.00,4,6,Over,Miss
+Memphis vs. New Orleans,Ja Morant,Points,28.5,28.16,28.00,30.00,2,1,Under,Miss
+Orlando vs. Washington,Daniel Gafford,RA,8.5,8.40,9.50,7.50,4,6,Under,Miss
+Indiana vs. Houston,Tari Eason,RA,9.0,8.90,9.30,9.50,5,5,Under,Miss
+Minnesota vs. Oklahoma City,Shai Gilgeous-Alexander,PA,38.5,38.88,38.10,38.00,5,5,Over,Hit
+Orlando vs. Washington,Franz Wagner,RA,11.0,11.11,11.20,12.00,6,4,Over,Hit
+Brooklyn vs. Detroit,Dorian Finney-Smith,Rebounds,4.0,4.04,4.20,4.00,4,6,Under,Miss
+Orlando vs. Washington,Paolo Banchero,PA,29.5,29.78,29.40,27.00,4,6,Over,Hit
+Brooklyn vs. Detroit,Cade Cunningham,RA,11.5,11.39,11.70,12.50,6,4,Under,Miss
+Memphis vs. New Orleans,Ja Morant,PA,36.5,36.84,37.00,41.00,2,1,Over,Hit
+Minnesota vs. Oklahoma City,Shai Gilgeous-Alexander,Points,32.5,32.22,31.40,32.00,5,5,Under,Miss
+Brooklyn vs. Detroit,Spencer Dinwiddie,PA,21.5,21.66,21.20,23.00,6,4,Over,Miss
+Minnesota vs. Oklahoma City,Shai Gilgeous-Alexander,Rebounds,5.5,5.54,5.30,5.00,4,6,Under,Miss
+Orlando vs. Washington,Paolo Banchero,PAR,37.5,37.74,37.30,35.50,4,6,Over,Miss
+Indiana vs. Houston,Obi Toppin,PR,15.5,15.40,15.10,13.50,4,6,Under,Hit
+Orlando vs. Washington,Deni Avdija,PAR,19.5,19.38,20.00,17.50,4,6,Under,Hit
+Atlanta vs. Chicago,Coby White,Points,23.5,23.36,23.10,23.00,5,5,Under,Hit
+Atlanta vs. Chicago,DeMar DeRozan,PA,31.5,31.33,30.30,29.50,4,6,Under,Hit
+Memphis vs. New Orleans,Brandon Ingram,PA,27.5,27.36,28.10,27.00,5,5,Under,Miss
+Brooklyn vs. Detroit,Spencer Dinwiddie,PAR,25.5,25.37,25.10,26.00,6,4,Under,Hit
+Orlando vs. Washington,Daniel Gafford,PR,19.5,19.41,20.30,19.50,5,5,Under,Miss
+Minnesota vs. Oklahoma City,Shai Gilgeous-Alexander,PR,37.5,37.67,36.70,38.00,5,5,Over,Hit
+Minnesota vs. Oklahoma City,Shai Gilgeous-Alexander,PAR,44.5,44.30,43.40,43.50,3,7,Under,Miss
+Brooklyn vs. Detroit,Bojan Bogdanovic,Fantasy Points - PrizePicks,28.5,28.60,28.19,28.30,4,6,Over,Miss
+Memphis vs. New Orleans,Ja Morant,PAR,42.5,42.38,42.67,47.00,2,1,Under,Miss
+Indiana vs. Houston,Tyrese Haliburton,Rebounds,4.0,3.99,4.10,3.50,4,6,Under,Miss
+Orlando vs. Washington,Daniel Gafford,Rebounds,7.0,6.98,7.30,6.50,4,6,Under,Miss
+Indiana vs. Houston,Obi Toppin,PAR,16.5,16.51,16.20,14.00,4,6,Over,Miss
+Memphis vs. New Orleans,Desmond Bane,RA,9.5,9.49,9.70,10.00,5,5,Under,Miss
+Brooklyn vs. Detroit,Bojan Bogdanovic,PA,22.0,21.99,22.10,23.50,6,4,Under,Miss
+Orlando vs. Washington,Paolo Banchero,Points,24.5,24.51,25.00,23.50,4,6,Over,Miss
+Orlando vs. Washington,Paolo Banchero,Rebounds,8.0,8.00,7.90,7.50,4,6,Under,Hit
+Atlanta vs. Chicago,DeMar DeRozan,Assists,6.0,6.00,6.50,5.00,4,6,Under,Miss

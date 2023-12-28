@@ -1,0 +1,396 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes
+Toronto vs. Washington,Jakob Poeltl,Free Throws Made,0.5,1.51,1.20,0.00,4,6,Over
+Toronto vs. Washington,Malachi Flynn,Turnovers,0.5,1.20,1.20,1.00,6,4,Over
+New York vs. Oklahoma City,RJ Barrett,Offensive Rebounds,0.5,1.09,1.00,1.00,8,2,Over
+New York vs. Oklahoma City,Immanuel Quickley,SB,0.5,0.99,0.90,1.00,6,4,Over
+New York vs. Oklahoma City,Luguentz Dort,Blocks,0.5,0.95,0.90,1.00,7,3,Over
+Philadelphia vs. Orlando,De'Anthony Melton,Blocks,0.5,0.87,0.80,1.00,7,3,Over
+New York vs. Oklahoma City,Jalen Brunson,Offensive Rebounds,0.5,0.86,0.80,1.00,6,4,Over
+Phoenix vs. Houston,Alperen Sengun,Blocks,0.5,0.80,0.80,1.00,6,4,Over
+Toronto vs. Washington,Precious Achiuwa,Steals,0.5,0.80,0.70,1.00,6,4,Over
+Philadelphia vs. Orlando,Tyrese Maxey,Turnovers,2.5,1.20,1.50,1.00,3,7,Under
+Toronto vs. Washington,Scottie Barnes,Three Points Made,1.5,2.27,2.30,2.50,7,3,Over
+Phoenix vs. Houston,Fred VanVleet,SB,1.5,2.17,2.40,2.50,6,4,Over
+Philadelphia vs. Orlando,Tyrese Maxey,Rebounds,3.5,2.11,2.40,2.00,3,7,Under
+Philadelphia vs. Orlando,Paolo Banchero,Free Throws Made,4.5,6.22,6.10,6.00,6,4,Over
+Toronto vs. Washington,Malachi Flynn,Assists,2.5,3.44,3.40,3.00,5,5,Over
+Toronto vs. Washington,Pascal Siakam,Free Throws Made,4.0,5.40,5.50,4.50,5,5,Over
+Philadelphia vs. Orlando,Tobias Harris,Three Point Attempts,4.5,3.00,3.30,2.50,3,7,Under
+Cleveland vs. Dallas,Donovan Mitchell,SB,1.5,2.00,2.20,2.00,6,4,Over
+Toronto vs. Washington,Jordan Poole,Free Throws Made,3.5,2.38,2.60,2.00,3,7,Under
+Philadelphia vs. Orlando,De'Anthony Melton,Assists,3.5,2.40,2.90,2.00,4,6,Under
+Philadelphia vs. Orlando,Kelly Oubre Jr.,Fantasy Points - PrizePicks,28.0,19.32,20.12,16.10,1,9,Under
+Philadelphia vs. Orlando,Kelly Oubre Jr.,Points,17.0,11.75,11.60,11.00,1,9,Under
+Philadelphia vs. Orlando,Tobias Harris,Field Goal Attempts,15.5,10.74,10.50,9.50,2,8,Under
+Philadelphia vs. Orlando,Kelly Oubre Jr.,PAR,23.5,16.50,16.00,15.00,1,9,Under
+Philadelphia vs. Orlando,Kelly Oubre Jr.,PR,22.0,15.61,15.20,14.00,1,9,Under
+Toronto vs. Washington,Jordan Poole,Rebounds,2.5,1.78,1.90,2.00,3,7,Under
+Philadelphia vs. Orlando,De'Anthony Melton,Points,13.5,9.60,10.50,8.00,4,6,Under
+Phoenix vs. Houston,Grayson Allen,Three Points Made,2.5,1.80,2.40,1.50,3,7,Under
+New York vs. Oklahoma City,Immanuel Quickley,Rebounds,2.5,1.80,1.80,1.50,3,7,Under
+Philadelphia vs. Orlando,De'Anthony Melton,PA,17.5,12.60,13.40,10.50,4,6,Under
+Philadelphia vs. Orlando,Kelly Oubre Jr.,Rebounds,5.0,3.60,3.60,3.00,1,9,Under
+Toronto vs. Washington,Daniel Gafford,Points,11.5,14.67,13.90,14.00,7,3,Over
+Philadelphia vs. Orlando,Kelly Oubre Jr.,PA,17.5,12.75,12.40,12.00,2,8,Under
+Philadelphia vs. Orlando,Tobias Harris,Free Throws Made,3.5,2.60,2.60,3.00,4,6,Under
+Philadelphia vs. Orlando,Tyrese Maxey,PR,33.5,24.98,26.20,26.00,3,7,Under
+Phoenix vs. Houston,Kevin Durant,Rebounds,6.5,4.85,5.00,4.50,3,7,Under
+New York vs. Oklahoma City,Jalen Brunson,Free Throws Made,4.5,5.61,5.80,6.00,6,4,Over
+Phoenix vs. Houston,Grayson Allen,Fantasy Points - PrizePicks,23.5,29.29,28.27,28.80,7,3,Over
+Philadelphia vs. Orlando,Tobias Harris,PR,27.5,20.74,21.20,20.00,3,7,Under
+Phoenix vs. Houston,Jusuf Nurkic,PA,15.5,19.30,18.80,18.00,7,3,Over
+Phoenix vs. Houston,Jalen Green,Points,17.5,13.26,12.90,13.00,1,9,Under
+Phoenix vs. Houston,Jusuf Nurkic,Points,12.5,15.52,15.00,15.00,7,3,Over
+Toronto vs. Washington,Daniel Gafford,Fantasy Points - PrizePicks,30.0,37.25,36.41,37.10,6,4,Over
+Philadelphia vs. Orlando,Tobias Harris,PA,24.5,18.60,18.40,15.50,2,8,Under
+Philadelphia vs. Orlando,Tobias Harris,Points,20.5,15.57,15.00,13.00,3,7,Under
+Toronto vs. Washington,Pascal Siakam,Rebounds,7.5,5.72,6.00,5.00,3,7,Under
+Phoenix vs. Houston,Jusuf Nurkic,PAR,25.5,31.45,31.10,31.50,8,2,Over
+Toronto vs. Washington,Dennis Schroder,Points,13.5,10.42,10.60,9.50,2,8,Under
+Toronto vs. Washington,Daniel Gafford,PA,13.5,16.58,16.00,16.00,6,4,Over
+Phoenix vs. Houston,Jusuf Nurkic,PR,22.5,27.63,27.30,27.00,8,2,Over
+Philadelphia vs. Orlando,Tobias Harris,PAR,31.5,24.42,24.60,22.50,2,8,Under
+Philadelphia vs. Orlando,De'Anthony Melton,PR,18.5,14.36,14.70,13.00,4,6,Under
+Philadelphia vs. Orlando,Tyrese Maxey,Points,29.5,22.91,23.80,25.00,3,7,Under
+Toronto vs. Washington,Jordan Poole,Points,23.5,18.28,19.30,18.50,4,6,Under
+Phoenix vs. Houston,Jalen Green,PA,20.5,15.98,15.90,16.50,3,7,Under
+Cleveland vs. Dallas,Donovan Mitchell,Three Points Made,3.5,2.74,3.10,3.00,4,6,Under
+Philadelphia vs. Orlando,De'Anthony Melton,PAR,22.0,17.28,17.60,14.50,4,6,Under
+Toronto vs. Washington,Jordan Poole,PAR,30.5,23.97,24.90,24.00,3,7,Under
+Philadelphia vs. Orlando,Tyrese Maxey,PAR,40.5,31.92,33.00,32.50,3,7,Under
+Toronto vs. Washington,Precious Achiuwa,Rebounds,6.5,5.14,5.30,5.50,3,7,Under
+Toronto vs. Washington,Jordan Poole,PR,25.5,20.17,21.20,21.00,4,6,Under
+New York vs. Oklahoma City,Luguentz Dort,Points,11.5,13.88,13.20,12.50,6,4,Over
+New York vs. Oklahoma City,Jalen Brunson,Turnovers,2.5,3.01,2.80,3.00,6,4,Over
+Cleveland vs. Dallas,Jarrett Allen,Offensive Rebounds,3.0,2.39,2.70,2.00,2,8,Under
+Toronto vs. Washington,Dennis Schroder,PR,15.5,12.38,12.80,12.00,2,8,Under
+New York vs. Oklahoma City,Chet Holmgren,Turnovers,1.5,1.20,1.50,1.00,4,6,Under
+Toronto vs. Washington,Pascal Siakam,Offensive Rebounds,1.5,1.20,1.70,1.00,4,6,Under
+New York vs. Oklahoma City,Luguentz Dort,SB,1.5,1.20,1.50,1.00,3,7,Under
+Philadelphia vs. Orlando,Kelly Oubre Jr.,SB,1.5,1.20,1.20,1.00,4,6,Under
+Philadelphia vs. Orlando,Tobias Harris,SB,1.5,1.20,1.50,1.00,3,7,Under
+Phoenix vs. Houston,Jabari Smith Jr.,Three Points Made,1.5,1.20,1.60,1.00,3,7,Under
+New York vs. Oklahoma City,Jalen Williams,Turnovers,1.5,1.20,1.30,1.00,4,6,Under
+New York vs. Oklahoma City,Chet Holmgren,Free Throws Made,3.0,2.40,2.60,2.00,2,8,Under
+Toronto vs. Washington,Daniel Gafford,Offensive Rebounds,2.5,3.00,3.40,2.50,5,5,Over
+Toronto vs. Washington,Jordan Poole,Three Point Attempts,7.5,6.00,6.80,5.00,4,6,Under
+Phoenix vs. Houston,Jusuf Nurkic,Three Points Made,0.5,0.60,0.70,0.50,5,5,Under
+Toronto vs. Washington,Daniel Gafford,Steals,0.5,0.60,0.90,0.50,5,5,Under
+Toronto vs. Washington,Malachi Flynn,SB,0.5,0.60,0.60,0.50,5,5,Under
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,Blocks,0.5,0.60,0.60,0.50,5,5,Under
+Philadelphia vs. Orlando,De'Anthony Melton,Steals,1.5,1.80,2.20,1.50,5,5,Over
+Phoenix vs. Houston,Grayson Allen,SB,1.5,1.80,2.10,1.50,5,5,Over
+Toronto vs. Washington,Dennis Schroder,PAR,23.5,18.91,19.30,18.50,2,8,Under
+Toronto vs. Washington,Jordan Poole,PA,27.5,22.16,23.00,22.00,4,6,Under
+Philadelphia vs. Orlando,Tyrese Maxey,Field Goal Attempts,22.0,17.78,18.20,19.00,2,8,Under
+Toronto vs. Washington,Jordan Poole,Field Goal Attempts,17.5,14.26,15.30,16.50,4,6,Under
+Phoenix vs. Houston,Jusuf Nurkic,RA,13.5,15.98,16.10,15.00,6,4,Over
+Toronto vs. Washington,Jakob Poeltl,RA,11.5,9.39,9.40,8.50,2,8,Under
+Phoenix vs. Houston,Fred VanVleet,Rebounds,3.5,4.14,4.10,4.00,7,3,Over
+Toronto vs. Washington,Dennis Schroder,PA,20.5,16.75,17.10,16.00,2,8,Under
+New York vs. Oklahoma City,Chet Holmgren,Points,18.5,15.16,16.20,17.00,4,6,Under
+New York vs. Oklahoma City,Jalen Williams,Fantasy Points - PrizePicks,27.5,32.45,31.61,31.50,7,3,Over
+Toronto vs. Washington,Jakob Poeltl,Fantasy Points - PrizePicks,31.5,25.84,25.01,22.65,3,7,Under
+Toronto vs. Washington,Deni Avdija,Rebounds,5.5,6.47,6.30,6.00,6,4,Over
+Philadelphia vs. Orlando,Tyrese Maxey,PA,36.5,30.22,30.60,31.50,4,6,Under
+Phoenix vs. Houston,Jalen Green,PR,20.5,16.97,16.60,18.00,2,8,Under
+Toronto vs. Washington,Jordan Poole,Fantasy Points - PrizePicks,32.5,26.93,28.03,25.80,3,7,Under
+New York vs. Oklahoma City,Julius Randle,Free Throws Made,5.0,5.85,5.50,5.50,5,5,Over
+Philadelphia vs. Orlando,De'Anthony Melton,RA,8.5,7.06,7.10,6.50,3,7,Under
+Milwaukee vs. Brooklyn,Cam Thomas,PR,30.5,25.38,24.80,22.00,2,8,Under
+Milwaukee vs. Brooklyn,Cam Thomas,Fantasy Points - PrizePicks,36.0,29.97,29.42,28.40,3,7,Under
+Toronto vs. Washington,Daniel Gafford,PAR,21.5,25.07,24.30,23.50,6,4,Over
+Milwaukee vs. Brooklyn,Cam Thomas,PAR,33.5,27.95,27.40,25.00,2,8,Under
+Phoenix vs. Houston,Grayson Allen,PAR,18.5,21.56,21.00,18.50,5,5,Over
+Toronto vs. Washington,Pascal Siakam,RA,12.5,10.45,10.80,10.00,3,7,Under
+New York vs. Oklahoma City,Chet Holmgren,PR,27.5,23.04,24.10,24.50,4,6,Under
+Phoenix vs. Houston,Jalen Green,PAR,23.5,19.71,19.60,21.50,3,7,Under
+Phoenix vs. Houston,Devin Booker,Assists,7.0,8.12,8.00,7.00,4,6,Over
+Milwaukee vs. Brooklyn,Damian Lillard,Rebounds,4.0,4.64,4.50,4.00,4,6,Under
+Phoenix vs. Houston,Grayson Allen,PA,14.5,16.80,16.90,14.00,4,6,Over
+New York vs. Oklahoma City,Chet Holmgren,Assists,2.5,2.11,2.40,2.00,3,7,Under
+Toronto vs. Washington,Daniel Gafford,RA,9.0,10.41,10.40,9.00,5,5,Over
+New York vs. Oklahoma City,Jalen Brunson,Rebounds,4.0,4.63,4.40,4.00,4,6,Under
+Toronto vs. Washington,Deni Avdija,Turnovers,1.5,1.73,1.60,2.00,7,3,Over
+Toronto vs. Washington,Gary Trent Jr.,PR,15.5,13.11,13.50,13.50,4,6,Under
+New York vs. Oklahoma City,Josh Hart,RA,8.5,7.20,8.40,6.00,4,6,Under
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,Assists,6.0,6.92,6.90,7.00,6,4,Over
+New York vs. Oklahoma City,Luguentz Dort,PA,13.5,15.56,14.70,15.00,6,4,Over
+Phoenix vs. Houston,Grayson Allen,Points,12.5,14.40,14.40,12.00,5,5,Over
+Philadelphia vs. Orlando,Tobias Harris,Fantasy Points - PrizePicks,35.5,30.13,30.74,27.80,2,8,Under
+Toronto vs. Washington,Jakob Poeltl,PR,20.5,17.40,16.50,17.50,4,6,Under
+New York vs. Oklahoma City,Julius Randle,Defensive Rebounds,8.0,6.80,6.30,6.00,2,8,Under
+New York vs. Oklahoma City,Jalen Brunson,Fantasy Points - PrizePicks,40.0,45.98,45.08,38.85,5,5,Over
+Philadelphia vs. Orlando,Paolo Banchero,Field Goal Attempts,17.5,20.11,19.70,18.50,5,5,Over
+Philadelphia vs. Orlando,Tyrese Maxey,RA,10.5,8.98,9.20,8.50,3,7,Under
+Milwaukee vs. Brooklyn,Cam Thomas,Points,27.0,23.14,22.70,20.00,2,8,Under
+New York vs. Oklahoma City,Donte DiVincenzo,PA,10.5,12.00,12.70,10.00,5,5,Over
+New York vs. Oklahoma City,Jalen Brunson,Assists,6.0,6.85,6.60,6.50,5,5,Over
+Cleveland vs. Dallas,Jarrett Allen,Fantasy Points - PrizePicks,35.5,30.47,31.58,27.05,3,7,Under
+Philadelphia vs. Orlando,Tyrese Maxey,Fantasy Points - PrizePicks,45.0,38.65,38.68,39.70,3,7,Under
+Cleveland vs. Dallas,Luka Doncic,Rebounds,9.5,8.17,8.60,8.50,4,6,Under
+New York vs. Oklahoma City,Chet Holmgren,PA,20.5,17.64,18.60,18.50,3,7,Under
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,Assists,6.0,6.84,6.50,6.00,3,7,Over
+Phoenix vs. Houston,Jabari Smith Jr.,RA,9.5,10.81,11.30,12.00,6,4,Over
+Toronto vs. Washington,Dennis Schroder,RA,10.0,8.63,8.70,9.50,1,9,Under
+New York vs. Oklahoma City,Chet Holmgren,PAR,29.5,25.52,26.50,27.50,1,9,Under
+Philadelphia vs. Orlando,De'Anthony Melton,Rebounds,4.5,3.89,4.20,4.00,4,6,Under
+Toronto vs. Washington,Dennis Schroder,Fantasy Points - PrizePicks,29.5,25.54,25.59,21.80,3,7,Under
+Phoenix vs. Houston,Jusuf Nurkic,Fantasy Points - PrizePicks,35.0,39.67,38.56,38.05,8,2,Over
+Toronto vs. Washington,Jakob Poeltl,PAR,22.5,19.50,18.60,19.00,4,6,Under
+Philadelphia vs. Orlando,Tobias Harris,Rebounds,7.0,6.07,6.20,6.50,2,8,Under
+New York vs. Oklahoma City,Josh Hart,Rebounds,6.0,5.20,5.10,4.50,3,7,Under
+Toronto vs. Washington,Gary Trent Jr.,Turnovers,0.5,0.43,0.60,0.50,5,5,Under
+Toronto vs. Washington,Gary Trent Jr.,Points,12.5,10.86,11.00,12.00,4,6,Under
+New York vs. Oklahoma City,Chet Holmgren,Defensive Rebounds,7.0,6.09,6.20,6.00,3,7,Under
+Philadelphia vs. Orlando,Franz Wagner,PA,28.5,24.78,25.30,23.50,3,7,Under
+Toronto vs. Washington,Scottie Barnes,Free Throws Made,3.5,3.05,3.10,3.50,5,5,Under
+New York vs. Oklahoma City,Luguentz Dort,PAR,17.5,19.76,18.90,20.00,7,3,Over
+Toronto vs. Washington,Deni Avdija,Assists,4.0,4.52,4.40,4.00,3,7,Under
+Milwaukee vs. Brooklyn,Cam Thomas,PA,29.5,25.73,25.30,24.00,2,8,Under
+New York vs. Oklahoma City,Josh Hart,Assists,2.5,2.82,3.30,2.50,5,5,Over
+Phoenix vs. Houston,Grayson Allen,PR,16.5,18.60,18.50,15.50,4,6,Over
+Phoenix vs. Houston,Fred VanVleet,Turnovers,1.5,1.69,1.60,1.50,5,5,Over
+Philadelphia vs. Orlando,Tyrese Maxey,Free Throws Made,5.0,4.37,4.40,4.00,3,7,Under
+New York vs. Oklahoma City,Isaiah Hartenstein,Points,8.5,7.43,8.00,8.00,5,5,Under
+Toronto vs. Washington,Daniel Gafford,PR,20.5,23.07,22.20,22.00,5,5,Over
+New York vs. Oklahoma City,Josh Hart,PR,13.5,11.82,11.80,11.50,4,6,Under
+New York vs. Oklahoma City,Julius Randle,Rebounds,10.0,8.76,8.10,8.00,2,8,Under
+Toronto vs. Washington,Jakob Poeltl,Rebounds,8.5,7.45,7.30,8.00,2,8,Under
+Toronto vs. Washington,Jakob Poeltl,Points,11.5,10.10,9.20,9.50,4,6,Under
+Phoenix vs. Houston,Jalen Green,Fantasy Points - PrizePicks,25.5,22.44,22.84,27.35,6,4,Under
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,Free Throws Made,7.5,8.40,9.50,7.00,5,5,Over
+Phoenix vs. Houston,Jabari Smith Jr.,Rebounds,8.0,8.94,9.40,10.00,6,4,Over
+Phoenix vs. Houston,Alperen Sengun,Points,22.5,19.85,20.30,18.50,3,7,Under
+New York vs. Oklahoma City,Josh Hart,Points,7.5,6.65,6.70,6.00,4,6,Under
+Philadelphia vs. Orlando,Tobias Harris,RA,10.5,9.31,9.60,9.00,2,8,Under
+Phoenix vs. Houston,Alperen Sengun,PA,27.5,24.41,24.70,24.50,3,7,Under
+Toronto vs. Washington,Tyus Jones,PR,17.5,19.46,19.70,20.00,5,5,Over
+Cleveland vs. Dallas,Donovan Mitchell,PA,37.5,33.34,34.40,34.00,3,7,Under
+New York vs. Oklahoma City,Chet Holmgren,Field Goal Attempts,13.0,11.56,12.00,12.00,2,8,Under
+Cleveland vs. Dallas,Donovan Mitchell,Assists,6.5,5.78,5.80,6.00,1,9,Under
+Toronto vs. Washington,Gary Trent Jr.,PA,14.5,12.92,13.20,14.50,5,5,Under
+Toronto vs. Washington,Tyus Jones,Fantasy Points - PrizePicks,31.5,34.91,35.74,33.40,6,4,Over
+New York vs. Oklahoma City,Julius Randle,Points,25.0,27.67,27.50,26.00,6,4,Over
+Toronto vs. Washington,Pascal Siakam,PAR,38.5,34.44,34.70,34.00,4,6,Under
+New York vs. Oklahoma City,Immanuel Quickley,Points,12.5,13.82,13.40,12.50,5,5,Over
+New York vs. Oklahoma City,RJ Barrett,Rebounds,4.5,4.97,5.00,5.00,7,3,Over
+New York vs. Oklahoma City,Josh Giddey,Fantasy Points - PrizePicks,24.0,26.48,26.27,24.45,6,4,Over
+Toronto vs. Washington,Jakob Poeltl,PA,13.5,12.10,11.30,11.00,3,7,Under
+Toronto vs. Washington,Gary Trent Jr.,Rebounds,2.5,2.24,2.50,2.00,3,7,Under
+Phoenix vs. Houston,Kevin Durant,RA,11.5,10.32,10.50,10.00,2,8,Under
+Toronto vs. Washington,Deni Avdija,RA,10.0,11.01,10.70,9.50,4,6,Over
+New York vs. Oklahoma City,Julius Randle,RA,14.0,12.59,11.90,11.00,2,8,Under
+Toronto vs. Washington,Jordan Poole,Assists,4.0,3.60,3.70,3.00,2,8,Under
+New York vs. Oklahoma City,Josh Giddey,Rebounds,5.5,6.05,6.10,6.00,5,5,Over
+Phoenix vs. Houston,Fred VanVleet,Assists,8.0,7.21,7.90,7.00,4,6,Under
+Philadelphia vs. Orlando,Franz Wagner,Points,22.5,20.27,20.10,19.50,4,6,Under
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,Free Throws Made,7.5,8.24,8.30,7.50,5,5,Over
+Phoenix vs. Houston,Jusuf Nurkic,Rebounds,11.0,12.09,12.30,12.50,6,4,Over
+Philadelphia vs. Orlando,Franz Wagner,PAR,34.5,31.12,31.50,30.50,2,8,Under
+New York vs. Oklahoma City,Luguentz Dort,PR,16.5,18.10,17.40,18.00,6,4,Over
+New York vs. Oklahoma City,Chet Holmgren,Rebounds,8.5,7.68,7.90,7.50,4,6,Under
+Cleveland vs. Dallas,Donovan Mitchell,Points,30.5,27.60,28.60,28.00,4,6,Under
+Toronto vs. Washington,Tyus Jones,Points,14.5,15.86,16.00,15.00,5,5,Over
+Cleveland vs. Dallas,Luka Doncic,Free Throws Made,7.0,7.66,7.80,7.00,4,6,Under
+Toronto vs. Washington,OG Anunoby,RA,7.5,6.81,7.30,7.00,4,6,Under
+New York vs. Oklahoma City,Jalen Brunson,PA,32.5,35.50,34.80,30.50,3,7,Over
+New York vs. Oklahoma City,Luguentz Dort,Fantasy Points - PrizePicks,23.0,25.05,24.09,23.15,5,5,Over
+New York vs. Oklahoma City,Chet Holmgren,RA,11.0,10.02,10.30,10.00,4,6,Under
+Cleveland vs. Dallas,Donovan Mitchell,PAR,43.5,39.66,40.80,42.00,5,5,Under
+Philadelphia vs. Orlando,Franz Wagner,Assists,5.0,5.44,5.20,5.00,4,6,Under
+Toronto vs. Washington,Kyle Kuzma,Points,22.5,20.52,21.20,19.00,4,6,Under
+Phoenix vs. Houston,Alperen Sengun,Rebounds,9.5,10.32,10.30,9.50,5,5,Over
+Philadelphia vs. Orlando,Tyrese Maxey,Three Points Made,3.5,3.20,3.20,4.00,6,4,Under
+New York vs. Oklahoma City,Jalen Brunson,RA,10.5,11.40,11.00,10.50,5,5,Over
+Phoenix vs. Houston,Kevin Durant,Assists,5.0,5.42,5.50,5.00,4,6,Under
+New York vs. Oklahoma City,Jalen Brunson,PAR,37.5,40.63,39.20,35.50,4,6,Over
+New York vs. Oklahoma City,Immanuel Quickley,PA,14.5,15.67,15.20,14.50,5,5,Over
+Toronto vs. Washington,Pascal Siakam,PR,33.0,30.34,29.90,29.50,4,6,Under
+Toronto vs. Washington,Gary Trent Jr.,PAR,16.5,15.18,15.70,14.50,4,6,Under
+New York vs. Oklahoma City,Josh Giddey,Assists,4.0,4.32,4.30,4.00,3,7,Under
+Cleveland vs. Dallas,Jarrett Allen,Defensive Rebounds,7.5,6.90,6.70,6.50,4,6,Under
+Milwaukee vs. Brooklyn,Damian Lillard,Three Point Attempts,9.0,9.72,9.50,8.50,3,7,Over
+Philadelphia vs. Orlando,Franz Wagner,RA,11.0,11.87,11.40,12.00,6,4,Over
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,Fantasy Points - PrizePicks,55.0,59.34,59.15,59.50,7,3,Over
+New York vs. Oklahoma City,Immanuel Quickley,PR,14.5,15.64,15.20,16.00,6,4,Over
+Phoenix vs. Houston,Jabari Smith Jr.,Points,15.5,14.30,15.50,13.00,5,5,Under
+New York vs. Oklahoma City,Jalen Brunson,Three Point Attempts,6.0,5.54,5.20,5.00,1,9,Under
+Milwaukee vs. Brooklyn,Damian Lillard,Field Goal Attempts,17.0,18.31,18.10,18.00,5,5,Over
+New York vs. Oklahoma City,Jalen Williams,Points,16.5,17.72,18.00,18.00,5,5,Over
+Phoenix vs. Houston,Alperen Sengun,PAR,37.5,34.78,35.00,33.50,4,6,Under
+Toronto vs. Washington,Dennis Schroder,Assists,7.0,6.50,6.50,6.50,2,8,Under
+Cleveland vs. Dallas,Donovan Mitchell,PR,36.5,33.92,35.00,36.50,5,5,Under
+Phoenix vs. Houston,Alperen Sengun,PR,32.5,30.21,30.60,27.50,3,7,Under
+Philadelphia vs. Orlando,Franz Wagner,Rebounds,6.0,6.42,6.20,6.00,4,6,Under
+New York vs. Oklahoma City,Josh Giddey,PA,14.5,15.51,15.50,15.00,6,4,Over
+Toronto vs. Washington,Kyle Kuzma,PAR,32.5,30.24,31.10,29.00,4,6,Under
+New York vs. Oklahoma City,Jalen Brunson,PR,31.0,33.11,32.60,29.50,4,6,Over
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,Field Goal Attempts,20.5,19.11,19.10,20.50,5,5,Under
+Toronto vs. Washington,Precious Achiuwa,PAR,17.5,16.33,16.60,15.50,3,7,Under
+New York vs. Oklahoma City,Chet Holmgren,Offensive Rebounds,1.5,1.60,1.70,2.00,6,4,Under
+Toronto vs. Washington,OG Anunoby,Turnovers,1.5,1.60,1.60,2.00,7,3,Under
+Cleveland vs. Dallas,Luka Doncic,RA,20.5,19.14,19.60,20.00,5,5,Under
+New York vs. Oklahoma City,Josh Giddey,Points,10.5,11.20,11.20,10.50,5,5,Over
+Philadelphia vs. Orlando,Franz Wagner,Free Throws Made,4.5,4.80,4.70,5.00,6,4,Over
+New York vs. Oklahoma City,Julius Randle,PA,29.5,31.42,31.30,29.50,5,5,Over
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,PR,39.5,36.96,37.00,39.00,3,7,Under
+New York vs. Oklahoma City,Jalen Brunson,Points,26.5,28.20,28.20,23.50,4,6,Over
+Phoenix vs. Houston,Jalen Green,Rebounds,3.5,3.72,3.70,4.00,6,4,Over
+Philadelphia vs. Orlando,Franz Wagner,PR,28.5,26.70,26.30,27.00,4,6,Under
+Toronto vs. Washington,Kyle Kuzma,PR,28.5,26.70,27.50,27.00,5,5,Under
+Toronto vs. Washington,Scottie Barnes,Offensive Rebounds,2.5,2.66,2.60,3.00,6,4,Under
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,Field Goal Attempts,22.5,21.14,20.80,19.50,3,7,Under
+New York vs. Oklahoma City,Donte DiVincenzo,Points,8.5,9.00,10.50,7.50,4,6,Over
+Toronto vs. Washington,Kyle Kuzma,PA,25.5,24.01,24.80,23.00,4,6,Under
+Toronto vs. Washington,Daniel Gafford,Rebounds,8.0,8.46,8.30,7.50,4,6,Under
+Phoenix vs. Houston,Devin Booker,Fantasy Points - PrizePicks,44.5,47.05,46.08,43.50,5,5,Over
+Toronto vs. Washington,OG Anunoby,Fantasy Points - PrizePicks,27.5,25.95,26.44,25.40,4,6,Under
+New York vs. Oklahoma City,Isaiah Hartenstein,Rebounds,10.0,10.56,10.30,9.00,3,7,Over
+Toronto vs. Washington,Pascal Siakam,PA,30.5,28.81,28.70,27.00,4,6,Under
+Toronto vs. Washington,Tyus Jones,PAR,24.5,25.85,26.10,28.00,6,4,Over
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,Points,33.5,31.68,31.50,32.00,4,6,Under
+Toronto vs. Washington,Pascal Siakam,Fantasy Points - PrizePicks,42.5,40.23,40.00,41.30,4,6,Under
+Toronto vs. Washington,Tyus Jones,RA,10.5,9.94,10.10,9.50,4,6,Under
+Toronto vs. Washington,Scottie Barnes,PAR,39.0,41.08,40.10,42.50,6,4,Over
+Phoenix vs. Houston,Fred VanVleet,Fantasy Points - PrizePicks,38.5,40.53,41.17,39.35,5,5,Over
+Toronto vs. Washington,Kyle Kuzma,Assists,4.0,3.80,3.60,3.50,3,7,Under
+New York vs. Oklahoma City,Josh Giddey,PAR,20.5,21.55,21.60,20.50,5,5,Over
+Toronto vs. Washington,Kyle Kuzma,Rebounds,6.5,6.17,6.30,7.00,6,4,Under
+New York vs. Oklahoma City,Isaiah Hartenstein,PA,10.5,9.98,10.50,10.00,5,5,Under
+Toronto vs. Washington,Kyle Kuzma,Fantasy Points - PrizePicks,36.0,34.24,34.06,32.25,4,6,Under
+New York vs. Oklahoma City,Luguentz Dort,Rebounds,4.5,4.28,4.20,4.00,4,6,Under
+Toronto vs. Washington,Deni Avdija,PAR,19.5,20.45,19.60,17.50,4,6,Over
+Toronto vs. Washington,OG Anunoby,Points,14.5,13.80,14.60,11.50,4,6,Under
+Phoenix vs. Houston,Devin Booker,Turnovers,2.5,2.38,2.80,2.50,5,5,Under
+New York vs. Oklahoma City,RJ Barrett,PR,22.0,23.05,23.10,23.00,6,4,Over
+Toronto vs. Washington,Scottie Barnes,RA,16.0,16.76,16.30,15.50,3,7,Over
+Toronto vs. Washington,Scottie Barnes,Fantasy Points - PrizePicks,48.5,50.79,50.01,49.25,5,5,Over
+Phoenix vs. Houston,Devin Booker,PAR,39.5,41.37,40.80,39.00,4,6,Over
+Cleveland vs. Dallas,Luka Doncic,PR,47.5,45.29,46.00,47.00,5,5,Under
+New York vs. Oklahoma City,Jalen Williams,PA,20.5,21.45,21.70,22.00,5,5,Over
+Cleveland vs. Dallas,Donovan Mitchell,Field Goal Attempts,22.0,21.01,21.70,21.50,4,6,Under
+New York vs. Oklahoma City,Josh Giddey,PR,16.5,17.24,17.30,16.00,5,5,Over
+Phoenix vs. Houston,Fred VanVleet,RA,12.0,11.46,12.00,12.00,5,5,Under
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,Rebounds,5.5,5.26,5.50,5.50,5,5,Under
+New York vs. Oklahoma City,Isaiah Hartenstein,RA,12.5,13.05,12.80,12.00,4,6,Over
+Philadelphia vs. Orlando,Franz Wagner,Fantasy Points - PrizePicks,40.0,38.31,38.04,35.90,3,7,Under
+Phoenix vs. Houston,Fred VanVleet,Points,18.5,19.27,18.80,17.00,4,6,Over
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,Defensive Rebounds,9.0,8.63,8.70,8.50,4,6,Under
+Phoenix vs. Houston,Fred VanVleet,PR,22.5,23.43,22.90,22.00,4,6,Over
+New York vs. Oklahoma City,RJ Barrett,Fantasy Points - PrizePicks,27.5,28.63,28.75,28.35,5,5,Over
+New York vs. Oklahoma City,Julius Randle,Field Goal Attempts,18.0,18.74,18.70,18.00,5,5,Over
+New York vs. Oklahoma City,Julius Randle,PR,35.0,36.43,35.60,33.50,4,6,Over
+Toronto vs. Washington,Scottie Barnes,Field Goal Attempts,16.5,17.16,16.60,16.00,5,5,Over
+Toronto vs. Washington,Jakob Poeltl,Offensive Rebounds,2.5,2.40,2.70,2.00,4,6,Under
+Phoenix vs. Houston,Devin Booker,Rebounds,5.0,4.80,5.40,4.00,4,6,Under
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,Offensive Rebounds,2.5,2.40,2.60,2.00,4,6,Under
+Phoenix vs. Houston,Alperen Sengun,Turnovers,2.5,2.40,2.30,2.00,4,6,Under
+New York vs. Oklahoma City,Josh Giddey,RA,10.0,10.39,10.40,9.50,4,6,Over
+Cleveland vs. Dallas,Luka Doncic,PAR,58.5,56.19,57.00,57.50,4,6,Under
+New York vs. Oklahoma City,Jalen Williams,RA,7.5,7.21,7.50,7.50,5,5,Under
+Phoenix vs. Houston,Jabari Smith Jr.,Fantasy Points - PrizePicks,30.5,31.64,33.03,29.55,5,5,Over
+Toronto vs. Washington,Deni Avdija,Three Points Made,0.5,0.48,0.40,0.00,4,6,Under
+Milwaukee vs. Brooklyn,Damian Lillard,Free Throws Made,7.5,7.23,7.00,6.50,3,7,Under
+Philadelphia vs. Orlando,De'Anthony Melton,Fantasy Points - PrizePicks,29.0,27.95,27.89,27.80,4,6,Under
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,PAR,45.5,43.88,43.90,43.50,4,6,Under
+Cleveland vs. Dallas,Donovan Mitchell,RA,12.5,12.06,12.20,13.00,6,4,Under
+Toronto vs. Washington,Scottie Barnes,SB,2.5,2.41,2.60,2.50,5,5,Under
+Toronto vs. Washington,Tyus Jones,PA,21.5,22.26,22.40,24.50,6,4,Over
+Milwaukee vs. Brooklyn,Brook Lopez,Fantasy Points - PrizePicks,32.0,30.90,31.21,32.05,5,5,Under
+New York vs. Oklahoma City,Julius Randle,Assists,4.0,3.86,3.80,3.50,4,6,Under
+Toronto vs. Washington,Precious Achiuwa,PA,11.5,11.11,11.30,11.50,5,5,Under
+New York vs. Oklahoma City,Jalen Williams,PR,20.5,21.19,21.80,20.00,5,5,Over
+Toronto vs. Washington,Deni Avdija,PR,15.5,16.02,15.20,14.50,4,6,Over
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,RA,12.0,12.40,12.40,12.00,4,6,Over
+Toronto vs. Washington,Pascal Siakam,Field Goal Attempts,16.5,15.96,15.70,16.00,2,8,Under
+Phoenix vs. Houston,Kevin Durant,PR,34.5,33.38,33.60,33.50,3,7,Under
+Toronto vs. Washington,Scottie Barnes,Points,22.5,23.23,23.80,25.00,6,4,Over
+New York vs. Oklahoma City,Jalen Williams,Rebounds,4.0,3.87,3.80,4.00,4,6,Under
+Philadelphia vs. Orlando,Paolo Banchero,Points,23.5,24.25,24.60,23.50,5,5,Over
+Cleveland vs. Dallas,Luka Doncic,Three Point Attempts,11.0,10.65,11.40,11.50,5,5,Under
+Cleveland vs. Dallas,Donovan Mitchell,Rebounds,6.0,6.19,6.40,6.50,5,5,Under
+Cleveland vs. Dallas,Donovan Mitchell,Fantasy Points - PrizePicks,49.0,47.51,48.48,50.40,7,3,Under
+Milwaukee vs. Brooklyn,Damian Lillard,PR,31.5,32.42,31.90,31.00,4,6,Over
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,RA,17.5,18.01,17.80,17.50,5,5,Over
+Phoenix vs. Houston,Devin Booker,PA,35.0,36.02,35.40,35.00,4,6,Over
+New York vs. Oklahoma City,RJ Barrett,Free Throws Made,3.5,3.60,4.00,3.00,4,6,Under
+New York vs. Oklahoma City,Jalen Williams,Assists,3.5,3.60,3.70,3.00,3,7,Under
+Philadelphia vs. Orlando,Paolo Banchero,Assists,4.5,4.38,4.50,4.00,4,6,Under
+Toronto vs. Washington,OG Anunoby,PR,18.5,18.00,18.30,15.00,4,6,Under
+New York vs. Oklahoma City,Isaiah Hartenstein,PR,18.5,18.01,18.30,19.00,6,4,Under
+Phoenix vs. Houston,Devin Booker,PR,32.5,33.31,32.80,31.50,4,6,Over
+Milwaukee vs. Brooklyn,Damian Lillard,PAR,38.5,39.43,39.10,38.00,4,6,Over
+Phoenix vs. Houston,Alperen Sengun,RA,14.5,14.85,14.70,14.00,4,6,Over
+Milwaukee vs. Brooklyn,Damian Lillard,Fantasy Points - PrizePicks,45.0,46.06,45.30,44.65,5,5,Over
+Philadelphia vs. Orlando,Paolo Banchero,Fantasy Points - PrizePicks,40.0,40.93,40.63,40.50,5,5,Over
+New York vs. Oklahoma City,Shai Gilgeous-Alexander,PA,39.5,38.60,38.40,38.00,4,6,Under
+Phoenix vs. Houston,Fred VanVleet,PA,27.5,26.90,26.70,25.50,4,6,Under
+Toronto vs. Washington,Kyle Kuzma,Three Point Attempts,7.0,6.85,6.80,7.00,4,6,Under
+Toronto vs. Washington,Pascal Siakam,Points,25.0,24.47,23.90,23.00,4,6,Under
+Cleveland vs. Dallas,Donovan Mitchell,Free Throws Made,5.5,5.62,5.70,5.50,5,5,Under
+Philadelphia vs. Orlando,Paolo Banchero,Rebounds,7.5,7.34,6.90,7.00,4,6,Under
+Philadelphia vs. Orlando,Tyrese Maxey,Assists,7.0,6.86,6.80,7.00,3,7,Under
+Philadelphia vs. Orlando,Franz Wagner,Field Goal Attempts,16.5,16.83,16.60,16.00,4,6,Over
+Toronto vs. Washington,Pascal Siakam,Assists,5.0,4.90,4.80,4.50,4,6,Under
+Toronto vs. Washington,Kyle Kuzma,Free Throws Made,3.0,2.94,2.80,2.50,3,7,Under
+Cleveland vs. Dallas,Luka Doncic,Assists,10.5,10.71,11.00,10.00,4,6,Over
+Phoenix vs. Houston,Fred VanVleet,PAR,30.5,31.09,30.80,30.00,4,6,Over
+Philadelphia vs. Orlando,De'Anthony Melton,Three Point Attempts,6.0,5.89,5.50,5.50,4,6,Under
+New York vs. Oklahoma City,Julius Randle,PAR,39.5,40.25,39.40,37.00,4,6,Over
+New York vs. Oklahoma City,Jalen Williams,PAR,24.5,24.96,25.50,24.50,5,5,Over
+New York vs. Oklahoma City,Chet Holmgren,Fantasy Points - PrizePicks,39.0,39.73,40.68,38.30,5,5,Over
+New York vs. Oklahoma City,RJ Barrett,Three Point Attempts,5.0,5.09,4.60,5.00,3,7,Under
+Phoenix vs. Houston,Alperen Sengun,Fantasy Points - PrizePicks,42.5,41.76,42.66,41.55,4,6,Under
+Cleveland vs. Dallas,Luka Doncic,PA,48.5,47.68,48.40,49.50,6,4,Under
+Cleveland vs. Dallas,Luka Doncic,Field Goal Attempts,26.0,25.57,25.80,26.00,5,5,Under
+Phoenix vs. Houston,Kevin Durant,PAR,39.5,38.87,39.10,38.00,4,6,Under
+Toronto vs. Washington,Tyus Jones,Assists,6.5,6.40,6.40,6.00,4,6,Under
+Phoenix vs. Houston,Kevin Durant,Fantasy Points - PrizePicks,45.5,44.79,44.85,44.45,4,6,Under
+Milwaukee vs. Brooklyn,Damian Lillard,Points,27.5,27.88,27.40,26.00,5,5,Over
+Milwaukee vs. Brooklyn,Damian Lillard,RA,11.5,11.65,11.70,11.50,5,5,Over
+New York vs. Oklahoma City,RJ Barrett,Field Goal Attempts,15.0,14.80,14.80,15.50,5,5,Under
+Toronto vs. Washington,Scottie Barnes,PR,32.5,32.93,33.60,37.50,6,4,Over
+Toronto vs. Washington,Scottie Barnes,PA,29.5,29.89,30.30,32.00,6,4,Over
+Phoenix vs. Houston,Kevin Durant,PA,33.5,33.92,34.10,34.00,5,5,Over
+New York vs. Oklahoma City,RJ Barrett,PAR,24.5,24.79,25.00,24.50,5,5,Over
+Toronto vs. Washington,Deni Avdija,PA,14.0,14.16,13.30,12.00,4,6,Over
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,Fantasy Points - PrizePicks,59.5,58.81,59.41,58.40,3,7,Under
+Phoenix vs. Houston,Jabari Smith Jr.,PA,16.5,16.31,17.40,16.00,5,5,Under
+Philadelphia vs. Orlando,Paolo Banchero,RA,12.0,11.87,11.40,11.00,3,7,Under
+Milwaukee vs. Brooklyn,Damian Lillard,PA,34.5,34.86,34.60,33.50,5,5,Over
+New York vs. Oklahoma City,Julius Randle,Fantasy Points - PrizePicks,42.0,42.42,41.72,39.50,4,6,Over
+Toronto vs. Washington,Kyle Kuzma,RA,10.0,10.10,9.90,10.00,3,7,Over
+Toronto vs. Washington,Scottie Barnes,Assists,6.5,6.56,6.50,6.50,5,5,Under
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,PAR,49.5,49.94,50.20,49.50,5,5,Over
+New York vs. Oklahoma City,Donte DiVincenzo,PR,11.5,11.40,13.50,9.50,4,6,Under
+Philadelphia vs. Orlando,Paolo Banchero,PA,28.5,28.73,29.10,27.00,4,6,Over
+Toronto vs. Washington,OG Anunoby,PA,18.0,17.85,18.20,16.00,4,6,Under
+Philadelphia vs. Orlando,Tyrese Maxey,Three Point Attempts,8.5,8.57,8.40,8.00,4,6,Under
+Toronto vs. Washington,Deni Avdija,Points,9.5,9.58,8.90,8.50,3,7,Under
+Milwaukee vs. Brooklyn,Damian Lillard,Assists,7.0,7.05,7.20,7.00,4,6,Under
+New York vs. Oklahoma City,RJ Barrett,Points,17.5,17.62,18.10,19.50,6,4,Over
+New York vs. Oklahoma City,RJ Barrett,PA,19.5,19.38,20.00,20.00,5,5,Under
+Toronto vs. Washington,Scottie Barnes,Rebounds,9.5,9.56,9.80,10.00,6,4,Under
+Toronto vs. Washington,Precious Achiuwa,Points,9.5,9.44,9.60,9.00,3,7,Under
+Cleveland vs. Dallas,Luka Doncic,Fantasy Points - PrizePicks,65.0,65.36,66.32,64.20,4,6,Over
+Philadelphia vs. Orlando,Paolo Banchero,PR,31.5,31.67,31.50,29.50,3,7,Over
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,PA,38.5,38.69,38.90,38.00,4,6,Over
+Phoenix vs. Houston,Grayson Allen,Rebounds,4.0,3.98,4.10,3.50,2,8,Under
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,Points,32.0,31.86,32.40,32.00,4,6,Under
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,Rebounds,11.5,11.54,11.30,11.00,5,5,Over
+Philadelphia vs. Orlando,Paolo Banchero,PAR,36.5,36.63,36.00,34.50,4,6,Over
+Phoenix vs. Houston,Alperen Sengun,Assists,4.5,4.51,4.40,5.00,6,4,Under
+Phoenix vs. Houston,Devin Booker,Points,28.0,27.91,27.40,27.50,3,7,Under
+Phoenix vs. Houston,Jabari Smith Jr.,PAR,25.5,25.44,26.80,25.00,5,5,Under
+New York vs. Oklahoma City,Jalen Brunson,Field Goal Attempts,20.5,20.45,20.00,20.00,5,5,Under
+Toronto vs. Washington,OG Anunoby,PAR,21.5,21.45,21.90,19.50,4,6,Under
+Milwaukee vs. Brooklyn,Giannis Antetokounmpo,PR,43.5,43.41,43.70,43.50,5,5,Under
+Toronto vs. Washington,Kyle Kuzma,Field Goal Attempts,18.0,17.97,18.10,17.50,4,6,Under
+Phoenix vs. Houston,Kevin Durant,Points,28.5,28.45,28.60,28.50,5,5,Under
+New York vs. Oklahoma City,Immanuel Quickley,PAR,17.5,17.48,17.00,18.00,6,4,Under
+Cleveland vs. Dallas,Donovan Mitchell,Three Point Attempts,9.0,8.99,9.40,9.50,5,5,Under
+Phoenix vs. Houston,Jabari Smith Jr.,PR,23.5,23.53,24.90,21.00,4,6,Over
+New York vs. Oklahoma City,Isaiah Hartenstein,PAR,20.5,20.48,20.80,22.00,6,4,Under
+Toronto vs. Washington,Scottie Barnes,Three Point Attempts,5.5,5.49,5.90,6.50,6,4,Under
+Cleveland vs. Dallas,Luka Doncic,Points,37.0,36.98,37.40,38.50,6,4,Under

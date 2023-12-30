@@ -1,0 +1,315 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes,Result
+Philadelphia vs. Houston,Jalen Green,Steals,0.5,0.80,0.70,1.00,6,4,Over,Miss
+Brooklyn vs. Washington,Corey Kispert,SB,0.5,0.80,0.70,1.00,6,4,Over,Miss
+New York vs. Orlando,Franz Wagner,Three Points Made,1.5,0.60,0.70,0.50,2,8,Under,Miss
+Philadelphia vs. Houston,De'Anthony Melton,Steals,1.5,2.40,2.30,2.00,6,4,Over,Miss
+Brooklyn vs. Washington,Tyus Jones,Three Points Made,1.5,2.25,2.20,2.00,6,4,Over,Miss
+Sacramento vs. Atlanta,Keegan Murray,Three Points Made,2.5,3.57,3.10,3.00,6,4,Over,Miss
+Philadelphia vs. Houston,Jalen Green,Three Points Made,2.5,1.45,1.80,1.50,3,7,Under,Miss
+Philadelphia vs. Houston,Jalen Green,Points,20.0,11.66,12.70,13.00,1,9,Under,Miss
+New York vs. Orlando,Jalen Suggs,Rebounds,3.5,2.15,2.40,2.50,3,7,Under,Hit
+Philadelphia vs. Houston,Jalen Green,PR,24.5,15.53,16.60,18.00,1,9,Under,Miss
+Philadelphia vs. Houston,De'Anthony Melton,Points,15.0,9.60,10.60,8.00,2,8,Under,Miss
+Philadelphia vs. Houston,Jalen Green,PA,23.0,14.82,15.90,16.50,1,9,Under,Miss
+Brooklyn vs. Washington,Cameron Johnson,Rebounds,4.5,2.91,3.30,3.50,3,7,Under,Miss
+Brooklyn vs. Washington,Mikal Bridges,Rebounds,5.0,3.33,3.60,3.50,2,8,Under,Miss
+Philadelphia vs. Houston,Fred VanVleet,SB,1.5,2.00,2.30,2.50,6,4,Over,Hit
+Sacramento vs. Atlanta,Kevin Huerter,PR,12.5,8.40,8.60,7.00,3,7,Under,Hit
+Sacramento vs. Atlanta,Jalen Johnson,Turnovers,1.5,1.99,1.90,2.00,6,4,Over,Hit
+Philadelphia vs. Houston,Alperen Sengun,Turnovers,2.5,1.70,2.20,2.00,4,6,Under,Miss
+Philadelphia vs. Houston,Jalen Green,PAR,27.5,18.70,19.80,21.50,1,9,Under,Miss
+Sacramento vs. Atlanta,Trae Young,Three Points Made,3.5,4.62,4.50,4.00,6,4,Over,Miss
+Philadelphia vs. Houston,De'Anthony Melton,PA,18.5,12.60,13.40,10.50,4,6,Under,Hit
+Philadelphia vs. Houston,De'Anthony Melton,Assists,3.5,2.40,2.80,2.00,4,6,Under,Hit
+Sacramento vs. Atlanta,Kevin Huerter,Turnovers,0.5,0.34,0.30,0.00,3,7,Under,Hit
+Sacramento vs. Atlanta,Kevin Huerter,Points,9.5,6.60,6.30,5.50,3,7,Under,Hit
+Milwaukee vs. Cleveland,Malik Beasley,Points,8.5,11.04,11.80,12.00,5,5,Over,Hit
+New York vs. Orlando,Donte DiVincenzo,PA,10.5,13.52,13.50,12.00,6,4,Over,Miss
+Brooklyn vs. Washington,Mikal Bridges,RA,9.0,6.42,7.00,7.00,2,8,Under,Hit
+Milwaukee vs. Cleveland,Donovan Mitchell,SB,1.5,1.93,2.20,2.00,6,4,Over,Hit
+Philadelphia vs. Houston,Jalen Green,Turnovers,2.5,1.80,2.10,1.50,3,7,Under,Hit
+Brooklyn vs. Washington,Jordan Poole,Three Points Made,2.5,1.80,2.50,1.50,4,6,Under,Hit
+Sacramento vs. Atlanta,Keegan Murray,PA,17.5,22.36,21.50,19.00,6,4,Over,Miss
+Brooklyn vs. Washington,Mikal Bridges,Fantasy Points - PrizePicks,35.5,25.69,26.32,27.65,1,9,Under,Hit
+Philadelphia vs. Houston,De'Anthony Melton,PAR,24.0,17.40,17.70,14.50,4,6,Under,Hit
+New York vs. Orlando,Jalen Brunson,Turnovers,2.5,3.18,3.00,3.00,6,4,Over,Hit
+Sacramento vs. Atlanta,Kevin Huerter,PA,11.5,8.40,8.50,7.00,3,7,Under,Hit
+Sacramento vs. Atlanta,Keegan Murray,Points,16.5,20.88,20.00,18.50,6,4,Over,Miss
+Philadelphia vs. Houston,Jalen Green,Fantasy Points - PrizePicks,30.0,22.15,23.38,27.35,3,7,Under,Miss
+Brooklyn vs. Washington,Mikal Bridges,PA,26.5,19.65,20.20,20.00,2,8,Under,Hit
+New York vs. Orlando,Josh Hart,Points,7.5,5.59,6.00,6.00,3,7,Under,Hit
+New York vs. Orlando,Donte DiVincenzo,Points,9.0,11.28,11.50,9.50,5,5,Over,Miss
+Milwaukee vs. Cleveland,Donovan Mitchell,Rebounds,5.0,6.20,6.40,6.50,6,4,Over,Hit
+Brooklyn vs. Washington,Mikal Bridges,PR,27.5,21.26,20.40,22.00,1,9,Under,Hit
+Philadelphia vs. Houston,Tobias Harris,Points,21.5,16.63,16.60,14.00,3,7,Under,Miss
+Sacramento vs. Atlanta,Kevin Huerter,Fantasy Points - PrizePicks,19.0,14.70,14.46,14.35,3,7,Under,Hit
+Sacramento vs. Atlanta,Kevin Huerter,Steals,0.5,0.39,0.50,0.00,4,6,Under,Hit
+New York vs. Orlando,Josh Hart,PR,13.5,10.56,11.40,11.00,3,7,Under,Hit
+Brooklyn vs. Washington,Mikal Bridges,PAR,31.5,24.72,23.80,24.50,2,8,Under,Hit
+Brooklyn vs. Washington,Mikal Bridges,Points,22.5,17.66,16.80,16.50,1,9,Under,Hit
+New York vs. Orlando,Franz Wagner,Assists,4.5,5.46,5.00,5.00,6,4,Over,Miss
+Philadelphia vs. Houston,De'Anthony Melton,PR,19.5,15.37,14.90,13.00,4,6,Under,Hit
+Milwaukee vs. Cleveland,Malik Beasley,PR,12.5,15.14,15.70,15.50,7,3,Over,Hit
+Brooklyn vs. Washington,Tyus Jones,PR,15.5,18.72,18.70,17.00,7,3,Over,Hit
+Sacramento vs. Atlanta,Dejounte Murray,SB,1.5,1.80,1.80,2.00,6,4,Over,Miss
+New York vs. Orlando,Donte DiVincenzo,PR,11.5,13.80,14.60,11.50,5,5,Over,Miss
+Sacramento vs. Atlanta,Keegan Murray,SB,1.5,1.20,1.30,1.00,3,7,Under,Miss
+Philadelphia vs. Houston,Tobias Harris,SB,1.5,1.20,1.40,1.00,2,8,Under,Miss
+Philadelphia vs. Houston,Alperen Sengun,Assists,4.5,3.60,3.80,4.50,5,5,Under,Miss
+New York vs. Orlando,Immanuel Quickley,Steals,0.5,0.60,0.70,0.50,5,5,Under,Hit
+New York vs. Orlando,Jalen Suggs,Three Points Made,1.5,1.80,1.90,1.50,5,5,Over,Hit
+Philadelphia vs. Houston,Tobias Harris,PR,28.5,22.81,22.90,20.50,3,7,Under,Hit
+Brooklyn vs. Washington,Dorian Finney-Smith,Rebounds,5.0,4.02,4.00,4.00,2,8,Under,Miss
+Milwaukee vs. Cleveland,Malik Beasley,PA,10.5,12.54,13.40,14.00,5,5,Over,Hit
+Sacramento vs. Atlanta,Saddiq Bey,Rebounds,6.0,7.16,7.50,8.00,6,4,Over,Hit
+Philadelphia vs. Houston,Tobias Harris,PA,24.5,19.92,20.10,17.50,2,8,Under,Miss
+Philadelphia vs. Houston,Alperen Sengun,RA,15.5,12.62,13.60,13.50,3,7,Under,Hit
+Sacramento vs. Atlanta,Clint Capela,Steals,0.5,0.41,0.40,0.00,3,7,Under,Miss
+New York vs. Orlando,Josh Hart,Rebounds,6.0,4.94,5.40,5.50,4,6,Under,Hit
+New York vs. Orlando,Isaiah Hartenstein,Blocks,1.5,1.77,1.70,2.00,6,4,Over,Miss
+Sacramento vs. Atlanta,Saddiq Bey,RA,7.5,8.83,8.90,8.50,7,3,Over,Hit
+Philadelphia vs. Houston,Jalen Green,Assists,2.5,2.93,3.20,3.00,6,4,Over,Hit
+Philadelphia vs. Houston,Tobias Harris,PAR,31.5,26.12,26.40,23.50,2,8,Under,Miss
+Philadelphia vs. Houston,Jalen Green,Rebounds,4.5,3.76,3.90,4.00,3,7,Under,Miss
+New York vs. Orlando,Julius Randle,Rebounds,9.5,7.94,8.40,8.00,2,8,Under,Miss
+New York vs. Orlando,Julius Randle,RA,13.5,11.30,11.90,11.00,3,7,Under,Miss
+Brooklyn vs. Washington,Tyus Jones,Points,13.0,15.10,15.10,14.00,6,4,Over,Miss
+Philadelphia vs. Houston,Alperen Sengun,Rebounds,10.5,8.84,9.80,9.00,3,7,Under,Hit
+Brooklyn vs. Washington,Spencer Dinwiddie,Rebounds,3.5,4.05,4.20,4.00,6,4,Over,Hit
+New York vs. Orlando,Julius Randle,Steals,0.5,0.42,0.40,0.00,4,6,Under,Hit
+Philadelphia vs. Houston,Tyrese Maxey,Points,28.5,24.11,23.50,23.50,4,6,Under,Miss
+Philadelphia vs. Houston,Tyrese Maxey,PR,31.5,26.84,26.40,27.00,4,6,Under,Miss
+Toronto vs. Boston,Scottie Barnes,Rebounds,9.0,10.33,10.10,10.00,7,3,Over,Hit
+Philadelphia vs. Houston,Alperen Sengun,Points,23.5,20.09,21.00,21.00,4,6,Under,Miss
+Milwaukee vs. Cleveland,Donovan Mitchell,Assists,6.5,5.57,5.80,6.00,1,9,Under,Miss
+Brooklyn vs. Washington,Tyus Jones,PAR,22.0,25.14,24.80,24.50,6,4,Over,Miss
+New York vs. Orlando,Jalen Suggs,PAR,19.5,16.72,17.30,18.50,4,6,Under,Miss
+Brooklyn vs. Washington,Cameron Johnson,PAR,22.5,19.33,19.80,20.50,3,7,Under,Miss
+Milwaukee vs. Cleveland,Malik Beasley,Rebounds,3.5,3.99,3.90,4.00,6,4,Over,Hit
+New York vs. Orlando,Josh Hart,PAR,16.5,14.20,15.20,15.00,5,5,Under,Hit
+Brooklyn vs. Washington,Jordan Poole,Points,19.5,16.80,18.40,14.00,4,6,Under,Hit
+Philadelphia vs. Houston,Tyrese Maxey,PAR,38.5,33.18,32.70,31.00,4,6,Under,Miss
+Philadelphia vs. Houston,Tyrese Maxey,RA,10.5,9.05,9.20,8.50,3,7,Under,Hit
+Philadelphia vs. Houston,Alperen Sengun,PR,34.5,29.81,30.80,28.50,3,7,Under,Miss
+New York vs. Orlando,Isaiah Hartenstein,PR,16.5,18.70,18.50,19.00,6,4,Over,Miss
+Brooklyn vs. Washington,Daniel Gafford,Points,11.5,13.03,13.30,13.00,7,3,Over,Miss
+Milwaukee vs. Cleveland,Brook Lopez,PA,13.5,11.71,12.70,14.50,6,4,Under,Hit
+Philadelphia vs. Houston,Alperen Sengun,PA,27.5,23.89,24.80,25.00,3,7,Under,Miss
+Sacramento vs. Atlanta,Keegan Murray,PR,22.5,25.45,24.70,25.00,6,4,Over,Miss
+Brooklyn vs. Washington,Tyus Jones,RA,9.0,10.15,9.70,8.50,4,6,Over,Hit
+Milwaukee vs. Cleveland,Damian Lillard,Turnovers,2.5,2.82,2.90,3.00,7,3,Over,Miss
+Sacramento vs. Atlanta,Jalen Johnson,Rebounds,7.5,6.54,6.80,6.50,4,6,Under,Miss
+New York vs. Orlando,Josh Hart,PA,10.5,9.16,9.80,9.00,4,6,Under,Hit
+Philadelphia vs. Houston,Alperen Sengun,PAR,38.5,33.62,34.60,31.50,3,7,Under,Miss
+Philadelphia vs. Houston,Fred VanVleet,Points,18.5,16.16,17.20,16.00,3,7,Under,Miss
+Toronto vs. Boston,Scottie Barnes,RA,15.5,17.37,17.00,16.00,6,4,Over,Miss
+Sacramento vs. Atlanta,Keegan Murray,Fantasy Points - PrizePicks,28.5,31.93,31.29,30.55,6,4,Over,Hit
+Milwaukee vs. Cleveland,Donovan Mitchell,Three Points Made,3.5,3.08,3.10,3.00,4,6,Under,Hit
+Sacramento vs. Atlanta,Clint Capela,Fantasy Points - PrizePicks,31.5,35.27,34.94,38.00,6,4,Over,Hit
+Toronto vs. Boston,Scottie Barnes,PR,29.5,33.02,33.00,34.50,6,4,Over,Hit
+Brooklyn vs. Washington,Tyus Jones,PA,19.0,21.21,21.20,22.00,6,4,Over,Miss
+Sacramento vs. Atlanta,De'Aaron Fox,Steals,1.5,1.67,1.70,2.00,6,4,Under,Miss
+Philadelphia vs. Houston,Tyrese Maxey,PA,34.5,30.51,29.80,29.00,4,6,Under,Miss
+Toronto vs. Boston,Scottie Barnes,Points,20.5,22.87,22.90,22.50,6,4,Over,Hit
+New York vs. Orlando,Jalen Suggs,Fantasy Points - PrizePicks,26.0,23.02,23.33,24.70,5,5,Under,Miss
+Sacramento vs. Atlanta,Clint Capela,PA,13.5,15.04,15.80,17.00,8,2,Over,Hit
+Brooklyn vs. Washington,Daniel Gafford,PR,19.5,21.72,21.30,20.00,6,4,Over,Miss
+New York vs. Orlando,Immanuel Quickley,Points,13.0,14.48,14.60,16.00,6,4,Over,Miss
+Milwaukee vs. Cleveland,Brook Lopez,PAR,18.5,16.40,17.30,20.50,6,4,Under,Miss
+New York vs. Orlando,Jalen Brunson,RA,10.0,11.12,11.20,11.00,6,4,Over,Hit
+Philadelphia vs. Houston,Fred VanVleet,PR,22.5,20.02,21.10,22.00,3,7,Under,Miss
+Brooklyn vs. Washington,Kyle Kuzma,Rebounds,6.0,6.66,6.40,7.00,6,4,Under,Miss
+New York vs. Orlando,Franz Wagner,Rebounds,5.5,6.10,6.00,6.00,7,3,Over,Hit
+Milwaukee vs. Cleveland,Brook Lopez,PR,17.5,15.60,16.10,19.50,6,4,Under,Miss
+Brooklyn vs. Washington,Cameron Johnson,PR,19.5,17.42,17.90,18.50,4,6,Under,Miss
+Milwaukee vs. Cleveland,Brook Lopez,Points,12.5,11.20,11.50,14.00,6,4,Under,Hit
+Brooklyn vs. Washington,Corey Kispert,PA,12.5,13.80,13.20,11.50,4,6,Over,Hit
+Milwaukee vs. Cleveland,Damian Lillard,Three Points Made,3.5,3.86,4.00,4.00,6,4,Over,Miss
+New York vs. Orlando,Jalen Brunson,Assists,6.0,6.60,6.70,7.00,6,4,Under,Miss
+Sacramento vs. Atlanta,Keegan Murray,Rebounds,5.5,4.95,4.70,4.50,3,7,Under,Hit
+Philadelphia vs. Houston,Tyrese Maxey,Fantasy Points - PrizePicks,43.5,39.17,38.13,36.95,3,7,Under,Miss
+Sacramento vs. Atlanta,Keegan Murray,PAR,24.5,26.94,26.20,26.00,6,4,Over,Miss
+Sacramento vs. Atlanta,Jalen Johnson,PA,15.0,16.49,16.10,17.50,6,4,Over,Hit
+New York vs. Orlando,Isaiah Hartenstein,Rebounds,9.5,10.44,10.50,9.50,5,5,Over,Miss
+Philadelphia vs. Houston,De'Anthony Melton,RA,8.0,7.21,7.10,6.50,3,7,Under,Hit
+Sacramento vs. Atlanta,Clint Capela,Points,12.5,13.73,14.60,15.00,8,2,Over,Miss
+Sacramento vs. Atlanta,Clint Capela,PAR,24.5,26.90,27.00,27.00,6,4,Over,Hit
+Brooklyn vs. Washington,Cameron Johnson,Fantasy Points - PrizePicks,26.5,23.91,23.71,24.00,4,6,Under,Miss
+Brooklyn vs. Washington,Dorian Finney-Smith,Points,9.0,9.88,9.50,10.00,6,4,Over,Miss
+Philadelphia vs. Houston,De'Anthony Melton,Rebounds,4.5,4.06,4.30,4.50,5,5,Under,Hit
+Toronto vs. Boston,Scottie Barnes,PAR,36.5,40.02,39.90,41.50,6,4,Over,Hit
+Milwaukee vs. Cleveland,Donovan Mitchell,Points,31.5,28.55,28.60,28.00,3,7,Under,Miss
+New York vs. Orlando,Paolo Banchero,Assists,4.5,4.08,4.10,4.00,3,7,Under,Hit
+New York vs. Orlando,Jalen Suggs,PR,16.5,14.98,15.40,16.50,5,5,Under,Miss
+New York vs. Orlando,Franz Wagner,RA,10.5,11.46,11.00,11.50,6,4,Over,Hit
+Philadelphia vs. Houston,Tobias Harris,Fantasy Points - PrizePicks,35.5,32.26,32.31,30.95,3,7,Under,Miss
+Philadelphia vs. Houston,Alperen Sengun,Fantasy Points - PrizePicks,45.5,41.37,42.26,39.55,2,8,Under,Miss
+Brooklyn vs. Washington,Corey Kispert,Points,11.5,12.53,11.90,10.50,5,5,Over,Hit
+Brooklyn vs. Washington,Daniel Gafford,PA,13.5,14.70,15.20,14.50,5,5,Over,Miss
+Milwaukee vs. Cleveland,Brook Lopez,Three Points Made,1.5,1.37,1.30,1.50,5,5,Under,Hit
+Sacramento vs. Atlanta,Clint Capela,RA,11.5,12.51,12.40,12.00,5,5,Over,Hit
+Brooklyn vs. Washington,Deni Avdija,Three Points Made,0.5,0.46,0.50,0.50,5,5,Under,Miss
+Brooklyn vs. Washington,Cam Thomas,Assists,2.5,2.28,2.20,2.00,4,6,Under,Miss
+Toronto vs. Boston,Scottie Barnes,PA,27.5,29.87,29.80,30.00,7,3,Over,Hit
+Sacramento vs. Atlanta,De'Aaron Fox,Assists,6.0,5.49,5.50,6.00,4,6,Under,Miss
+Brooklyn vs. Washington,Daniel Gafford,PAR,21.5,23.31,23.20,22.00,5,5,Over,Miss
+Toronto vs. Boston,Scottie Barnes,Assists,6.5,7.05,6.90,7.00,6,4,Over,Miss
+New York vs. Orlando,Jalen Brunson,PA,32.0,34.67,34.90,31.00,3,7,Over,Miss
+New York vs. Orlando,Franz Wagner,Points,23.5,21.55,20.50,21.50,5,5,Under,Miss
+Milwaukee vs. Cleveland,Brook Lopez,Steals,0.5,0.54,0.40,0.00,3,7,Under,Hit
+Philadelphia vs. Houston,Fred VanVleet,PA,26.5,24.32,25.40,22.50,4,6,Under,Miss
+Sacramento vs. Atlanta,Saddiq Bey,Fantasy Points - PrizePicks,25.5,27.55,27.30,28.15,8,2,Over,Hit
+Brooklyn vs. Washington,Spencer Dinwiddie,Fantasy Points - PrizePicks,31.0,33.49,32.99,33.05,6,4,Over,Hit
+Milwaukee vs. Cleveland,Khris Middleton,Assists,5.0,5.40,5.40,5.50,5,5,Under,Miss
+Brooklyn vs. Washington,Deni Avdija,PA,13.5,12.44,13.00,12.00,3,7,Under,Miss
+Sacramento vs. Atlanta,Clint Capela,Rebounds,10.5,11.31,11.20,11.00,5,5,Over,Hit
+Milwaukee vs. Cleveland,Donovan Mitchell,PA,37.0,34.18,34.40,34.00,3,7,Under,Miss
+Philadelphia vs. Houston,Fred VanVleet,PAR,30.5,28.19,29.30,28.50,3,7,Under,Miss
+New York vs. Orlando,Jalen Brunson,Fantasy Points - PrizePicks,42.5,45.70,45.75,41.80,5,5,Over,Miss
+New York vs. Orlando,Isaiah Hartenstein,RA,12.0,12.90,12.70,12.00,4,6,Over,Miss
+Philadelphia vs. Houston,Fred VanVleet,Rebounds,4.0,3.70,3.90,4.00,4,6,Under,Hit
+Sacramento vs. Atlanta,Dejounte Murray,Assists,5.0,5.37,5.40,5.00,4,6,Under,Hit
+Brooklyn vs. Washington,Daniel Gafford,RA,9.5,10.20,9.90,8.50,4,6,Over,Miss
+New York vs. Orlando,Isaiah Hartenstein,PAR,19.5,20.90,20.70,22.00,6,4,Over,Miss
+Brooklyn vs. Washington,Spencer Dinwiddie,Points,14.5,13.48,13.50,15.00,5,5,Under,Miss
+Milwaukee vs. Cleveland,Brook Lopez,Rebounds,5.0,4.65,4.60,5.50,5,5,Under,Miss
+Brooklyn vs. Washington,Cameron Johnson,Points,15.5,14.44,14.60,15.00,4,6,Under,Miss
+Brooklyn vs. Washington,Deni Avdija,Rebounds,5.5,5.87,5.70,5.50,5,5,Over,Hit
+New York vs. Orlando,Franz Wagner,PR,29.5,27.51,26.50,28.00,3,7,Under,Miss
+Sacramento vs. Atlanta,Domantas Sabonis,Assists,7.5,8.00,7.90,8.00,6,4,Over,Miss
+Brooklyn vs. Washington,Cameron Johnson,PA,17.5,16.33,16.50,18.50,6,4,Under,Miss
+Brooklyn vs. Washington,Spencer Dinwiddie,Turnovers,1.5,1.60,1.60,2.00,6,4,Under,Hit
+Brooklyn vs. Washington,Deni Avdija,Turnovers,1.5,1.60,1.40,2.00,6,4,Under,Hit
+Milwaukee vs. Cleveland,Khris Middleton,Rebounds,4.5,4.80,5.30,4.00,4,6,Over,Miss
+New York vs. Orlando,Franz Wagner,PA,28.5,26.62,25.50,23.50,3,7,Under,Miss
+New York vs. Orlando,Jalen Brunson,PAR,36.5,38.89,39.40,35.50,4,6,Over,Miss
+Brooklyn vs. Washington,Jordan Poole,PR,22.5,21.03,20.60,18.00,4,6,Under,Hit
+Sacramento vs. Atlanta,Saddiq Bey,PA,15.5,14.49,14.60,15.00,5,5,Under,Miss
+New York vs. Orlando,Isaiah Hartenstein,Fantasy Points - PrizePicks,28.0,29.78,29.60,30.10,7,3,Over,Miss
+New York vs. Orlando,Paolo Banchero,RA,12.0,11.25,10.90,11.00,3,7,Under,Miss
+New York vs. Orlando,Immanuel Quickley,PA,15.5,16.47,16.50,17.00,6,4,Over,Miss
+Sacramento vs. Atlanta,Jalen Johnson,RA,10.0,9.38,9.40,10.00,5,5,Under,Miss
+New York vs. Orlando,Jalen Brunson,Points,26.5,28.12,28.20,23.50,4,6,Over,Miss
+Sacramento vs. Atlanta,De'Aaron Fox,RA,10.5,9.86,9.90,10.50,5,5,Under,Miss
+New York vs. Orlando,Jalen Suggs,PA,15.5,14.56,14.90,14.50,4,6,Under,Miss
+Sacramento vs. Atlanta,Jalen Johnson,Points,13.0,13.79,13.50,14.50,5,5,Over,Hit
+New York vs. Orlando,Jalen Suggs,Points,13.5,12.69,13.00,12.50,4,6,Under,Miss
+Sacramento vs. Atlanta,Clint Capela,PR,23.5,24.89,25.80,25.50,6,4,Over,Hit
+Milwaukee vs. Cleveland,Giannis Antetokounmpo,Assists,6.0,6.35,6.30,6.00,3,7,Under,Hit
+Brooklyn vs. Washington,Corey Kispert,PR,13.5,14.29,13.70,13.00,5,5,Over,Hit
+Brooklyn vs. Washington,Deni Avdija,Points,9.5,8.94,9.30,9.00,4,6,Under,Miss
+New York vs. Orlando,Jalen Brunson,PR,30.5,32.28,32.70,29.50,4,6,Over,Miss
+Sacramento vs. Atlanta,Harrison Barnes,Points,11.5,12.16,11.50,11.00,5,5,Over,Miss
+Brooklyn vs. Washington,Jordan Poole,Rebounds,2.5,2.36,2.20,2.00,4,6,Under,Hit
+Brooklyn vs. Washington,Spencer Dinwiddie,RA,11.0,11.61,11.70,11.50,5,5,Over,Hit
+Brooklyn vs. Washington,Jordan Poole,PA,23.5,22.20,22.30,18.50,4,6,Under,Hit
+Sacramento vs. Atlanta,Domantas Sabonis,PR,35.0,33.07,32.80,31.50,3,7,Under,Miss
+Brooklyn vs. Washington,Kyle Kuzma,Fantasy Points - PrizePicks,35.5,33.58,33.28,31.85,4,6,Under,Miss
+New York vs. Orlando,Isaiah Hartenstein,Points,7.5,7.90,8.00,8.00,5,5,Over,Miss
+New York vs. Orlando,Immanuel Quickley,PR,15.5,16.31,16.30,17.00,6,4,Over,Miss
+Brooklyn vs. Washington,Jordan Poole,PAR,25.5,24.20,24.50,22.00,4,6,Under,Hit
+Sacramento vs. Atlanta,Trae Young,PAR,43.5,45.66,45.60,48.00,7,3,Over,Miss
+Sacramento vs. Atlanta,Trae Young,PA,40.5,42.51,42.30,43.50,7,3,Over,Miss
+Brooklyn vs. Washington,Spencer Dinwiddie,PR,18.5,17.59,17.70,18.00,4,6,Under,Miss
+Milwaukee vs. Cleveland,Donovan Mitchell,PAR,42.5,40.45,40.80,42.00,5,5,Under,Miss
+Brooklyn vs. Washington,Deni Avdija,PR,15.5,14.76,15.00,14.00,3,7,Under,Miss
+New York vs. Orlando,Paolo Banchero,PA,28.5,29.84,28.70,26.50,4,6,Over,Hit
+Brooklyn vs. Washington,Dorian Finney-Smith,PR,14.5,13.83,13.50,14.50,5,5,Under,Hit
+Brooklyn vs. Washington,Kyle Kuzma,PA,25.5,24.35,24.60,22.50,4,6,Under,Miss
+Brooklyn vs. Washington,Deni Avdija,RA,9.0,9.40,9.40,8.50,4,6,Under,Miss
+New York vs. Orlando,Immanuel Quickley,PAR,17.5,18.26,18.20,18.00,7,3,Over,Miss
+Sacramento vs. Atlanta,Domantas Sabonis,PAR,43.0,41.18,40.70,39.00,3,7,Under,Hit
+Brooklyn vs. Washington,Jordan Poole,Assists,3.5,3.65,3.90,3.50,5,5,Under,Miss
+Sacramento vs. Atlanta,Saddiq Bey,Points,13.5,12.94,13.20,13.50,5,5,Under,Miss
+New York vs. Orlando,Franz Wagner,PAR,34.0,32.59,31.50,30.50,2,8,Under,Miss
+New York vs. Orlando,Julius Randle,PAR,38.5,36.90,37.80,36.50,3,7,Under,Miss
+New York vs. Orlando,Julius Randle,Points,24.5,25.50,25.90,25.50,6,4,Over,Hit
+Brooklyn vs. Washington,Cam Thomas,Steals,0.5,0.52,0.50,0.50,5,5,Under,Hit
+Sacramento vs. Atlanta,Domantas Sabonis,Rebounds,13.0,12.48,12.50,11.50,3,7,Under,Hit
+New York vs. Orlando,Donte DiVincenzo,Rebounds,2.5,2.40,3.10,2.00,4,6,Under,Hit
+Brooklyn vs. Washington,Cameron Johnson,Three Points Made,2.5,2.40,2.60,3.00,6,4,Under,Miss
+Sacramento vs. Atlanta,Jalen Johnson,Fantasy Points - PrizePicks,30.0,31.15,30.56,27.65,4,6,Over,Hit
+Philadelphia vs. Houston,Fred VanVleet,RA,11.5,11.07,12.10,12.00,5,5,Under,Miss
+Brooklyn vs. Washington,Cam Thomas,PAR,27.5,26.47,25.90,25.00,3,7,Under,Hit
+Milwaukee vs. Cleveland,Khris Middleton,RA,10.0,10.37,10.70,10.50,5,5,Over,Hit
+Sacramento vs. Atlanta,De'Aaron Fox,Fantasy Points - PrizePicks,48.5,46.71,46.43,47.05,5,5,Under,Miss
+Sacramento vs. Atlanta,Trae Young,RA,15.0,15.55,15.70,16.00,6,4,Over,Miss
+Milwaukee vs. Cleveland,Giannis Antetokounmpo,Rebounds,11.0,11.40,11.50,11.00,5,5,Over,Hit
+Milwaukee vs. Cleveland,Khris Middleton,PAR,27.5,28.50,29.00,30.00,6,4,Over,Miss
+Sacramento vs. Atlanta,Harrison Barnes,Three Points Made,1.5,1.45,1.60,1.50,5,5,Under,Hit
+Sacramento vs. Atlanta,Dejounte Murray,RA,9.5,9.84,10.10,9.00,4,6,Over,Miss
+Milwaukee vs. Cleveland,Khris Middleton,PR,22.5,23.30,23.60,24.00,7,3,Over,Miss
+Philadelphia vs. Houston,De'Anthony Melton,Fantasy Points - PrizePicks,30.5,29.43,28.26,27.80,4,6,Under,Hit
+Sacramento vs. Atlanta,De'Aaron Fox,PA,37.0,35.72,35.50,35.00,3,7,Under,Miss
+Sacramento vs. Atlanta,De'Aaron Fox,PAR,41.5,40.07,39.90,39.50,3,7,Under,Miss
+New York vs. Orlando,Franz Wagner,Fantasy Points - PrizePicks,40.0,38.65,37.60,33.75,3,7,Under,Miss
+Brooklyn vs. Washington,Kyle Kuzma,Points,21.5,20.77,21.00,19.00,4,6,Under,Miss
+Brooklyn vs. Washington,Cam Thomas,PR,24.5,23.71,23.70,22.00,3,7,Under,Hit
+Philadelphia vs. Houston,Tobias Harris,RA,10.0,9.68,9.80,9.00,2,8,Under,Miss
+Milwaukee vs. Cleveland,Donovan Mitchell,RA,11.5,11.86,12.20,13.00,6,4,Over,Hit
+Sacramento vs. Atlanta,Trae Young,Assists,12.0,12.38,12.40,13.00,6,4,Over,Miss
+Milwaukee vs. Cleveland,Damian Lillard,PR,28.5,29.39,30.30,30.00,6,4,Over,Hit
+New York vs. Orlando,Julius Randle,Fantasy Points - PrizePicks,41.5,40.30,40.13,38.25,3,7,Under,Miss
+Philadelphia vs. Houston,Tobias Harris,Rebounds,6.5,6.31,6.30,7.00,6,4,Under,Hit
+Sacramento vs. Atlanta,Harrison Barnes,Rebounds,3.5,3.60,3.10,3.00,4,6,Under,Hit
+Milwaukee vs. Cleveland,Damian Lillard,Assists,6.5,6.68,6.90,7.00,6,4,Over,Miss
+New York vs. Orlando,Julius Randle,PR,34.5,33.56,34.30,33.50,3,7,Under,Miss
+Sacramento vs. Atlanta,Dejounte Murray,PA,25.5,26.19,26.10,26.00,6,4,Over,Miss
+Sacramento vs. Atlanta,Dejounte Murray,Fantasy Points - PrizePicks,37.0,37.98,37.94,37.20,6,4,Over,Miss
+Sacramento vs. Atlanta,De'Aaron Fox,PR,35.5,34.58,34.40,33.50,3,7,Under,Miss
+Milwaukee vs. Cleveland,Damian Lillard,Points,24.5,25.13,25.80,24.00,4,6,Over,Hit
+Sacramento vs. Atlanta,Trae Young,Points,29.5,30.22,29.90,30.00,8,2,Over,Miss
+New York vs. Orlando,Paolo Banchero,Points,23.5,24.05,24.60,23.50,5,5,Over,Hit
+Sacramento vs. Atlanta,Trae Young,PR,32.5,33.27,33.20,34.50,7,3,Over,Miss
+New York vs. Orlando,Paolo Banchero,SB,1.5,1.47,1.50,1.50,5,5,Under,Miss
+Sacramento vs. Atlanta,Domantas Sabonis,Points,21.5,21.00,20.30,17.50,3,7,Under,Miss
+Milwaukee vs. Cleveland,Damian Lillard,PAR,35.5,36.28,37.20,37.50,6,4,Over,Hit
+Brooklyn vs. Washington,Deni Avdija,PAR,19.0,18.59,18.70,16.50,3,7,Under,Miss
+Brooklyn vs. Washington,Deni Avdija,Assists,3.5,3.42,3.70,3.50,5,5,Under,Miss
+Milwaukee vs. Cleveland,Giannis Antetokounmpo,RA,17.5,17.84,17.80,17.50,5,5,Over,Hit
+Milwaukee vs. Cleveland,Khris Middleton,PA,22.5,22.94,23.70,21.50,4,6,Over,Hit
+Milwaukee vs. Cleveland,Donovan Mitchell,PR,35.5,34.83,35.00,36.50,5,5,Under,Miss
+New York vs. Orlando,Paolo Banchero,Fantasy Points - PrizePicks,40.5,41.25,40.21,39.60,5,5,Over,Hit
+Brooklyn vs. Washington,Cam Thomas,Points,21.5,21.89,21.80,20.00,4,6,Over,Miss
+Philadelphia vs. Houston,Fred VanVleet,Fantasy Points - PrizePicks,37.5,38.17,39.48,38.95,5,5,Over,Hit
+Milwaukee vs. Cleveland,Damian Lillard,RA,11.0,10.81,11.40,11.50,5,5,Under,Hit
+New York vs. Orlando,Paolo Banchero,Rebounds,7.0,6.88,6.80,7.00,4,6,Under,Miss
+Brooklyn vs. Washington,Tyus Jones,Assists,6.0,6.10,6.10,5.50,3,7,Under,Miss
+Brooklyn vs. Washington,Kyle Kuzma,RA,10.0,10.16,10.00,10.00,4,6,Over,Miss
+Sacramento vs. Atlanta,Saddiq Bey,PAR,21.5,21.85,22.10,23.00,7,3,Over,Hit
+Sacramento vs. Atlanta,Trae Young,Fantasy Points - PrizePicks,50.5,51.30,50.96,53.20,7,3,Over,Miss
+Milwaukee vs. Cleveland,Giannis Antetokounmpo,PAR,49.0,49.76,49.90,49.50,5,5,Over,Hit
+Philadelphia vs. Houston,Tyrese Maxey,Assists,6.5,6.40,6.30,6.50,5,5,Under,Hit
+Milwaukee vs. Cleveland,Damian Lillard,PA,31.5,31.97,32.70,31.50,5,5,Over,Hit
+Brooklyn vs. Washington,Spencer Dinwiddie,PA,21.5,21.19,21.00,23.00,6,4,Under,Miss
+Milwaukee vs. Cleveland,Khris Middleton,Points,17.5,17.75,18.30,18.50,5,5,Over,Miss
+Sacramento vs. Atlanta,Domantas Sabonis,Fantasy Points - PrizePicks,48.5,47.83,46.95,44.85,4,6,Under,Hit
+New York vs. Orlando,Paolo Banchero,PAR,35.5,35.03,35.50,34.00,3,7,Under,Miss
+Sacramento vs. Atlanta,Jalen Johnson,PAR,23.5,23.21,22.90,23.00,4,6,Under,Miss
+New York vs. Orlando,Julius Randle,PA,28.5,28.85,29.40,28.00,5,5,Over,Hit
+Brooklyn vs. Washington,Jordan Poole,Fantasy Points - PrizePicks,28.5,28.16,27.89,25.10,4,6,Under,Hit
+Milwaukee vs. Cleveland,Giannis Antetokounmpo,Points,31.5,31.13,32.10,32.00,6,4,Under,Miss
+Sacramento vs. Atlanta,Dejounte Murray,Rebounds,4.5,4.45,4.70,4.00,4,6,Under,Miss
+Brooklyn vs. Washington,Kyle Kuzma,PR,27.5,27.20,27.40,27.00,5,5,Under,Miss
+Sacramento vs. Atlanta,Harrison Barnes,Fantasy Points - PrizePicks,19.5,19.71,18.97,19.60,5,5,Over,Miss
+Brooklyn vs. Washington,Dorian Finney-Smith,PA,10.5,10.61,10.30,10.50,5,5,Over,Miss
+Sacramento vs. Atlanta,Harrison Barnes,PR,15.5,15.33,14.60,15.50,5,5,Under,Hit
+New York vs. Orlando,Paolo Banchero,PR,30.5,30.82,31.40,29.00,3,7,Over,Hit
+Sacramento vs. Atlanta,Dejounte Murray,Points,21.0,20.79,20.70,20.50,2,8,Under,Hit
+Sacramento vs. Atlanta,De'Aaron Fox,Points,30.5,30.23,30.00,29.50,3,7,Under,Miss
+Milwaukee vs. Cleveland,Giannis Antetokounmpo,PR,43.0,43.37,43.60,43.50,5,5,Over,Hit
+Sacramento vs. Atlanta,Saddiq Bey,PR,20.5,20.33,20.70,20.50,5,5,Under,Miss
+Brooklyn vs. Washington,Kyle Kuzma,PAR,31.5,31.27,31.00,29.00,4,6,Under,Miss
+Brooklyn vs. Washington,Spencer Dinwiddie,PAR,25.5,25.33,25.20,26.00,6,4,Under,Miss
+Brooklyn vs. Washington,Daniel Gafford,Rebounds,8.0,8.05,8.00,7.50,3,7,Under,Hit
+Sacramento vs. Atlanta,Dejounte Murray,PR,25.5,25.34,25.40,24.00,3,7,Under,Hit
+Brooklyn vs. Washington,Cam Thomas,PA,24.5,24.37,24.00,24.00,5,5,Under,Hit
+Sacramento vs. Atlanta,Dejounte Murray,PAR,31.0,30.83,30.80,30.00,4,6,Under,Hit
+Philadelphia vs. Houston,Fred VanVleet,Assists,7.5,7.46,8.20,7.00,5,5,Under,Miss
+Sacramento vs. Atlanta,Harrison Barnes,PAR,16.5,16.55,15.90,17.00,6,4,Over,Miss
+Sacramento vs. Atlanta,Jalen Johnson,PR,20.5,20.44,20.30,22.00,6,4,Under,Miss
+New York vs. Orlando,Josh Hart,RA,8.5,8.52,9.20,10.00,5,5,Under,Hit
+Sacramento vs. Atlanta,Domantas Sabonis,RA,20.5,20.55,20.40,21.00,5,5,Over,Miss
+Sacramento vs. Atlanta,Harrison Barnes,PA,13.5,13.48,12.80,13.00,4,6,Under,Hit
+Milwaukee vs. Cleveland,Giannis Antetokounmpo,PA,37.5,37.46,38.40,38.00,6,4,Under,Miss
+Sacramento vs. Atlanta,Domantas Sabonis,PA,29.5,29.50,28.20,26.00,3,7,Over,Hit

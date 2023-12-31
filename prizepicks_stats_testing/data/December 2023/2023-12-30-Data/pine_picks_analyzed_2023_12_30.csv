@@ -1,0 +1,215 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes,Result
+Dallas vs. Golden State,Klay Thompson,Steals,0.5,0.80,0.80,1.00,6,4,Over,Miss
+New York vs. Indiana,Bennedict Mathurin,Steals,0.5,0.80,0.70,1.00,6,4,Over,Miss
+New York vs. Indiana,Andrew Nembhard,Rebounds,2.5,1.20,1.60,1.00,3,7,Under,Miss
+New York vs. Indiana,Jalen Smith,RA,9.0,4.37,4.90,4.50,0,10,Under,Hit
+Toronto vs. Detroit,Jalen Duren,Turnovers,1.5,2.23,2.20,2.00,8,2,Over,Miss
+New York vs. Indiana,Jalen Smith,Rebounds,7.5,3.94,4.40,4.50,1,9,Under,Hit
+Miami vs. Utah,Jordan Clarkson,Assists,4.0,5.69,5.70,5.00,9,1,Over,Miss
+Miami vs. Utah,Collin Sexton,Three Points Made,1.5,2.11,1.90,2.00,6,4,Over,Miss
+New York vs. Indiana,Jalen Smith,PAR,21.5,13.40,14.30,14.00,1,9,Under,Hit
+New York vs. Indiana,Andrew Nembhard,PR,14.5,9.06,9.40,9.50,2,8,Under,Miss
+New York vs. Indiana,Jalen Smith,Fantasy Points - PrizePicks,24.5,15.31,16.13,15.15,2,8,Under,Hit
+New York vs. Indiana,Andrew Nembhard,PAR,20.5,13.24,13.60,14.50,1,9,Under,Miss
+New York vs. Indiana,Andrew Nembhard,Points,11.5,7.51,7.80,8.00,2,8,Under,Miss
+New York vs. Indiana,Jalen Smith,PR,19.5,12.97,13.80,14.00,2,8,Under,Hit
+New York vs. Indiana,Andrew Nembhard,PA,17.5,11.69,12.00,11.50,1,9,Under,Miss
+Miami vs. Utah,John Collins,Rebounds,6.0,7.91,8.00,8.50,6,4,Over,Miss
+New York vs. Indiana,Andrew Nembhard,Fantasy Points - PrizePicks,25.0,17.35,17.52,17.05,0,10,Under,Miss
+New York vs. Indiana,Jalen Smith,PA,13.5,9.42,9.90,10.00,1,9,Under,Hit
+New York vs. Indiana,Andrew Nembhard,RA,8.0,5.70,5.80,6.00,1,9,Under,Miss
+Toronto vs. Detroit,Scottie Barnes,Turnovers,2.5,3.20,3.10,3.00,7,3,Over,Miss
+Philadelphia vs. Chicago,Coby White,Steals,0.5,0.37,0.40,0.00,4,6,Under,Hit
+Dallas vs. Golden State,Stephen Curry,Three Points Made,4.5,3.33,4.00,3.50,4,6,Under,Miss
+Toronto vs. Detroit,Bojan Bogdanovic,Rebounds,4.0,3.00,3.60,2.50,2,8,Under,Miss
+New York vs. Indiana,Jalen Smith,Points,12.0,9.01,9.40,9.50,1,9,Under,Hit
+Miami vs. Utah,Collin Sexton,Points,18.5,23.08,22.90,23.00,9,1,Over,Hit
+Miami vs. Utah,Collin Sexton,Fantasy Points - PrizePicks,28.0,34.84,35.12,36.45,8,2,Over,Hit
+New York vs. Indiana,Andrew Nembhard,Assists,5.5,4.17,4.20,4.00,2,8,Under,Hit
+Toronto vs. Detroit,Jakob Poeltl,PR,21.5,16.37,15.90,17.00,3,7,Under,Hit
+Toronto vs. Detroit,Jakob Poeltl,Fantasy Points - PrizePicks,33.5,25.71,24.68,22.65,2,8,Under,Miss
+Toronto vs. Detroit,Jakob Poeltl,Rebounds,9.0,7.00,6.90,8.00,1,9,Under,Miss
+Miami vs. Utah,John Collins,Steals,0.5,0.61,0.60,0.00,4,6,Under,Hit
+Toronto vs. Detroit,Bojan Bogdanovic,Steals,0.5,0.61,0.70,0.00,4,6,Under,Hit
+Miami vs. Utah,Tyler Herro,Rebounds,5.0,6.09,5.80,6.50,6,4,Over,Hit
+Miami vs. Utah,Collin Sexton,PA,22.5,27.31,27.10,28.00,7,3,Over,Hit
+Miami vs. Utah,Collin Sexton,PR,21.5,26.08,26.00,26.50,9,1,Over,Hit
+Toronto vs. Detroit,Jakob Poeltl,PAR,23.5,18.50,18.10,18.50,2,8,Under,Hit
+Toronto vs. Detroit,Jakob Poeltl,RA,11.5,9.06,9.10,8.50,1,9,Under,Miss
+New York vs. Indiana,Tyrese Haliburton,PR,29.5,23.30,23.50,21.50,2,8,Under,Hit
+Dallas vs. Golden State,Stephen Curry,PR,33.5,26.49,27.60,29.50,4,6,Under,Hit
+New York vs. Indiana,Tyrese Haliburton,Points,25.5,20.16,20.20,19.50,2,8,Under,Hit
+Toronto vs. Detroit,Jakob Poeltl,PA,14.5,11.47,11.20,10.50,3,7,Under,Hit
+Dallas vs. Golden State,Stephen Curry,RA,10.0,7.92,8.00,9.00,1,9,Under,Hit
+Miami vs. Utah,Lauri Markkanen,RA,10.5,12.65,11.80,12.50,6,4,Over,Miss
+New York vs. Indiana,Andrew Nembhard,Turnovers,1.5,1.20,1.50,1.00,4,6,Under,Miss
+Toronto vs. Detroit,Pascal Siakam,SB,1.5,1.20,1.20,1.00,2,8,Under,Hit
+Dallas vs. Golden State,Klay Thompson,Turnovers,1.5,1.20,1.50,1.00,4,6,Under,Hit
+Philadelphia vs. Chicago,DeMar DeRozan,Blocks,0.5,0.60,0.80,0.50,5,5,Under,Hit
+Dallas vs. Golden State,Luka Doncic,Blocks,0.5,0.60,0.90,0.50,5,5,Under,Miss
+Miami vs. Utah,Jordan Clarkson,RA,7.5,8.98,9.20,9.00,8,2,Over,Miss
+Dallas vs. Golden State,Stephen Curry,PAR,38.5,30.96,32.00,32.50,4,6,Under,Hit
+Dallas vs. Golden State,Stephen Curry,Points,28.5,22.93,24.00,25.50,4,6,Under,Hit
+Dallas vs. Golden State,Stephen Curry,Rebounds,4.5,3.63,3.60,3.50,2,8,Under,Hit
+New York vs. Indiana,Donte DiVincenzo,Fantasy Points - PrizePicks,26.5,21.42,21.32,17.85,2,8,Under,Miss
+Miami vs. Utah,Collin Sexton,PAR,25.5,30.29,30.20,31.50,8,2,Over,Hit
+Toronto vs. Detroit,Jakob Poeltl,SB,2.5,2.03,1.80,2.00,4,6,Under,Miss
+Toronto vs. Detroit,Jakob Poeltl,Points,11.5,9.36,9.00,9.00,3,7,Under,Hit
+Dallas vs. Golden State,Stephen Curry,PA,33.5,27.28,28.40,28.50,4,6,Under,Hit
+Miami vs. Utah,John Collins,PAR,17.5,20.68,20.70,20.50,7,3,Over,Miss
+Miami vs. Utah,Lauri Markkanen,Rebounds,8.5,10.03,9.80,9.50,6,4,Over,Miss
+Dallas vs. Golden State,Klay Thompson,Points,17.5,20.53,20.50,23.00,7,3,Over,Miss
+Philadelphia vs. Chicago,Coby White,Rebounds,5.0,5.86,5.90,6.00,6,4,Over,Hit
+New York vs. Indiana,Aaron Nesmith,Rebounds,4.0,3.37,3.60,4.00,5,5,Under,Hit
+New York vs. Indiana,Myles Turner,RA,8.0,6.75,6.90,6.50,2,8,Under,Miss
+LA Lakers vs. Minnesota,Anthony Edwards,Steals,1.5,1.73,1.70,1.50,5,5,Over,Miss
+Miami vs. Utah,Tyler Herro,Turnovers,2.5,2.87,3.10,3.00,7,3,Over,Miss
+Miami vs. Utah,Bam Adebayo,Fantasy Points - PrizePicks,46.5,39.59,40.39,40.35,3,7,Under,Miss
+LA Lakers vs. Minnesota,Karl-Anthony Towns,Rebounds,8.5,9.74,9.90,9.00,5,5,Over,Hit
+Toronto vs. Detroit,Pascal Siakam,Rebounds,7.0,6.00,5.80,5.00,2,8,Under,Hit
+LA Lakers vs. Minnesota,LeBron James,Turnovers,3.5,3.00,2.90,2.50,3,7,Under,Hit
+Dallas vs. Golden State,Klay Thompson,Three Points Made,3.5,4.00,4.30,4.00,7,3,Over,Miss
+Miami vs. Utah,Bam Adebayo,Rebounds,10.5,9.02,9.70,10.50,5,5,Under,Miss
+Miami vs. Utah,John Collins,Fantasy Points - PrizePicks,21.5,24.46,25.70,21.90,5,5,Over,Miss
+Dallas vs. Golden State,Stephen Curry,Assists,5.0,4.32,4.40,4.00,3,7,Under,Miss
+Dallas vs. Golden State,Klay Thompson,PR,21.5,24.36,24.00,27.00,7,3,Over,Miss
+New York vs. Indiana,Tyrese Haliburton,PAR,41.5,36.07,36.30,35.00,3,7,Under,Miss
+Miami vs. Utah,Bam Adebayo,RA,15.5,13.51,14.00,15.00,3,7,Under,Miss
+New York vs. Indiana,Julius Randle,Fantasy Points - PrizePicks,47.0,40.98,40.13,38.25,2,8,Under,Hit
+New York vs. Indiana,Tyrese Haliburton,PA,37.5,32.99,33.00,31.00,3,7,Under,Miss
+Miami vs. Utah,Bam Adebayo,Assists,5.0,4.41,4.30,5.00,3,7,Under,Hit
+LA Lakers vs. Minnesota,LeBron James,Assists,8.0,8.94,9.20,9.00,6,4,Over,Miss
+Toronto vs. Detroit,Cade Cunningham,Assists,7.5,6.63,6.50,6.50,2,8,Under,Miss
+New York vs. Indiana,Tyrese Haliburton,Fantasy Points - PrizePicks,50.0,44.24,44.06,42.40,3,7,Under,Miss
+Miami vs. Utah,Jordan Clarkson,Points,16.5,14.62,14.80,12.50,3,7,Under,Hit
+Miami vs. Utah,Tyler Herro,Assists,4.5,4.00,4.20,4.00,5,5,Under,Miss
+Toronto vs. Detroit,Scottie Barnes,Rebounds,9.0,9.99,10.10,10.00,7,3,Over,Miss
+New York vs. Indiana,Myles Turner,Rebounds,7.0,6.23,6.30,6.00,2,8,Under,Miss
+Toronto vs. Detroit,Jaden Ivey,Assists,4.0,3.57,3.50,4.00,2,8,Under,Miss
+Toronto vs. Detroit,Jaden Ivey,Fantasy Points - PrizePicks,25.0,27.66,28.69,27.20,7,3,Over,Hit
+Dallas vs. Golden State,Luka Doncic,Rebounds,9.5,8.53,8.30,7.50,3,7,Under,Hit
+LA Lakers vs. Minnesota,Karl-Anthony Towns,RA,11.5,12.66,12.50,12.00,6,4,Over,Miss
+Miami vs. Utah,Bam Adebayo,PAR,37.5,33.76,34.70,35.00,4,6,Under,Miss
+New York vs. Indiana,Aaron Nesmith,PAR,18.5,16.66,17.10,17.50,4,6,Under,Miss
+Miami vs. Utah,Bam Adebayo,PR,32.5,29.28,30.40,31.00,5,5,Under,Miss
+Miami vs. Utah,Jordan Clarkson,Steals,0.5,0.55,0.60,0.50,5,5,Under,Hit
+Toronto vs. Detroit,Scottie Barnes,Assists,6.5,7.13,6.90,7.00,6,4,Over,Miss
+LA Lakers vs. Minnesota,Anthony Edwards,Points,28.5,25.75,25.20,27.00,4,6,Under,Miss
+LA Lakers vs. Minnesota,LeBron James,RA,15.5,16.99,17.20,17.00,6,4,Over,Miss
+Toronto vs. Detroit,Cade Cunningham,RA,12.5,11.31,11.30,12.50,5,5,Under,Miss
+LA Lakers vs. Minnesota,Anthony Edwards,PA,34.5,31.26,30.90,32.00,4,6,Under,Hit
+LA Lakers vs. Minnesota,Anthony Davis,PA,31.5,34.46,33.80,34.50,7,3,Over,Hit
+LA Lakers vs. Minnesota,Anthony Edwards,PR,34.5,31.27,30.00,34.00,4,6,Under,Hit
+LA Lakers vs. Minnesota,Anthony Edwards,PAR,40.5,36.76,35.70,39.00,4,6,Under,Hit
+LA Lakers vs. Minnesota,Anthony Edwards,Turnovers,3.5,3.82,3.40,4.00,6,4,Over,Miss
+Miami vs. Utah,Lauri Markkanen,Fantasy Points - PrizePicks,39.0,42.40,42.26,40.05,6,4,Over,Miss
+LA Lakers vs. Minnesota,Anthony Davis,Points,28.5,30.98,30.50,31.50,6,4,Over,Hit
+Toronto vs. Detroit,Jaden Ivey,RA,7.5,8.15,8.20,7.50,5,5,Over,Hit
+Miami vs. Utah,Jordan Clarkson,PR,19.5,17.86,18.30,15.00,4,6,Under,Hit
+Dallas vs. Golden State,Klay Thompson,PA,20.5,22.22,22.60,24.50,7,3,Over,Miss
+New York vs. Indiana,Myles Turner,PAR,25.5,23.36,24.10,24.00,4,6,Under,Miss
+New York vs. Indiana,Myles Turner,PA,18.5,16.99,17.80,18.50,5,5,Under,Miss
+Toronto vs. Detroit,Jaden Ivey,PR,17.5,18.92,19.90,19.00,5,5,Over,Miss
+Dallas vs. Golden State,Klay Thompson,Rebounds,3.5,3.77,3.50,4.00,6,4,Over,Miss
+Philadelphia vs. Chicago,Coby White,RA,10.5,11.29,12.00,11.50,7,3,Over,Miss
+LA Lakers vs. Minnesota,LeBron James,Rebounds,7.5,8.06,8.00,8.00,6,4,Over,Miss
+New York vs. Indiana,Isaiah Hartenstein,Fantasy Points - PrizePicks,32.5,30.11,29.60,30.10,3,7,Under,Miss
+Philadelphia vs. Chicago,DeMar DeRozan,PR,29.5,27.35,27.60,26.50,3,7,Under,Miss
+Miami vs. Utah,Tyler Herro,PR,29.5,31.64,30.60,33.00,6,4,Over,Hit
+Miami vs. Utah,John Collins,Points,11.0,11.79,12.10,10.50,4,6,Over,Miss
+LA Lakers vs. Minnesota,Anthony Edwards,Rebounds,5.0,5.36,4.80,6.00,5,5,Under,Hit
+Miami vs. Utah,Bam Adebayo,PA,26.5,24.64,25.00,26.00,5,5,Under,Miss
+Miami vs. Utah,Lauri Markkanen,PA,25.5,27.25,26.40,25.50,5,5,Over,Miss
+Toronto vs. Detroit,Cade Cunningham,PA,33.5,31.33,32.40,30.50,4,6,Under,Miss
+New York vs. Indiana,Myles Turner,Points,17.5,16.37,17.20,18.00,6,4,Under,Miss
+LA Lakers vs. Minnesota,LeBron James,Fantasy Points - PrizePicks,49.5,52.62,53.20,55.10,6,4,Over,Hit
+Miami vs. Utah,Bam Adebayo,Points,21.5,20.16,20.70,21.50,5,5,Under,Miss
+Toronto vs. Detroit,Pascal Siakam,PR,32.5,30.51,29.80,29.00,4,6,Under,Miss
+Toronto vs. Detroit,Pascal Siakam,PAR,38.5,36.14,35.40,36.50,5,5,Under,Miss
+LA Lakers vs. Minnesota,Anthony Davis,Fantasy Points - PrizePicks,55.5,58.81,58.43,55.15,5,5,Over,Hit
+New York vs. Indiana,Myles Turner,Fantasy Points - PrizePicks,33.5,31.53,32.06,32.65,5,5,Under,Miss
+Dallas vs. Golden State,Luka Doncic,Assists,10.0,10.58,10.50,10.00,3,7,Over,Miss
+New York vs. Indiana,Aaron Nesmith,PR,16.5,15.56,16.00,16.00,5,5,Under,Miss
+Philadelphia vs. Chicago,DeMar DeRozan,Points,24.5,23.11,23.50,22.00,4,6,Under,Hit
+Dallas vs. Golden State,Klay Thompson,PAR,24.5,25.87,26.10,28.50,7,3,Over,Miss
+Toronto vs. Detroit,Bojan Bogdanovic,PR,24.5,23.17,22.80,26.00,6,4,Under,Miss
+Miami vs. Utah,Tyler Herro,Points,24.5,25.83,24.80,25.50,6,4,Over,Hit
+Toronto vs. Detroit,Pascal Siakam,Fantasy Points - PrizePicks,44.5,42.13,41.26,43.25,5,5,Under,Miss
+LA Lakers vs. Minnesota,Anthony Davis,PAR,44.5,46.83,46.20,46.00,5,5,Over,Hit
+LA Lakers vs. Minnesota,Karl-Anthony Towns,PR,29.5,31.03,30.30,28.00,4,6,Over,Miss
+Toronto vs. Detroit,Bojan Bogdanovic,Fantasy Points - PrizePicks,29.0,27.52,27.22,27.80,3,7,Under,Hit
+Miami vs. Utah,Lauri Markkanen,Points,23.5,24.69,24.40,24.00,6,4,Over,Miss
+New York vs. Indiana,Bennedict Mathurin,Points,13.0,13.65,14.40,13.50,5,5,Over,Hit
+Toronto vs. Detroit,Cade Cunningham,PAR,38.0,36.12,37.20,35.00,4,6,Under,Miss
+Miami vs. Utah,Tyler Herro,Fantasy Points - PrizePicks,38.0,39.87,38.86,38.60,8,2,Over,Hit
+Toronto vs. Detroit,Pascal Siakam,RA,12.5,11.90,11.40,10.00,4,6,Under,Hit
+LA Lakers vs. Minnesota,Karl-Anthony Towns,Points,21.5,20.47,20.40,19.50,3,7,Under,Hit
+LA Lakers vs. Minnesota,Anthony Davis,Rebounds,12.5,11.90,12.40,12.00,5,5,Under,Miss
+Miami vs. Utah,Lauri Markkanen,PAR,35.0,36.67,36.20,35.50,5,5,Over,Miss
+Toronto vs. Detroit,Pascal Siakam,PA,31.5,30.05,29.60,31.00,5,5,Under,Miss
+LA Lakers vs. Minnesota,Anthony Davis,PR,41.5,43.33,42.90,42.50,5,5,Over,Hit
+Toronto vs. Detroit,Bojan Bogdanovic,PAR,27.0,25.83,25.20,28.00,6,4,Under,Miss
+Philadelphia vs. Chicago,DeMar DeRozan,Rebounds,4.5,4.31,4.10,4.00,4,6,Under,Miss
+Toronto vs. Detroit,Pascal Siakam,Points,25.5,24.41,24.00,23.50,4,6,Under,Miss
+Dallas vs. Golden State,Luka Doncic,Points,36.5,38.06,37.30,38.50,6,4,Over,Hit
+LA Lakers vs. Minnesota,Karl-Anthony Towns,PA,24.5,23.46,23.00,21.50,4,6,Under,Hit
+Toronto vs. Detroit,Jaden Ivey,PAR,21.5,22.40,23.40,22.00,5,5,Over,Miss
+LA Lakers vs. Minnesota,Karl-Anthony Towns,Fantasy Points - PrizePicks,35.5,36.99,35.98,34.90,5,5,Over,Miss
+LA Lakers vs. Minnesota,Anthony Edwards,Fantasy Points - PrizePicks,46.0,44.15,43.01,45.90,5,5,Under,Hit
+LA Lakers vs. Minnesota,Anthony Edwards,Three Points Made,2.5,2.40,2.60,2.00,3,7,Under,Hit
+Toronto vs. Detroit,Bojan Bogdanovic,Three Points Made,2.5,2.40,2.60,2.00,4,6,Under,Hit
+Toronto vs. Detroit,Bojan Bogdanovic,Assists,2.5,2.40,2.40,2.00,2,8,Under,Miss
+Toronto vs. Detroit,Jalen Duren,Fantasy Points - PrizePicks,33.5,32.17,31.46,33.00,5,5,Under,Miss
+LA Lakers vs. Minnesota,LeBron James,PR,33.0,34.27,34.40,35.00,7,3,Over,Miss
+Miami vs. Utah,Tyler Herro,PAR,34.5,35.82,34.80,36.50,6,4,Over,Hit
+LA Lakers vs. Minnesota,Karl-Anthony Towns,PAR,32.5,33.73,32.90,30.50,4,6,Over,Miss
+New York vs. Indiana,Jalen Brunson,Fantasy Points - PrizePicks,45.0,46.69,45.75,41.80,4,6,Over,Miss
+LA Lakers vs. Minnesota,LeBron James,PA,34.0,35.23,35.60,36.50,6,4,Over,Miss
+Toronto vs. Detroit,Jalen Duren,Points,12.5,12.05,11.70,12.00,4,6,Under,Miss
+Philadelphia vs. Chicago,DeMar DeRozan,PA,30.5,29.44,29.80,28.00,4,6,Under,Hit
+Toronto vs. Detroit,Bojan Bogdanovic,Points,20.0,19.31,19.20,18.00,4,6,Under,Hit
+LA Lakers vs. Minnesota,LeBron James,PAR,42.0,43.37,43.60,44.00,7,3,Over,Miss
+Toronto vs. Detroit,Jaden Ivey,PA,18.5,17.90,18.70,18.00,5,5,Under,Hit
+Philadelphia vs. Chicago,Coby White,Assists,5.5,5.68,6.10,5.00,4,6,Over,Miss
+LA Lakers vs. Minnesota,Anthony Edwards,Assists,5.5,5.67,5.70,5.00,4,6,Over,Miss
+New York vs. Indiana,Tyrese Haliburton,Assists,12.5,12.89,12.80,12.00,5,5,Over,Hit
+Dallas vs. Golden State,Luka Doncic,PA,47.5,48.87,47.80,47.50,5,5,Over,Hit
+Toronto vs. Detroit,Scottie Barnes,Points,24.5,23.81,22.90,22.50,4,6,Under,Hit
+Miami vs. Utah,Lauri Markkanen,PR,33.5,34.41,34.20,33.00,5,5,Over,Miss
+New York vs. Indiana,Aaron Nesmith,PA,13.5,13.16,13.50,13.50,5,5,Under,Miss
+Toronto vs. Detroit,Cade Cunningham,Rebounds,4.5,4.61,4.80,5.50,6,4,Under,Hit
+Toronto vs. Detroit,Cade Cunningham,Points,25.5,24.95,25.90,24.00,4,6,Under,Miss
+Philadelphia vs. Chicago,Coby White,PR,26.5,27.07,28.20,28.50,6,4,Over,Hit
+Toronto vs. Detroit,Scottie Barnes,PA,31.5,30.84,29.80,30.00,4,6,Under,Hit
+Toronto vs. Detroit,Scottie Barnes,Fantasy Points - PrizePicks,51.5,50.43,49.77,49.25,4,6,Under,Hit
+New York vs. Indiana,Bennedict Mathurin,PR,17.5,17.15,17.90,15.50,3,7,Under,Miss
+Philadelphia vs. Chicago,Coby White,PAR,32.5,33.12,34.30,33.50,6,4,Over,Miss
+New York vs. Indiana,Buddy Hield,Fantasy Points - PrizePicks,25.5,25.94,25.96,28.85,6,4,Over,Miss
+New York vs. Indiana,Bennedict Mathurin,PA,15.5,15.77,16.60,15.00,3,7,Over,Hit
+New York vs. Indiana,Myles Turner,Turnovers,1.5,1.52,1.70,1.50,5,5,Under,Hit
+Philadelphia vs. Chicago,DeMar DeRozan,RA,10.5,10.65,10.40,9.00,3,7,Over,Miss
+LA Lakers vs. Minnesota,LeBron James,Points,26.5,26.13,26.40,25.00,4,6,Under,Hit
+Toronto vs. Detroit,Jalen Duren,PA,14.5,14.30,14.10,16.00,7,3,Under,Miss
+LA Lakers vs. Minnesota,Anthony Edwards,RA,11.0,11.15,10.50,12.50,7,3,Over,Miss
+LA Lakers vs. Minnesota,Anthony Davis,RA,15.5,15.71,15.70,16.50,6,4,Over,Hit
+Dallas vs. Golden State,Luka Doncic,RA,19.5,19.27,18.80,19.00,4,6,Under,Hit
+Toronto vs. Detroit,Jaden Ivey,Points,14.5,14.33,15.20,14.00,5,5,Under,Hit
+New York vs. Indiana,Tyrese Haliburton,RA,16.0,16.18,16.10,16.00,4,6,Over,Hit
+Toronto vs. Detroit,Cade Cunningham,Fantasy Points - PrizePicks,42.5,42.93,43.91,39.20,4,6,Over,Hit
+Philadelphia vs. Chicago,DeMar DeRozan,PAR,35.0,34.65,33.90,32.50,2,8,Under,Hit
+Miami vs. Utah,Jordan Clarkson,PA,20.5,20.30,20.50,17.50,4,6,Under,Hit
+Toronto vs. Detroit,Scottie Barnes,PR,33.5,33.82,33.00,34.50,5,5,Over,Miss
+Toronto vs. Detroit,Jalen Duren,RA,13.5,13.63,13.70,15.00,6,4,Over,Hit
+Toronto vs. Detroit,Jalen Duren,Rebounds,11.5,11.40,11.30,12.00,6,4,Under,Miss
+Philadelphia vs. Chicago,Coby White,PA,27.5,27.25,28.40,27.00,4,6,Under,Hit
+Philadelphia vs. Chicago,Coby White,Points,21.5,21.31,22.30,22.00,6,4,Under,Hit
+Toronto vs. Detroit,Scottie Barnes,PAR,40.5,40.85,39.90,41.50,5,5,Over,Miss
+New York vs. Indiana,Bennedict Mathurin,PAR,19.5,19.35,20.10,16.50,3,7,Under,Miss
+Toronto vs. Detroit,Cade Cunningham,PR,30.0,29.78,30.70,28.00,4,6,Under,Miss
+Toronto vs. Detroit,Jalen Duren,PAR,26.0,25.81,25.40,28.50,7,3,Under,Miss
+New York vs. Indiana,Aaron Nesmith,Points,12.0,12.07,12.40,12.00,4,6,Over,Hit
+Toronto vs. Detroit,Bojan Bogdanovic,PA,22.5,22.40,21.60,23.00,6,4,Under,Hit
+Dallas vs. Golden State,Luka Doncic,PAR,56.5,56.27,56.10,56.50,5,5,Under,Miss
+Miami vs. Utah,Jordan Clarkson,PAR,23.5,23.53,24.00,20.00,4,6,Over,Miss
+Dallas vs. Golden State,Luka Doncic,PR,46.5,46.47,45.60,45.50,4,6,Under,Miss
+Philadelphia vs. Chicago,DeMar DeRozan,Assists,6.0,6.00,6.30,5.00,3,7,Under,Hit

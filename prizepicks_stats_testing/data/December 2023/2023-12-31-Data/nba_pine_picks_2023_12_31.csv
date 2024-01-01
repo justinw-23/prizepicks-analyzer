@@ -1,0 +1,322 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes
+Brooklyn vs. Oklahoma City,Josh Giddey,Steals,0.5,1.15,1.00,1.00,6,4,Over
+Atlanta vs. Washington,Dejounte Murray,Offensive Rebounds,0.5,0.92,1.00,1.00,6,4,Over
+Brooklyn vs. Oklahoma City,Luguentz Dort,Blocks,0.5,0.86,0.90,1.00,7,3,Over
+Boston vs. San Antonio,Jeremy Sochan,Steals,0.5,0.80,0.60,1.00,6,4,Over
+Sacramento vs. Memphis,Jaren Jackson Jr.,Turnovers,1.5,2.24,2.30,2.00,7,3,Over
+Atlanta vs. Washington,Tyus Jones,Three Points Made,1.5,2.17,2.20,2.00,6,4,Over
+Brooklyn vs. Oklahoma City,Chet Holmgren,Steals,0.5,0.29,0.30,0.00,3,7,Under
+Orlando vs. Phoenix,Franz Wagner,Three Points Made,1.5,0.87,1.00,1.00,3,7,Under
+Boston vs. San Antonio,Victor Wembanyama,Rebounds,9.0,12.55,11.90,12.50,7,3,Over
+Boston vs. San Antonio,Victor Wembanyama,RA,11.5,15.70,15.50,14.50,7,3,Over
+Sacramento vs. Memphis,De'Aaron Fox,Three Points Made,3.5,4.69,4.50,4.50,6,4,Over
+Atlanta vs. Washington,Dejounte Murray,Free Throws Made,2.5,1.70,1.80,1.50,3,7,Under
+Brooklyn vs. Oklahoma City,Cameron Johnson,Rebounds,5.0,3.43,3.50,3.50,1,9,Under
+Brooklyn vs. Oklahoma City,Jalen Williams,SB,1.5,1.96,1.90,2.00,7,3,Over
+Atlanta vs. Washington,Jalen Johnson,Rebounds,9.5,6.59,7.10,6.50,2,8,Under
+Boston vs. San Antonio,Jayson Tatum,Turnovers,2.5,1.74,1.80,2.00,3,7,Under
+Sacramento vs. Memphis,Keegan Murray,PA,15.5,20.15,21.10,19.00,7,3,Over
+Brooklyn vs. Oklahoma City,Mikal Bridges,PR,27.5,19.37,20.10,22.00,1,9,Under
+Brooklyn vs. Oklahoma City,Mikal Bridges,Points,22.5,15.96,16.50,16.50,1,9,Under
+Atlanta vs. Washington,Trae Young,Three Points Made,3.5,4.51,4.50,4.00,6,4,Over
+Sacramento vs. Memphis,Keegan Murray,Points,14.5,18.68,19.60,18.50,7,3,Over
+Atlanta vs. Washington,Jordan Poole,Three Points Made,2.5,1.80,2.60,1.50,4,6,Under
+Orlando vs. Phoenix,Jusuf Nurkic,Three Points Made,0.5,0.36,0.50,0.00,4,6,Under
+Brooklyn vs. Oklahoma City,Mikal Bridges,PAR,30.5,22.15,23.10,24.00,1,9,Under
+Brooklyn vs. Oklahoma City,Mikal Bridges,RA,8.5,6.18,6.60,6.50,2,8,Under
+Boston vs. San Antonio,Malaki Branham,Turnovers,1.5,1.90,2.00,2.00,7,3,Over
+Brooklyn vs. Oklahoma City,Mikal Bridges,PA,25.5,18.74,19.50,20.00,1,9,Under
+Atlanta vs. Washington,Jalen Johnson,RA,12.5,9.23,9.60,10.00,3,7,Under
+Atlanta vs. Washington,Jalen Johnson,SB,2.5,1.85,2.00,2.00,4,6,Under
+Sacramento vs. Memphis,Ja Morant,SB,1.5,1.89,1.80,2.00,6,4,Over
+Orlando vs. Phoenix,Devin Booker,SB,1.5,1.11,1.00,1.00,4,6,Under
+Sacramento vs. Memphis,Jaren Jackson Jr.,PA,20.5,25.69,25.30,23.00,6,4,Over
+Brooklyn vs. Oklahoma City,Mikal Bridges,Fantasy Points - PrizePicks,35.0,26.29,26.32,27.65,1,9,Under
+Brooklyn vs. Oklahoma City,Mikal Bridges,Rebounds,5.0,3.78,3.60,3.50,2,8,Under
+Sacramento vs. Memphis,Keegan Murray,Rebounds,6.0,4.55,4.80,5.00,3,7,Under
+Brooklyn vs. Oklahoma City,Luguentz Dort,Three Points Made,1.5,1.85,1.90,2.00,6,4,Over
+Atlanta vs. Washington,Trae Young,Free Throws Made,7.0,5.38,5.60,5.50,1,9,Under
+Sacramento vs. Memphis,De'Aaron Fox,Steals,1.5,1.84,2.00,2.00,7,3,Over
+Atlanta vs. Washington,Jalen Johnson,PR,26.5,20.51,20.90,22.00,3,7,Under
+Sacramento vs. Memphis,Jaren Jackson Jr.,Points,19.5,23.83,23.80,21.50,7,3,Over
+Atlanta vs. Washington,Deni Avdija,PA,18.5,14.40,13.80,12.00,3,7,Under
+Atlanta vs. Washington,Jalen Johnson,Fantasy Points - PrizePicks,37.0,28.86,29.77,27.65,3,7,Under
+Atlanta vs. Washington,Jalen Johnson,PAR,29.5,23.07,23.40,23.00,4,6,Under
+Atlanta vs. Washington,Jordan Poole,Rebounds,2.5,1.96,2.00,2.00,4,6,Under
+Atlanta vs. Washington,Dejounte Murray,Steals,1.5,1.18,1.20,1.00,3,7,Under
+Orlando vs. Phoenix,Kevin Durant,Rebounds,6.5,5.18,5.60,5.50,4,6,Under
+Atlanta vs. Washington,Jordan Poole,Free Throws Made,3.0,2.40,2.70,2.50,3,7,Under
+Atlanta vs. Washington,Deni Avdija,Points,13.5,10.79,9.90,9.00,1,9,Under
+Sacramento vs. Memphis,Desmond Bane,SB,1.5,1.20,1.20,1.00,3,7,Under
+Sacramento vs. Memphis,Jaren Jackson Jr.,Three Points Made,1.5,1.20,1.90,1.00,4,6,Under
+Atlanta vs. Washington,Trae Young,SB,1.5,1.20,1.40,1.00,3,7,Under
+Brooklyn vs. Oklahoma City,Chet Holmgren,Turnovers,1.5,1.20,1.40,1.00,4,6,Under
+Orlando vs. Phoenix,Franz Wagner,SB,1.5,1.20,1.60,1.00,4,6,Under
+Sacramento vs. Memphis,Jaren Jackson Jr.,Blocks,1.5,1.20,1.30,1.00,4,6,Under
+Boston vs. San Antonio,Malaki Branham,SB,0.5,0.60,0.60,0.50,5,5,Under
+Sacramento vs. Memphis,Marcus Smart,Steals,1.5,1.80,1.90,1.50,5,5,Over
+Atlanta vs. Washington,Jalen Johnson,Free Throws Made,1.5,1.80,2.00,1.50,5,5,Over
+Atlanta vs. Washington,Deni Avdija,PAR,24.5,19.66,20.10,16.50,3,7,Under
+Brooklyn vs. Oklahoma City,Chet Holmgren,Offensive Rebounds,1.5,1.79,1.70,2.00,6,4,Over
+Boston vs. San Antonio,Jaylen Brown,Assists,4.0,4.76,4.60,4.50,5,5,Over
+Atlanta vs. Washington,Deni Avdija,Fantasy Points - PrizePicks,30.5,24.92,25.41,21.35,2,8,Under
+Brooklyn vs. Oklahoma City,Cameron Johnson,RA,7.5,6.14,5.70,6.00,2,8,Under
+Atlanta vs. Washington,Deni Avdija,PR,20.5,16.80,16.20,14.00,2,8,Under
+Atlanta vs. Washington,Saddiq Bey,Points,15.5,12.73,13.10,13.50,3,7,Under
+Sacramento vs. Memphis,Jaren Jackson Jr.,Rebounds,6.0,4.93,5.10,4.50,3,7,Under
+Atlanta vs. Washington,Tyus Jones,Fantasy Points - PrizePicks,29.5,34.61,33.96,31.35,6,4,Over
+Sacramento vs. Memphis,Marcus Smart,RA,7.5,6.24,6.40,7.00,4,6,Under
+Boston vs. San Antonio,Jaylen Brown,Rebounds,5.5,4.58,4.90,5.00,3,7,Under
+Atlanta vs. Washington,Jalen Johnson,Points,16.5,13.78,13.80,16.00,4,6,Under
+Atlanta vs. Washington,Jalen Johnson,PA,19.5,16.31,16.30,17.50,4,6,Under
+Boston vs. San Antonio,Victor Wembanyama,PR,26.5,30.83,30.00,31.50,7,3,Over
+Orlando vs. Phoenix,Jusuf Nurkic,Rebounds,11.0,12.77,12.80,12.50,6,4,Over
+Boston vs. San Antonio,Victor Wembanyama,PAR,29.5,34.23,33.60,34.50,7,3,Over
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,Free Throws Made,8.0,9.28,9.10,8.00,4,6,Over
+Boston vs. San Antonio,Jeremy Sochan,Rebounds,6.0,6.95,6.80,7.00,6,4,Over
+Brooklyn vs. Oklahoma City,Mikal Bridges,Field Goal Attempts,17.0,14.37,14.60,16.00,2,8,Under
+Sacramento vs. Memphis,Keegan Murray,PAR,21.5,24.82,25.90,26.00,6,4,Over
+Brooklyn vs. Oklahoma City,Spencer Dinwiddie,RA,11.0,12.65,11.90,11.50,5,5,Over
+Orlando vs. Phoenix,Devin Booker,Assists,7.0,8.05,8.10,7.00,4,6,Over
+Brooklyn vs. Oklahoma City,Jalen Williams,Three Points Made,1.5,1.72,1.80,1.50,5,5,Over
+Brooklyn vs. Oklahoma City,Jalen Williams,Points,16.5,18.92,19.10,18.00,5,5,Over
+Orlando vs. Phoenix,Devin Booker,Rebounds,4.5,3.84,4.10,4.00,2,8,Under
+Boston vs. San Antonio,Jayson Tatum,Rebounds,8.5,7.26,8.00,8.00,3,7,Under
+Brooklyn vs. Oklahoma City,Jalen Williams,Fantasy Points - PrizePicks,30.0,34.18,33.85,32.00,8,2,Over
+Sacramento vs. Memphis,Keegan Murray,PR,20.5,23.35,24.40,25.00,6,4,Over
+Sacramento vs. Memphis,Desmond Bane,Three Points Made,3.5,3.98,3.80,4.00,6,4,Over
+Atlanta vs. Washington,Jordan Poole,Points,19.5,16.80,18.10,14.00,4,6,Under
+Brooklyn vs. Oklahoma City,Josh Giddey,Fantasy Points - PrizePicks,24.5,27.85,27.43,26.20,6,4,Over
+Sacramento vs. Memphis,Domantas Sabonis,Assists,7.0,7.94,8.10,8.00,6,4,Over
+Orlando vs. Phoenix,Franz Wagner,Rebounds,5.5,6.24,6.30,6.00,7,3,Over
+Atlanta vs. Washington,Kyle Kuzma,Rebounds,6.5,7.37,6.90,7.50,7,3,Over
+Brooklyn vs. Oklahoma City,Josh Giddey,Assists,4.0,4.53,4.70,4.00,3,7,Under
+Atlanta vs. Washington,Tyus Jones,PR,16.5,18.64,18.70,17.00,6,4,Over
+Brooklyn vs. Oklahoma City,Spencer Dinwiddie,Fantasy Points - PrizePicks,30.0,33.88,32.64,33.05,6,4,Over
+Orlando vs. Phoenix,Franz Wagner,Assists,4.5,3.93,4.30,4.50,5,5,Under
+Atlanta vs. Washington,Deni Avdija,RA,11.0,9.66,10.20,8.50,3,7,Under
+Orlando vs. Phoenix,Jusuf Nurkic,RA,13.5,15.14,15.90,15.00,6,4,Over
+Sacramento vs. Memphis,Jaren Jackson Jr.,PR,25.5,28.56,28.90,27.00,5,5,Over
+Brooklyn vs. Oklahoma City,Jalen Williams,PA,20.5,22.95,23.20,22.00,5,5,Over
+Atlanta vs. Washington,Tyus Jones,Assists,6.0,6.71,6.40,6.00,3,7,Over
+Atlanta vs. Washington,Daniel Gafford,Fantasy Points - PrizePicks,30.5,34.06,33.03,31.70,5,5,Over
+Brooklyn vs. Oklahoma City,Spencer Dinwiddie,Assists,7.0,7.82,7.20,7.00,4,6,Over
+Atlanta vs. Washington,Saddiq Bey,PAR,24.5,21.67,22.20,23.00,3,7,Under
+Atlanta vs. Washington,Dejounte Murray,Assists,5.5,4.88,4.80,4.50,3,7,Under
+Orlando vs. Phoenix,Kevin Durant,RA,13.0,11.54,12.10,10.00,3,7,Under
+Atlanta vs. Washington,Saddiq Bey,PR,22.5,19.99,20.50,20.50,2,8,Under
+Boston vs. San Antonio,Malaki Branham,PR,14.5,16.12,15.70,16.50,7,3,Over
+Boston vs. San Antonio,Jaylen Brown,Blocks,0.5,0.44,0.50,0.50,5,5,Under
+Atlanta vs. Washington,Tyus Jones,PAR,22.5,24.97,25.10,24.50,6,4,Over
+Sacramento vs. Memphis,Jaren Jackson Jr.,RA,7.5,6.68,6.60,6.00,3,7,Under
+Atlanta vs. Washington,Jordan Poole,PR,22.5,20.04,20.10,18.00,4,6,Under
+Boston vs. San Antonio,Kristaps Porzingis,RA,10.0,8.93,8.70,8.50,3,7,Under
+Atlanta vs. Washington,Dejounte Murray,Three Point Attempts,6.5,7.19,7.30,8.00,6,4,Over
+Sacramento vs. Memphis,Jaren Jackson Jr.,PAR,27.5,30.38,30.40,29.00,6,4,Over
+Atlanta vs. Washington,Clint Capela,SB,2.5,2.24,2.10,2.50,5,5,Under
+Boston vs. San Antonio,Devin Vassell,PA,23.5,21.12,22.00,21.00,4,6,Under
+Atlanta vs. Washington,Tyus Jones,Points,13.5,14.85,14.90,13.50,5,5,Over
+Brooklyn vs. Oklahoma City,Luguentz Dort,Fantasy Points - PrizePicks,20.5,22.45,22.02,21.05,6,4,Over
+Brooklyn vs. Oklahoma City,Josh Giddey,RA,10.0,10.94,11.10,11.00,5,5,Over
+Brooklyn vs. Oklahoma City,Chet Holmgren,RA,10.5,9.52,9.70,9.50,3,7,Under
+Atlanta vs. Washington,Clint Capela,Rebounds,12.5,11.35,11.20,11.00,3,7,Under
+Brooklyn vs. Oklahoma City,Josh Giddey,Rebounds,6.0,6.55,6.40,7.00,5,5,Under
+Boston vs. San Antonio,Devin Vassell,PR,23.5,21.36,22.20,21.00,4,6,Under
+Atlanta vs. Washington,Kyle Kuzma,Three Points Made,2.5,2.73,2.60,3.00,6,4,Over
+Boston vs. San Antonio,Malaki Branham,PAR,17.5,19.08,19.40,20.50,7,3,Over
+Atlanta vs. Washington,Dejounte Murray,Three Points Made,2.5,2.72,2.70,3.00,7,3,Over
+Brooklyn vs. Oklahoma City,Jalen Williams,PR,20.5,22.32,22.60,20.00,5,5,Over
+Atlanta vs. Washington,Jordan Poole,PAR,26.5,24.15,24.30,22.00,4,6,Under
+Atlanta vs. Washington,Tyus Jones,PA,19.5,21.23,21.30,22.00,6,4,Over
+Brooklyn vs. Oklahoma City,Cameron Johnson,PAR,23.0,20.98,21.20,21.50,4,6,Under
+Brooklyn vs. Oklahoma City,Chet Holmgren,Rebounds,8.0,7.30,7.40,6.50,3,7,Under
+Sacramento vs. Memphis,Jaren Jackson Jr.,SB,2.5,2.71,2.60,2.50,5,5,Over
+Brooklyn vs. Oklahoma City,Luguentz Dort,Points,10.5,11.38,11.90,12.00,6,4,Over
+Atlanta vs. Washington,Saddiq Bey,PA,16.5,15.13,14.80,15.00,4,6,Under
+Brooklyn vs. Oklahoma City,Luguentz Dort,PA,11.5,12.44,13.10,14.00,6,4,Over
+Boston vs. San Antonio,Jayson Tatum,RA,13.5,12.39,13.20,14.50,6,4,Under
+Brooklyn vs. Oklahoma City,Mikal Bridges,Free Throws Made,4.0,3.68,4.00,3.50,4,6,Under
+Orlando vs. Phoenix,Kevin Durant,Assists,6.5,6.00,6.50,5.00,3,7,Under
+Atlanta vs. Washington,Clint Capela,PA,15.5,16.69,16.30,17.00,7,3,Over
+Brooklyn vs. Oklahoma City,Jalen Williams,PAR,25.0,26.87,26.70,26.00,5,5,Over
+Brooklyn vs. Oklahoma City,Chet Holmgren,Three Points Made,1.5,1.61,1.70,1.50,5,5,Under
+Boston vs. San Antonio,Jeremy Sochan,PA,15.5,14.36,14.30,12.00,4,6,Under
+Atlanta vs. Washington,Kyle Kuzma,PA,28.5,26.42,25.50,25.50,3,7,Under
+Boston vs. San Antonio,Victor Wembanyama,PA,20.5,21.99,21.70,20.00,5,5,Over
+Atlanta vs. Washington,Dejounte Murray,RA,10.5,9.75,9.70,9.00,2,8,Under
+Atlanta vs. Washington,Kyle Kuzma,Points,24.5,22.77,21.90,23.50,5,5,Under
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,Fantasy Points - PrizePicks,56.5,60.47,60.15,59.50,7,3,Over
+Atlanta vs. Washington,Saddiq Bey,Rebounds,7.0,7.47,7.40,7.50,5,5,Under
+Orlando vs. Phoenix,Jusuf Nurkic,PR,23.5,25.08,26.00,23.50,5,5,Over
+Atlanta vs. Washington,Clint Capela,RA,13.5,12.60,12.60,12.00,4,6,Under
+Atlanta vs. Washington,Deni Avdija,Turnovers,1.5,1.60,1.50,2.00,6,4,Under
+Atlanta vs. Washington,Deni Avdija,Assists,4.5,4.20,3.90,3.50,3,7,Under
+Boston vs. San Antonio,Malaki Branham,PA,14.5,15.47,15.30,15.50,7,3,Over
+Atlanta vs. Washington,Saddiq Bey,Fantasy Points - PrizePicks,30.0,28.03,27.73,29.50,4,6,Under
+Atlanta vs. Washington,Jordan Poole,Fantasy Points - PrizePicks,30.0,28.06,28.00,25.10,3,7,Under
+Orlando vs. Phoenix,Jusuf Nurkic,PAR,26.5,28.20,29.10,27.50,6,4,Over
+Atlanta vs. Washington,Kyle Kuzma,PAR,35.5,33.27,32.40,33.50,5,5,Under
+Atlanta vs. Washington,Kyle Kuzma,Fantasy Points - PrizePicks,38.5,36.10,35.18,35.25,4,6,Under
+Boston vs. San Antonio,Jeremy Sochan,Points,11.5,10.80,10.60,9.00,3,7,Under
+Atlanta vs. Washington,Dejounte Murray,Fantasy Points - PrizePicks,39.5,37.10,37.18,36.65,4,6,Under
+Brooklyn vs. Oklahoma City,Luguentz Dort,Rebounds,4.0,3.76,3.60,4.00,2,8,Under
+Atlanta vs. Washington,Dejounte Murray,PAR,32.0,30.08,30.20,29.50,3,7,Under
+Brooklyn vs. Oklahoma City,Mikal Bridges,Three Point Attempts,5.5,5.17,5.00,5.00,5,5,Under
+Sacramento vs. Memphis,Desmond Bane,RA,10.5,9.88,9.30,11.50,6,4,Under
+Atlanta vs. Washington,Clint Capela,Points,14.5,15.36,14.90,15.00,6,4,Over
+Boston vs. San Antonio,Malaki Branham,Points,10.5,11.12,11.60,12.00,9,1,Over
+Brooklyn vs. Oklahoma City,Chet Holmgren,Fantasy Points - PrizePicks,38.5,40.76,41.33,39.70,6,4,Over
+Atlanta vs. Washington,Dejounte Murray,Points,21.5,20.24,20.50,20.50,2,8,Under
+Boston vs. San Antonio,Victor Wembanyama,Points,17.5,18.52,18.10,16.00,4,6,Over
+Brooklyn vs. Oklahoma City,Luguentz Dort,PR,14.5,15.35,15.50,15.00,5,5,Over
+Atlanta vs. Washington,Jordan Poole,PA,23.5,22.20,22.30,18.50,4,6,Under
+Brooklyn vs. Oklahoma City,Josh Giddey,PAR,20.5,21.62,21.80,20.50,5,5,Over
+Atlanta vs. Washington,Dejounte Murray,PR,26.5,25.09,25.40,24.00,3,7,Under
+Brooklyn vs. Oklahoma City,Cameron Johnson,Fantasy Points - PrizePicks,26.5,25.09,25.30,26.30,5,5,Under
+Atlanta vs. Washington,Daniel Gafford,RA,9.5,9.00,9.40,7.50,3,7,Under
+Sacramento vs. Memphis,Domantas Sabonis,Rebounds,12.5,11.84,11.80,10.50,3,7,Under
+Sacramento vs. Memphis,Marcus Smart,PR,15.5,14.69,14.20,13.50,3,7,Under
+Atlanta vs. Washington,Dejounte Murray,PA,26.5,25.11,25.30,25.50,3,7,Under
+Atlanta vs. Washington,Tyus Jones,RA,9.5,9.99,10.20,9.50,5,5,Over
+Sacramento vs. Memphis,Marcus Smart,Points,12.0,12.62,12.00,11.00,4,6,Over
+Boston vs. San Antonio,Jayson Tatum,PR,35.5,33.66,34.30,34.50,4,6,Under
+Atlanta vs. Washington,Jordan Poole,Assists,4.0,4.21,4.20,4.00,3,7,Under
+Brooklyn vs. Oklahoma City,Cameron Johnson,PR,20.5,19.45,19.00,19.50,3,7,Under
+Boston vs. San Antonio,Jeremy Sochan,PR,17.5,18.40,17.40,17.50,5,5,Over
+Boston vs. San Antonio,Jeremy Sochan,PAR,22.5,21.39,21.10,19.50,4,6,Under
+Brooklyn vs. Oklahoma City,Josh Giddey,PA,14.5,15.21,15.40,15.50,6,4,Over
+Boston vs. San Antonio,Kristaps Porzingis,Rebounds,8.0,7.61,7.50,8.00,4,6,Under
+Brooklyn vs. Oklahoma City,Spencer Dinwiddie,PAR,25.5,26.73,25.70,27.50,6,4,Over
+Sacramento vs. Memphis,Desmond Bane,Rebounds,5.0,4.76,4.50,4.00,4,6,Under
+Boston vs. San Antonio,Devin Vassell,PAR,26.5,25.26,25.80,24.50,5,5,Under
+Atlanta vs. Washington,Dejounte Murray,Rebounds,5.0,4.77,4.90,5.00,5,5,Under
+Brooklyn vs. Oklahoma City,Jalen Williams,Rebounds,4.0,3.82,3.50,4.00,3,7,Under
+Boston vs. San Antonio,Jaylen Brown,PA,27.5,28.75,28.90,28.00,5,5,Over
+Orlando vs. Phoenix,Kevin Durant,Points,26.0,27.16,27.40,27.50,8,2,Over
+Sacramento vs. Memphis,Domantas Sabonis,PR,34.5,32.97,33.10,32.50,4,6,Under
+Atlanta vs. Washington,Kyle Kuzma,Assists,4.0,3.82,3.60,3.50,3,7,Under
+Sacramento vs. Memphis,Desmond Bane,Points,24.5,25.57,24.60,25.00,5,5,Over
+Orlando vs. Phoenix,Paolo Banchero,Points,23.5,22.47,23.30,23.50,5,5,Under
+Brooklyn vs. Oklahoma City,Chet Holmgren,Field Goal Attempts,13.5,12.91,12.90,12.50,4,6,Under
+Orlando vs. Phoenix,Franz Wagner,Points,22.5,21.54,22.30,24.00,6,4,Under
+Sacramento vs. Memphis,De'Aaron Fox,Rebounds,4.5,4.69,4.40,4.00,4,6,Over
+Atlanta vs. Washington,Trae Young,Assists,12.0,12.51,12.40,13.00,6,4,Over
+Brooklyn vs. Oklahoma City,Cameron Johnson,Three Points Made,2.5,2.60,2.80,3.00,7,3,Under
+Orlando vs. Phoenix,Devin Booker,RA,11.5,11.97,12.20,11.00,4,6,Over
+Boston vs. San Antonio,Jayson Tatum,PAR,40.5,38.83,39.50,40.00,3,7,Under
+Boston vs. San Antonio,Devin Vassell,Points,18.5,17.76,18.40,17.00,4,6,Under
+Boston vs. San Antonio,Victor Wembanyama,Turnovers,2.5,2.40,2.70,2.00,4,6,Under
+Brooklyn vs. Oklahoma City,Chet Holmgren,Free Throws Made,2.5,2.40,2.80,2.00,4,6,Under
+Boston vs. San Antonio,Jaylen Brown,Turnovers,2.5,2.40,2.70,2.00,4,6,Under
+Brooklyn vs. Oklahoma City,Spencer Dinwiddie,Free Throws Made,2.5,2.40,2.80,2.00,4,6,Under
+Atlanta vs. Washington,Jalen Johnson,Assists,2.5,2.40,2.50,2.00,4,6,Under
+Atlanta vs. Washington,Kyle Kuzma,Three Point Attempts,7.0,7.28,7.40,7.50,5,5,Under
+Atlanta vs. Washington,Jordan Poole,Field Goal Attempts,15.5,14.88,14.80,15.00,5,5,Under
+Sacramento vs. Memphis,Ja Morant,Rebounds,6.0,6.23,6.10,6.00,2,8,Under
+Orlando vs. Phoenix,Paolo Banchero,Assists,4.0,3.85,4.40,4.00,3,7,Under
+Orlando vs. Phoenix,Paolo Banchero,SB,1.5,1.44,1.50,1.50,5,5,Under
+Brooklyn vs. Oklahoma City,Chet Holmgren,PR,27.5,26.46,26.70,27.50,5,5,Under
+Brooklyn vs. Oklahoma City,Josh Giddey,PR,16.5,17.12,17.10,16.00,5,5,Over
+Atlanta vs. Washington,Daniel Gafford,Points,12.5,12.95,11.90,12.50,5,5,Over
+Sacramento vs. Memphis,De'Aaron Fox,PR,35.5,34.27,34.50,33.50,4,6,Under
+Sacramento vs. Memphis,Marcus Smart,PAR,19.5,18.84,18.40,18.00,4,6,Under
+Orlando vs. Phoenix,Paolo Banchero,PR,30.5,29.50,30.50,29.00,3,7,Under
+Atlanta vs. Washington,Trae Young,Three Point Attempts,10.0,10.32,10.50,10.50,5,5,Over
+Sacramento vs. Memphis,Desmond Bane,PA,29.5,30.41,29.40,28.00,5,5,Over
+Orlando vs. Phoenix,Kevin Durant,PA,32.5,33.50,33.90,32.50,5,5,Over
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,Assists,6.5,6.30,6.50,7.00,6,4,Under
+Boston vs. San Antonio,Jaylen Brown,PAR,32.5,33.48,33.80,32.00,4,6,Over
+Brooklyn vs. Oklahoma City,Chet Holmgren,PAR,29.5,28.63,29.00,29.00,2,8,Under
+Brooklyn vs. Oklahoma City,Jalen Williams,Assists,3.5,3.60,4.10,3.00,3,7,Under
+Brooklyn vs. Oklahoma City,Spencer Dinwiddie,PR,18.5,19.03,18.50,19.50,5,5,Over
+Sacramento vs. Memphis,Desmond Bane,Assists,5.0,5.14,4.80,5.00,4,6,Under
+Sacramento vs. Memphis,De'Aaron Fox,Points,30.5,29.65,30.10,29.50,4,6,Under
+Atlanta vs. Washington,Kyle Kuzma,PR,30.5,29.66,28.80,32.00,5,5,Under
+Orlando vs. Phoenix,Franz Wagner,PA,26.5,25.77,26.60,25.50,5,5,Under
+Atlanta vs. Washington,Saddiq Bey,RA,8.5,8.72,9.10,8.50,5,5,Over
+Atlanta vs. Washington,Kyle Kuzma,Field Goal Attempts,19.5,19.02,18.30,18.50,4,6,Under
+Brooklyn vs. Oklahoma City,Chet Holmgren,Points,18.5,18.94,19.30,19.50,6,4,Over
+Atlanta vs. Washington,Daniel Gafford,PR,20.5,20.99,19.80,19.50,3,7,Over
+Orlando vs. Phoenix,Devin Booker,Points,26.5,27.12,27.40,27.50,6,4,Over
+Sacramento vs. Memphis,De'Aaron Fox,PAR,41.5,40.54,40.40,40.50,4,6,Under
+Sacramento vs. Memphis,Marcus Smart,Assists,4.0,4.09,4.20,4.50,5,5,Under
+Atlanta vs. Washington,Jordan Poole,Three Point Attempts,7.0,7.16,7.20,6.00,4,6,Under
+Brooklyn vs. Oklahoma City,Chet Holmgren,PA,21.5,21.02,21.60,20.50,5,5,Under
+Orlando vs. Phoenix,Devin Booker,PA,34.5,35.25,35.50,35.00,6,4,Over
+Atlanta vs. Washington,Trae Young,Rebounds,3.5,3.42,3.50,4.00,6,4,Under
+Boston vs. San Antonio,Kristaps Porzingis,Points,20.5,20.94,20.90,21.00,6,4,Over
+Brooklyn vs. Oklahoma City,Spencer Dinwiddie,Points,14.5,14.20,13.80,16.00,6,4,Under
+Atlanta vs. Washington,Daniel Gafford,PAR,21.5,21.95,21.30,20.50,4,6,Over
+Sacramento vs. Memphis,Ja Morant,PR,33.5,32.80,32.20,35.00,3,2,Under
+Orlando vs. Phoenix,Paolo Banchero,RA,11.5,11.26,11.60,11.00,4,6,Under
+Sacramento vs. Memphis,De'Aaron Fox,PA,36.5,35.75,36.00,36.50,5,5,Under
+Boston vs. San Antonio,Jaylen Brown,Points,23.5,23.98,24.30,24.50,6,4,Over
+Brooklyn vs. Oklahoma City,Cameron Johnson,PA,17.5,17.85,17.70,19.00,7,3,Over
+Orlando vs. Phoenix,Paolo Banchero,Rebounds,7.0,6.86,7.20,7.50,5,5,Under
+Atlanta vs. Washington,Daniel Gafford,Rebounds,8.0,7.84,7.90,7.50,3,7,Under
+Atlanta vs. Washington,Clint Capela,Fantasy Points - PrizePicks,37.5,36.80,35.74,38.05,7,3,Under
+Sacramento vs. Memphis,Keegan Murray,Blocks,0.5,0.49,0.40,0.00,3,7,Under
+Orlando vs. Phoenix,Paolo Banchero,PA,27.5,26.99,27.70,26.50,4,6,Under
+Orlando vs. Phoenix,Paolo Banchero,PAR,34.5,33.86,34.90,34.00,4,6,Under
+Brooklyn vs. Oklahoma City,Spencer Dinwiddie,PA,21.5,21.89,21.00,23.00,6,4,Over
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,Rebounds,6.0,6.11,6.00,6.00,3,7,Under
+Boston vs. San Antonio,Kristaps Porzingis,PAR,30.5,29.95,29.60,26.50,4,6,Under
+Sacramento vs. Memphis,Desmond Bane,PR,29.5,30.03,29.10,28.00,5,5,Over
+Orlando vs. Phoenix,Franz Wagner,RA,10.0,9.83,10.60,11.00,6,4,Under
+Orlando vs. Phoenix,Devin Booker,PR,31.5,30.97,31.50,30.50,4,6,Under
+Atlanta vs. Washington,Kyle Kuzma,RA,11.0,10.81,10.50,10.00,2,8,Under
+Sacramento vs. Memphis,De'Aaron Fox,Assists,6.0,5.90,5.90,6.50,5,5,Under
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,PR,39.5,40.14,40.10,39.50,5,5,Over
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,Points,33.5,34.04,34.10,34.00,6,4,Over
+Orlando vs. Phoenix,Devin Booker,PAR,38.5,39.11,39.60,39.00,6,4,Over
+Sacramento vs. Memphis,Domantas Sabonis,RA,19.5,19.81,19.90,19.00,5,5,Over
+Sacramento vs. Memphis,Ja Morant,RA,14.5,14.28,14.00,13.50,4,6,Under
+Atlanta vs. Washington,Deni Avdija,Rebounds,6.5,6.60,6.30,5.50,2,8,Under
+Boston vs. San Antonio,Jaylen Brown,RA,9.5,9.64,9.50,9.00,5,5,Under
+Atlanta vs. Washington,Clint Capela,PR,26.5,26.89,26.10,25.50,5,5,Over
+Sacramento vs. Memphis,Domantas Sabonis,PAR,41.5,40.89,41.20,40.50,4,6,Under
+Boston vs. San Antonio,Jayson Tatum,Points,26.5,26.13,26.30,26.00,5,5,Under
+Brooklyn vs. Oklahoma City,Cameron Johnson,Three Point Attempts,6.0,5.92,5.80,6.00,3,7,Under
+Sacramento vs. Memphis,Marcus Smart,PA,16.5,16.73,16.20,16.50,5,5,Over
+Orlando vs. Phoenix,Franz Wagner,PAR,32.5,32.06,32.90,31.50,3,7,Under
+Orlando vs. Phoenix,Jusuf Nurkic,PA,15.5,15.30,16.30,17.50,6,4,Under
+Sacramento vs. Memphis,De'Aaron Fox,RA,10.5,10.63,10.30,11.00,6,4,Over
+Atlanta vs. Washington,Dejounte Murray,Field Goal Attempts,17.5,17.28,17.40,17.50,5,5,Under
+Brooklyn vs. Oklahoma City,Josh Giddey,Points,10.5,10.63,10.70,10.50,5,5,Over
+Sacramento vs. Memphis,Domantas Sabonis,PA,28.5,28.85,29.40,27.50,4,6,Over
+Orlando vs. Phoenix,Franz Wagner,PR,27.5,27.80,28.60,29.00,6,4,Over
+Sacramento vs. Memphis,Desmond Bane,PAR,34.5,34.87,33.90,34.50,5,5,Over
+Atlanta vs. Washington,Trae Young,PR,32.5,32.16,32.80,34.50,7,3,Under
+Boston vs. San Antonio,Devin Vassell,RA,7.5,7.42,7.40,7.50,5,5,Under
+Atlanta vs. Washington,Trae Young,Field Goal Attempts,20.5,20.29,20.50,19.50,5,5,Under
+Orlando vs. Phoenix,Devin Booker,Turnovers,2.5,2.52,2.50,2.50,5,5,Under
+Orlando vs. Phoenix,Jusuf Nurkic,Points,12.5,12.39,13.20,14.50,6,4,Under
+Atlanta vs. Washington,Trae Young,Points,28.5,28.74,29.30,30.00,7,3,Over
+Brooklyn vs. Oklahoma City,Jalen Williams,RA,8.0,8.06,7.60,7.00,4,6,Under
+Atlanta vs. Washington,Trae Young,RA,16.0,15.88,15.90,16.00,4,6,Under
+Boston vs. San Antonio,Devin Vassell,Assists,3.5,3.47,3.60,3.00,4,6,Under
+Atlanta vs. Washington,Daniel Gafford,PA,14.5,14.40,13.40,13.00,4,6,Under
+Boston vs. San Antonio,Jayson Tatum,PA,31.5,31.29,31.50,31.00,5,5,Under
+Boston vs. San Antonio,Kristaps Porzingis,PA,22.5,22.36,22.10,22.00,4,6,Under
+Sacramento vs. Memphis,Ja Morant,PA,35.5,35.28,33.60,33.50,5,5,Under
+Atlanta vs. Washington,Clint Capela,PAR,28.5,28.32,27.50,27.50,4,6,Under
+Atlanta vs. Washington,Trae Young,PA,41.5,41.26,41.70,43.50,7,3,Under
+Brooklyn vs. Oklahoma City,Cameron Johnson,Points,15.5,15.59,15.50,15.50,5,5,Over
+Atlanta vs. Washington,Trae Young,Fantasy Points - PrizePicks,51.5,51.22,51.30,53.20,7,3,Under
+Boston vs. San Antonio,Jeremy Sochan,RA,10.5,10.44,10.50,9.50,3,7,Under
+Brooklyn vs. Oklahoma City,Luguentz Dort,PAR,16.5,16.41,16.70,17.00,5,5,Under
+Sacramento vs. Memphis,Ja Morant,Points,27.5,27.36,25.70,25.00,5,5,Under
+Boston vs. San Antonio,Jaylen Brown,PR,28.5,28.62,29.20,28.50,5,5,Over
+Orlando vs. Phoenix,Kevin Durant,PR,32.5,32.37,33.00,33.00,6,4,Under
+Atlanta vs. Washington,Trae Young,PAR,44.5,44.67,45.20,48.00,7,3,Over
+Boston vs. San Antonio,Jayson Tatum,Assists,5.0,5.02,5.20,5.00,4,6,Under
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,Field Goal Attempts,22.5,22.42,22.00,20.50,4,6,Under
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,RA,12.5,12.46,12.50,13.00,5,5,Under
+Sacramento vs. Memphis,Domantas Sabonis,Points,21.0,21.06,21.30,19.00,4,6,Over
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,PA,40.5,40.40,40.60,42.00,6,4,Under
+Sacramento vs. Memphis,Ja Morant,PAR,41.5,41.41,41.00,42.00,3,2,Under
+Sacramento vs. Memphis,Ja Morant,Assists,8.0,8.02,7.90,7.50,3,7,Under
+Boston vs. San Antonio,Kristaps Porzingis,PR,28.5,28.54,28.40,26.00,4,6,Over
+Orlando vs. Phoenix,Kevin Durant,PAR,39.0,39.02,39.50,37.50,3,7,Over
+Brooklyn vs. Oklahoma City,Shai Gilgeous-Alexander,PAR,46.5,46.51,46.60,46.50,5,5,Over
+Atlanta vs. Washington,Kyle Kuzma,Free Throws Made,3.0,3.00,2.90,2.50,3,7,Under

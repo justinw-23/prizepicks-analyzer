@@ -13,3 +13,6 @@ FTN Hits/Total for 12/29/23: 102/219
 Pine Hits/Total for 12/30/23: 95/214
 FTN Hits/Total for 12/30/23: 97/230
 	FTN Hits/Total for 12/30/23 over 60.0%: 6/17
+Pine Hits/Total for 12/31/23: 132/287
+FTN Hits/Total for 12/31/23: 110/229
+	FTN Hits/Total for 12/31/23 over 60.0%: 11/21

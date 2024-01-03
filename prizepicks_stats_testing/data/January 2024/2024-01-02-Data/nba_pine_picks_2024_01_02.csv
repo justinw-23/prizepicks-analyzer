@@ -1,0 +1,381 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes
+Chicago vs. Philadelphia,Tobias Harris,Blocks,0.5,1.20,1.00,1.00,6,4,Over
+Brooklyn vs. New Orleans,Brandon Ingram,Blocks,0.5,1.20,1.20,1.00,6,4,Over
+Brooklyn vs. New Orleans,Spencer Dinwiddie,Offensive Rebounds,0.5,1.10,1.20,1.00,8,2,Over
+Brooklyn vs. New Orleans,Jonas Valanciunas,Steals,0.5,1.00,1.00,1.00,8,2,Over
+Orlando vs. Golden State,Klay Thompson,Steals,0.5,0.91,0.80,1.00,6,4,Over
+Orlando vs. Golden State,Jalen Suggs,Blocks,0.5,0.88,0.90,1.00,9,1,Over
+Brooklyn vs. New Orleans,Brandon Ingram,Offensive Rebounds,0.5,0.82,0.80,1.00,7,3,Over
+San Antonio vs. Memphis,Victor Wembanyama,Blocks,2.5,4.05,3.80,4.00,7,3,Over
+Chicago vs. Philadelphia,DeMar DeRozan,Three Points Made,0.5,0.80,0.70,1.00,6,4,Over
+Brooklyn vs. New Orleans,CJ McCollum,Blocks,0.5,0.80,0.70,1.00,7,3,Over
+Orlando vs. Golden State,Jonathan Kuminga,Steals,0.5,0.80,0.70,1.00,6,4,Over
+Orlando vs. Golden State,Paolo Banchero,Blocks,0.5,0.80,0.60,1.00,6,4,Over
+San Antonio vs. Memphis,Jaren Jackson Jr.,Blocks,1.5,0.60,1.10,0.50,3,7,Under
+Orlando vs. Golden State,Chris Paul,Steals,1.5,0.60,0.90,0.50,3,7,Under
+Brooklyn vs. New Orleans,Brandon Ingram,SB,1.5,2.34,2.20,2.00,6,4,Over
+Boston vs. Oklahoma City,Luguentz Dort,Three Points Made,1.5,2.32,2.30,2.50,7,3,Over
+Boston vs. Oklahoma City,Luguentz Dort,Steals,0.5,0.76,0.70,0.00,3,7,Over
+Brooklyn vs. New Orleans,Jonas Valanciunas,SB,1.5,2.28,2.20,2.00,9,1,Over
+Chicago vs. Philadelphia,Coby White,Steals,0.5,0.27,0.30,0.00,3,7,Under
+Orlando vs. Golden State,Brandin Podziemski,Rebounds,5.0,7.20,7.10,7.00,6,4,Over
+Boston vs. Oklahoma City,Chet Holmgren,Steals,0.5,0.28,0.30,0.00,3,7,Under
+San Antonio vs. Memphis,Ja Morant,Three Points Made,1.5,0.88,0.83,1.00,1,5,Under
+Chicago vs. Philadelphia,Coby White,Free Throws Made,2.5,3.41,3.30,4.00,7,3,Over
+Brooklyn vs. New Orleans,Brandon Ingram,Free Throws Made,4.5,6.11,5.70,5.50,5,5,Over
+Boston vs. Oklahoma City,Luguentz Dort,Points,9.5,12.88,13.30,14.50,7,3,Over
+San Antonio vs. Memphis,Jaren Jackson Jr.,Free Throws Made,4.0,5.40,5.70,4.50,5,5,Over
+Orlando vs. Golden State,Brandin Podziemski,PR,14.0,18.80,19.00,19.50,7,3,Over
+Chicago vs. Philadelphia,Andre Drummond,RA,14.5,9.60,11.10,8.00,3,7,Under
+Chicago vs. Philadelphia,Andre Drummond,Rebounds,13.5,9.00,10.60,7.50,3,7,Under
+Orlando vs. Golden State,Brandin Podziemski,Assists,3.5,4.66,4.60,5.00,8,2,Over
+Chicago vs. Philadelphia,DeMar DeRozan,SB,1.5,1.99,2.20,2.00,6,4,Over
+Orlando vs. Golden State,Brandin Podziemski,RA,9.0,11.84,11.70,11.00,7,3,Over
+Orlando vs. Golden State,Brandin Podziemski,PAR,18.0,23.50,23.60,24.00,8,2,Over
+Chicago vs. Philadelphia,Patrick Williams,Three Points Made,1.5,1.95,2.10,2.00,8,2,Over
+Orlando vs. Golden State,Brandin Podziemski,Points,9.0,11.64,11.90,11.50,8,2,Over
+San Antonio vs. Memphis,Ja Morant,Three Point Attempts,4.5,5.80,5.70,5.50,7,3,Over
+San Antonio vs. Memphis,Desmond Bane,SB,1.5,1.07,1.10,1.00,3,7,Under
+Brooklyn vs. New Orleans,Brandon Ingram,Rebounds,5.0,3.58,3.90,3.00,2,8,Under
+Chicago vs. Philadelphia,Andre Drummond,SB,2.5,1.80,2.70,1.50,4,6,Under
+Orlando vs. Golden State,Jalen Suggs,Assists,2.5,1.80,2.10,1.50,4,6,Under
+Chicago vs. Philadelphia,Andre Drummond,PA,12.5,9.00,9.90,7.50,3,7,Under
+Orlando vs. Golden State,Franz Wagner,Three Points Made,1.5,1.08,1.00,1.00,3,7,Under
+Brooklyn vs. New Orleans,Spencer Dinwiddie,Rebounds,3.5,4.47,4.80,4.50,7,3,Over
+Chicago vs. Philadelphia,Andre Drummond,PAR,26.5,19.20,20.50,16.00,2,8,Under
+San Antonio vs. Memphis,Malaki Branham,Steals,0.5,0.36,0.40,0.00,4,6,Under
+Chicago vs. Philadelphia,Andre Drummond,PR,25.5,18.60,20.00,15.50,2,8,Under
+Brooklyn vs. New Orleans,Mikal Bridges,PR,26.5,19.51,20.60,22.00,2,8,Under
+Orlando vs. Golden State,Jalen Suggs,Rebounds,3.5,2.58,2.50,2.50,4,6,Under
+Orlando vs. Golden State,Brandin Podziemski,PA,13.0,16.31,16.50,16.50,8,2,Over
+Brooklyn vs. New Orleans,Mikal Bridges,PA,25.5,19.09,20.10,20.00,2,8,Under
+Charlotte vs. Sacramento,Harrison Barnes,Turnovers,0.5,0.62,0.60,0.00,4,6,Under
+Brooklyn vs. New Orleans,Mikal Bridges,Points,21.5,16.21,16.60,16.50,2,8,Under
+Brooklyn vs. New Orleans,Mikal Bridges,PAR,30.5,23.01,24.10,24.00,2,8,Under
+San Antonio vs. Memphis,Victor Wembanyama,Defensive Rebounds,7.0,8.69,9.00,8.00,5,5,Over
+Charlotte vs. Sacramento,Keegan Murray,Points,15.5,19.20,18.20,16.00,5,5,Over
+Orlando vs. Golden State,Andrew Wiggins,Blocks,0.5,0.38,0.40,0.00,4,6,Under
+Boston vs. Oklahoma City,Luguentz Dort,PA,11.5,14.24,14.80,16.00,7,3,Over
+Charlotte vs. Sacramento,Keegan Murray,PA,16.5,20.40,19.50,17.00,5,5,Over
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,SB,2.5,3.09,3.00,3.00,7,3,Over
+Brooklyn vs. New Orleans,Cameron Johnson,Rebounds,4.5,3.46,3.70,3.50,4,6,Under
+San Antonio vs. Memphis,Victor Wembanyama,RA,12.0,14.74,15.10,13.50,5,5,Over
+San Antonio vs. Memphis,Victor Wembanyama,Fantasy Points - PrizePicks,39.5,48.43,49.23,49.55,7,3,Over
+Charlotte vs. Sacramento,Keegan Murray,Blocks,0.5,0.39,0.40,0.00,3,7,Under
+Orlando vs. Golden State,Stephen Curry,PR,32.5,25.25,26.30,28.00,3,7,Under
+Chicago vs. Philadelphia,Andre Drummond,Points,11.5,9.00,9.40,7.50,3,7,Under
+Orlando vs. Golden State,Stephen Curry,Points,28.5,22.33,23.10,24.50,3,7,Under
+Brooklyn vs. New Orleans,Jonas Valanciunas,Fantasy Points - PrizePicks,31.0,37.71,37.77,40.05,8,2,Over
+Orlando vs. Golden State,Trayce Jackson-Davis,Points,11.5,9.03,8.80,10.00,3,7,Under
+San Antonio vs. Memphis,Victor Wembanyama,Rebounds,9.0,10.93,11.40,11.50,6,4,Over
+San Antonio vs. Memphis,Jaren Jackson Jr.,Rebounds,6.5,5.11,5.00,4.50,3,7,Under
+Brooklyn vs. New Orleans,Mikal Bridges,Fantasy Points - PrizePicks,34.0,26.79,27.65,27.65,2,8,Under
+Boston vs. Oklahoma City,Chet Holmgren,Three Points Made,1.5,1.82,1.90,2.00,6,4,Over
+Chicago vs. Philadelphia,Coby White,Rebounds,5.0,6.05,6.10,6.50,6,4,Over
+Orlando vs. Golden State,Klay Thompson,Turnovers,1.5,1.19,1.20,1.00,3,7,Under
+Orlando vs. Golden State,Stephen Curry,Rebounds,4.0,3.17,3.20,3.00,1,9,Under
+Chicago vs. Philadelphia,Patrick Williams,Rebounds,4.5,3.59,3.50,3.00,3,7,Under
+Chicago vs. Philadelphia,Tobias Harris,Fantasy Points - PrizePicks,31.0,37.26,36.04,33.65,7,3,Over
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,Free Throws Made,7.5,9.01,9.20,8.50,7,3,Over
+Orlando vs. Golden State,Paolo Banchero,SB,1.5,1.20,1.40,1.00,4,6,Under
+San Antonio vs. Memphis,Jaren Jackson Jr.,Three Points Made,1.5,1.20,1.40,1.00,3,7,Under
+Orlando vs. Golden State,Chris Paul,Three Points Made,1.5,1.20,1.60,1.00,4,6,Under
+Chicago vs. Philadelphia,Tobias Harris,SB,1.5,1.20,2.10,1.00,3,7,Under
+Orlando vs. Golden State,Paolo Banchero,Three Points Made,1.5,1.20,1.30,1.00,4,6,Under
+Orlando vs. Golden State,Franz Wagner,SB,1.5,1.20,1.70,1.00,4,6,Under
+San Antonio vs. Memphis,Desmond Bane,Free Throws Made,3.0,2.40,2.80,2.00,3,7,Under
+Orlando vs. Golden State,Chris Paul,Turnovers,1.5,1.20,1.40,1.00,4,6,Under
+Orlando vs. Golden State,Jalen Suggs,Three Points Made,1.5,1.20,1.70,1.00,4,6,Under
+Chicago vs. Philadelphia,Patrick Williams,SB,1.5,1.20,1.40,1.00,4,6,Under
+Charlotte vs. Sacramento,Keegan Murray,Three Points Made,2.5,3.00,2.90,2.50,5,5,Over
+Brooklyn vs. New Orleans,Zion Williamson,Free Throws Made,4.5,3.60,4.30,3.00,4,6,Under
+Brooklyn vs. New Orleans,Mikal Bridges,Rebounds,4.5,3.60,4.00,4.50,5,5,Under
+Chicago vs. Philadelphia,DeMar DeRozan,Blocks,0.5,0.60,0.80,0.50,5,5,Under
+Chicago vs. Philadelphia,Alex Caruso,Blocks,0.5,0.60,0.70,0.50,5,5,Under
+Orlando vs. Golden State,Stephen Curry,PAR,37.5,30.08,31.10,32.50,3,7,Under
+Charlotte vs. Sacramento,De'Aaron Fox,Turnovers,2.5,2.99,3.00,3.00,7,3,Over
+Boston vs. Oklahoma City,Jalen Williams,Three Points Made,1.5,1.79,1.80,1.50,5,5,Over
+San Antonio vs. Memphis,Marcus Smart,RA,7.5,6.06,5.90,5.50,3,7,Under
+Orlando vs. Golden State,Stephen Curry,PA,33.5,27.12,27.90,28.50,3,7,Under
+Boston vs. Oklahoma City,Chet Holmgren,Free Throws Made,2.5,2.03,2.10,2.00,3,7,Under
+Brooklyn vs. New Orleans,Jonas Valanciunas,RA,12.0,14.26,14.30,15.50,7,3,Over
+Orlando vs. Golden State,Chris Paul,Points,11.0,8.96,9.40,9.00,4,6,Under
+Brooklyn vs. New Orleans,Jonas Valanciunas,Rebounds,10.0,11.78,11.60,13.00,7,3,Over
+Chicago vs. Philadelphia,DeMar DeRozan,Rebounds,4.0,4.71,4.50,4.50,5,5,Over
+San Antonio vs. Memphis,Desmond Bane,Rebounds,5.5,4.52,5.00,5.50,5,5,Under
+Brooklyn vs. New Orleans,Zion Williamson,Field Goal Attempts,16.0,13.17,13.20,13.00,2,8,Under
+Brooklyn vs. New Orleans,Brandon Ingram,RA,11.0,9.07,9.50,9.00,3,7,Under
+Orlando vs. Golden State,Chris Paul,PA,20.5,16.98,17.30,14.50,3,7,Under
+Brooklyn vs. New Orleans,Jonas Valanciunas,Defensive Rebounds,7.5,8.79,8.90,9.50,7,3,Over
+Boston vs. Oklahoma City,Josh Giddey,Points,10.5,12.29,11.90,11.50,6,4,Over
+Charlotte vs. Sacramento,Keegan Murray,PR,20.5,23.88,23.00,21.00,5,5,Over
+Boston vs. Oklahoma City,Josh Giddey,PR,16.5,19.21,18.50,19.00,6,4,Over
+Chicago vs. Philadelphia,Joel Embiid,Points,34.5,40.17,39.20,39.00,7,3,Over
+San Antonio vs. Memphis,Devin Vassell,Rebounds,4.0,3.35,3.60,4.00,3,7,Under
+Brooklyn vs. New Orleans,Spencer Dinwiddie,RA,10.0,11.61,11.70,11.50,7,3,Over
+Chicago vs. Philadelphia,Coby White,Assists,5.0,5.80,5.90,5.00,4,6,Over
+San Antonio vs. Memphis,Desmond Bane,Three Point Attempts,8.0,9.27,9.60,9.00,7,3,Over
+Orlando vs. Golden State,Chris Paul,Assists,9.0,7.61,7.90,9.00,5,5,Under
+San Antonio vs. Memphis,Ja Morant,Free Throws Made,6.0,5.08,5.40,5.00,3,7,Under
+Orlando vs. Golden State,Chris Paul,PR,15.5,13.12,13.50,13.50,4,6,Under
+Orlando vs. Golden State,Trayce Jackson-Davis,PR,18.5,15.69,15.20,19.50,5,5,Under
+Brooklyn vs. New Orleans,Jonas Valanciunas,PAR,25.5,29.36,29.80,30.50,7,3,Over
+Orlando vs. Golden State,Klay Thompson,PA,18.0,20.72,20.80,24.50,6,4,Over
+Chicago vs. Philadelphia,Alex Caruso,PA,14.5,12.31,13.20,14.00,4,6,Under
+Boston vs. Oklahoma City,Josh Giddey,PA,14.5,16.62,16.50,16.50,7,3,Over
+Orlando vs. Golden State,Franz Wagner,Rebounds,6.0,6.87,6.80,6.50,5,5,Over
+San Antonio vs. Memphis,Victor Wembanyama,Free Throws Made,3.5,2.99,3.30,2.50,4,6,Under
+Brooklyn vs. New Orleans,Jonas Valanciunas,PA,15.5,17.76,18.20,18.00,7,3,Over
+Charlotte vs. Sacramento,Domantas Sabonis,Assists,7.5,8.58,8.40,8.00,6,4,Over
+Orlando vs. Golden State,Jonathan Kuminga,Points,12.5,14.30,14.20,14.00,6,4,Over
+Brooklyn vs. New Orleans,Mikal Bridges,Assists,3.5,3.00,3.50,2.50,4,6,Under
+Brooklyn vs. New Orleans,Jonas Valanciunas,PR,23.5,26.84,27.10,28.50,6,4,Over
+Boston vs. Oklahoma City,Luguentz Dort,PR,14.5,16.56,17.00,19.00,6,4,Over
+Orlando vs. Golden State,Paolo Banchero,Assists,4.0,4.56,4.90,4.00,4,6,Under
+Brooklyn vs. New Orleans,Zion Williamson,Points,23.5,20.19,20.60,21.00,3,7,Under
+Orlando vs. Golden State,Stephen Curry,Three Points Made,4.5,3.87,4.00,3.50,4,6,Under
+Brooklyn vs. New Orleans,CJ McCollum,Rebounds,3.5,3.99,3.80,3.50,5,5,Over
+Orlando vs. Golden State,Chris Paul,PAR,24.5,21.08,21.40,18.00,3,7,Under
+Chicago vs. Philadelphia,Alex Caruso,Points,11.5,9.90,10.50,10.50,4,6,Under
+Orlando vs. Golden State,Trayce Jackson-Davis,PA,12.5,10.79,10.20,11.00,4,6,Under
+Chicago vs. Philadelphia,Tobias Harris,Points,17.0,19.32,18.00,18.00,5,5,Over
+Brooklyn vs. New Orleans,CJ McCollum,Assists,5.0,4.32,4.50,4.00,4,6,Under
+Orlando vs. Golden State,Jonathan Kuminga,PR,17.5,19.87,19.70,19.00,6,4,Over
+Brooklyn vs. New Orleans,Jonas Valanciunas,Offensive Rebounds,2.5,2.84,2.70,3.00,6,4,Over
+Boston vs. Oklahoma City,Josh Giddey,Fantasy Points - PrizePicks,25.0,28.34,28.22,30.15,6,4,Over
+Orlando vs. Golden State,Stephen Curry,RA,9.0,7.84,8.00,9.00,2,8,Under
+Orlando vs. Golden State,Klay Thompson,Points,16.5,18.58,18.60,22.00,6,4,Over
+Brooklyn vs. New Orleans,Jonas Valanciunas,Points,13.5,15.20,15.50,14.50,6,4,Over
+Orlando vs. Golden State,Jonathan Kuminga,PA,14.5,16.32,16.10,16.00,7,3,Over
+Chicago vs. Philadelphia,Joel Embiid,PA,40.5,45.58,44.70,43.00,7,3,Over
+Chicago vs. Philadelphia,Joel Embiid,PR,46.5,52.33,51.60,52.00,7,3,Over
+Chicago vs. Philadelphia,Tobias Harris,PA,20.5,23.06,21.80,20.50,5,5,Over
+San Antonio vs. Memphis,Ja Morant,Field Goal Attempts,20.0,22.48,21.20,24.00,6,4,Over
+Brooklyn vs. New Orleans,Mikal Bridges,Field Goal Attempts,16.5,14.48,14.70,16.00,4,6,Under
+Brooklyn vs. New Orleans,Zion Williamson,PAR,35.5,31.15,31.50,35.50,5,5,Under
+Orlando vs. Golden State,Jonathan Kuminga,PAR,19.5,21.89,21.60,21.50,7,3,Over
+Chicago vs. Philadelphia,Alex Caruso,Three Points Made,1.5,1.32,1.50,1.50,5,5,Under
+Orlando vs. Golden State,Klay Thompson,PAR,21.5,24.08,24.10,28.00,6,4,Over
+Orlando vs. Golden State,Trayce Jackson-Davis,PAR,20.0,17.62,16.60,21.50,6,4,Under
+Orlando vs. Golden State,Jonathan Kuminga,Rebounds,5.0,5.59,5.50,5.00,4,6,Under
+Charlotte vs. Sacramento,Keegan Murray,PAR,22.5,25.17,24.30,22.00,5,5,Over
+Orlando vs. Golden State,Klay Thompson,PR,19.5,21.81,21.90,25.50,6,4,Over
+San Antonio vs. Memphis,Desmond Bane,Assists,5.0,5.59,5.30,5.50,5,5,Under
+San Antonio vs. Memphis,Ja Morant,SB,1.5,1.67,1.60,1.50,5,5,Under
+Brooklyn vs. New Orleans,Brandon Ingram,Field Goal Attempts,18.5,16.39,15.90,17.50,2,8,Under
+Charlotte vs. Sacramento,Harrison Barnes,Points,9.5,10.58,10.50,10.50,6,4,Over
+San Antonio vs. Memphis,Ja Morant,RA,14.5,12.87,12.83,13.50,2,4,Under
+San Antonio vs. Memphis,Malaki Branham,Fantasy Points - PrizePicks,22.0,19.55,19.92,20.40,4,6,Under
+Chicago vs. Philadelphia,Ayo Dosunmu,PR,13.5,15.00,15.50,12.50,4,6,Over
+San Antonio vs. Memphis,Marcus Smart,Fantasy Points - PrizePicks,28.0,24.92,23.92,24.65,4,6,Under
+Brooklyn vs. New Orleans,Mikal Bridges,RA,8.0,7.13,7.50,7.00,3,7,Under
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,Rebounds,5.5,6.10,5.90,6.00,6,4,Over
+Chicago vs. Philadelphia,Tobias Harris,PAR,26.5,29.34,28.00,27.50,5,5,Over
+Brooklyn vs. New Orleans,Zion Williamson,PR,30.5,27.23,27.40,30.50,5,5,Under
+Brooklyn vs. New Orleans,Zion Williamson,PA,27.5,24.58,24.70,24.50,4,6,Under
+Brooklyn vs. New Orleans,Spencer Dinwiddie,Fantasy Points - PrizePicks,29.5,32.61,32.51,33.05,6,4,Over
+Chicago vs. Philadelphia,Joel Embiid,Fantasy Points - PrizePicks,62.5,69.04,68.53,68.15,9,1,Over
+Orlando vs. Golden State,Chris Paul,RA,13.0,11.65,12.00,13.00,5,5,Under
+Boston vs. Oklahoma City,Josh Giddey,PAR,21.0,23.19,23.10,23.00,6,4,Over
+Boston vs. Oklahoma City,Jalen Williams,Fantasy Points - PrizePicks,28.5,31.45,31.86,31.50,7,3,Over
+San Antonio vs. Memphis,Devin Vassell,PR,24.5,21.96,22.80,23.50,5,5,Under
+Chicago vs. Philadelphia,Tyrese Maxey,PA,32.5,29.18,30.40,27.50,4,6,Under
+Chicago vs. Philadelphia,Joel Embiid,PAR,52.5,57.83,57.10,56.00,6,4,Over
+Brooklyn vs. New Orleans,Mikal Bridges,Free Throws Made,4.0,3.60,3.90,3.00,4,6,Under
+Chicago vs. Philadelphia,Patrick Williams,PA,15.0,16.49,16.00,15.50,5,5,Over
+Brooklyn vs. New Orleans,Zion Williamson,Fantasy Points - PrizePicks,39.5,35.58,36.31,36.45,3,7,Under
+San Antonio vs. Memphis,Jeremy Sochan,Points,11.5,10.37,10.80,9.00,3,7,Under
+Charlotte vs. Sacramento,Keegan Murray,Rebounds,5.5,4.96,4.80,5.00,3,7,Under
+Chicago vs. Philadelphia,Tyrese Maxey,Points,25.5,23.02,24.30,22.00,4,6,Under
+San Antonio vs. Memphis,Victor Wembanyama,PAR,29.5,32.36,33.20,33.50,7,3,Over
+Chicago vs. Philadelphia,DeMar DeRozan,Field Goal Attempts,17.0,15.41,15.30,15.00,1,9,Under
+Boston vs. Oklahoma City,Josh Giddey,Rebounds,6.0,6.56,6.60,7.00,5,5,Under
+Brooklyn vs. New Orleans,CJ McCollum,Points,18.5,20.20,20.20,20.50,6,4,Over
+Boston vs. Oklahoma City,Jalen Williams,PA,20.0,21.83,22.40,21.00,5,5,Over
+San Antonio vs. Memphis,Marcus Smart,PR,16.5,15.00,14.20,13.50,3,7,Under
+Orlando vs. Golden State,Jalen Suggs,Points,11.5,12.52,11.80,11.50,5,5,Over
+Brooklyn vs. New Orleans,Zion Williamson,Assists,4.5,4.11,4.10,4.00,3,7,Under
+Boston vs. Oklahoma City,Chet Holmgren,Fantasy Points - PrizePicks,37.0,40.14,41.39,39.70,7,3,Over
+Brooklyn vs. New Orleans,Cameron Johnson,Three Point Attempts,6.5,5.95,6.00,6.00,3,7,Under
+Brooklyn vs. New Orleans,Mikal Bridges,Three Point Attempts,6.0,5.50,5.10,5.00,3,7,Under
+San Antonio vs. Memphis,Jeremy Sochan,Fantasy Points - PrizePicks,26.5,24.31,25.30,25.50,5,5,Under
+San Antonio vs. Memphis,Victor Wembanyama,PR,26.5,28.65,29.50,29.00,7,3,Over
+Chicago vs. Philadelphia,DeMar DeRozan,Points,23.5,21.61,21.80,22.00,4,6,Under
+San Antonio vs. Memphis,Jeremy Sochan,Rebounds,6.5,7.02,6.50,7.00,6,4,Over
+San Antonio vs. Memphis,Marcus Smart,PAR,20.5,18.87,18.00,17.00,4,6,Under
+Chicago vs. Philadelphia,Alex Caruso,PAR,17.5,16.13,17.20,19.00,6,4,Under
+Chicago vs. Philadelphia,Joel Embiid,Free Throws Made,10.0,10.78,10.30,10.50,5,5,Over
+Orlando vs. Golden State,Jalen Suggs,PAR,18.5,17.07,16.40,16.50,4,6,Under
+San Antonio vs. Memphis,Jeremy Sochan,PAR,22.0,20.30,21.30,19.50,4,6,Under
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,Fantasy Points - PrizePicks,53.0,57.07,56.88,57.80,8,2,Over
+San Antonio vs. Memphis,Jaren Jackson Jr.,PA,21.5,23.14,22.90,21.00,5,5,Over
+Brooklyn vs. New Orleans,Brandon Ingram,Assists,6.0,5.54,5.60,5.50,3,7,Under
+Chicago vs. Philadelphia,Joel Embiid,Field Goal Attempts,21.5,23.13,22.80,23.50,6,4,Over
+Chicago vs. Philadelphia,Joel Embiid,Defensive Rebounds,9.5,10.22,10.20,10.00,6,4,Over
+Orlando vs. Golden State,Stephen Curry,Assists,5.0,4.62,4.80,4.50,4,6,Under
+Chicago vs. Philadelphia,Tobias Harris,PR,23.5,25.25,24.20,24.00,5,5,Over
+Orlando vs. Golden State,Franz Wagner,PA,28.5,26.40,26.90,25.50,4,6,Under
+Chicago vs. Philadelphia,Tobias Harris,Turnovers,1.5,1.61,1.40,1.50,5,5,Under
+Chicago vs. Philadelphia,Ayo Dosunmu,PA,12.5,13.42,13.70,11.50,4,6,Over
+Chicago vs. Philadelphia,DeMar DeRozan,Assists,5.5,5.90,5.70,5.00,3,7,Over
+Brooklyn vs. New Orleans,CJ McCollum,PR,22.5,24.14,24.00,24.50,7,3,Over
+Boston vs. Oklahoma City,Chet Holmgren,Field Goal Attempts,13.5,12.55,12.70,12.50,4,6,Under
+Orlando vs. Golden State,Franz Wagner,Assists,4.5,4.18,4.60,5.00,6,4,Under
+Boston vs. Oklahoma City,Chet Holmgren,Rebounds,8.0,7.44,7.70,7.00,4,6,Under
+Boston vs. Oklahoma City,Josh Giddey,Assists,4.0,4.27,4.60,4.00,3,7,Under
+Orlando vs. Golden State,Franz Wagner,RA,10.5,11.22,11.40,11.50,7,3,Over
+Boston vs. Oklahoma City,Chet Holmgren,PA,19.5,20.83,21.50,20.00,5,5,Over
+Chicago vs. Philadelphia,Ayo Dosunmu,Points,10.5,11.21,11.40,10.00,5,5,Over
+Chicago vs. Philadelphia,Tobias Harris,Rebounds,6.0,6.41,6.20,7.00,6,4,Under
+Chicago vs. Philadelphia,Coby White,PA,27.5,25.64,26.90,25.50,3,7,Under
+Chicago vs. Philadelphia,Tyrese Maxey,Fantasy Points - PrizePicks,41.5,38.69,38.65,36.95,4,6,Under
+Charlotte vs. Sacramento,Domantas Sabonis,Rebounds,13.5,12.60,12.30,10.50,2,8,Under
+Chicago vs. Philadelphia,Tyrese Maxey,Free Throws Made,4.5,4.20,4.50,3.50,4,6,Under
+Chicago vs. Philadelphia,Alex Caruso,PR,14.5,13.54,14.50,15.00,5,5,Under
+Brooklyn vs. New Orleans,CJ McCollum,Fantasy Points - PrizePicks,34.0,36.23,35.81,35.30,8,2,Over
+Chicago vs. Philadelphia,DeMar DeRozan,Free Throws Made,6.0,6.39,6.30,7.00,6,4,Under
+Orlando vs. Golden State,Paolo Banchero,Rebounds,7.5,7.99,7.70,8.50,6,4,Over
+San Antonio vs. Memphis,Devin Vassell,PAR,27.5,25.70,26.30,27.00,4,6,Under
+Chicago vs. Philadelphia,Alex Caruso,Fantasy Points - PrizePicks,23.0,21.50,22.55,25.55,7,3,Under
+San Antonio vs. Memphis,Jeremy Sochan,PA,15.5,14.52,14.80,13.50,4,6,Under
+San Antonio vs. Memphis,Desmond Bane,PA,28.5,30.28,30.00,28.00,5,5,Over
+San Antonio vs. Memphis,Devin Vassell,RA,7.5,7.04,7.10,6.50,4,6,Under
+Brooklyn vs. New Orleans,Spencer Dinwiddie,Points,14.5,13.62,13.50,15.00,5,5,Under
+San Antonio vs. Memphis,Victor Wembanyama,Field Goal Attempts,15.0,14.10,14.80,14.50,3,7,Under
+San Antonio vs. Memphis,Marcus Smart,Assists,4.0,3.76,3.80,3.50,4,6,Under
+Orlando vs. Golden State,Andrew Wiggins,PA,14.5,13.64,14.20,14.00,5,5,Under
+Brooklyn vs. New Orleans,CJ McCollum,PA,23.5,24.90,24.70,25.50,6,4,Over
+Brooklyn vs. New Orleans,Zion Williamson,RA,11.5,10.82,10.90,11.50,5,5,Under
+Chicago vs. Philadelphia,Tyrese Maxey,PR,28.5,26.81,27.30,26.00,5,5,Under
+Boston vs. Oklahoma City,Chet Holmgren,Points,17.5,18.53,19.00,18.50,6,4,Over
+Orlando vs. Golden State,Franz Wagner,Points,23.5,22.14,22.30,24.00,6,4,Under
+Orlando vs. Golden State,Trayce Jackson-Davis,Rebounds,7.0,6.60,6.40,5.50,4,6,Under
+Chicago vs. Philadelphia,Tyrese Maxey,PAR,35.5,33.53,33.40,30.50,4,6,Under
+San Antonio vs. Memphis,Desmond Bane,Field Goal Attempts,18.0,18.99,18.90,19.50,6,4,Over
+San Antonio vs. Memphis,Jaren Jackson Jr.,Points,20.0,21.10,21.50,20.50,5,5,Over
+Boston vs. Oklahoma City,Chet Holmgren,RA,10.5,9.94,10.20,10.00,4,6,Under
+San Antonio vs. Memphis,Jeremy Sochan,RA,10.5,11.06,10.50,9.50,3,7,Over
+Chicago vs. Philadelphia,Alex Caruso,Rebounds,3.5,3.69,4.00,4.00,6,4,Over
+Brooklyn vs. New Orleans,Zion Williamson,Rebounds,7.0,6.63,6.80,7.00,5,5,Under
+Brooklyn vs. New Orleans,Cameron Johnson,Three Points Made,2.5,2.63,2.70,3.00,6,4,Under
+Chicago vs. Philadelphia,Coby White,Points,22.0,20.90,21.00,21.00,3,7,Under
+San Antonio vs. Memphis,Devin Vassell,Three Point Attempts,7.5,7.13,7.30,7.00,4,6,Under
+San Antonio vs. Memphis,Devin Vassell,PA,23.5,22.34,22.70,23.00,4,6,Under
+Brooklyn vs. New Orleans,Brandon Ingram,PAR,35.5,33.75,33.50,33.50,4,6,Under
+Brooklyn vs. New Orleans,Spencer Dinwiddie,PA,21.5,20.45,20.40,22.00,5,5,Under
+Chicago vs. Philadelphia,Coby White,PR,27.5,26.16,27.10,28.00,6,4,Under
+Brooklyn vs. New Orleans,Cameron Johnson,PAR,21.5,20.46,21.00,21.00,5,5,Under
+Chicago vs. Philadelphia,DeMar DeRozan,PR,27.5,26.17,26.30,26.50,4,6,Under
+Charlotte vs. Sacramento,De'Aaron Fox,Assists,6.0,5.71,5.60,6.00,4,6,Under
+San Antonio vs. Memphis,Malaki Branham,Points,11.5,10.95,11.40,12.00,6,4,Under
+San Antonio vs. Memphis,Desmond Bane,Points,23.5,24.61,24.70,25.00,5,5,Over
+Brooklyn vs. New Orleans,CJ McCollum,Offensive Rebounds,0.5,0.48,0.40,0.00,3,7,Under
+Chicago vs. Philadelphia,DeMar DeRozan,PAR,33.5,31.94,32.00,32.50,4,6,Under
+Boston vs. Oklahoma City,Jalen Williams,Points,16.5,17.26,18.00,16.00,5,5,Over
+San Antonio vs. Memphis,Marcus Smart,PA,17.5,16.69,15.90,15.50,4,6,Under
+San Antonio vs. Memphis,Malaki Branham,PAR,18.5,17.65,18.00,19.50,6,4,Under
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,PR,37.5,39.21,38.60,39.00,7,3,Over
+Brooklyn vs. New Orleans,Cameron Johnson,PR,19.5,18.62,19.00,19.50,5,5,Under
+Orlando vs. Golden State,Paolo Banchero,RA,12.0,12.53,12.60,12.00,5,5,Over
+Brooklyn vs. New Orleans,Cameron Johnson,Fantasy Points - PrizePicks,25.0,23.92,25.04,25.50,5,5,Under
+Chicago vs. Philadelphia,Tyrese Maxey,Field Goal Attempts,20.0,19.14,19.70,21.00,5,5,Under
+Orlando vs. Golden State,Andrew Wiggins,PR,17.0,16.29,17.00,15.50,5,5,Under
+Boston vs. Oklahoma City,Josh Giddey,RA,10.5,10.94,11.20,11.50,6,4,Over
+San Antonio vs. Memphis,Marcus Smart,Points,13.5,12.94,12.10,11.50,3,7,Under
+San Antonio vs. Memphis,Malaki Branham,Rebounds,3.5,3.36,3.60,3.50,5,5,Under
+Brooklyn vs. New Orleans,Cameron Johnson,PA,17.5,16.79,17.30,19.00,7,3,Under
+Orlando vs. Golden State,Andrew Wiggins,Points,12.5,12.00,12.50,11.50,4,6,Under
+San Antonio vs. Memphis,Jaren Jackson Jr.,SB,2.5,2.40,2.30,2.00,4,6,Under
+Charlotte vs. Sacramento,Domantas Sabonis,Turnovers,2.5,2.40,2.50,2.00,4,6,Under
+Brooklyn vs. New Orleans,Spencer Dinwiddie,Free Throws Made,2.5,2.40,2.80,2.00,4,6,Under
+San Antonio vs. Memphis,Devin Vassell,Points,19.5,18.74,19.20,19.00,5,5,Under
+Charlotte vs. Sacramento,Domantas Sabonis,PA,29.5,30.65,29.50,27.50,4,6,Over
+Charlotte vs. Sacramento,Domantas Sabonis,RA,21.0,21.82,20.70,19.00,4,6,Over
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,Assists,6.0,6.23,6.60,7.00,6,4,Under
+Charlotte vs. Sacramento,Harrison Barnes,PR,13.5,12.98,12.80,14.00,6,4,Under
+San Antonio vs. Memphis,Desmond Bane,Fantasy Points - PrizePicks,41.0,39.43,39.05,39.75,5,5,Under
+Brooklyn vs. New Orleans,CJ McCollum,PAR,27.5,28.54,28.50,29.50,7,3,Over
+Chicago vs. Philadelphia,DeMar DeRozan,PA,28.5,27.43,27.50,28.00,5,5,Under
+Chicago vs. Philadelphia,Tyrese Maxey,Three Point Attempts,8.0,8.30,8.40,8.00,4,6,Under
+San Antonio vs. Memphis,Ja Morant,Rebounds,6.0,6.22,5.80,5.50,2,8,Under
+Chicago vs. Philadelphia,DeMar DeRozan,Fantasy Points - PrizePicks,39.5,40.97,40.65,38.95,4,6,Over
+Brooklyn vs. New Orleans,Brandon Ingram,PR,29.5,28.42,27.90,29.00,4,6,Under
+Brooklyn vs. New Orleans,CJ McCollum,Three Point Attempts,8.0,8.29,8.20,8.00,4,6,Under
+Chicago vs. Philadelphia,Joel Embiid,Rebounds,12.0,12.43,12.40,12.50,5,5,Over
+Brooklyn vs. New Orleans,CJ McCollum,Field Goal Attempts,15.5,14.94,14.70,15.00,3,7,Under
+Brooklyn vs. New Orleans,Cameron Johnson,Points,14.5,15.01,15.30,15.50,6,4,Over
+Boston vs. Oklahoma City,Luguentz Dort,Three Point Attempts,4.5,4.65,4.70,5.00,6,4,Under
+Brooklyn vs. New Orleans,Brandon Ingram,Fantasy Points - PrizePicks,40.5,41.81,40.98,42.85,6,4,Over
+Brooklyn vs. New Orleans,Spencer Dinwiddie,Three Point Attempts,6.0,6.19,6.10,5.50,3,7,Under
+Charlotte vs. Sacramento,Domantas Sabonis,Points,21.5,22.18,21.10,19.00,4,6,Over
+Charlotte vs. Sacramento,De'Aaron Fox,RA,10.5,10.17,10.00,10.50,5,5,Under
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,PAR,44.0,45.36,45.20,45.00,5,5,Over
+San Antonio vs. Memphis,Jaren Jackson Jr.,Field Goal Attempts,14.0,13.57,14.10,12.50,4,6,Under
+Orlando vs. Golden State,Andrew Wiggins,PAR,18.5,17.94,18.70,18.00,5,5,Under
+Charlotte vs. Sacramento,Domantas Sabonis,PR,35.5,34.47,33.40,34.00,3,7,Under
+San Antonio vs. Memphis,Devin Vassell,Assists,3.5,3.60,3.50,3.00,4,6,Under
+Boston vs. Oklahoma City,Jalen Williams,Assists,3.5,3.60,4.40,3.00,4,6,Under
+Chicago vs. Philadelphia,Coby White,Field Goal Attempts,18.0,17.49,17.50,17.50,4,6,Under
+Chicago vs. Philadelphia,Alex Caruso,Turnovers,1.5,1.54,1.60,1.50,5,5,Under
+Brooklyn vs. New Orleans,Zion Williamson,Turnovers,2.5,2.43,2.50,2.50,5,5,Under
+Chicago vs. Philadelphia,Joel Embiid,RA,17.5,17.94,17.90,17.50,5,5,Over
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,PA,38.5,39.46,39.30,39.00,5,5,Over
+Chicago vs. Philadelphia,Coby White,PAR,32.5,31.70,33.00,31.50,5,5,Under
+Boston vs. Oklahoma City,Chet Holmgren,PAR,28.0,28.69,29.20,29.00,6,4,Over
+Orlando vs. Golden State,Jalen Suggs,PR,15.5,15.14,14.30,15.00,5,5,Under
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,Points,32.5,33.25,32.70,32.50,5,5,Over
+Chicago vs. Philadelphia,Patrick Williams,Points,13.5,13.81,14.10,13.00,4,6,Over
+San Antonio vs. Memphis,Victor Wembanyama,PA,20.5,20.96,21.80,20.00,5,5,Over
+San Antonio vs. Memphis,Malaki Branham,PA,14.5,14.18,14.40,15.00,6,4,Under
+Brooklyn vs. New Orleans,Spencer Dinwiddie,PAR,24.5,25.04,25.20,27.00,6,4,Over
+San Antonio vs. Memphis,Jaren Jackson Jr.,Fantasy Points - PrizePicks,35.5,34.74,34.40,31.80,4,6,Under
+Orlando vs. Golden State,Paolo Banchero,Points,24.5,23.99,23.70,23.50,4,6,Under
+San Antonio vs. Memphis,Devin Vassell,Field Goal Attempts,16.0,15.68,15.80,15.50,3,7,Under
+Boston vs. Oklahoma City,Jalen Williams,PAR,24.5,24.97,25.70,25.00,6,4,Over
+Boston vs. Oklahoma City,Jalen Williams,RA,7.5,7.36,7.70,7.50,5,5,Under
+San Antonio vs. Memphis,Jeremy Sochan,PR,17.5,17.17,17.30,17.50,5,5,Under
+Charlotte vs. Sacramento,Harrison Barnes,PA,11.5,11.71,11.50,12.00,5,5,Over
+San Antonio vs. Memphis,Ja Morant,Assists,8.0,8.14,8.00,7.50,3,7,Under
+Brooklyn vs. New Orleans,Spencer Dinwiddie,Assists,6.5,6.61,6.90,6.50,5,5,Under
+Orlando vs. Golden State,Franz Wagner,PR,29.5,29.01,29.10,29.50,5,5,Under
+Brooklyn vs. New Orleans,Brandon Ingram,Points,24.5,24.88,24.00,25.00,5,5,Over
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,RA,12.0,12.18,12.50,13.00,5,5,Over
+Orlando vs. Golden State,Paolo Banchero,PR,31.5,31.97,31.40,30.00,4,6,Over
+San Antonio vs. Memphis,Victor Wembanyama,Points,17.5,17.24,18.10,16.00,4,6,Under
+San Antonio vs. Memphis,Desmond Bane,PAR,34.5,34.98,35.00,34.50,5,5,Over
+Charlotte vs. Sacramento,De'Aaron Fox,PAR,39.5,38.96,39.10,38.50,5,5,Under
+San Antonio vs. Memphis,Ja Morant,PR,33.5,33.06,31.40,30.00,5,5,Under
+Boston vs. Oklahoma City,Chet Holmgren,PR,26.0,26.32,26.70,27.50,6,4,Over
+San Antonio vs. Memphis,Jeremy Sochan,Assists,4.0,3.95,4.00,4.00,3,7,Under
+San Antonio vs. Memphis,Ja Morant,PA,34.5,34.12,33.00,33.50,3,3,Under
+Chicago vs. Philadelphia,Patrick Williams,PAR,19.5,19.29,19.50,19.00,4,6,Under
+San Antonio vs. Memphis,Ja Morant,PAR,41.5,41.06,39.40,38.50,5,5,Under
+Charlotte vs. Sacramento,De'Aaron Fox,PR,33.5,33.15,33.50,32.00,4,6,Under
+San Antonio vs. Memphis,Ja Morant,Points,27.0,27.28,25.60,25.00,5,5,Over
+Orlando vs. Golden State,Franz Wagner,PAR,34.0,33.65,33.70,31.50,4,6,Under
+Charlotte vs. Sacramento,Domantas Sabonis,PAR,42.5,42.93,41.80,41.50,4,6,Over
+Boston vs. Oklahoma City,Shai Gilgeous-Alexander,Field Goal Attempts,21.5,21.29,20.50,20.00,3,7,Under
+Brooklyn vs. New Orleans,Brandon Ingram,Turnovers,2.5,2.48,2.70,2.50,5,5,Under
+San Antonio vs. Memphis,Devin Vassell,Fantasy Points - PrizePicks,33.5,33.22,33.67,31.55,4,6,Under
+San Antonio vs. Memphis,Desmond Bane,PR,29.5,29.26,29.70,28.00,5,5,Under
+Chicago vs. Philadelphia,Coby White,Fantasy Points - PrizePicks,35.5,35.78,36.37,32.60,4,6,Over
+Chicago vs. Philadelphia,Joel Embiid,Assists,5.5,5.54,5.50,5.50,5,5,Under
+Chicago vs. Philadelphia,Coby White,Three Point Attempts,7.5,7.44,7.50,6.50,4,6,Under
+Brooklyn vs. New Orleans,Brandon Ingram,PA,30.5,30.27,29.60,30.50,5,5,Under
+San Antonio vs. Memphis,Devin Vassell,Three Points Made,2.5,2.52,2.60,2.50,5,5,Under
+San Antonio vs. Memphis,Jaren Jackson Jr.,PR,26.5,26.70,26.50,24.50,4,6,Over
+Chicago vs. Philadelphia,Patrick Williams,PR,18.0,18.13,17.60,17.00,4,6,Over
+San Antonio vs. Memphis,Jaren Jackson Jr.,PAR,28.5,28.30,27.90,27.50,4,6,Under
+Orlando vs. Golden State,Jalen Suggs,PA,14.5,14.60,13.90,13.50,4,6,Over
+Orlando vs. Golden State,Paolo Banchero,PAR,36.5,36.25,36.30,34.50,4,6,Under
+Charlotte vs. Sacramento,De'Aaron Fox,Rebounds,4.5,4.47,4.40,4.00,4,6,Under
+Chicago vs. Philadelphia,Patrick Williams,Fantasy Points - PrizePicks,24.5,24.66,24.25,25.40,5,5,Over
+Boston vs. Oklahoma City,Jalen Williams,Turnovers,1.5,1.49,1.50,1.50,5,5,Under
+Charlotte vs. Sacramento,De'Aaron Fox,Points,28.5,28.65,29.10,29.00,6,4,Over
+Boston vs. Oklahoma City,Jalen Williams,PR,20.5,20.60,21.30,19.00,4,6,Over
+Orlando vs. Golden State,Paolo Banchero,PA,28.5,28.63,28.60,29.50,5,5,Over
+San Antonio vs. Memphis,Ja Morant,Points,26.5,26.38,25.17,25.00,3,3,Under
+Charlotte vs. Sacramento,De'Aaron Fox,PA,34.5,34.46,34.70,34.50,5,5,Under
+San Antonio vs. Memphis,Malaki Branham,PR,14.5,14.52,15.00,15.50,6,4,Over
+Brooklyn vs. New Orleans,Spencer Dinwiddie,PR,18.5,18.52,18.30,19.50,5,5,Over
+San Antonio vs. Memphis,Ja Morant,Fantasy Points - PrizePicks,48.0,47.98,46.36,45.80,5,5,Under

@@ -1,0 +1,737 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes
+LA Clippers vs. Phoenix,James Harden,Blocks,0.5,1.64,1.60,1.50,8,2,Over
+New Orleans vs. Minnesota,Brandon Ingram,Blocks,0.5,1.20,1.30,1.00,7,3,Over
+Oklahoma City vs. Atlanta,Luguentz Dort,Blocks,0.5,1.20,1.20,1.00,8,2,Over
+New Orleans vs. Minnesota,Anthony Edwards,Blocks,0.5,1.00,1.00,1.00,6,4,Over
+New Orleans vs. Minnesota,Jonas Valanciunas,Steals,0.5,0.91,0.90,1.00,8,2,Over
+New Orleans vs. Minnesota,Brandon Ingram,Offensive Rebounds,0.5,0.89,0.90,1.00,8,2,Over
+Milwaukee vs. Indiana,Aaron Nesmith,SB,1.5,2.61,2.80,2.50,6,4,Over
+LA Clippers vs. Phoenix,Grayson Allen,SB,1.5,2.61,2.50,3.00,7,3,Over
+Oklahoma City vs. Atlanta,Luguentz Dort,Three Points Made,1.5,2.44,2.40,2.50,7,3,Over
+Milwaukee vs. Indiana,Brook Lopez,Blocks,2.5,4.07,3.60,3.50,6,4,Over
+New Orleans vs. Minnesota,CJ McCollum,Blocks,0.5,0.80,0.60,1.00,6,4,Over
+Orlando vs. Sacramento,Paolo Banchero,Blocks,0.5,0.80,0.70,1.00,7,3,Over
+Milwaukee vs. Indiana,Tyrese Haliburton,Offensive Rebounds,0.5,0.80,0.60,1.00,6,4,Over
+Oklahoma City vs. Atlanta,Dejounte Murray,Offensive Rebounds,0.5,0.80,0.70,1.00,6,4,Over
+Chicago vs. New York,Jalen Brunson,Offensive Rebounds,0.5,0.80,0.80,1.00,6,4,Over
+Orlando vs. Sacramento,Jalen Suggs,Blocks,0.5,0.80,0.80,1.00,8,2,Over
+New Orleans vs. Minnesota,Karl-Anthony Towns,Offensive Rebounds,1.5,2.39,2.70,2.50,8,2,Over
+Detroit vs. Utah,Jaden Ivey,Rebounds,3.5,5.50,5.30,5.00,8,2,Over
+Detroit vs. Utah,Kevin Knox II,PA,11.5,5.40,6.50,4.50,2,8,Under
+Oklahoma City vs. Atlanta,Jalen Williams,SB,1.5,2.26,2.10,2.00,7,3,Over
+Portland vs. Dallas,Jerami Grant,Steals,0.5,0.25,0.30,0.00,3,7,Under
+New Orleans vs. Minnesota,Brandon Ingram,SB,1.5,2.23,2.30,2.00,6,4,Over
+Oklahoma City vs. Atlanta,Bogdan Bogdanovic,Assists,2.5,3.72,3.60,4.00,7,3,Over
+Chicago vs. New York,Donte DiVincenzo,Rebounds,3.5,1.80,2.70,1.50,3,7,Under
+Washington vs. Cleveland,Tyus Jones,Three Points Made,1.5,2.20,2.40,2.00,7,3,Over
+Detroit vs. Utah,Kevin Knox II,Points,10.0,5.40,6.10,4.50,3,7,Under
+Washington vs. Cleveland,Daniel Gafford,SB,2.5,3.60,3.90,3.00,7,3,Over
+Oklahoma City vs. Atlanta,Chet Holmgren,Blocks,2.5,3.60,3.50,3.00,6,4,Over
+Chicago vs. New York,OG Anunoby,SB,1.5,0.85,1.00,1.00,3,7,Under
+Chicago vs. New York,Julius Randle,Three Points Made,1.5,0.87,0.80,1.00,2,8,Under
+Detroit vs. Utah,Kevin Knox II,PR,13.5,7.87,7.50,7.00,3,7,Under
+Orlando vs. Sacramento,De'Aaron Fox,Steals,1.5,2.12,2.00,2.00,7,3,Over
+Portland vs. Dallas,Jerami Grant,Rebounds,5.0,3.00,3.90,2.50,3,7,Under
+Portland vs. Dallas,Jerami Grant,Blocks,0.5,0.30,0.50,0.00,4,6,Under
+Milwaukee vs. Indiana,Tyrese Haliburton,Free Throws Made,3.5,2.10,2.40,2.50,3,7,Under
+Toronto vs. Memphis,RJ Barrett,Steals,0.5,0.30,0.30,0.00,3,7,Under
+LA Clippers vs. Phoenix,Paul George,SB,1.5,2.09,2.20,2.00,7,3,Over
+Chicago vs. New York,Julius Randle,Free Throws Made,5.0,6.92,6.80,7.00,8,2,Over
+Oklahoma City vs. Atlanta,Saddiq Bey,RA,7.5,10.30,9.60,10.00,8,2,Over
+Oklahoma City vs. Atlanta,Trae Young,Three Points Made,3.5,4.80,4.70,4.00,7,3,Over
+Milwaukee vs. Indiana,Myles Turner,Steals,0.5,0.32,0.30,0.00,3,7,Under
+New Orleans vs. Minnesota,Jonas Valanciunas,SB,1.5,2.05,2.00,2.00,9,1,Over
+New Orleans vs. Minnesota,Jonas Valanciunas,Points,11.5,15.57,15.20,14.00,7,3,Over
+Milwaukee vs. Indiana,Myles Turner,Blocks,1.5,2.03,2.10,2.00,7,3,Over
+Portland vs. Dallas,Kyrie Irving,Turnovers,1.5,0.97,1.00,1.00,2,8,Under
+New Orleans vs. Minnesota,Jonas Valanciunas,RA,10.5,14.16,13.80,14.00,8,2,Over
+New Orleans vs. Minnesota,Jonas Valanciunas,PA,13.5,18.08,17.50,17.50,8,2,Over
+Oklahoma City vs. Atlanta,Saddiq Bey,Rebounds,6.5,8.68,8.10,8.50,7,3,Over
+LA Clippers vs. Phoenix,Ivica Zubac,SB,1.5,1.00,1.30,1.00,4,6,Under
+New Orleans vs. Minnesota,CJ McCollum,Free Throws Made,2.5,1.67,1.50,2.00,2,8,Under
+New Orleans vs. Minnesota,Jonas Valanciunas,Fantasy Points - PrizePicks,28.0,37.12,36.35,35.65,9,1,Over
+Milwaukee vs. Indiana,Brook Lopez,Three Points Made,1.5,1.02,1.10,1.00,4,6,Under
+LA Clippers vs. Phoenix,Paul George,Free Throws Made,4.0,2.73,2.50,2.50,2,8,Under
+New Orleans vs. Minnesota,Jonas Valanciunas,PR,20.5,26.98,26.70,26.50,8,2,Over
+Milwaukee vs. Indiana,Brook Lopez,Free Throws Made,1.5,1.97,1.90,2.00,7,3,Over
+New Orleans vs. Minnesota,Jonas Valanciunas,PAR,22.5,29.52,29.00,28.00,8,2,Over
+Chicago vs. New York,Donte DiVincenzo,Offensive Rebounds,0.5,0.66,0.60,0.00,4,6,Under
+Washington vs. Cleveland,Daniel Gafford,Fantasy Points - PrizePicks,27.5,36.03,35.57,36.05,7,3,Over
+Toronto vs. Memphis,Pascal Siakam,Offensive Rebounds,1.5,1.04,1.20,1.00,2,8,Under
+Toronto vs. Memphis,Jakob Poeltl,Blocks,1.5,1.96,1.70,2.00,6,4,Over
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,Blocks,0.5,0.65,0.60,0.00,4,6,Under
+New Orleans vs. Minnesota,Jonas Valanciunas,Rebounds,9.0,11.56,11.50,12.50,7,3,Over
+Portland vs. Dallas,Kyrie Irving,SB,1.5,1.08,1.10,1.00,3,7,Under
+Washington vs. Cleveland,Jarrett Allen,Free Throws Made,2.5,1.80,2.70,1.50,4,6,Under
+New Orleans vs. Minnesota,Jaden McDaniels,Rebounds,2.5,1.80,2.20,1.50,4,6,Under
+New Orleans vs. Minnesota,Brandon Ingram,Turnovers,2.5,1.80,2.40,1.50,4,6,Under
+Miami vs. LA Lakers,Jaime Jaquez Jr.,Assists,2.5,1.80,2.80,1.50,4,6,Under
+Detroit vs. Utah,Jaden Ivey,RA,7.5,9.60,9.30,9.00,7,3,Over
+Oklahoma City vs. Atlanta,Bogdan Bogdanovic,PA,19.5,24.94,24.30,24.00,7,3,Over
+Washington vs. Cleveland,Isaac Okoro,SB,1.5,1.08,1.10,1.00,2,8,Under
+LA Clippers vs. Phoenix,Bradley Beal,Assists,4.5,3.27,3.22,3.00,2,7,Under
+New Orleans vs. Minnesota,CJ McCollum,Offensive Rebounds,0.5,0.64,0.60,0.00,4,6,Under
+LA Clippers vs. Phoenix,Ivica Zubac,Defensive Rebounds,6.5,8.26,8.00,8.00,7,3,Over
+Washington vs. Cleveland,Jordan Poole,Free Throws Made,3.0,2.19,2.30,2.00,2,8,Under
+LA Clippers vs. Phoenix,Bradley Beal,PA,25.5,18.66,18.78,19.00,2,7,Under
+LA Clippers vs. Phoenix,Jusuf Nurkic,Defensive Rebounds,8.0,10.14,10.10,9.50,6,4,Over
+Oklahoma City vs. Atlanta,Bogdan Bogdanovic,PAR,22.5,28.48,27.90,28.50,8,2,Over
+LA Clippers vs. Phoenix,Bradley Beal,PAR,29.5,21.75,21.89,22.00,1,8,Under
+Milwaukee vs. Indiana,Myles Turner,Free Throws Made,3.5,4.42,5.00,5.50,8,2,Over
+LA Clippers vs. Phoenix,Ivica Zubac,RA,10.5,13.19,12.80,11.50,5,5,Over
+LA Clippers vs. Phoenix,James Harden,Free Throws Made,4.5,5.65,5.30,5.50,7,3,Over
+Orlando vs. Sacramento,Jalen Suggs,Rebounds,3.5,2.61,2.70,2.50,4,6,Under
+LA Clippers vs. Phoenix,Paul George,Offensive Rebounds,0.5,0.63,0.70,0.00,4,6,Under
+LA Clippers vs. Phoenix,James Harden,Turnovers,2.5,3.13,3.00,3.50,6,4,Over
+Milwaukee vs. Indiana,Brook Lopez,PA,15.5,11.61,11.80,12.50,2,8,Under
+Oklahoma City vs. Atlanta,Bogdan Bogdanovic,Points,17.0,21.26,20.70,20.00,7,3,Over
+LA Clippers vs. Phoenix,Bradley Beal,Points,20.5,15.36,15.56,15.00,3,6,Under
+LA Clippers vs. Phoenix,Bradley Beal,PR,24.5,18.46,18.67,19.00,3,6,Under
+Portland vs. Dallas,Kyrie Irving,Assists,5.0,3.78,3.80,4.00,2,8,Under
+Washington vs. Cleveland,Daniel Gafford,Rebounds,7.0,8.71,8.60,8.00,6,4,Over
+LA Clippers vs. Phoenix,Bradley Beal,RA,8.5,6.44,6.33,6.00,2,7,Under
+Oklahoma City vs. Atlanta,Bogdan Bogdanovic,PR,20.0,24.80,24.30,24.00,7,3,Over
+Detroit vs. Utah,Kris Dunn,Assists,5.0,6.20,5.90,5.50,5,5,Over
+LA Clippers vs. Phoenix,Jusuf Nurkic,Rebounds,10.5,12.91,13.10,13.00,7,3,Over
+LA Clippers vs. Phoenix,Bradley Beal,Fantasy Points - PrizePicks,33.5,25.83,25.96,27.10,2,8,Under
+LA Clippers vs. Phoenix,Grayson Allen,Fantasy Points - PrizePicks,24.5,30.07,29.94,28.10,9,1,Over
+Miami vs. LA Lakers,Anthony Davis,Turnovers,2.5,1.94,2.00,2.00,2,8,Under
+Oklahoma City vs. Atlanta,Luguentz Dort,Points,11.0,13.47,12.60,12.00,5,5,Over
+New Orleans vs. Minnesota,Mike Conley,Free Throws Made,1.5,1.16,1.10,1.00,4,6,Under
+LA Clippers vs. Phoenix,Devin Booker,Free Throws Made,6.5,5.06,5.50,4.50,3,7,Under
+Toronto vs. Memphis,Ja Morant,Free Throws Made,6.0,4.67,5.00,5.00,3,7,Under
+Milwaukee vs. Indiana,Brook Lopez,SB,3.5,4.27,3.90,4.00,6,4,Over
+Washington vs. Cleveland,Tyus Jones,Fantasy Points - PrizePicks,28.0,34.12,35.01,32.05,7,3,Over
+Washington vs. Cleveland,Jarrett Allen,Defensive Rebounds,9.5,7.42,7.70,8.50,2,8,Under
+Portland vs. Dallas,Derrick Jones Jr.,Rebounds,4.5,3.52,3.80,3.50,3,7,Under
+Toronto vs. Memphis,Scottie Barnes,Assists,5.0,6.09,6.10,6.50,6,4,Over
+Chicago vs. New York,OG Anunoby,Rebounds,4.0,3.14,3.50,3.00,4,6,Under
+Oklahoma City vs. Atlanta,Luguentz Dort,Fantasy Points - PrizePicks,21.5,26.09,25.05,25.80,5,5,Over
+Detroit vs. Utah,Jaden Ivey,PR,17.5,21.22,21.00,20.00,5,5,Over
+LA Clippers vs. Phoenix,Bradley Beal,Field Goal Attempts,15.0,11.83,12.10,12.50,3,7,Under
+Milwaukee vs. Indiana,Aaron Nesmith,Fantasy Points - PrizePicks,21.5,26.04,26.25,26.05,8,2,Over
+Portland vs. Dallas,Dereck Lively II,Blocks,1.5,1.18,1.10,1.00,4,6,Under
+Orlando vs. Sacramento,Franz Wagner,Three Points Made,1.5,1.19,1.10,1.00,3,7,Under
+LA Clippers vs. Phoenix,James Harden,Fantasy Points - PrizePicks,38.5,46.54,46.84,43.05,8,2,Over
+Washington vs. Cleveland,Tyus Jones,Points,12.5,15.11,15.40,14.00,7,3,Over
+LA Clippers vs. Phoenix,Ivica Zubac,Rebounds,9.5,11.44,11.20,10.50,6,4,Over
+Toronto vs. Memphis,Scottie Barnes,SB,2.5,3.01,2.80,3.00,6,4,Over
+Oklahoma City vs. Atlanta,Chet Holmgren,Offensive Rebounds,1.5,1.19,1.30,1.00,4,6,Under
+New Orleans vs. Minnesota,Brandon Ingram,Rebounds,5.0,3.98,4.10,3.50,2,8,Under
+Miami vs. LA Lakers,Jaime Jaquez Jr.,SB,1.5,1.81,1.80,2.00,6,4,Over
+Chicago vs. New York,Donte DiVincenzo,Points,12.5,15.01,14.00,13.00,5,5,Over
+Oklahoma City vs. Atlanta,Luguentz Dort,PA,12.5,15.00,14.10,14.00,6,4,Over
+LA Clippers vs. Phoenix,Kawhi Leonard,Free Throws Made,4.0,4.80,4.60,6.00,6,4,Over
+Oklahoma City vs. Atlanta,Luguentz Dort,SB,1.5,1.20,2.00,1.00,4,6,Under
+Detroit vs. Utah,Lauri Markkanen,SB,1.5,1.20,1.30,1.00,4,6,Under
+Detroit vs. Utah,John Collins,SB,1.5,1.20,1.50,1.00,3,7,Under
+Detroit vs. Utah,Simone Fontecchio,Rebounds,3.5,4.20,3.90,3.50,5,5,Over
+Miami vs. LA Lakers,Kyle Lowry,Three Points Made,1.5,1.20,1.70,1.00,3,7,Under
+Detroit vs. Utah,Simone Fontecchio,SB,1.5,1.20,1.20,1.00,3,7,Under
+Chicago vs. New York,Donte DiVincenzo,SB,1.5,1.20,1.90,1.00,4,6,Under
+Milwaukee vs. Indiana,Myles Turner,Three Points Made,1.5,1.20,1.60,1.00,4,6,Under
+Toronto vs. Memphis,Jaren Jackson Jr.,Free Throws Made,3.5,4.20,4.90,3.50,5,5,Over
+Oklahoma City vs. Atlanta,Chet Holmgren,Assists,2.5,3.00,3.00,2.50,5,5,Over
+Orlando vs. Sacramento,Keegan Murray,Three Points Made,2.5,3.00,3.00,2.50,5,5,Over
+Chicago vs. New York,Donte DiVincenzo,Three Points Made,2.5,3.00,3.10,2.50,5,5,Over
+LA Clippers vs. Phoenix,James Harden,Three Points Made,2.5,3.00,3.30,2.50,5,5,Over
+New Orleans vs. Minnesota,Zion Williamson,Free Throws Made,4.5,3.60,4.30,3.00,4,6,Under
+Miami vs. LA Lakers,LeBron James,Blocks,0.5,0.60,0.70,0.50,5,5,Under
+LA Clippers vs. Phoenix,Jusuf Nurkic,Three Points Made,0.5,0.60,0.60,0.50,5,5,Under
+Chicago vs. New York,Jalen Brunson,Rebounds,4.0,4.80,4.70,4.00,4,6,Over
+Orlando vs. Sacramento,De'Aaron Fox,Blocks,0.5,0.60,0.60,0.50,5,5,Under
+Oklahoma City vs. Atlanta,Clint Capela,Blocks,1.5,1.80,1.60,1.50,5,5,Over
+Detroit vs. Utah,Cade Cunningham,SB,1.5,1.80,1.80,1.50,5,5,Over
+Orlando vs. Sacramento,Jalen Suggs,Three Points Made,1.5,1.80,1.90,1.50,5,5,Over
+Milwaukee vs. Indiana,Brook Lopez,Offensive Rebounds,1.5,1.80,1.70,1.50,5,5,Over
+Toronto vs. Memphis,Jaren Jackson Jr.,Turnovers,1.5,1.80,1.90,1.50,5,5,Over
+Orlando vs. Sacramento,Franz Wagner,SB,1.5,1.80,1.90,1.50,5,5,Over
+Oklahoma City vs. Atlanta,Clint Capela,Points,12.0,14.39,14.50,14.50,7,3,Over
+Washington vs. Cleveland,Max Strus,PR,21.5,17.23,17.80,16.50,3,7,Under
+Orlando vs. Sacramento,Jalen Suggs,Assists,2.5,2.01,2.20,2.00,5,5,Under
+Washington vs. Cleveland,Deni Avdija,Points,12.5,10.05,10.70,10.50,4,6,Under
+LA Clippers vs. Phoenix,Grayson Allen,Points,12.5,14.95,15.30,12.50,5,5,Over
+Chicago vs. New York,Jalen Brunson,Free Throws Made,5.0,5.97,6.00,6.00,6,4,Over
+Oklahoma City vs. Atlanta,Dejounte Murray,SB,1.5,1.79,1.70,2.00,6,4,Over
+Milwaukee vs. Indiana,Brook Lopez,Points,13.5,10.89,10.80,11.50,5,5,Under
+Washington vs. Cleveland,Dean Wade,Points,6.0,7.15,8.00,6.50,5,5,Over
+LA Clippers vs. Phoenix,Jusuf Nurkic,RA,14.0,16.66,16.30,16.00,6,4,Over
+Portland vs. Dallas,Luka Doncic,Assists,9.5,11.29,11.30,10.00,8,2,Over
+New Orleans vs. Minnesota,CJ McCollum,Rebounds,3.5,4.16,4.00,4.00,5,5,Over
+Detroit vs. Utah,Collin Sexton,Points,17.5,20.80,21.30,21.00,8,2,Over
+Toronto vs. Memphis,Jaren Jackson Jr.,Rebounds,6.0,4.88,5.00,4.50,3,7,Under
+Oklahoma City vs. Atlanta,Trae Young,Free Throws Made,7.5,6.10,6.30,5.50,2,8,Under
+New Orleans vs. Minnesota,Anthony Edwards,Three Point Attempts,7.0,8.29,7.90,8.50,6,4,Over
+Oklahoma City vs. Atlanta,Clint Capela,Offensive Rebounds,4.5,5.33,5.20,5.50,7,3,Over
+Detroit vs. Utah,Collin Sexton,PA,21.5,25.42,25.70,27.00,8,2,Over
+Toronto vs. Memphis,Jakob Poeltl,Steals,0.5,0.59,0.60,0.00,4,6,Under
+Detroit vs. Utah,Jaden Ivey,PAR,21.5,25.37,25.00,24.00,5,5,Over
+Milwaukee vs. Indiana,Myles Turner,RA,8.0,6.57,6.60,6.00,2,8,Under
+Washington vs. Cleveland,Max Strus,PAR,25.5,20.96,21.70,21.50,3,7,Under
+Washington vs. Cleveland,Tyus Jones,PA,18.5,21.78,22.30,23.00,7,3,Over
+LA Clippers vs. Phoenix,Ivica Zubac,PA,11.5,13.52,13.60,13.50,7,3,Over
+Toronto vs. Memphis,Jaren Jackson Jr.,RA,7.5,6.19,6.30,6.00,3,7,Under
+Oklahoma City vs. Atlanta,Clint Capela,PA,13.5,15.82,16.00,16.50,9,1,Over
+Milwaukee vs. Indiana,Brook Lopez,PAR,20.5,17.06,17.00,20.50,5,5,Under
+LA Clippers vs. Phoenix,Ivica Zubac,PAR,21.0,24.51,24.80,23.50,5,5,Over
+Oklahoma City vs. Atlanta,Trae Young,Turnovers,4.5,5.25,5.00,5.00,7,3,Over
+Detroit vs. Utah,Jaden Ivey,Points,13.5,15.74,15.70,14.00,5,5,Over
+Oklahoma City vs. Atlanta,Clint Capela,Fantasy Points - PrizePicks,31.5,36.71,35.81,38.40,7,3,Over
+Washington vs. Cleveland,Donovan Mitchell,Assists,7.5,6.26,6.30,6.00,2,8,Under
+LA Clippers vs. Phoenix,James Harden,PA,26.5,30.87,30.20,28.50,6,4,Over
+Portland vs. Dallas,Jerami Grant,RA,7.5,6.26,7.10,5.50,3,7,Under
+New Orleans vs. Minnesota,Anthony Edwards,Turnovers,3.5,4.08,3.80,4.00,7,3,Over
+Toronto vs. Memphis,Pascal Siakam,Assists,4.5,5.23,5.30,5.00,6,4,Over
+Washington vs. Cleveland,Tyus Jones,PR,15.5,18.00,18.70,17.00,7,3,Over
+Oklahoma City vs. Atlanta,Jalen Williams,Fantasy Points - PrizePicks,29.0,33.67,32.62,31.50,7,3,Over
+Orlando vs. Sacramento,Domantas Sabonis,Assists,7.0,8.12,8.50,8.00,6,4,Over
+Toronto vs. Memphis,Immanuel Quickley,PAR,23.0,19.33,19.00,19.50,2,8,Under
+Orlando vs. Sacramento,Keegan Murray,Points,14.5,16.80,17.50,14.00,5,5,Over
+Miami vs. LA Lakers,Tyler Herro,Rebounds,5.5,6.37,5.90,6.00,7,3,Over
+Orlando vs. Sacramento,Paolo Banchero,Assists,4.5,5.21,5.10,4.50,5,5,Over
+Detroit vs. Utah,Simone Fontecchio,PA,13.5,11.40,12.20,9.50,4,6,Under
+Portland vs. Dallas,Kyrie Irving,RA,9.5,8.02,7.90,8.00,3,7,Under
+Portland vs. Dallas,Kyrie Irving,Three Points Made,2.5,2.11,2.30,2.50,5,5,Under
+Chicago vs. New York,Donte DiVincenzo,PA,14.5,16.73,15.80,15.00,5,5,Over
+Detroit vs. Utah,Collin Sexton,PR,20.5,23.62,24.10,23.50,8,2,Over
+Detroit vs. Utah,Collin Sexton,PAR,24.5,28.22,28.50,30.00,8,2,Over
+Oklahoma City vs. Atlanta,Clint Capela,Steals,0.5,0.58,0.60,0.50,5,5,Under
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,Free Throws Made,7.5,8.63,9.10,8.50,7,3,Over
+Toronto vs. Memphis,Scottie Barnes,PA,25.5,29.32,29.90,30.00,7,3,Over
+Washington vs. Cleveland,Max Strus,Points,15.5,13.18,13.30,12.50,4,6,Under
+Detroit vs. Utah,Jalen Duren,Turnovers,1.5,1.72,1.90,2.00,6,4,Over
+Toronto vs. Memphis,Marcus Smart,PR,15.5,13.19,13.80,13.50,3,7,Under
+Washington vs. Cleveland,Daniel Gafford,RA,8.5,9.77,9.90,8.50,5,5,Over
+Washington vs. Cleveland,Max Strus,Rebounds,5.0,4.26,4.50,4.00,3,7,Under
+LA Clippers vs. Phoenix,James Harden,PAR,31.5,36.17,35.40,33.00,6,4,Over
+New Orleans vs. Minnesota,Anthony Edwards,Assists,5.0,5.74,5.50,5.00,3,7,Over
+Washington vs. Cleveland,Tyus Jones,PAR,21.5,24.66,25.60,24.50,8,2,Over
+New Orleans vs. Minnesota,Rudy Gobert,Points,13.5,11.52,11.90,10.00,3,7,Under
+LA Clippers vs. Phoenix,James Harden,PR,22.5,25.80,25.40,21.50,4,6,Over
+Orlando vs. Sacramento,Paolo Banchero,Three Points Made,1.5,1.72,1.60,1.50,5,5,Over
+Portland vs. Dallas,Luka Doncic,PA,41.5,47.56,47.70,49.00,8,2,Over
+Detroit vs. Utah,Collin Sexton,Assists,4.0,4.58,4.40,4.50,5,5,Under
+Toronto vs. Memphis,Desmond Bane,Three Point Attempts,8.0,9.16,9.30,9.00,6,4,Over
+Oklahoma City vs. Atlanta,Trae Young,Points,27.5,31.49,31.40,30.50,8,2,Over
+Miami vs. LA Lakers,Kyle Lowry,Points,8.5,9.73,9.30,9.00,5,5,Over
+Oklahoma City vs. Atlanta,Trae Young,Assists,11.5,13.16,12.80,13.00,7,3,Over
+LA Clippers vs. Phoenix,Devin Booker,Turnovers,2.5,2.14,2.30,2.00,4,6,Under
+LA Clippers vs. Phoenix,Kawhi Leonard,Assists,3.5,4.00,4.20,5.00,7,3,Over
+Milwaukee vs. Indiana,Aaron Nesmith,Rebounds,3.5,4.00,4.00,5.00,6,4,Over
+LA Clippers vs. Phoenix,Kawhi Leonard,Points,24.5,27.99,28.80,29.00,7,3,Over
+Oklahoma City vs. Atlanta,Trae Young,Fantasy Points - PrizePicks,48.5,55.36,54.84,54.05,9,1,Over
+Miami vs. LA Lakers,Anthony Davis,Rebounds,13.0,11.17,11.60,11.00,3,7,Under
+New Orleans vs. Minnesota,Zion Williamson,Field Goal Attempts,15.0,12.92,13.30,13.00,4,6,Under
+LA Clippers vs. Phoenix,Ivica Zubac,PR,20.0,22.77,23.20,22.50,6,4,Over
+Oklahoma City vs. Atlanta,Clint Capela,RA,11.5,13.09,12.80,12.00,5,5,Over
+Detroit vs. Utah,Jaden Ivey,PA,17.5,19.89,19.70,18.00,5,5,Over
+Washington vs. Cleveland,Jarrett Allen,Assists,3.5,3.98,4.00,3.50,5,5,Over
+Toronto vs. Memphis,Scottie Barnes,Fantasy Points - PrizePicks,44.5,50.54,50.73,49.25,7,3,Over
+Washington vs. Cleveland,Max Strus,PA,19.5,16.87,17.20,17.00,3,7,Under
+Washington vs. Cleveland,Donovan Mitchell,Steals,1.5,1.70,1.70,1.50,5,5,Over
+Oklahoma City vs. Atlanta,Jalen Johnson,Rebounds,9.0,7.80,7.50,6.50,3,7,Under
+New Orleans vs. Minnesota,Karl-Anthony Towns,Rebounds,8.0,9.06,9.70,8.50,5,5,Over
+New Orleans vs. Minnesota,Jonas Valanciunas,Offensive Rebounds,2.5,2.83,2.70,3.00,6,4,Over
+LA Clippers vs. Phoenix,Devin Booker,Rebounds,5.0,4.34,4.20,4.00,2,8,Under
+Detroit vs. Utah,Lauri Markkanen,RA,9.0,10.19,10.40,10.00,5,5,Over
+Orlando vs. Sacramento,Keegan Murray,Rebounds,5.0,4.34,4.40,4.50,2,8,Under
+Milwaukee vs. Indiana,Tyrese Haliburton,PR,30.5,26.48,25.70,25.50,3,7,Under
+Miami vs. LA Lakers,LeBron James,Assists,8.5,9.62,8.70,8.50,5,5,Over
+LA Clippers vs. Phoenix,James Harden,Points,17.5,19.80,20.20,16.50,4,6,Over
+Milwaukee vs. Indiana,Tyrese Haliburton,Points,25.5,22.15,21.60,21.50,3,7,Under
+Oklahoma City vs. Atlanta,Luguentz Dort,PR,15.5,17.53,16.60,17.00,6,4,Over
+LA Clippers vs. Phoenix,Grayson Allen,PA,15.5,17.53,17.90,15.00,5,5,Over
+Toronto vs. Memphis,Immanuel Quickley,Fantasy Points - PrizePicks,26.5,23.06,22.61,23.95,3,7,Under
+LA Clippers vs. Phoenix,Grayson Allen,PR,16.5,18.64,19.00,17.50,5,5,Over
+Oklahoma City vs. Atlanta,Trae Young,PA,39.5,44.61,44.20,44.50,8,2,Over
+Oklahoma City vs. Atlanta,Jalen Williams,PA,20.5,23.14,22.30,21.00,5,5,Over
+Milwaukee vs. Indiana,Aaron Nesmith,Points,11.5,12.98,12.80,12.00,7,3,Over
+Detroit vs. Utah,Cade Cunningham,Rebounds,4.0,4.51,4.30,4.00,5,5,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,Rebounds,8.0,6.98,7.20,6.00,4,6,Under
+LA Clippers vs. Phoenix,Kawhi Leonard,PA,28.5,32.14,33.00,31.50,8,2,Over
+Oklahoma City vs. Atlanta,Trae Young,RA,15.0,16.91,16.50,16.00,7,3,Over
+New Orleans vs. Minnesota,Jonas Valanciunas,Free Throws Made,2.5,2.18,2.10,2.00,4,6,Under
+LA Clippers vs. Phoenix,Devin Booker,PR,32.5,28.38,28.70,28.50,2,8,Under
+Chicago vs. New York,Jalen Brunson,Three Point Attempts,6.5,5.68,5.70,5.00,3,7,Under
+New Orleans vs. Minnesota,Anthony Edwards,Free Throws Made,6.0,6.76,6.90,7.00,6,4,Over
+Oklahoma City vs. Atlanta,Clint Capela,PAR,24.5,27.58,27.30,27.50,7,3,Over
+Toronto vs. Memphis,Marcus Smart,PAR,19.5,17.05,17.50,17.00,4,6,Under
+Toronto vs. Memphis,Jakob Poeltl,Rebounds,9.5,8.31,8.20,8.00,4,6,Under
+Toronto vs. Memphis,Scottie Barnes,Points,20.5,23.05,23.80,22.50,7,3,Over
+Portland vs. Dallas,Luka Doncic,Blocks,0.5,0.56,0.70,0.00,4,6,Under
+Detroit vs. Utah,Cade Cunningham,Assists,8.0,7.01,7.40,7.00,4,6,Under
+Toronto vs. Memphis,Pascal Siakam,PA,27.5,30.88,31.60,34.00,7,3,Over
+LA Clippers vs. Phoenix,Ivica Zubac,Points,10.5,11.78,12.00,12.50,6,4,Over
+Oklahoma City vs. Atlanta,Saddiq Bey,Fantasy Points - PrizePicks,24.5,27.49,27.37,28.10,8,2,Over
+Washington vs. Cleveland,Jordan Poole,Fantasy Points - PrizePicks,25.5,28.58,29.61,27.20,6,4,Over
+LA Clippers vs. Phoenix,Devin Booker,Points,27.5,24.19,24.50,25.00,3,7,Under
+Washington vs. Cleveland,Donovan Mitchell,Free Throws Made,5.5,4.84,5.00,5.00,4,6,Under
+Washington vs. Cleveland,Deni Avdija,PAR,22.5,19.80,21.40,16.50,4,6,Under
+Toronto vs. Memphis,Scottie Barnes,PR,29.5,33.02,33.70,34.50,7,3,Over
+Toronto vs. Memphis,Scottie Barnes,Rebounds,9.0,10.07,9.90,10.00,6,4,Over
+Toronto vs. Memphis,Jaren Jackson Jr.,PAR,27.5,24.24,24.40,24.50,4,6,Under
+Orlando vs. Sacramento,Jalen Suggs,PAR,19.5,17.19,17.00,16.50,3,7,Under
+Toronto vs. Memphis,Scottie Barnes,RA,14.5,16.20,16.00,15.00,7,3,Over
+Detroit vs. Utah,Simone Fontecchio,PR,14.5,16.20,15.20,13.50,5,5,Over
+Oklahoma City vs. Atlanta,Trae Young,PR,31.5,35.19,35.10,35.00,8,2,Over
+Milwaukee vs. Indiana,Brook Lopez,PR,18.5,16.34,16.00,19.00,6,4,Under
+Milwaukee vs. Indiana,Tyrese Haliburton,PA,39.5,34.89,35.10,34.50,4,6,Under
+Portland vs. Dallas,Luka Doncic,Points,32.5,36.29,36.40,39.00,8,2,Over
+Detroit vs. Utah,John Collins,PAR,17.5,19.54,19.40,19.00,6,4,Over
+Toronto vs. Memphis,Jakob Poeltl,RA,12.5,11.05,11.20,10.00,4,6,Under
+New Orleans vs. Minnesota,Brandon Ingram,Field Goal Attempts,17.5,15.48,15.50,17.50,5,5,Under
+New Orleans vs. Minnesota,Brandon Ingram,RA,10.5,9.29,9.70,10.00,3,7,Under
+LA Clippers vs. Phoenix,Jusuf Nurkic,PR,25.5,28.43,28.30,27.50,5,5,Over
+Oklahoma City vs. Atlanta,Dejounte Murray,Fantasy Points - PrizePicks,34.5,38.46,38.08,38.35,7,3,Over
+Milwaukee vs. Indiana,Tyrese Haliburton,PAR,44.0,38.95,39.20,39.50,4,6,Under
+Miami vs. LA Lakers,Anthony Davis,RA,16.0,14.17,15.00,14.50,4,6,Under
+Washington vs. Cleveland,Dean Wade,PR,11.5,12.81,13.40,11.00,4,6,Over
+Washington vs. Cleveland,Deni Avdija,PA,16.5,14.62,14.50,12.50,4,6,Under
+Detroit vs. Utah,Cade Cunningham,Points,23.5,26.17,25.10,26.50,6,4,Over
+Washington vs. Cleveland,Tyus Jones,Assists,6.0,6.68,6.90,6.00,4,6,Over
+Detroit vs. Utah,Simone Fontecchio,Points,11.5,10.20,11.30,8.50,4,6,Under
+Milwaukee vs. Indiana,Damian Lillard,Assists,7.0,6.21,6.20,5.50,3,7,Under
+Oklahoma City vs. Atlanta,Clint Capela,PR,23.5,26.14,25.80,25.50,7,3,Over
+LA Clippers vs. Phoenix,Kawhi Leonard,PR,30.5,33.92,34.80,35.00,6,4,Over
+New Orleans vs. Minnesota,Karl-Anthony Towns,Steals,0.5,0.56,0.50,0.00,3,7,Under
+Portland vs. Dallas,Jerami Grant,PR,26.5,23.53,24.80,22.50,4,6,Under
+Washington vs. Cleveland,Max Strus,Three Point Attempts,8.5,9.45,9.70,10.00,6,4,Over
+Toronto vs. Memphis,Marcus Smart,Turnovers,2.5,2.78,2.50,3.00,6,4,Over
+Oklahoma City vs. Atlanta,Trae Young,PAR,43.5,48.30,47.90,48.50,8,2,Over
+LA Clippers vs. Phoenix,Kawhi Leonard,Fantasy Points - PrizePicks,41.5,46.08,47.00,48.50,7,3,Over
+Orlando vs. Sacramento,De'Aaron Fox,Assists,6.0,5.34,5.40,6.00,3,7,Under
+Oklahoma City vs. Atlanta,Jalen Williams,Points,17.0,18.86,18.10,16.50,4,6,Over
+LA Clippers vs. Phoenix,Jusuf Nurkic,PAR,29.0,32.17,31.50,32.50,6,4,Over
+LA Clippers vs. Phoenix,Devin Booker,PAR,41.0,36.53,36.50,35.50,2,8,Under
+Oklahoma City vs. Atlanta,Trae Young,Three Point Attempts,10.0,11.09,10.80,10.50,5,5,Over
+Detroit vs. Utah,Cade Cunningham,PR,27.5,30.48,29.40,30.00,5,5,Over
+Toronto vs. Memphis,Immanuel Quickley,PR,19.5,17.40,17.10,18.00,4,6,Under
+LA Clippers vs. Phoenix,James Harden,Three Point Attempts,6.5,7.20,7.30,7.00,5,5,Over
+New Orleans vs. Minnesota,CJ McCollum,RA,8.0,8.86,8.60,9.00,7,3,Over
+LA Clippers vs. Phoenix,Devin Booker,PA,36.0,32.16,32.30,32.00,3,7,Under
+Chicago vs. New York,Jalen Brunson,PR,29.5,32.64,32.60,29.00,4,6,Over
+Milwaukee vs. Indiana,Tyrese Haliburton,Fantasy Points - PrizePicks,52.5,46.95,48.07,49.65,5,5,Under
+LA Clippers vs. Phoenix,Kawhi Leonard,PAR,34.5,38.13,39.00,37.50,8,2,Over
+Toronto vs. Memphis,Immanuel Quickley,PA,19.0,17.00,16.70,16.50,4,6,Under
+Washington vs. Cleveland,Daniel Gafford,PR,18.5,20.42,21.20,19.50,8,2,Over
+Toronto vs. Memphis,Scottie Barnes,PAR,35.5,39.18,39.80,41.50,6,4,Over
+Washington vs. Cleveland,Donovan Mitchell,PA,38.5,34.51,34.60,34.00,3,7,Under
+Toronto vs. Memphis,Jakob Poeltl,PR,19.5,17.49,18.10,20.00,5,5,Under
+Chicago vs. New York,Isaiah Hartenstein,PR,18.5,16.60,16.90,15.50,4,6,Under
+Milwaukee vs. Indiana,Giannis Antetokounmpo,Points,36.5,32.77,31.60,31.00,2,8,Under
+Washington vs. Cleveland,Isaac Okoro,Points,11.5,12.67,11.80,11.50,5,5,Over
+Washington vs. Cleveland,Donovan Mitchell,Points,31.5,28.30,28.30,28.00,3,7,Under
+Toronto vs. Memphis,Desmond Bane,Rebounds,5.0,5.50,5.00,5.50,5,5,Under
+Toronto vs. Memphis,Marcus Smart,Points,12.5,11.24,11.80,11.50,4,6,Under
+Portland vs. Dallas,Dereck Lively II,RA,10.5,9.44,9.00,8.00,4,6,Under
+Detroit vs. Utah,John Collins,Rebounds,6.0,6.60,7.00,5.50,4,6,Under
+Toronto vs. Memphis,Jaren Jackson Jr.,PR,25.5,22.96,23.10,23.00,3,7,Under
+Toronto vs. Memphis,RJ Barrett,Rebounds,5.0,5.50,5.50,5.50,5,5,Under
+Chicago vs. New York,Jalen Brunson,Fantasy Points - PrizePicks,42.5,46.73,46.64,41.60,5,5,Over
+Detroit vs. Utah,Collin Sexton,Turnovers,1.5,1.65,1.60,1.50,5,5,Under
+Milwaukee vs. Indiana,Myles Turner,Rebounds,6.5,5.86,6.00,6.00,3,7,Under
+New Orleans vs. Minnesota,Rudy Gobert,PR,25.5,22.99,23.70,25.00,4,6,Under
+Washington vs. Cleveland,Donovan Mitchell,RA,13.5,12.18,12.20,13.50,5,5,Under
+Toronto vs. Memphis,Ja Morant,PAR,40.5,36.56,36.80,38.00,5,5,Under
+Toronto vs. Memphis,Ja Morant,Rebounds,6.0,5.42,5.40,5.00,1,9,Under
+Toronto vs. Memphis,Pascal Siakam,Rebounds,6.5,5.87,6.00,5.00,3,7,Under
+New Orleans vs. Minnesota,Karl-Anthony Towns,Field Goal Attempts,15.0,13.59,14.10,14.00,3,7,Under
+Toronto vs. Memphis,Jaren Jackson Jr.,Defensive Rebounds,4.5,4.08,4.10,4.00,5,5,Under
+Portland vs. Dallas,Derrick Jones Jr.,Points,10.5,11.48,12.00,11.50,6,4,Over
+Milwaukee vs. Indiana,Damian Lillard,RA,11.5,10.43,10.50,9.50,4,6,Under
+Washington vs. Cleveland,Donovan Mitchell,PAR,44.5,40.37,40.50,42.00,4,6,Under
+Chicago vs. New York,OG Anunoby,Turnovers,1.5,1.36,1.40,1.50,5,5,Under
+Washington vs. Cleveland,Donovan Mitchell,PR,37.5,34.05,34.20,36.50,5,5,Under
+Oklahoma City vs. Atlanta,Clint Capela,Defensive Rebounds,6.0,6.55,6.10,6.50,5,5,Under
+Washington vs. Cleveland,Deni Avdija,PR,18.5,16.80,17.60,14.00,3,7,Under
+Milwaukee vs. Indiana,Myles Turner,Field Goal Attempts,12.5,11.35,10.40,10.00,2,8,Under
+LA Clippers vs. Phoenix,Ivica Zubac,Fantasy Points - PrizePicks,27.0,29.47,30.54,27.30,5,5,Over
+Chicago vs. New York,Jalen Brunson,RA,11.5,12.55,12.10,12.00,5,5,Over
+LA Clippers vs. Phoenix,Devin Booker,Three Point Attempts,6.5,5.91,5.90,5.50,3,7,Under
+Chicago vs. New York,Julius Randle,Turnovers,3.5,3.82,3.70,3.50,5,5,Over
+New Orleans vs. Minnesota,Karl-Anthony Towns,PA,24.5,22.29,22.80,21.50,4,6,Under
+Toronto vs. Memphis,Desmond Bane,Points,22.5,24.52,24.30,23.50,6,4,Over
+Oklahoma City vs. Atlanta,Dejounte Murray,Rebounds,4.5,4.90,4.90,5.00,5,5,Over
+Toronto vs. Memphis,Ja Morant,PR,31.5,28.69,29.10,28.00,4,6,Under
+New Orleans vs. Minnesota,CJ McCollum,Fantasy Points - PrizePicks,32.5,35.40,34.80,34.80,7,3,Over
+Oklahoma City vs. Atlanta,Luguentz Dort,PAR,17.5,19.06,18.10,18.50,6,4,Over
+LA Clippers vs. Phoenix,Grayson Allen,PAR,19.5,21.24,21.60,19.00,5,5,Over
+Oklahoma City vs. Atlanta,Dejounte Murray,PA,24.5,26.67,26.40,26.00,7,3,Over
+Washington vs. Cleveland,Kyle Kuzma,Three Point Attempts,8.0,8.70,9.00,8.00,4,6,Over
+Toronto vs. Memphis,Jakob Poeltl,Defensive Rebounds,6.0,5.47,5.70,6.00,3,7,Under
+Miami vs. LA Lakers,Jaime Jaquez Jr.,RA,7.5,6.84,7.60,8.00,6,4,Under
+Portland vs. Dallas,Luka Doncic,PAR,51.0,55.46,56.00,57.00,8,2,Over
+Oklahoma City vs. Atlanta,Jalen Johnson,Fantasy Points - PrizePicks,34.5,31.48,30.95,27.65,4,6,Under
+New Orleans vs. Minnesota,Rudy Gobert,PA,14.5,13.24,13.50,12.00,3,7,Under
+LA Clippers vs. Phoenix,Bradley Beal,Turnovers,2.5,2.28,2.30,2.00,3,7,Under
+Toronto vs. Memphis,Ja Morant,Points,25.5,23.31,23.70,23.00,5,5,Under
+LA Clippers vs. Phoenix,Jusuf Nurkic,Fantasy Points - PrizePicks,36.5,39.64,39.22,38.25,8,2,Over
+Oklahoma City vs. Atlanta,Clint Capela,Rebounds,11.0,11.95,11.30,11.00,5,5,Over
+LA Clippers vs. Phoenix,Jusuf Nurkic,Points,14.5,15.74,15.20,16.00,7,3,Over
+Toronto vs. Memphis,Jakob Poeltl,PA,11.5,12.48,12.90,13.50,6,4,Over
+Oklahoma City vs. Atlanta,Jalen Johnson,RA,12.0,10.98,10.20,10.50,4,6,Under
+Miami vs. LA Lakers,Tyler Herro,RA,10.5,11.39,10.50,10.50,5,5,Over
+Washington vs. Cleveland,Dean Wade,Rebounds,5.0,5.42,5.40,5.00,4,6,Under
+Oklahoma City vs. Atlanta,Dejounte Murray,PR,24.5,26.57,26.50,24.00,3,7,Over
+Toronto vs. Memphis,Desmond Bane,PR,27.5,29.82,29.30,26.00,4,6,Over
+Toronto vs. Memphis,Jaren Jackson Jr.,Fantasy Points - PrizePicks,34.0,31.13,31.65,31.80,5,5,Under
+Toronto vs. Memphis,Pascal Siakam,Points,23.5,25.47,26.30,27.00,6,4,Over
+LA Clippers vs. Phoenix,Paul George,PR,28.5,26.11,26.00,27.00,4,6,Under
+New Orleans vs. Minnesota,CJ McCollum,PAR,26.5,28.71,28.10,28.00,8,2,Over
+Oklahoma City vs. Atlanta,Saddiq Bey,PR,19.5,21.12,20.70,21.50,8,2,Over
+Toronto vs. Memphis,Marcus Smart,PA,16.5,15.13,15.50,15.50,4,6,Under
+Milwaukee vs. Indiana,Giannis Antetokounmpo,PA,43.5,39.90,38.70,38.50,1,9,Under
+Detroit vs. Utah,Kris Dunn,PA,11.5,12.45,12.70,10.50,4,6,Over
+Washington vs. Cleveland,Jarrett Allen,Rebounds,12.5,11.47,11.30,10.50,3,7,Under
+Detroit vs. Utah,Jalen Duren,RA,13.5,14.60,14.70,15.50,7,3,Over
+Chicago vs. New York,Donte DiVincenzo,PR,16.5,17.85,16.70,16.00,5,5,Over
+Milwaukee vs. Indiana,Brook Lopez,Rebounds,5.0,5.41,5.20,5.50,5,5,Under
+Milwaukee vs. Indiana,Giannis Antetokounmpo,PR,49.5,45.48,44.30,44.00,2,8,Under
+Milwaukee vs. Indiana,Aaron Nesmith,PAR,16.5,17.82,17.90,18.50,7,3,Over
+New Orleans vs. Minnesota,CJ McCollum,Points,18.5,19.98,19.50,18.50,5,5,Over
+LA Clippers vs. Phoenix,Ivica Zubac,Offensive Rebounds,3.0,3.24,3.20,3.50,5,5,Under
+Portland vs. Dallas,Luka Doncic,PR,41.5,44.77,44.70,46.50,7,3,Over
+Chicago vs. New York,Isaiah Hartenstein,Points,8.0,7.37,7.30,7.00,4,6,Under
+Portland vs. Dallas,Derrick Jones Jr.,PA,11.5,12.40,13.20,12.50,6,4,Over
+Washington vs. Cleveland,Donovan Mitchell,Fantasy Points - PrizePicks,52.5,48.40,48.23,50.40,2,8,Under
+Toronto vs. Memphis,Desmond Bane,Field Goal Attempts,17.0,18.31,18.60,18.00,5,5,Over
+Oklahoma City vs. Atlanta,Jalen Williams,PR,20.5,22.07,21.20,19.00,4,6,Over
+New Orleans vs. Minnesota,Rudy Gobert,Free Throws Made,3.0,2.77,2.90,2.50,3,7,Under
+Chicago vs. New York,Jalen Brunson,Points,25.5,27.44,27.90,26.00,5,5,Over
+LA Clippers vs. Phoenix,Paul George,PA,26.5,24.49,25.20,26.00,4,6,Under
+LA Clippers vs. Phoenix,Paul George,RA,9.0,8.32,8.20,7.50,3,7,Under
+Toronto vs. Memphis,Jaren Jackson Jr.,Points,19.5,18.02,18.10,19.50,5,5,Under
+Washington vs. Cleveland,Isaac Okoro,PA,14.5,15.60,14.90,16.00,6,4,Over
+Miami vs. LA Lakers,Bam Adebayo,Points,22.5,20.81,20.90,21.00,3,7,Under
+Toronto vs. Memphis,RJ Barrett,PA,18.5,17.12,18.00,18.00,4,6,Under
+Washington vs. Cleveland,Max Strus,Fantasy Points - PrizePicks,28.5,26.37,27.05,25.40,4,6,Under
+Oklahoma City vs. Atlanta,Josh Giddey,Points,12.5,13.43,13.30,12.00,4,6,Over
+Chicago vs. New York,Jalen Brunson,Field Goal Attempts,19.5,20.94,20.90,21.50,6,4,Over
+Miami vs. LA Lakers,Kyle Lowry,PA,12.5,13.42,12.90,13.50,5,5,Over
+LA Clippers vs. Phoenix,Devin Booker,RA,13.0,12.05,12.00,11.00,2,8,Under
+LA Clippers vs. Phoenix,James Harden,RA,14.0,15.01,15.20,14.50,5,5,Over
+Orlando vs. Sacramento,Jalen Suggs,PR,16.5,15.31,14.80,15.00,4,6,Under
+Toronto vs. Memphis,Jakob Poeltl,PAR,22.0,20.43,21.10,23.00,6,4,Under
+New Orleans vs. Minnesota,Jaden McDaniels,PR,14.0,13.00,13.70,12.50,4,6,Under
+Toronto vs. Memphis,Desmond Bane,PA,27.5,29.46,29.00,25.50,4,6,Over
+Toronto vs. Memphis,Pascal Siakam,PR,29.5,31.60,32.30,33.50,6,4,Over
+Oklahoma City vs. Atlanta,Dejounte Murray,PAR,29.5,31.58,31.30,29.50,5,5,Over
+Orlando vs. Sacramento,Franz Wagner,Rebounds,6.0,6.42,6.60,6.00,4,6,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,Fantasy Points - PrizePicks,39.5,42.28,41.84,39.70,6,4,Over
+LA Clippers vs. Phoenix,James Harden,Assists,9.0,9.63,10.00,9.50,5,5,Under
+Toronto vs. Memphis,Pascal Siakam,PAR,34.5,36.88,37.60,40.00,7,3,Over
+Milwaukee vs. Indiana,Giannis Antetokounmpo,PAR,56.5,52.62,51.40,50.50,2,8,Under
+LA Clippers vs. Phoenix,Paul George,PAR,32.0,29.82,29.70,31.50,5,5,Under
+Portland vs. Dallas,Jerami Grant,PAR,28.5,26.56,28.00,26.50,4,6,Under
+Washington vs. Cleveland,Jordan Poole,PA,20.5,21.90,22.80,19.00,4,6,Over
+Oklahoma City vs. Atlanta,Jalen Johnson,PAR,27.5,25.64,24.50,23.00,4,6,Under
+Washington vs. Cleveland,Daniel Gafford,PAR,20.5,21.88,22.50,20.50,5,5,Over
+Portland vs. Dallas,Luka Doncic,RA,18.5,19.74,19.60,19.50,8,2,Over
+New Orleans vs. Minnesota,Zion Williamson,Points,21.5,20.06,20.60,21.00,4,6,Under
+LA Clippers vs. Phoenix,Kawhi Leonard,Turnovers,1.5,1.60,1.60,2.00,6,4,Under
+Washington vs. Cleveland,Deni Avdija,Turnovers,1.5,1.60,1.50,2.00,6,4,Under
+Milwaukee vs. Indiana,Tyrese Haliburton,Rebounds,4.5,4.20,4.10,3.50,4,6,Under
+New Orleans vs. Minnesota,Brandon Ingram,Free Throws Made,4.5,4.80,4.90,4.00,4,6,Over
+Oklahoma City vs. Atlanta,Josh Giddey,Assists,4.5,4.80,4.80,4.00,4,6,Over
+Portland vs. Dallas,Kyrie Irving,Rebounds,4.5,4.20,4.10,3.50,4,6,Under
+Orlando vs. Sacramento,Domantas Sabonis,RA,20.0,21.33,21.70,21.50,5,5,Over
+Orlando vs. Sacramento,De'Aaron Fox,RA,10.5,9.80,10.00,10.50,5,5,Under
+Oklahoma City vs. Atlanta,Saddiq Bey,Points,13.5,12.60,12.60,12.50,4,6,Under
+New Orleans vs. Minnesota,CJ McCollum,PR,22.5,23.99,23.50,24.00,6,4,Over
+LA Clippers vs. Phoenix,Devin Booker,Fantasy Points - PrizePicks,45.5,42.49,42.24,41.10,2,8,Under
+Oklahoma City vs. Atlanta,Jalen Johnson,PR,24.5,22.89,21.80,22.00,3,7,Under
+Toronto vs. Memphis,Ja Morant,PA,33.5,31.31,31.40,32.50,5,5,Under
+LA Clippers vs. Phoenix,Paul George,Points,22.5,21.04,21.50,22.50,5,5,Under
+Detroit vs. Utah,Cade Cunningham,PAR,35.5,37.77,36.80,39.00,5,5,Over
+Milwaukee vs. Indiana,Aaron Nesmith,PR,15.5,16.49,16.80,17.50,6,4,Over
+Oklahoma City vs. Atlanta,Josh Giddey,RA,10.5,11.17,11.30,11.50,6,4,Over
+Miami vs. LA Lakers,Kyle Lowry,PR,11.5,12.23,11.80,11.00,5,5,Over
+Orlando vs. Sacramento,Keegan Murray,PR,20.5,19.20,21.90,16.00,4,6,Under
+Milwaukee vs. Indiana,Damian Lillard,Three Points Made,3.5,3.72,3.70,3.50,5,5,Over
+New Orleans vs. Minnesota,Rudy Gobert,Rebounds,12.0,11.25,11.80,12.50,5,5,Under
+New Orleans vs. Minnesota,Zion Williamson,PAR,32.5,30.46,31.10,35.50,6,4,Under
+Detroit vs. Utah,Jaden Ivey,Assists,4.0,3.75,4.00,4.00,2,8,Under
+Portland vs. Dallas,Kyrie Irving,PA,27.0,25.32,25.90,26.50,5,5,Under
+Washington vs. Cleveland,Tyus Jones,RA,9.0,9.56,10.20,9.50,5,5,Under
+Detroit vs. Utah,John Collins,Points,11.5,12.21,12.00,10.50,4,6,Over
+New Orleans vs. Minnesota,Karl-Anthony Towns,Points,21.5,20.18,20.40,19.50,3,7,Under
+Miami vs. LA Lakers,LeBron James,Rebounds,7.0,7.43,7.50,7.50,5,5,Under
+Chicago vs. New York,Jalen Brunson,PA,33.5,35.55,35.30,31.50,4,6,Over
+Detroit vs. Utah,Jalen Duren,Points,12.5,13.25,13.20,12.50,5,5,Over
+Chicago vs. New York,OG Anunoby,PR,19.5,18.35,19.30,18.50,5,5,Under
+Detroit vs. Utah,Cade Cunningham,RA,12.5,11.76,11.70,12.50,5,5,Under
+Detroit vs. Utah,Kris Dunn,RA,8.5,9.00,9.40,7.50,4,6,Over
+Toronto vs. Memphis,Jaren Jackson Jr.,PA,20.5,19.29,19.40,20.00,4,6,Under
+New Orleans vs. Minnesota,Mike Conley,RA,8.5,8.00,8.40,7.50,4,6,Under
+New Orleans vs. Minnesota,Rudy Gobert,Fantasy Points - PrizePicks,36.0,33.92,34.06,36.75,5,5,Under
+Oklahoma City vs. Atlanta,Trae Young,Rebounds,3.5,3.70,3.70,4.00,6,4,Over
+Orlando vs. Sacramento,Jalen Suggs,PA,15.5,14.61,14.30,13.50,3,7,Under
+New Orleans vs. Minnesota,Anthony Edwards,Rebounds,5.0,4.72,4.80,4.50,4,6,Under
+Miami vs. LA Lakers,Jaime Jaquez Jr.,PR,21.5,20.29,21.40,22.50,6,4,Under
+LA Clippers vs. Phoenix,Kawhi Leonard,Rebounds,6.0,5.66,6.00,6.00,4,6,Under
+Detroit vs. Utah,Lauri Markkanen,PA,24.0,25.34,24.70,24.00,4,6,Over
+New Orleans vs. Minnesota,CJ McCollum,Field Goal Attempts,15.5,14.64,14.30,14.50,3,7,Under
+Miami vs. LA Lakers,Jaime Jaquez Jr.,Points,16.5,15.58,16.60,17.00,6,4,Under
+Toronto vs. Memphis,Pascal Siakam,Fantasy Points - PrizePicks,39.5,41.69,42.45,45.25,8,2,Over
+Oklahoma City vs. Atlanta,Jalen Johnson,PA,18.5,17.48,17.00,17.50,4,6,Under
+Oklahoma City vs. Atlanta,Dejounte Murray,RA,9.5,10.02,9.70,9.00,3,7,Over
+LA Clippers vs. Phoenix,James Harden,Rebounds,5.0,5.27,5.20,4.50,4,6,Under
+Oklahoma City vs. Atlanta,Jalen Johnson,Points,15.5,14.65,14.30,16.00,6,4,Under
+Orlando vs. Sacramento,Keegan Murray,PA,16.5,17.40,18.90,14.50,4,6,Over
+Milwaukee vs. Indiana,Giannis Antetokounmpo,Fantasy Points - PrizePicks,65.5,61.93,60.69,59.50,2,8,Under
+New Orleans vs. Minnesota,Zion Williamson,PA,25.5,24.12,24.60,24.50,4,6,Under
+Detroit vs. Utah,Simone Fontecchio,PAR,16.5,17.39,16.10,14.50,5,5,Over
+New Orleans vs. Minnesota,Brandon Ingram,Fantasy Points - PrizePicks,38.0,40.05,41.02,42.85,6,4,Over
+Oklahoma City vs. Atlanta,Josh Giddey,Fantasy Points - PrizePicks,27.5,28.98,28.70,30.15,6,4,Over
+Chicago vs. New York,Julius Randle,Points,26.5,27.91,27.80,26.00,4,6,Over
+LA Clippers vs. Phoenix,Jusuf Nurkic,Offensive Rebounds,3.0,3.16,3.00,3.00,3,7,Under
+Toronto vs. Memphis,Pascal Siakam,Field Goal Attempts,18.0,17.04,17.50,17.00,4,6,Under
+Oklahoma City vs. Atlanta,Jalen Williams,PAR,25.0,26.33,25.40,25.00,4,6,Over
+Toronto vs. Memphis,Desmond Bane,RA,10.0,10.53,9.70,12.00,6,4,Over
+Miami vs. LA Lakers,Jaime Jaquez Jr.,PA,19.5,18.47,19.40,21.00,6,4,Under
+Chicago vs. New York,Jalen Brunson,PAR,37.5,39.46,40.00,35.00,3,7,Over
+Washington vs. Cleveland,Daniel Gafford,PA,12.5,13.14,13.90,13.00,7,3,Over
+New Orleans vs. Minnesota,Anthony Edwards,Fantasy Points - PrizePicks,45.5,47.84,48.11,47.50,5,5,Over
+Chicago vs. New York,OG Anunoby,Fantasy Points - PrizePicks,26.0,24.67,25.80,28.00,5,5,Under
+Orlando vs. Sacramento,Keegan Murray,PAR,21.5,20.40,23.30,17.00,4,6,Under
+New Orleans vs. Minnesota,Jaden McDaniels,Points,11.5,10.91,11.50,10.50,4,6,Under
+New Orleans vs. Minnesota,Zion Williamson,Rebounds,6.0,6.31,6.50,6.50,5,5,Under
+Milwaukee vs. Indiana,Giannis Antetokounmpo,Free Throws Made,8.0,8.40,9.20,7.00,3,7,Under
+Milwaukee vs. Indiana,Damian Lillard,Rebounds,4.0,4.20,4.30,4.00,4,6,Under
+New Orleans vs. Minnesota,CJ McCollum,PA,23.5,24.67,24.10,23.50,5,5,Over
+Washington vs. Cleveland,Jarrett Allen,PR,31.5,29.94,29.00,26.00,4,6,Under
+Chicago vs. New York,Donte DiVincenzo,PAR,18.5,19.41,18.50,17.00,5,5,Over
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,Assists,7.0,6.65,6.60,7.00,4,6,Under
+Portland vs. Dallas,Dereck Lively II,PR,19.5,18.55,17.60,17.50,4,6,Under
+Oklahoma City vs. Atlanta,Josh Giddey,PAR,23.5,24.65,24.60,27.00,6,4,Over
+New Orleans vs. Minnesota,Anthony Edwards,Points,28.5,29.89,30.10,31.50,6,4,Over
+Milwaukee vs. Indiana,Myles Turner,PAR,26.5,25.21,24.60,24.00,4,6,Under
+Detroit vs. Utah,Lauri Markkanen,Rebounds,7.5,7.86,8.20,8.50,7,3,Over
+Miami vs. LA Lakers,Bam Adebayo,PA,26.5,25.24,24.80,24.50,4,6,Under
+Orlando vs. Sacramento,Franz Wagner,PA,29.5,28.11,27.40,27.50,4,6,Under
+Oklahoma City vs. Atlanta,Trae Young,Field Goal Attempts,20.0,20.93,21.20,20.00,5,5,Over
+Detroit vs. Utah,Jalen Duren,PA,14.5,15.17,15.10,16.50,7,3,Over
+Oklahoma City vs. Atlanta,Josh Giddey,Rebounds,6.0,6.28,6.50,7.00,5,5,Under
+New Orleans vs. Minnesota,Rudy Gobert,PAR,26.5,25.28,25.30,26.00,4,6,Under
+Washington vs. Cleveland,Daniel Gafford,Points,11.5,12.03,12.60,12.50,6,4,Over
+Orlando vs. Sacramento,De'Aaron Fox,PAR,40.5,38.64,39.20,39.00,5,5,Under
+Milwaukee vs. Indiana,Damian Lillard,PA,35.0,33.40,32.60,33.50,4,6,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,Defensive Rebounds,6.0,5.73,5.90,5.00,3,7,Under
+Portland vs. Dallas,Kyrie Irving,PAR,31.5,30.08,30.00,30.00,5,5,Under
+Oklahoma City vs. Atlanta,Dejounte Murray,Three Point Attempts,7.0,7.31,7.10,7.00,5,5,Under
+Toronto vs. Memphis,Marcus Smart,Steals,1.5,1.57,1.70,1.50,5,5,Under
+Orlando vs. Sacramento,Franz Wagner,RA,10.5,10.96,11.10,11.00,6,4,Over
+Oklahoma City vs. Atlanta,Dejounte Murray,Points,20.5,21.40,21.60,20.50,5,5,Over
+Detroit vs. Utah,Cade Cunningham,PA,32.0,33.41,32.50,34.50,5,5,Over
+Oklahoma City vs. Atlanta,Josh Giddey,PR,19.0,19.82,19.80,21.00,6,4,Over
+Miami vs. LA Lakers,Bam Adebayo,PR,33.5,32.05,31.60,31.00,4,6,Under
+Milwaukee vs. Indiana,Myles Turner,PR,25.5,24.40,24.00,23.50,4,6,Under
+Chicago vs. New York,OG Anunoby,Points,15.5,14.84,15.80,14.50,5,5,Under
+Washington vs. Cleveland,Donovan Mitchell,Three Points Made,3.5,3.35,3.30,3.50,5,5,Under
+Washington vs. Cleveland,Kyle Kuzma,Rebounds,6.5,6.78,6.80,7.50,7,3,Over
+New Orleans vs. Minnesota,CJ McCollum,Three Point Attempts,8.0,8.34,8.30,8.00,4,6,Under
+LA Clippers vs. Phoenix,Grayson Allen,Rebounds,3.5,3.65,3.70,4.00,6,4,Under
+Oklahoma City vs. Atlanta,Josh Giddey,PA,17.5,18.24,18.10,18.50,5,5,Over
+LA Clippers vs. Phoenix,Kawhi Leonard,RA,9.5,9.90,10.20,10.50,7,3,Over
+Miami vs. LA Lakers,Anthony Davis,PR,42.5,40.73,41.70,42.50,5,5,Under
+New Orleans vs. Minnesota,Jaden McDaniels,PA,12.5,11.98,12.50,12.00,3,7,Under
+New Orleans vs. Minnesota,Karl-Anthony Towns,Fantasy Points - PrizePicks,36.0,34.53,34.74,34.90,5,5,Under
+New Orleans vs. Minnesota,Zion Williamson,PR,27.5,26.40,27.10,30.50,6,4,Under
+Chicago vs. New York,Donte DiVincenzo,Fantasy Points - PrizePicks,23.0,22.08,24.74,18.40,4,6,Under
+Washington vs. Cleveland,Daniel Gafford,Offensive Rebounds,2.5,2.40,3.10,2.00,4,6,Under
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,PA,41.5,39.86,39.90,42.00,5,5,Under
+Washington vs. Cleveland,Jarrett Allen,PAR,35.5,34.10,33.00,29.50,4,6,Under
+Milwaukee vs. Indiana,Aaron Nesmith,PA,13.5,14.03,13.90,13.50,5,5,Over
+New Orleans vs. Minnesota,CJ McCollum,Assists,4.5,4.68,4.60,4.50,5,5,Over
+Chicago vs. New York,Isaiah Hartenstein,Rebounds,9.5,9.13,9.60,9.00,4,6,Under
+Orlando vs. Sacramento,Franz Wagner,Points,24.5,23.54,22.90,24.50,5,5,Under
+Orlando vs. Sacramento,Paolo Banchero,SB,1.5,1.56,1.60,1.50,5,5,Under
+Toronto vs. Memphis,Desmond Bane,PAR,33.5,34.80,34.00,30.00,4,6,Over
+Orlando vs. Sacramento,Domantas Sabonis,PAR,41.5,43.10,43.60,44.00,6,4,Over
+Miami vs. LA Lakers,Bam Adebayo,Assists,4.0,4.15,3.90,4.00,4,6,Under
+Miami vs. LA Lakers,Jaime Jaquez Jr.,Rebounds,4.5,4.33,4.80,4.50,5,5,Under
+Washington vs. Cleveland,Donovan Mitchell,Rebounds,6.0,5.78,5.90,6.00,4,6,Under
+Orlando vs. Sacramento,De'Aaron Fox,PR,34.5,33.22,33.80,33.50,5,5,Under
+Chicago vs. New York,Julius Randle,RA,13.5,13.01,12.30,11.00,4,6,Under
+Milwaukee vs. Indiana,Tyrese Haliburton,Field Goal Attempts,18.5,17.82,17.70,17.00,4,6,Under
+Washington vs. Cleveland,Isaac Okoro,PR,15.5,16.07,15.20,16.00,5,5,Over
+Chicago vs. New York,Isaiah Hartenstein,PAR,20.5,19.75,19.70,18.00,4,6,Under
+Oklahoma City vs. Atlanta,Saddiq Bey,PAR,21.5,22.28,22.20,23.00,7,3,Over
+LA Clippers vs. Phoenix,Devin Booker,Assists,8.0,7.71,7.80,7.00,3,7,Under
+Toronto vs. Memphis,Ja Morant,RA,14.0,13.50,13.10,13.50,4,6,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,RA,10.5,10.13,10.20,10.00,4,6,Under
+Milwaukee vs. Indiana,Myles Turner,Fantasy Points - PrizePicks,33.5,32.32,31.90,32.65,5,5,Under
+Detroit vs. Utah,Jalen Duren,Rebounds,12.0,12.42,12.80,13.50,6,4,Over
+Toronto vs. Memphis,RJ Barrett,Fantasy Points - PrizePicks,26.5,25.59,25.90,26.15,4,6,Under
+Detroit vs. Utah,John Collins,Steals,0.5,0.52,0.60,0.00,4,6,Under
+Miami vs. LA Lakers,LeBron James,PA,37.0,35.74,35.00,35.00,3,7,Under
+New Orleans vs. Minnesota,Anthony Edwards,PA,34.5,35.66,35.60,35.50,5,5,Over
+Orlando vs. Sacramento,De'Aaron Fox,PA,35.5,34.31,34.60,34.50,5,5,Under
+Portland vs. Dallas,Dereck Lively II,Steals,0.5,0.48,0.50,0.00,4,6,Under
+Toronto vs. Memphis,RJ Barrett,PAR,23.5,22.72,23.50,22.50,4,6,Under
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,PAR,47.5,45.94,46.00,46.50,4,6,Under
+Toronto vs. Memphis,Scottie Barnes,Free Throws Made,3.5,3.61,3.70,4.00,6,4,Under
+Chicago vs. New York,Isaiah Hartenstein,RA,12.5,12.09,12.40,12.00,4,6,Under
+Portland vs. Dallas,Dereck Lively II,Points,10.0,10.33,9.70,10.00,4,6,Over
+Chicago vs. New York,Julius Randle,Rebounds,9.5,9.79,9.20,9.00,3,7,Over
+Washington vs. Cleveland,Isaac Okoro,PAR,18.5,19.06,18.30,19.00,5,5,Over
+New Orleans vs. Minnesota,Brandon Ingram,Assists,5.5,5.33,5.60,5.50,5,5,Under
+Orlando vs. Sacramento,Paolo Banchero,RA,12.5,12.87,13.00,12.00,5,5,Over
+New Orleans vs. Minnesota,Mike Conley,Fantasy Points - PrizePicks,25.5,26.25,26.41,23.65,4,6,Over
+Orlando vs. Sacramento,Franz Wagner,PAR,35.5,34.45,34.00,33.00,4,6,Under
+Chicago vs. New York,Julius Randle,PR,36.5,37.58,37.00,34.00,4,6,Over
+New Orleans vs. Minnesota,Zion Williamson,Fantasy Points - PrizePicks,36.0,34.94,35.20,36.45,5,5,Under
+Orlando vs. Sacramento,Franz Wagner,Assists,4.5,4.63,4.50,5.00,6,4,Under
+Washington vs. Cleveland,Jarrett Allen,Points,19.5,18.93,17.70,16.50,3,7,Under
+LA Clippers vs. Phoenix,Paul George,Three Point Attempts,8.0,7.77,7.70,8.00,2,8,Under
+New Orleans vs. Minnesota,Rudy Gobert,Defensive Rebounds,9.0,8.74,9.00,9.00,4,6,Under
+Miami vs. LA Lakers,LeBron James,Turnovers,3.5,3.60,3.20,3.00,4,6,Under
+Oklahoma City vs. Atlanta,Jalen Williams,Assists,3.5,3.60,4.20,3.00,4,6,Under
+Milwaukee vs. Indiana,Giannis Antetokounmpo,Assists,7.0,7.20,7.10,6.00,3,7,Under
+Detroit vs. Utah,Lauri Markkanen,PAR,32.5,33.42,32.90,33.00,5,5,Over
+Miami vs. LA Lakers,Anthony Davis,PAR,45.5,44.21,45.10,46.00,5,5,Under
+Miami vs. LA Lakers,Tyler Herro,PA,28.5,27.71,26.60,27.50,4,6,Under
+Washington vs. Cleveland,Jordan Poole,PAR,23.5,24.15,25.10,22.00,4,6,Over
+Toronto vs. Memphis,Immanuel Quickley,Points,15.5,15.07,14.80,14.50,4,6,Under
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,PR,40.5,39.39,39.40,39.50,4,6,Under
+Portland vs. Dallas,Dereck Lively II,PAR,20.5,19.94,18.70,19.50,5,5,Under
+Toronto vs. Memphis,Ja Morant,Fantasy Points - PrizePicks,44.5,43.29,43.73,44.15,5,5,Under
+Washington vs. Cleveland,Kyle Kuzma,RA,10.5,10.78,10.80,10.50,5,5,Over
+Milwaukee vs. Indiana,Tyrese Haliburton,Three Point Attempts,8.5,8.73,8.40,8.00,5,5,Over
+Milwaukee vs. Indiana,Damian Lillard,Fantasy Points - PrizePicks,43.5,42.34,41.16,39.65,4,6,Under
+New Orleans vs. Minnesota,Mike Conley,Assists,6.0,6.16,6.10,6.00,4,6,Under
+Milwaukee vs. Indiana,Damian Lillard,Points,26.5,27.20,26.40,27.50,5,5,Over
+LA Clippers vs. Phoenix,James Harden,Field Goal Attempts,12.5,12.82,12.30,12.50,5,5,Over
+Miami vs. LA Lakers,Bam Adebayo,PAR,37.5,36.53,35.50,35.00,4,6,Under
+Milwaukee vs. Indiana,Giannis Antetokounmpo,Rebounds,13.0,13.33,12.70,13.50,5,5,Over
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,RA,13.0,12.67,12.70,13.50,5,5,Under
+Miami vs. LA Lakers,LeBron James,RA,16.0,16.40,16.20,16.00,5,5,Over
+Milwaukee vs. Indiana,Damian Lillard,PAR,38.5,37.54,36.90,37.00,4,6,Under
+Detroit vs. Utah,Lauri Markkanen,Points,22.5,23.06,22.50,23.50,6,4,Over
+Oklahoma City vs. Atlanta,Luguentz Dort,Rebounds,4.5,4.39,4.00,4.00,2,8,Under
+New Orleans vs. Minnesota,Brandon Ingram,Points,22.5,23.04,23.20,25.00,6,4,Over
+Portland vs. Dallas,Derrick Jones Jr.,PR,15.5,15.13,15.80,16.00,5,5,Under
+Orlando vs. Sacramento,Paolo Banchero,PR,33.5,32.72,32.30,33.50,5,5,Under
+Washington vs. Cleveland,Jarrett Allen,PA,23.5,22.95,21.70,20.00,4,6,Under
+Washington vs. Cleveland,Isaac Okoro,Fantasy Points - PrizePicks,23.0,22.46,23.03,24.00,5,5,Under
+New Orleans vs. Minnesota,Karl-Anthony Towns,PAR,32.5,31.75,32.50,30.50,4,6,Under
+Portland vs. Dallas,Derrick Jones Jr.,PAR,16.5,16.12,17.00,17.00,5,5,Under
+New Orleans vs. Minnesota,Anthony Edwards,PAR,39.5,40.40,40.40,40.00,5,5,Over
+New Orleans vs. Minnesota,Karl-Anthony Towns,RA,11.5,11.76,12.10,11.00,4,6,Over
+Orlando vs. Sacramento,De'Aaron Fox,Rebounds,4.5,4.40,4.60,4.50,5,5,Under
+LA Clippers vs. Phoenix,Devin Booker,Field Goal Attempts,20.0,19.56,19.40,18.50,3,7,Under
+Washington vs. Cleveland,Jarrett Allen,Fantasy Points - PrizePicks,43.5,42.53,41.56,39.35,4,6,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,Field Goal Attempts,13.0,12.71,12.70,12.50,4,6,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,PR,26.5,25.91,26.00,27.50,6,4,Under
+Oklahoma City vs. Atlanta,Saddiq Bey,PA,14.5,14.18,14.10,14.00,4,6,Under
+Portland vs. Dallas,Kyrie Irving,Points,22.0,21.52,22.10,24.50,6,4,Under
+Chicago vs. New York,Julius Randle,Fantasy Points - PrizePicks,43.0,42.07,40.99,39.50,4,6,Under
+Milwaukee vs. Indiana,Damian Lillard,Three Point Attempts,9.0,9.19,9.40,8.50,3,7,Under
+Orlando vs. Sacramento,Franz Wagner,PR,30.5,29.85,29.50,30.50,5,5,Under
+Detroit vs. Utah,Lauri Markkanen,PR,30.5,31.14,30.70,31.50,6,4,Over
+Washington vs. Cleveland,Kyle Kuzma,Fantasy Points - PrizePicks,36.0,36.75,37.36,38.85,6,4,Over
+Orlando vs. Sacramento,De'Aaron Fox,Points,29.5,28.90,29.20,29.50,5,5,Under
+Washington vs. Cleveland,Max Strus,Turnovers,1.5,1.53,2.00,1.50,5,5,Under
+Miami vs. LA Lakers,LeBron James,PR,35.0,34.29,33.80,35.00,4,6,Under
+Chicago vs. New York,Isaiah Hartenstein,Fantasy Points - PrizePicks,29.5,30.09,30.42,30.35,7,3,Over
+Miami vs. LA Lakers,LeBron James,PAR,44.0,43.11,42.50,44.00,4,6,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,PA,21.5,21.93,21.80,21.00,4,6,Over
+New Orleans vs. Minnesota,Brandon Ingram,PR,26.5,27.02,27.30,29.00,6,4,Over
+Milwaukee vs. Indiana,Brook Lopez,Fantasy Points - PrizePicks,31.0,30.40,29.74,29.95,5,5,Under
+LA Clippers vs. Phoenix,Kawhi Leonard,Field Goal Attempts,17.0,17.33,17.90,17.00,5,5,Over
+Milwaukee vs. Indiana,Damian Lillard,Free Throws Made,7.5,7.36,6.90,6.50,4,6,Under
+Washington vs. Cleveland,Jarrett Allen,RA,16.0,15.70,15.30,14.00,3,7,Under
+Detroit vs. Utah,Bojan Bogdanovic,PR,22.5,22.92,24.00,26.00,7,3,Over
+Toronto vs. Memphis,RJ Barrett,Points,15.5,15.21,16.00,16.00,5,5,Under
+LA Clippers vs. Phoenix,Kawhi Leonard,Three Point Attempts,5.0,5.09,5.30,5.00,4,6,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,Points,18.5,18.84,18.80,18.50,5,5,Over
+Chicago vs. New York,Julius Randle,PA,30.5,31.06,30.90,29.50,3,7,Over
+Miami vs. LA Lakers,Tyler Herro,PR,28.5,29.02,27.90,29.50,5,5,Over
+Washington vs. Cleveland,Jordan Poole,Points,16.5,16.80,18.30,14.00,4,6,Over
+Miami vs. LA Lakers,Tyler Herro,Points,23.5,23.08,22.00,24.50,6,4,Under
+Miami vs. LA Lakers,Jaime Jaquez Jr.,PAR,23.5,23.08,24.20,27.00,6,4,Under
+Washington vs. Cleveland,Jarrett Allen,Turnovers,1.5,1.53,1.70,1.50,5,5,Under
+Oklahoma City vs. Atlanta,Chet Holmgren,PAR,29.5,28.98,29.00,29.00,3,7,Under
+Chicago vs. New York,Isaiah Hartenstein,PA,10.5,10.32,10.10,10.00,4,6,Under
+Chicago vs. New York,OG Anunoby,PAR,21.5,21.13,22.10,22.50,5,5,Under
+Milwaukee vs. Indiana,Giannis Antetokounmpo,RA,20.5,20.85,19.80,18.50,3,7,Over
+Orlando vs. Sacramento,Jalen Suggs,Points,12.5,12.71,12.10,11.50,4,6,Over
+Milwaukee vs. Indiana,Damian Lillard,Field Goal Attempts,17.0,17.29,17.30,16.50,4,6,Over
+Toronto vs. Memphis,Desmond Bane,Fantasy Points - PrizePicks,37.5,38.14,37.65,35.15,5,5,Over
+Miami vs. LA Lakers,Bam Adebayo,RA,15.0,15.24,14.60,15.00,4,6,Over
+LA Clippers vs. Phoenix,Jusuf Nurkic,PA,18.5,18.80,18.40,20.00,5,5,Over
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,Points,34.0,33.45,33.30,34.00,4,6,Under
+Orlando vs. Sacramento,Paolo Banchero,PAR,38.5,37.88,37.40,39.00,5,5,Under
+Orlando vs. Sacramento,Paolo Banchero,Points,25.5,25.10,24.40,25.50,5,5,Under
+LA Clippers vs. Phoenix,Paul George,Fantasy Points - PrizePicks,36.5,37.07,37.05,36.70,5,5,Over
+Toronto vs. Memphis,Jakob Poeltl,Fantasy Points - PrizePicks,30.0,29.54,29.54,32.10,6,4,Under
+Toronto vs. Memphis,Jakob Poeltl,Points,9.5,9.64,9.90,11.00,6,4,Under
+Washington vs. Cleveland,Kyle Kuzma,PR,29.5,29.93,30.40,34.00,6,4,Over
+Detroit vs. Utah,Jalen Duren,PR,25.0,25.36,26.00,26.50,8,2,Over
+New Orleans vs. Minnesota,Mike Conley,PR,13.5,13.69,13.80,14.50,5,5,Over
+Portland vs. Dallas,Dereck Lively II,PA,11.5,11.66,10.80,12.00,6,4,Over
+New Orleans vs. Minnesota,Zion Williamson,RA,10.5,10.35,10.50,10.50,5,5,Under
+Orlando vs. Sacramento,Domantas Sabonis,PA,29.5,29.91,30.40,27.50,4,6,Over
+Orlando vs. Sacramento,Keegan Murray,Blocks,0.5,0.49,0.40,0.00,3,7,Under
+Toronto vs. Memphis,Jakob Poeltl,SB,2.5,2.53,2.30,2.50,5,5,Under
+Washington vs. Cleveland,Deni Avdija,Fantasy Points - PrizePicks,27.0,26.64,27.08,22.20,4,6,Under
+LA Clippers vs. Phoenix,Paul George,Assists,3.5,3.45,3.70,3.50,5,5,Under
+Detroit vs. Utah,Jalen Duren,PAR,27.0,27.35,27.90,29.00,7,3,Over
+Washington vs. Cleveland,Kyle Kuzma,Points,23.5,23.21,23.60,26.50,6,4,Under
+Washington vs. Cleveland,Kyle Kuzma,PAR,33.5,33.91,34.40,36.00,6,4,Over
+Toronto vs. Memphis,RJ Barrett,PR,20.5,20.75,21.50,21.50,5,5,Over
+Washington vs. Cleveland,Kyle Kuzma,PA,27.5,27.17,27.60,28.00,6,4,Under
+Washington vs. Cleveland,Jordan Poole,PR,19.5,19.73,20.60,18.00,4,6,Over
+Portland vs. Dallas,Jerami Grant,PA,23.5,23.25,24.10,25.00,6,4,Under
+Portland vs. Dallas,Jerami Grant,Points,20.5,20.29,20.90,21.00,5,5,Under
+Washington vs. Cleveland,Donovan Mitchell,Field Goal Attempts,21.5,21.72,21.60,21.50,5,5,Over
+Orlando vs. Sacramento,Paolo Banchero,PA,30.5,30.19,29.50,32.50,6,4,Under
+Milwaukee vs. Indiana,Myles Turner,Points,18.5,18.68,18.00,18.00,4,6,Over
+Washington vs. Cleveland,Deni Avdija,Rebounds,6.5,6.44,6.90,5.50,3,7,Under
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,Field Goal Attempts,21.5,21.31,21.00,20.50,4,6,Under
+Chicago vs. New York,Julius Randle,Field Goal Attempts,19.5,19.66,19.50,18.50,5,5,Over
+Miami vs. LA Lakers,Anthony Davis,Points,29.0,29.24,30.10,31.50,6,4,Over
+Detroit vs. Utah,Bojan Bogdanovic,PA,21.5,21.33,22.50,23.00,7,3,Under
+Washington vs. Cleveland,Donovan Mitchell,Three Point Attempts,9.5,9.42,9.30,9.50,5,5,Under
+Oklahoma City vs. Atlanta,Dejounte Murray,Field Goal Attempts,17.0,17.13,17.30,17.50,5,5,Over
+Toronto vs. Memphis,Pascal Siakam,RA,11.0,11.08,11.30,10.00,4,6,Over
+LA Clippers vs. Phoenix,Paul George,Field Goal Attempts,17.0,16.87,16.70,17.00,4,6,Under
+Washington vs. Cleveland,Deni Avdija,Assists,3.5,3.47,3.80,3.50,5,5,Under
+New Orleans vs. Minnesota,Rudy Gobert,RA,13.0,13.09,13.40,14.50,5,5,Over
+Milwaukee vs. Indiana,Damian Lillard,PR,31.5,31.29,30.70,31.00,5,5,Under
+Orlando vs. Sacramento,Domantas Sabonis,PR,34.5,34.72,35.10,34.50,5,5,Over
+Orlando vs. Sacramento,Domantas Sabonis,Rebounds,13.0,13.08,13.20,11.50,3,7,Over
+Miami vs. LA Lakers,Anthony Davis,PA,32.5,32.69,33.50,34.50,7,3,Over
+Miami vs. LA Lakers,Bam Adebayo,Rebounds,11.0,11.06,10.70,11.00,4,6,Over
+Detroit vs. Utah,Bojan Bogdanovic,Points,19.0,18.89,19.90,19.00,4,6,Under
+Toronto vs. Memphis,Ja Morant,Assists,8.0,8.05,7.70,7.50,3,7,Under
+Toronto vs. Memphis,Scottie Barnes,Field Goal Attempts,17.5,17.60,17.60,16.50,4,6,Over
+New Orleans vs. Minnesota,Anthony Edwards,Field Goal Attempts,21.5,21.62,21.60,22.00,5,5,Over
+Toronto vs. Memphis,Ja Morant,Field Goal Attempts,19.5,19.60,20.10,21.50,5,5,Over
+Portland vs. Dallas,Kyrie Irving,PR,26.5,26.36,26.20,27.00,5,5,Under
+Chicago vs. New York,OG Anunoby,PA,17.5,17.59,18.60,17.50,5,5,Over
+Chicago vs. New York,Julius Randle,PAR,40.5,40.70,40.10,37.00,4,6,Over
+New Orleans vs. Minnesota,Brandon Ingram,PA,28.5,28.36,28.80,30.50,6,4,Under
+Orlando vs. Sacramento,Paolo Banchero,Rebounds,7.5,7.54,7.90,8.50,6,4,Under
+Miami vs. LA Lakers,Bam Adebayo,Turnovers,2.5,2.49,2.60,2.50,5,5,Under
+Miami vs. LA Lakers,LeBron James,Points,27.5,27.37,26.30,25.00,3,7,Under
+Detroit vs. Utah,John Collins,PA,12.5,12.55,12.40,10.50,4,6,Over
+Miami vs. LA Lakers,Tyler Herro,PAR,33.5,33.64,32.50,34.00,5,5,Over
+New Orleans vs. Minnesota,Karl-Anthony Towns,PR,29.5,29.62,30.10,28.00,4,6,Over
+New Orleans vs. Minnesota,Anthony Edwards,PR,34.5,34.63,34.90,36.50,5,5,Over
+Orlando vs. Sacramento,Domantas Sabonis,Points,21.5,21.58,21.90,21.50,5,5,Over
+New Orleans vs. Minnesota,Brandon Ingram,PAR,32.5,32.38,32.90,33.50,6,4,Under
+Milwaukee vs. Indiana,Myles Turner,PA,19.5,19.43,18.60,18.50,4,6,Under
+New Orleans vs. Minnesota,Zion Williamson,Assists,4.0,4.01,4.00,4.00,3,7,Under
+New Orleans vs. Minnesota,Karl-Anthony Towns,Free Throws Made,4.5,4.49,4.60,4.50,5,5,Under
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,Rebounds,6.0,6.01,6.10,6.00,3,7,Under
+Milwaukee vs. Indiana,Tyrese Haliburton,RA,17.5,17.53,17.60,16.50,4,6,Over
+Washington vs. Cleveland,Kyle Kuzma,Field Goal Attempts,19.5,19.53,19.70,20.50,5,5,Over
+Detroit vs. Utah,Bojan Bogdanovic,PAR,25.5,25.47,26.60,28.50,7,3,Under
+New Orleans vs. Minnesota,Mike Conley,Points,11.5,11.49,11.50,12.00,6,4,Under
+New Orleans vs. Minnesota,Anthony Edwards,RA,10.5,10.49,10.30,12.00,6,4,Under
+Miami vs. LA Lakers,Tyler Herro,Assists,5.0,5.00,4.60,5.00,4,6,Under
+New Orleans vs. Minnesota,Mike Conley,PAR,20.0,19.99,19.90,19.00,4,6,Under
+Oklahoma City vs. Atlanta,Shai Gilgeous-Alexander,Fantasy Points - PrizePicks,57.5,57.47,57.22,57.80,5,5,Under
+New Orleans vs. Minnesota,Mike Conley,PA,17.5,17.49,17.60,17.50,5,5,Under
+Toronto vs. Memphis,Desmond Bane,Assists,5.0,5.00,4.70,5.00,4,6,Under

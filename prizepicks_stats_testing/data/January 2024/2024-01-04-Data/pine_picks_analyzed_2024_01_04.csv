@@ -1,0 +1,164 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes,Result
+Denver vs. Golden State,Peyton Watson,Three Points Made,0.5,1.50,1.60,1.50,9,1,Over,Hit
+Denver vs. Golden State,Christian Braun,SB,0.5,1.08,1.00,1.00,6,4,Over,Hit
+Denver vs. Golden State,Klay Thompson,Steals,0.5,0.88,0.80,1.00,6,4,Over,Hit
+Denver vs. Golden State,Peyton Watson,Blocks,0.5,0.80,0.70,1.00,6,4,Over,Miss
+Milwaukee vs. San Antonio,Keldon Johnson,Turnovers,1.5,2.31,2.50,2.00,7,3,Over,Miss
+Milwaukee vs. San Antonio,Malik Beasley,Turnovers,0.5,0.28,0.30,0.00,1,9,Under,Miss
+Denver vs. Golden State,Kentavious Caldwell-Pope,Three Points Made,1.5,0.98,1.30,1.00,4,6,Under,Hit
+Milwaukee vs. San Antonio,Tre Jones,Assists,7.0,4.59,4.60,5.00,0,10,Under,Hit
+Milwaukee vs. San Antonio,Tre Jones,Fantasy Points - PrizePicks,28.0,18.60,18.68,15.50,1,9,Under,Miss
+Milwaukee vs. San Antonio,Tre Jones,PA,18.5,12.56,12.60,12.50,2,8,Under,Miss
+Denver vs. Golden State,Kentavious Caldwell-Pope,Turnovers,0.5,0.34,0.40,0.00,3,7,Under,Miss
+Denver vs. Golden State,Stephen Curry,Rebounds,4.0,2.74,2.90,3.00,0,10,Under,Miss
+Milwaukee vs. San Antonio,Tre Jones,RA,10.5,7.20,7.50,6.00,3,7,Under,Miss
+Milwaukee vs. San Antonio,Tre Jones,PAR,22.5,15.52,15.50,14.00,1,9,Under,Miss
+Milwaukee vs. San Antonio,Tre Jones,Points,11.5,7.96,8.00,8.00,2,8,Under,Miss
+Milwaukee vs. San Antonio,Victor Wembanyama,RA,11.5,14.90,14.80,13.50,6,4,Over,Miss
+Milwaukee vs. San Antonio,Tre Jones,PR,15.5,10.93,10.90,10.00,1,9,Under,Miss
+Milwaukee vs. San Antonio,Devin Vassell,SB,1.5,1.93,2.00,2.00,6,4,Over,Miss
+Milwaukee vs. San Antonio,Khris Middleton,Rebounds,5.0,3.60,4.10,3.00,2,8,Under,Hit
+Denver vs. Golden State,Brandin Podziemski,Rebounds,5.0,6.39,6.40,6.00,5,5,Over,Miss
+Denver vs. Golden State,Kentavious Caldwell-Pope,Points,9.5,6.94,7.80,8.00,3,7,Under,Hit
+Milwaukee vs. San Antonio,Julian Champagnie,PR,11.5,8.40,9.10,7.00,4,6,Under,Hit
+Denver vs. Golden State,Klay Thompson,Points,15.5,19.65,19.40,22.00,6,4,Over,Hit
+Denver vs. Golden State,Klay Thompson,PA,17.5,22.13,21.80,24.50,7,3,Over,Hit
+Denver vs. Golden State,Andrew Wiggins,Rebounds,3.5,4.41,4.50,4.50,6,4,Over,Miss
+Milwaukee vs. San Antonio,Victor Wembanyama,Rebounds,9.0,11.29,11.10,10.00,5,5,Over,Miss
+Milwaukee vs. San Antonio,Julian Champagnie,Points,8.0,6.00,6.90,5.00,4,6,Under,Hit
+Denver vs. Golden State,Klay Thompson,Fantasy Points - PrizePicks,23.5,29.28,28.82,27.55,8,2,Over,Hit
+Denver vs. Golden State,Klay Thompson,PR,18.5,22.77,22.50,25.50,6,4,Over,Hit
+Denver vs. Golden State,Klay Thompson,PAR,20.5,25.22,24.90,28.00,6,4,Over,Hit
+Denver vs. Golden State,Dario Saric,Rebounds,4.0,4.92,5.00,5.50,7,3,Over,Hit
+Denver vs. Golden State,Reggie Jackson,PA,10.5,12.91,12.90,11.00,7,3,Over,Miss
+Denver vs. Golden State,Brandin Podziemski,PR,14.5,17.54,17.30,16.00,6,4,Over,Hit
+Denver vs. Golden State,Christian Braun,Rebounds,2.5,3.02,3.00,3.00,7,3,Over,Miss
+Denver vs. Golden State,Chris Paul,Points,10.5,8.38,9.10,9.00,4,6,Under,Hit
+Denver vs. Golden State,Chris Paul,Three Points Made,1.5,1.20,1.60,1.00,4,6,Under,Hit
+Milwaukee vs. San Antonio,Brook Lopez,Blocks,2.5,3.00,3.00,2.50,5,5,Over,Hit
+Denver vs. Golden State,Trayce Jackson-Davis,Steals,0.5,0.60,0.60,0.50,5,5,Under,Hit
+Denver vs. Golden State,Jonathan Kuminga,Steals,0.5,0.60,0.60,0.50,5,5,Under,Hit
+Milwaukee vs. San Antonio,Malik Beasley,Points,9.5,11.39,11.20,10.00,5,5,Over,Hit
+Denver vs. Golden State,Brandin Podziemski,PAR,18.5,21.90,21.60,21.00,7,3,Over,Hit
+Denver vs. Golden State,Reggie Jackson,Points,7.5,8.88,9.00,8.00,6,4,Over,Miss
+Denver vs. Golden State,Stephen Curry,PR,31.5,25.87,27.20,28.50,4,6,Under,Miss
+Denver vs. Golden State,Stephen Curry,PAR,37.5,30.80,32.20,33.00,4,6,Under,Miss
+Denver vs. Golden State,Dario Saric,Points,7.5,8.79,8.60,9.00,7,3,Over,Hit
+Denver vs. Golden State,Kentavious Caldwell-Pope,PR,11.5,9.53,10.40,9.50,4,6,Under,Hit
+Denver vs. Golden State,Brandin Podziemski,Points,9.5,11.13,10.90,10.00,8,2,Over,Hit
+Denver vs. Golden State,Stephen Curry,PA,33.5,27.84,29.30,30.50,4,6,Under,Miss
+Denver vs. Golden State,Stephen Curry,Three Points Made,4.5,3.74,4.00,3.50,4,6,Under,Miss
+Denver vs. Golden State,Kentavious Caldwell-Pope,PA,11.5,9.57,10.50,10.00,3,7,Under,Miss
+Milwaukee vs. San Antonio,Khris Middleton,PA,21.5,24.89,25.00,24.50,7,3,Over,Miss
+Denver vs. Golden State,Stephen Curry,Points,27.5,23.29,24.30,26.00,4,6,Under,Miss
+Denver vs. Golden State,Stephen Curry,RA,9.0,7.65,7.90,8.50,2,8,Under,Miss
+Denver vs. Golden State,Brandin Podziemski,PA,13.5,15.49,15.20,15.50,7,3,Over,Hit
+Milwaukee vs. San Antonio,Khris Middleton,Points,16.5,18.87,18.90,19.50,7,3,Over,Miss
+Denver vs. Golden State,Chris Paul,Fantasy Points - PrizePicks,28.5,24.40,25.46,21.05,4,6,Under,Hit
+Milwaukee vs. San Antonio,Tre Jones,Rebounds,3.5,3.00,2.90,2.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Damian Lillard,Assists,7.0,6.00,6.10,5.00,3,7,Under,Miss
+Denver vs. Golden State,Nikola Jokic,Points,26.0,22.51,22.20,25.00,2,8,Under,Miss
+Denver vs. Golden State,Nikola Jokic,PA,35.5,30.91,30.40,35.00,5,5,Under,Miss
+Denver vs. Golden State,Nikola Jokic,PR,39.5,34.41,33.70,35.00,5,5,Under,Miss
+Denver vs. Golden State,Brandin Podziemski,RA,9.5,10.72,10.70,10.00,6,4,Over,Miss
+Milwaukee vs. San Antonio,Devin Vassell,RA,7.5,6.60,6.70,5.50,3,7,Under,Miss
+Milwaukee vs. San Antonio,Giannis Antetokounmpo,Points,31.5,27.81,27.80,29.00,4,6,Under,Miss
+Milwaukee vs. San Antonio,Devin Vassell,Assists,3.5,3.11,3.40,3.00,3,7,Under,Miss
+Denver vs. Golden State,Nikola Jokic,PAR,48.5,43.27,41.90,45.00,4,6,Under,Miss
+Denver vs. Golden State,Stephen Curry,Fantasy Points - PrizePicks,41.0,36.71,37.98,35.60,4,6,Under,Miss
+Denver vs. Golden State,Nikola Jokic,Fantasy Points - PrizePicks,58.0,52.02,51.60,52.00,4,6,Under,Miss
+Milwaukee vs. San Antonio,Devin Vassell,PAR,27.5,24.71,25.70,27.00,4,6,Under,Miss
+Milwaukee vs. San Antonio,Malik Beasley,PA,11.5,12.66,12.50,11.00,5,5,Over,Miss
+Denver vs. Golden State,Trayce Jackson-Davis,Rebounds,6.0,6.60,6.80,5.50,4,6,Under,Hit
+Denver vs. Golden State,Chris Paul,PA,17.5,15.76,16.30,14.50,2,8,Under,Hit
+Milwaukee vs. San Antonio,Damian Lillard,Three Points Made,3.5,3.84,3.70,3.50,5,5,Over,Miss
+Denver vs. Golden State,Aaron Gordon,Points,14.0,15.36,15.20,15.00,5,5,Over,Hit
+Denver vs. Golden State,Dario Saric,PR,12.5,13.71,13.60,14.50,6,4,Over,Hit
+Milwaukee vs. San Antonio,Damian Lillard,RA,11.5,10.39,10.20,9.00,4,6,Under,Miss
+Milwaukee vs. San Antonio,Jeremy Sochan,Points,12.0,10.87,11.50,10.00,3,7,Under,Hit
+Milwaukee vs. San Antonio,Giannis Antetokounmpo,PR,44.5,40.34,40.20,42.50,4,6,Under,Miss
+Denver vs. Golden State,Jamal Murray,Points,23.0,20.86,21.00,21.00,3,7,Under,Miss
+Denver vs. Golden State,Andrew Wiggins,PAR,16.5,18.03,18.70,18.00,6,4,Over,Miss
+Milwaukee vs. San Antonio,Devin Vassell,PA,23.5,21.34,22.40,23.00,4,6,Under,Miss
+Milwaukee vs. San Antonio,Damian Lillard,Points,25.5,27.79,26.60,27.50,5,5,Over,Miss
+Denver vs. Golden State,Jonathan Kuminga,Fantasy Points - PrizePicks,24.0,26.14,25.85,25.10,6,4,Over,Hit
+Denver vs. Golden State,Jonathan Kuminga,Rebounds,5.0,5.44,5.50,5.00,4,6,Under,Hit
+Denver vs. Golden State,Jamal Murray,PA,29.5,26.92,26.90,25.50,4,6,Under,Miss
+Milwaukee vs. San Antonio,Brook Lopez,Three Points Made,1.5,1.37,1.30,1.50,5,5,Under,Hit
+Denver vs. Golden State,Kentavious Caldwell-Pope,Fantasy Points - PrizePicks,20.5,18.73,19.97,18.80,4,6,Under,Miss
+Milwaukee vs. San Antonio,Khris Middleton,PAR,26.5,28.76,29.10,30.00,7,3,Over,Miss
+Denver vs. Golden State,Andrew Wiggins,PA,12.5,13.55,14.20,14.00,6,4,Over,Miss
+Milwaukee vs. San Antonio,Giannis Antetokounmpo,RA,19.0,20.60,20.00,19.00,4,6,Over,Hit
+Milwaukee vs. San Antonio,Devin Vassell,PR,23.5,21.53,22.30,23.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Khris Middleton,RA,10.5,9.65,10.20,9.50,4,6,Under,Hit
+Milwaukee vs. San Antonio,Khris Middleton,Assists,5.5,5.95,6.10,6.00,6,4,Over,Miss
+Denver vs. Golden State,Brandin Podziemski,Assists,4.0,4.32,4.30,5.00,6,4,Under,Miss
+Milwaukee vs. San Antonio,Damian Lillard,PR,29.5,31.83,30.70,31.00,5,5,Over,Miss
+Denver vs. Golden State,Chris Paul,PAR,21.5,19.82,20.10,17.50,2,8,Under,Hit
+Milwaukee vs. San Antonio,Devin Vassell,Points,19.5,17.99,19.00,19.00,5,5,Under,Miss
+Denver vs. Golden State,Nikola Jokic,Rebounds,13.0,12.01,11.50,11.00,4,6,Under,Hit
+Milwaukee vs. San Antonio,Brook Lopez,Points,13.5,12.48,11.80,14.00,6,4,Under,Hit
+Denver vs. Golden State,Jonathan Kuminga,PA,15.5,16.67,16.80,16.00,6,4,Over,Hit
+Denver vs. Golden State,Jonathan Kuminga,PR,18.5,19.88,20.00,19.00,5,5,Over,Hit
+Denver vs. Golden State,Aaron Gordon,PR,20.5,21.95,21.10,22.00,6,4,Over,Hit
+Milwaukee vs. San Antonio,Brook Lopez,PAR,20.5,19.06,18.20,21.00,6,4,Under,Hit
+Milwaukee vs. San Antonio,Brook Lopez,PR,19.5,18.13,17.20,19.50,5,5,Under,Hit
+Milwaukee vs. San Antonio,Jeremy Sochan,PA,15.5,14.46,15.10,13.50,4,6,Under,Hit
+Milwaukee vs. San Antonio,Malik Beasley,PAR,15.5,16.53,16.40,15.50,5,5,Over,Miss
+Denver vs. Golden State,Jonathan Kuminga,Points,13.5,14.40,14.50,14.00,5,5,Over,Hit
+Denver vs. Golden State,Nikola Jokic,Assists,9.0,8.41,8.20,7.50,3,7,Under,Miss
+Milwaukee vs. San Antonio,Brook Lopez,Rebounds,5.5,5.85,5.40,5.50,5,5,Over,Miss
+Denver vs. Golden State,Trayce Jackson-Davis,Fantasy Points - PrizePicks,23.0,24.41,23.86,26.85,7,3,Over,Miss
+Denver vs. Golden State,Jamal Murray,Assists,6.5,6.11,5.90,5.50,4,6,Under,Hit
+Denver vs. Golden State,Chris Paul,PR,13.5,12.70,12.90,13.50,5,5,Under,Hit
+Milwaukee vs. San Antonio,Khris Middleton,PR,21.5,22.77,23.00,23.50,7,3,Over,Miss
+Denver vs. Golden State,Jamal Murray,Fantasy Points - PrizePicks,38.5,40.75,40.51,42.25,6,4,Over,Hit
+Denver vs. Golden State,Nikola Jokic,RA,21.5,20.27,19.70,18.50,3,7,Under,Hit
+Milwaukee vs. San Antonio,Victor Wembanyama,Points,19.5,18.39,18.90,18.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Victor Wembanyama,PAR,31.5,33.28,33.70,33.50,6,4,Over,Hit
+Denver vs. Golden State,Chris Paul,RA,11.0,10.43,11.00,10.00,5,5,Under,Hit
+Milwaukee vs. San Antonio,Giannis Antetokounmpo,PA,37.5,35.59,35.40,36.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Damian Lillard,Turnovers,2.5,2.37,2.50,2.50,5,5,Under,Hit
+Denver vs. Golden State,Jamal Murray,Rebounds,4.0,4.20,4.30,3.50,4,6,Under,Hit
+Denver vs. Golden State,Jamal Murray,PR,26.5,25.21,25.30,26.00,4,6,Under,Miss
+Milwaukee vs. San Antonio,Giannis Antetokounmpo,Fantasy Points - PrizePicks,60.5,57.55,57.08,59.50,3,7,Under,Miss
+Denver vs. Golden State,Chris Paul,Assists,7.5,7.14,7.20,7.00,5,5,Under,Hit
+Milwaukee vs. San Antonio,Giannis Antetokounmpo,PAR,50.5,48.08,47.80,48.00,4,6,Under,Miss
+Milwaukee vs. San Antonio,Keldon Johnson,Rebounds,6.0,5.72,5.80,5.50,3,7,Under,Miss
+Milwaukee vs. San Antonio,Jeremy Sochan,PR,17.5,18.33,17.40,17.50,5,5,Over,Miss
+Denver vs. Golden State,Aaron Gordon,PAR,23.5,24.60,23.80,26.00,6,4,Over,Hit
+Denver vs. Golden State,Jamal Murray,RA,10.0,10.45,10.20,10.50,5,5,Over,Miss
+Milwaukee vs. San Antonio,Keldon Johnson,Fantasy Points - PrizePicks,33.5,31.99,31.86,33.15,5,5,Under,Hit
+Denver vs. Golden State,Andrew Wiggins,PR,15.5,16.19,17.10,15.50,5,5,Over,Miss
+Milwaukee vs. San Antonio,Devin Vassell,Three Points Made,2.5,2.39,2.60,2.50,5,5,Under,Miss
+Denver vs. Golden State,Aaron Gordon,RA,9.5,9.09,8.60,8.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Damian Lillard,PA,32.5,33.89,32.70,33.50,5,5,Over,Hit
+Denver vs. Golden State,Jonathan Kuminga,PAR,21.5,22.40,22.30,21.50,5,5,Over,Hit
+Denver vs. Golden State,Aaron Gordon,PA,17.5,18.22,17.90,19.00,6,4,Over,Hit
+Milwaukee vs. San Antonio,Damian Lillard,PAR,36.5,37.95,36.80,37.00,6,4,Over,Hit
+Milwaukee vs. San Antonio,Victor Wembanyama,PR,28.5,29.58,30.00,29.00,5,5,Over,Hit
+Denver vs. Golden State,Jamal Murray,PAR,32.5,31.27,31.20,33.00,5,5,Under,Miss
+Denver vs. Golden State,Trayce Jackson-Davis,PA,11.5,11.09,11.20,11.50,5,5,Under,Hit
+Milwaukee vs. San Antonio,Devin Vassell,Fantasy Points - PrizePicks,32.5,33.54,32.96,31.55,4,6,Over,Hit
+Milwaukee vs. San Antonio,Jeremy Sochan,Rebounds,6.0,5.82,5.90,6.00,5,5,Under,Miss
+Milwaukee vs. San Antonio,Damian Lillard,Fantasy Points - PrizePicks,42.0,43.18,41.77,40.10,4,6,Over,Hit
+Milwaukee vs. San Antonio,Devin Vassell,Rebounds,3.5,3.43,3.30,3.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Victor Wembanyama,PA,22.5,22.10,22.60,21.00,4,6,Under,Miss
+Denver vs. Golden State,Andrew Wiggins,Points,11.5,11.69,12.60,11.50,5,5,Over,Miss
+Denver vs. Golden State,Trayce Jackson-Davis,PR,16.5,16.23,16.40,19.50,6,4,Under,Hit
+Denver vs. Golden State,Trayce Jackson-Davis,PAR,17.5,17.79,18.00,21.50,6,4,Over,Miss
+Milwaukee vs. San Antonio,Giannis Antetokounmpo,Rebounds,12.5,12.68,12.40,12.00,5,5,Over,Hit
+Denver vs. Golden State,Trayce Jackson-Davis,Points,10.0,9.87,9.60,10.00,3,7,Under,Hit
+Milwaukee vs. San Antonio,Keldon Johnson,PAR,29.5,29.14,29.20,27.00,4,6,Under,Hit
+Denver vs. Golden State,Chris Paul,Rebounds,3.5,3.46,3.80,3.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Jeremy Sochan,Steals,0.5,0.49,0.50,0.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Keldon Johnson,Points,19.5,19.68,19.60,18.00,4,6,Over,Miss
+Milwaukee vs. San Antonio,Brook Lopez,Fantasy Points - PrizePicks,30.5,30.23,29.08,29.95,5,5,Under,Hit
+Milwaukee vs. San Antonio,Keldon Johnson,RA,9.5,9.42,9.60,9.00,5,5,Under,Miss
+Denver vs. Golden State,Stephen Curry,Assists,5.0,4.96,5.00,5.50,5,5,Under,Miss
+Milwaukee vs. San Antonio,Jeremy Sochan,RA,9.5,9.56,9.50,8.50,4,6,Under,Miss
+Milwaukee vs. San Antonio,Keldon Johnson,PA,23.5,23.35,23.40,23.00,4,6,Under,Hit
+Denver vs. Golden State,Aaron Gordon,Fantasy Points - PrizePicks,28.5,28.33,28.63,30.20,6,4,Under,Miss
+Milwaukee vs. San Antonio,Jeremy Sochan,PAR,21.5,21.59,21.00,19.50,4,6,Over,Hit
+Milwaukee vs. San Antonio,Keldon Johnson,PR,25.5,25.49,25.40,23.00,4,6,Under,Hit
+Denver vs. Golden State,Aaron Gordon,Rebounds,6.0,6.00,5.90,5.00,4,6,Under,Miss

@@ -28,3 +28,6 @@ FTN Hits/Total for 01/03/24: 105/226
 Pine Hits/Total for 01/04/24: 75/163
 FTN Hits/Total for 01/04/24: 63/148
 	FTN Hits/Total for 01/04/24 over 60.0%: 1/8
+Pine Hits/Total for 01/05/24: 167/374
+FTN Hits/Total for 01/05/24: 102/216
+	FTN Hits/Total for 01/05/24 over 60.0%: 4/18

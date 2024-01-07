@@ -1,0 +1,245 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes
+Utah vs. Philadelphia,Collin Sexton,Steals,0.5,1.09,1.10,1.00,6,4,Over
+New York vs. Washington,Tyus Jones,Three Points Made,1.5,2.59,2.60,2.50,7,3,Over
+Boston vs. Indiana,Tyrese Haliburton,Blocks,0.5,0.80,0.80,1.00,6,4,Over
+Boston vs. Indiana,Tyrese Haliburton,Free Throws Made,3.5,1.80,2.20,1.50,3,7,Under
+New York vs. Washington,OG Anunoby,Rebounds,4.5,2.40,3.50,2.00,3,7,Under
+New York vs. Washington,Kyle Kuzma,Steals,0.5,0.27,0.30,0.00,3,7,Under
+Milwaukee vs. Houston,Khris Middleton,Rebounds,5.0,3.34,3.50,3.00,1,9,Under
+Milwaukee vs. Houston,Giannis Antetokounmpo,Assists,6.0,7.77,7.70,7.00,6,4,Over
+Boston vs. Indiana,Jrue Holiday,SB,1.5,1.92,1.80,2.00,7,3,Over
+Boston vs. Indiana,Jrue Holiday,Turnovers,1.5,1.91,1.90,2.00,6,4,Over
+New York vs. Washington,Tyus Jones,Points,12.5,15.69,16.00,15.00,7,3,Over
+New York vs. Washington,Tyus Jones,PR,14.5,18.19,18.60,17.00,7,3,Over
+New York vs. Washington,Jordan Poole,Three Point Attempts,6.0,7.52,7.30,7.00,6,4,Over
+Boston vs. Indiana,Myles Turner,RA,9.0,6.76,6.90,6.50,1,9,Under
+Utah vs. Philadelphia,Collin Sexton,Points,15.5,19.29,19.60,20.00,8,2,Over
+Boston vs. Indiana,Derrick White,Rebounds,3.5,4.35,4.30,4.50,6,4,Over
+Boston vs. Indiana,Myles Turner,Blocks,1.5,1.86,2.00,2.00,7,3,Over
+Milwaukee vs. Houston,Brook Lopez,Steals,0.5,0.38,0.30,0.00,2,8,Under
+Boston vs. Indiana,Myles Turner,Steals,0.5,0.38,0.40,0.00,4,6,Under
+New York vs. Washington,Julius Randle,Free Throws Made,6.0,7.42,7.20,7.00,5,5,Over
+Milwaukee vs. Houston,Jabari Smith Jr.,Steals,0.5,0.39,0.40,0.00,3,7,Under
+Boston vs. Indiana,Derrick White,Points,16.5,20.25,19.40,18.50,8,2,Over
+Utah vs. Philadelphia,Collin Sexton,PA,19.5,23.90,24.30,26.50,7,3,Over
+Boston vs. Indiana,Myles Turner,Rebounds,7.5,5.82,5.90,6.00,1,9,Under
+Boston vs. Indiana,Derrick White,Fantasy Points - PrizePicks,33.5,40.98,39.96,38.65,6,4,Over
+New York vs. Washington,Donte DiVincenzo,PA,14.5,17.62,16.60,16.50,6,4,Over
+Utah vs. Philadelphia,Lauri Markkanen,RA,9.0,10.85,10.50,10.50,6,4,Over
+Milwaukee vs. Houston,Giannis Antetokounmpo,Three Points Made,0.5,0.40,0.50,0.00,4,6,Under
+Utah vs. Philadelphia,Tyrese Maxey,SB,1.5,1.20,1.20,1.00,3,7,Under
+Boston vs. Indiana,Myles Turner,Three Points Made,1.5,1.20,1.60,1.00,4,6,Under
+Milwaukee vs. Houston,Jabari Smith Jr.,Three Points Made,1.5,1.20,1.90,1.00,4,6,Under
+Boston vs. Indiana,Jaylen Brown,SB,1.5,1.20,1.20,1.00,4,6,Under
+Milwaukee vs. Houston,Jabari Smith Jr.,SB,1.5,1.20,1.30,1.00,4,6,Under
+New York vs. Washington,Kyle Kuzma,Three Point Attempts,7.0,8.40,8.30,7.00,4,6,Over
+Milwaukee vs. Houston,Brook Lopez,Blocks,2.5,3.00,2.80,2.50,5,5,Over
+New York vs. Washington,Donte DiVincenzo,Points,12.5,15.00,14.20,12.50,5,5,Over
+Boston vs. Indiana,Derrick White,Three Points Made,2.5,3.00,3.30,2.50,5,5,Over
+New York vs. Washington,Daniel Gafford,SB,2.5,3.00,3.50,2.50,5,5,Over
+Boston vs. Indiana,Jayson Tatum,SB,1.5,1.80,1.80,1.50,5,5,Over
+Boston vs. Indiana,Derrick White,PA,21.5,25.78,24.80,26.50,7,3,Over
+Boston vs. Indiana,Jayson Tatum,Turnovers,2.5,2.01,2.00,2.00,4,6,Under
+New York vs. Washington,Donte DiVincenzo,PR,15.5,18.54,17.40,16.00,6,4,Over
+Milwaukee vs. Houston,Damian Lillard,Turnovers,2.5,2.01,2.30,2.50,5,5,Under
+Boston vs. Indiana,Jaylen Brown,Rebounds,5.0,5.97,5.70,5.50,5,5,Over
+Boston vs. Indiana,Derrick White,PR,20.5,24.33,23.70,22.50,6,4,Over
+New York vs. Washington,Tyus Jones,PAR,20.5,24.25,24.70,22.50,8,2,Over
+Milwaukee vs. Houston,Fred VanVleet,Turnovers,1.5,1.77,2.00,1.50,5,5,Over
+Utah vs. Philadelphia,Collin Sexton,PR,18.5,21.84,22.20,23.00,7,3,Over
+Milwaukee vs. Houston,Jalen Green,Points,19.5,16.02,16.90,16.50,4,6,Under
+Boston vs. Indiana,Derrick White,PAR,25.5,29.98,29.10,30.50,6,4,Over
+Utah vs. Philadelphia,Collin Sexton,PAR,22.5,26.45,26.90,29.00,7,3,Over
+New York vs. Washington,Tyus Jones,PA,18.5,21.72,22.10,21.50,7,3,Over
+New York vs. Washington,OG Anunoby,PR,19.5,16.12,16.40,15.00,3,7,Under
+New York vs. Washington,Daniel Gafford,Rebounds,6.5,7.62,7.80,6.50,5,5,Over
+Milwaukee vs. Houston,Jalen Green,PA,22.5,18.66,19.60,19.50,3,7,Under
+New York vs. Washington,Isaiah Hartenstein,Assists,2.5,2.92,3.00,3.00,6,4,Over
+Boston vs. Indiana,Jaylen Brown,RA,9.0,10.46,10.10,9.00,4,6,Over
+New York vs. Washington,Donte DiVincenzo,PAR,18.0,20.85,19.80,19.00,6,4,Over
+New York vs. Washington,Isaiah Hartenstein,Points,9.5,8.02,8.10,8.00,4,6,Under
+Utah vs. Philadelphia,Tyrese Maxey,RA,11.0,9.33,9.20,8.00,3,7,Under
+Boston vs. Indiana,Jaylen Brown,Free Throws Made,3.5,4.02,4.00,4.00,6,4,Over
+New York vs. Washington,Jordan Poole,Free Throws Made,2.5,2.13,2.20,2.00,3,7,Under
+New York vs. Washington,Kyle Kuzma,Three Points Made,2.5,2.86,2.70,2.50,5,5,Over
+New York vs. Washington,OG Anunoby,PAR,21.5,18.38,18.90,18.50,3,7,Under
+Boston vs. Indiana,Tyrese Haliburton,Three Points Made,3.5,3.00,3.20,2.50,3,7,Under
+Milwaukee vs. Houston,Jalen Green,PR,24.5,21.06,21.90,22.50,4,6,Under
+Utah vs. Philadelphia,Lauri Markkanen,Rebounds,7.0,7.97,7.80,8.00,5,5,Over
+Milwaukee vs. Houston,Malik Beasley,Points,9.5,10.80,10.30,9.00,5,5,Over
+New York vs. Washington,Julius Randle,Three Point Attempts,5.0,4.32,4.40,4.00,2,8,Under
+Milwaukee vs. Houston,Khris Middleton,Points,16.5,18.72,18.70,19.50,7,3,Over
+Utah vs. Philadelphia,Lauri Markkanen,PA,22.5,25.51,25.30,25.50,6,4,Over
+Milwaukee vs. Houston,Brook Lopez,Rebounds,5.0,5.66,5.70,5.50,5,5,Under
+Utah vs. Philadelphia,Joel Embiid,Assists,5.5,4.80,5.00,4.00,4,6,Under
+New York vs. Washington,OG Anunoby,Fantasy Points - PrizePicks,25.5,22.25,23.05,23.85,4,6,Under
+Boston vs. Indiana,Jalen Smith,Rebounds,5.5,4.81,4.70,4.50,4,6,Under
+Boston vs. Indiana,Jayson Tatum,Three Points Made,2.5,2.82,3.10,2.50,5,5,Over
+New York vs. Washington,Isaiah Hartenstein,SB,3.5,3.07,3.10,3.50,5,5,Under
+Boston vs. Indiana,Tyrese Haliburton,RA,16.5,18.50,19.10,17.50,6,4,Over
+New York vs. Washington,Isaiah Hartenstein,PA,12.5,10.99,11.10,10.50,3,7,Under
+Utah vs. Philadelphia,Tyrese Maxey,Assists,7.0,6.16,6.20,6.00,3,7,Under
+Milwaukee vs. Houston,Alperen Sengun,Assists,4.5,5.03,4.80,5.00,6,4,Over
+Boston vs. Indiana,Tyrese Haliburton,Assists,12.5,13.96,14.70,13.50,6,4,Over
+Milwaukee vs. Houston,Jalen Green,Rebounds,4.5,5.02,5.00,5.00,7,3,Over
+Milwaukee vs. Houston,Khris Middleton,PA,22.0,24.52,24.60,24.50,6,4,Over
+Milwaukee vs. Houston,Khris Middleton,RA,10.5,9.32,9.40,8.50,3,7,Under
+New York vs. Washington,Kyle Kuzma,RA,9.0,9.99,9.70,10.00,6,4,Over
+New York vs. Washington,OG Anunoby,Points,14.5,12.92,12.90,11.50,3,7,Under
+New York vs. Washington,Deni Avdija,PA,16.5,14.73,14.30,12.50,4,6,Under
+New York vs. Washington,Deni Avdija,Points,12.5,11.17,10.80,10.50,4,6,Under
+New York vs. Washington,Jordan Poole,Points,16.5,14.74,15.20,13.50,3,7,Under
+Milwaukee vs. Houston,Giannis Antetokounmpo,RA,19.0,21.00,20.70,19.50,5,5,Over
+New York vs. Washington,Jalen Brunson,Three Points Made,2.5,2.24,2.20,2.00,5,5,Under
+New York vs. Washington,Julius Randle,RA,14.0,12.54,12.40,11.00,3,7,Under
+Milwaukee vs. Houston,Alperen Sengun,PR,31.5,34.69,34.20,33.50,6,4,Over
+Utah vs. Philadelphia,Lauri Markkanen,PAR,30.5,33.59,33.10,35.50,6,4,Over
+New York vs. Washington,Deni Avdija,Rebounds,6.0,6.60,6.90,5.50,3,7,Under
+Boston vs. Indiana,Derrick White,Assists,5.0,5.50,5.40,5.00,4,6,Under
+Milwaukee vs. Houston,Alperen Sengun,PA,28.0,30.76,30.20,32.00,6,4,Over
+Boston vs. Indiana,Jalen Smith,Points,9.5,10.43,10.50,10.50,6,4,Over
+New York vs. Washington,Isaiah Hartenstein,PR,20.5,18.52,18.50,17.50,4,6,Under
+New York vs. Washington,Kyle Kuzma,Rebounds,5.5,6.03,6.00,7.50,6,4,Over
+Milwaukee vs. Houston,Alperen Sengun,Points,23.5,25.74,25.40,25.00,7,3,Over
+Boston vs. Indiana,Jalen Smith,PA,10.5,11.50,11.60,11.50,6,4,Over
+Boston vs. Indiana,Tyrese Haliburton,Points,24.5,22.20,21.60,21.50,4,6,Under
+Utah vs. Philadelphia,Tyrese Maxey,Rebounds,3.5,3.17,3.00,3.50,5,5,Under
+New York vs. Washington,Deni Avdija,PAR,22.5,20.40,21.20,17.00,3,7,Under
+New York vs. Washington,Jordan Poole,PAR,22.5,20.43,20.90,22.00,3,7,Under
+New York vs. Washington,Jordan Poole,PR,18.5,16.80,17.30,17.00,3,7,Under
+New York vs. Washington,Deni Avdija,PR,18.5,16.80,17.70,14.00,3,7,Under
+Milwaukee vs. Houston,Alperen Sengun,PAR,36.5,39.72,39.00,39.50,7,3,Over
+Boston vs. Indiana,Jrue Holiday,Fantasy Points - PrizePicks,29.5,32.09,31.15,27.30,4,6,Over
+Milwaukee vs. Houston,Brook Lopez,Points,12.5,11.42,12.20,14.00,6,4,Under
+Utah vs. Philadelphia,Collin Sexton,Turnovers,1.5,1.63,1.60,1.50,5,5,Under
+New York vs. Washington,Isaiah Hartenstein,PAR,23.5,21.48,21.50,21.00,4,6,Under
+Boston vs. Indiana,Derrick White,RA,9.0,9.77,9.70,9.50,5,5,Over
+Boston vs. Indiana,Jayson Tatum,Free Throws Made,6.5,7.03,6.50,6.50,5,5,Over
+Milwaukee vs. Houston,Malik Beasley,PR,13.5,14.59,14.00,13.00,4,6,Over
+Milwaukee vs. Houston,Khris Middleton,Assists,5.5,5.94,5.90,5.50,5,5,Over
+Boston vs. Indiana,Jrue Holiday,Points,13.5,14.57,14.00,14.00,6,4,Over
+New York vs. Washington,OG Anunoby,PA,16.5,15.20,15.40,13.50,4,6,Under
+Milwaukee vs. Houston,Giannis Antetokounmpo,Points,32.0,29.47,30.00,31.00,3,7,Under
+Boston vs. Indiana,Tyrese Haliburton,Three Point Attempts,9.0,9.71,8.90,9.50,5,5,Over
+New York vs. Washington,Isaiah Hartenstein,Rebounds,11.0,10.14,10.40,9.00,3,7,Under
+Milwaukee vs. Houston,Brook Lopez,PA,13.5,12.45,13.20,14.50,6,4,Under
+Utah vs. Philadelphia,Lauri Markkanen,PR,28.5,30.71,30.40,32.00,6,4,Over
+New York vs. Washington,Julius Randle,PAR,42.5,39.25,40.00,40.50,5,5,Under
+New York vs. Washington,Daniel Gafford,PAR,18.5,19.87,20.90,19.50,6,4,Over
+New York vs. Washington,Deni Avdija,RA,9.5,10.20,10.40,8.50,4,6,Over
+New York vs. Washington,Daniel Gafford,PR,17.5,18.74,19.80,19.00,6,4,Over
+New York vs. Washington,Julius Randle,Fantasy Points - PrizePicks,45.5,42.33,42.21,41.40,3,7,Under
+Boston vs. Indiana,Jrue Holiday,PAR,23.5,25.11,24.30,21.00,4,6,Over
+Boston vs. Indiana,Myles Turner,PR,26.5,24.70,25.30,23.50,4,6,Under
+Milwaukee vs. Houston,Fred VanVleet,RA,12.5,11.66,12.00,11.00,5,5,Under
+Boston vs. Indiana,Jrue Holiday,Assists,4.5,4.20,4.30,3.50,4,6,Under
+Boston vs. Indiana,Myles Turner,PAR,27.5,25.67,26.30,24.00,4,6,Under
+Boston vs. Indiana,Jaylen Brown,PAR,32.0,34.10,33.20,32.50,5,5,Over
+Utah vs. Philadelphia,Tyrese Maxey,PA,35.5,33.20,32.50,32.00,5,5,Under
+New York vs. Washington,Julius Randle,Rebounds,10.0,9.36,9.30,9.00,3,7,Under
+New York vs. Washington,Julius Randle,PR,38.5,36.05,36.90,37.00,5,5,Under
+Milwaukee vs. Houston,Damian Lillard,Points,25.5,27.11,25.80,24.50,4,6,Over
+Milwaukee vs. Houston,Giannis Antetokounmpo,PR,45.5,42.67,43.00,44.00,4,6,Under
+Utah vs. Philadelphia,Joel Embiid,RA,18.5,17.36,17.50,17.00,3,7,Under
+Boston vs. Indiana,Tyrese Haliburton,PR,28.5,26.78,26.00,25.50,4,6,Under
+Milwaukee vs. Houston,Jabari Smith Jr.,RA,9.5,8.93,8.90,8.00,4,6,Under
+Boston vs. Indiana,Jaylen Brown,PA,26.5,28.06,27.50,26.50,5,5,Over
+New York vs. Washington,Jordan Poole,PA,19.5,18.37,18.80,18.50,3,7,Under
+Boston vs. Indiana,Jayson Tatum,Rebounds,8.5,8.01,8.00,8.00,3,7,Under
+Boston vs. Indiana,Jaylen Brown,PR,28.0,29.60,28.80,30.00,6,4,Over
+Boston vs. Indiana,Jayson Tatum,Assists,4.5,4.75,5.10,4.50,5,5,Over
+Utah vs. Philadelphia,Tyrese Maxey,PAR,38.5,36.36,35.50,35.50,5,5,Under
+New York vs. Washington,Jalen Brunson,Three Point Attempts,6.5,6.14,6.10,5.50,4,6,Under
+Milwaukee vs. Houston,Jabari Smith Jr.,Points,13.5,14.24,15.30,13.00,5,5,Over
+Milwaukee vs. Houston,Fred VanVleet,PA,26.5,27.95,27.20,24.50,5,5,Over
+Milwaukee vs. Houston,Malik Beasley,Turnovers,0.5,0.47,0.50,0.00,2,8,Under
+Utah vs. Philadelphia,Lauri Markkanen,Points,21.5,22.62,22.60,22.00,5,5,Over
+Boston vs. Indiana,Jrue Holiday,PR,19.5,20.47,20.00,20.00,7,3,Over
+Utah vs. Philadelphia,Joel Embiid,Points,35.5,37.23,37.30,36.50,5,5,Over
+Boston vs. Indiana,Jaylen Brown,Points,22.5,23.59,23.10,24.00,6,4,Over
+New York vs. Washington,Julius Randle,Points,28.5,27.12,27.60,26.50,3,7,Under
+Milwaukee vs. Houston,Damian Lillard,PR,29.5,30.89,29.90,29.00,4,6,Over
+Boston vs. Indiana,Jayson Tatum,Points,28.5,27.17,26.60,28.50,5,5,Under
+Boston vs. Indiana,Jayson Tatum,Three Point Attempts,8.5,8.11,8.40,9.00,6,4,Under
+Milwaukee vs. Houston,Giannis Antetokounmpo,PA,38.5,36.74,37.70,38.50,5,5,Under
+Milwaukee vs. Houston,Jabari Smith Jr.,PR,21.5,22.48,23.30,20.00,4,6,Over
+Utah vs. Philadelphia,Tyrese Maxey,PR,31.5,30.06,29.30,30.00,4,6,Under
+Boston vs. Indiana,Myles Turner,PA,19.5,20.38,20.40,18.50,4,6,Over
+New York vs. Washington,Daniel Gafford,PA,11.5,12.01,13.10,13.00,6,4,Over
+New York vs. Washington,Kyle Kuzma,PAR,29.5,30.80,30.00,26.50,4,6,Over
+New York vs. Washington,Julius Randle,PA,32.5,31.10,30.70,30.00,3,7,Under
+New York vs. Washington,Jordan Poole,Fantasy Points - PrizePicks,25.5,24.40,24.52,25.10,5,5,Under
+New York vs. Washington,Jalen Brunson,Field Goal Attempts,20.5,21.38,21.10,21.50,6,4,Over
+New York vs. Washington,Jalen Brunson,RA,12.0,11.49,11.40,10.50,4,6,Under
+Boston vs. Indiana,Jayson Tatum,PR,36.5,34.97,34.60,35.00,4,6,Under
+New York vs. Washington,Daniel Gafford,RA,8.0,8.33,8.90,7.00,4,6,Under
+Milwaukee vs. Houston,Malik Beasley,PA,11.5,11.97,11.40,10.00,4,6,Over
+New York vs. Washington,Isaiah Hartenstein,Steals,1.5,1.44,1.50,1.50,5,5,Under
+Milwaukee vs. Houston,Jabari Smith Jr.,Rebounds,8.5,8.17,8.00,7.50,4,6,Under
+Boston vs. Indiana,Jaylen Brown,Fantasy Points - PrizePicks,37.0,38.44,37.24,37.35,5,5,Over
+Milwaukee vs. Houston,Jabari Smith Jr.,PA,14.5,15.06,16.20,14.00,5,5,Over
+New York vs. Washington,Daniel Gafford,Points,10.5,10.89,12.00,12.00,6,4,Over
+Milwaukee vs. Houston,Damian Lillard,PA,32.5,33.69,32.40,33.50,5,5,Over
+Boston vs. Indiana,Tyrese Haliburton,Fantasy Points - PrizePicks,51.0,52.82,52.83,56.25,7,3,Over
+Boston vs. Indiana,Tyrese Haliburton,Field Goal Attempts,18.5,17.86,17.00,18.00,5,5,Under
+Milwaukee vs. Houston,Brook Lopez,PR,17.5,16.92,17.90,19.50,7,3,Under
+New York vs. Washington,Jalen Brunson,Fantasy Points - PrizePicks,42.5,43.90,43.70,42.20,5,5,Over
+Milwaukee vs. Houston,Alperen Sengun,RA,13.0,13.42,13.60,14.00,6,4,Over
+Boston vs. Indiana,Jayson Tatum,PAR,41.5,40.23,39.70,40.00,3,7,Under
+Boston vs. Indiana,Jayson Tatum,Fantasy Points - PrizePicks,46.5,47.87,47.25,44.15,5,5,Over
+Boston vs. Indiana,Tyrese Haliburton,PA,37.5,36.41,36.30,39.00,5,5,Under
+New York vs. Washington,Kyle Kuzma,Points,21.0,20.40,20.30,17.00,4,6,Under
+New York vs. Washington,Kyle Kuzma,Assists,3.5,3.60,3.70,3.00,4,6,Under
+Boston vs. Indiana,Jrue Holiday,PA,17.5,18.00,18.30,15.00,4,6,Over
+Utah vs. Philadelphia,Joel Embiid,SB,3.5,3.60,3.70,3.00,4,6,Under
+Milwaukee vs. Houston,Damian Lillard,PAR,36.5,37.50,36.50,37.00,6,4,Over
+Utah vs. Philadelphia,Collin Sexton,Rebounds,2.5,2.57,2.60,3.00,6,4,Under
+Milwaukee vs. Houston,Fred VanVleet,Assists,8.5,8.27,8.90,8.50,5,5,Under
+Boston vs. Indiana,Myles Turner,Points,18.5,19.00,19.40,18.00,4,6,Over
+New York vs. Washington,Julius Randle,Field Goal Attempts,20.5,19.98,19.60,21.00,5,5,Under
+Milwaukee vs. Houston,Khris Middleton,PR,21.5,22.03,22.20,23.50,6,4,Over
+Boston vs. Indiana,Tyrese Haliburton,Offensive Rebounds,0.5,0.49,0.50,0.50,5,5,Under
+Milwaukee vs. Houston,Damian Lillard,RA,10.5,10.26,10.70,10.50,5,5,Under
+Milwaukee vs. Houston,Fred VanVleet,PAR,30.5,31.20,30.30,27.00,5,5,Over
+New York vs. Washington,Jalen Brunson,Free Throws Made,5.0,4.89,5.10,5.00,4,6,Under
+New York vs. Washington,Kyle Kuzma,Field Goal Attempts,18.5,18.91,18.10,17.00,4,6,Over
+Utah vs. Philadelphia,Joel Embiid,PA,41.5,42.41,42.30,41.00,4,6,Over
+Milwaukee vs. Houston,Jabari Smith Jr.,PAR,23.5,23.02,24.20,21.00,4,6,Under
+Milwaukee vs. Houston,Giannis Antetokounmpo,PAR,51.5,50.49,50.70,50.50,4,6,Under
+Boston vs. Indiana,Tyrese Haliburton,PAR,41.5,40.70,40.70,44.50,6,4,Under
+New York vs. Washington,Kyle Kuzma,PR,26.5,27.00,26.30,22.50,4,6,Over
+New York vs. Washington,Kyle Kuzma,Fantasy Points - PrizePicks,33.5,32.89,32.05,30.10,4,6,Under
+Milwaukee vs. Houston,Giannis Antetokounmpo,Rebounds,13.0,13.23,13.00,13.50,5,5,Over
+Utah vs. Philadelphia,Joel Embiid,PR,48.5,49.34,49.80,50.00,5,5,Over
+Utah vs. Philadelphia,Joel Embiid,Rebounds,12.5,12.29,12.50,12.50,5,5,Under
+Boston vs. Indiana,Jalen Smith,PR,15.5,15.24,15.20,14.00,3,7,Under
+Utah vs. Philadelphia,Tyrese Maxey,Points,27.5,27.04,26.30,25.00,4,6,Under
+Boston vs. Indiana,Myles Turner,Fantasy Points - PrizePicks,33.5,32.99,33.78,33.85,5,5,Under
+New York vs. Washington,Kyle Kuzma,PA,24.5,24.82,24.00,22.00,4,6,Over
+Milwaukee vs. Houston,Khris Middleton,PAR,27.5,27.84,28.10,28.50,5,5,Over
+Milwaukee vs. Houston,Jalen Green,Assists,2.5,2.47,2.70,2.50,5,5,Under
+Milwaukee vs. Houston,Damian Lillard,Assists,6.5,6.58,6.60,6.00,5,5,Under
+Boston vs. Indiana,Jalen Smith,PAR,16.5,16.35,16.30,15.00,3,7,Under
+Boston vs. Indiana,Jayson Tatum,PA,32.5,32.20,31.70,32.00,4,6,Under
+New York vs. Washington,Jalen Brunson,PR,30.5,30.78,30.70,30.50,5,5,Over
+Boston vs. Indiana,Jrue Holiday,RA,10.5,10.41,10.30,10.00,5,5,Under
+Milwaukee vs. Houston,Jalen Green,RA,7.5,7.43,7.70,7.50,5,5,Under
+New York vs. Washington,Jalen Brunson,Points,26.5,26.73,26.70,28.50,6,4,Over
+Milwaukee vs. Houston,Fred VanVleet,Points,18.5,18.34,18.30,16.50,4,6,Under
+Milwaukee vs. Houston,Malik Beasley,Steals,0.5,0.50,0.40,0.00,3,7,Under
+New York vs. Washington,Jalen Brunson,PA,34.5,34.26,34.10,31.50,3,7,Under
+New York vs. Washington,Jalen Brunson,PAR,38.0,38.23,38.10,35.00,3,7,Over
+New York vs. Washington,Deni Avdija,Fantasy Points - PrizePicks,26.5,26.64,27.63,22.20,4,6,Over
+New York vs. Washington,Isaiah Hartenstein,RA,13.5,13.43,13.40,12.50,4,6,Under
+New York vs. Washington,Deni Avdija,Assists,3.5,3.52,3.50,3.50,5,5,Under
+New York vs. Washington,Jalen Brunson,Assists,7.5,7.46,7.40,7.00,4,6,Under
+Milwaukee vs. Houston,Fred VanVleet,PR,21.5,21.43,21.40,19.00,5,5,Under
+Boston vs. Indiana,Jayson Tatum,Field Goal Attempts,19.5,19.55,19.40,19.00,5,5,Over
+New York vs. Washington,Tyus Jones,RA,8.5,8.52,8.70,8.50,5,5,Under
+Milwaukee vs. Houston,Brook Lopez,PAR,19.0,18.97,18.90,21.00,7,3,Under
+Utah vs. Philadelphia,Joel Embiid,PAR,54.5,54.58,54.80,55.50,6,4,Over
+New York vs. Washington,Julius Randle,Defensive Rebounds,7.5,7.51,7.50,7.00,4,6,Under
+New York vs. Washington,Tyus Jones,Assists,6.0,6.01,6.10,6.00,3,7,Under
+Boston vs. Indiana,Jrue Holiday,Rebounds,6.0,5.99,6.00,6.00,4,6,Under
+Milwaukee vs. Houston,Alperen Sengun,Rebounds,8.5,8.49,8.80,8.00,4,6,Under
+Boston vs. Indiana,Jayson Tatum,RA,13.0,13.00,13.10,14.00,6,4,Under

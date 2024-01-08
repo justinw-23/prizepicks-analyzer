@@ -1,0 +1,298 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes,Result
+New Orleans vs. Sacramento,Brandon Ingram,Blocks,0.5,1.20,1.20,1.00,6,4,Over,Hit
+Minnesota vs. Dallas,Anthony Edwards,Blocks,0.5,1.03,1.10,1.00,7,3,Over,Hit
+Portland vs. Brooklyn,Day'Ron Sharpe,Blocks,0.5,1.02,1.00,1.00,6,4,Over,Hit
+Portland vs. Brooklyn,Scoot Henderson,Steals,0.5,0.85,0.80,1.00,6,4,Over,Miss
+Detroit vs. Denver,Jalen Duren,Steals,0.5,0.16,0.20,0.00,2,8,Under,Hit
+New Orleans vs. Sacramento,Malik Monk,Blocks,0.5,0.82,0.90,1.00,7,3,Over,Hit
+Portland vs. Brooklyn,Anfernee Simons,Steals,0.5,0.80,0.70,1.00,6,4,Over,Miss
+New Orleans vs. Sacramento,De'Aaron Fox,Blocks,0.5,0.80,0.70,1.00,6,4,Over,Miss
+New Orleans vs. Sacramento,Brandon Ingram,SB,1.5,2.40,2.40,2.00,7,3,Over,Hit
+Portland vs. Brooklyn,Malcolm Brogdon,Three Points Made,1.5,2.40,2.40,2.00,6,4,Over,Hit
+Atlanta vs. Orlando,Onyeka Okongwu,Points,7.5,11.78,11.40,11.00,8,2,Over,Miss
+Portland vs. Brooklyn,Day'Ron Sharpe,Points,6.5,9.59,9.80,11.00,8,2,Over,Hit
+Portland vs. Brooklyn,Duop Reath,SB,1.5,0.80,0.90,1.00,3,7,Under,Miss
+New Orleans vs. Sacramento,De'Aaron Fox,Three Points Made,2.5,3.47,3.50,3.00,6,4,Over,Miss
+Atlanta vs. Orlando,Onyeka Okongwu,PR,13.5,18.36,17.80,17.00,8,2,Over,Miss
+Portland vs. Brooklyn,Day'Ron Sharpe,PR,12.5,16.97,17.50,20.00,8,2,Over,Hit
+New Orleans vs. Sacramento,De'Aaron Fox,Steals,1.5,2.02,2.10,2.00,7,3,Over,Miss
+Portland vs. Brooklyn,Duop Reath,RA,8.0,5.33,5.40,5.50,2,8,Under,Miss
+Detroit vs. Denver,Jamal Murray,Rebounds,3.5,4.64,4.90,4.50,6,4,Over,Hit
+Portland vs. Brooklyn,Malcolm Brogdon,Assists,4.0,5.27,5.40,5.00,6,4,Over,Miss
+Portland vs. Brooklyn,Toumani Camara,Rebounds,7.0,4.80,5.30,4.00,2,8,Under,Hit
+Portland vs. Brooklyn,Anfernee Simons,Three Points Made,3.5,2.40,3.20,2.00,4,6,Under,Miss
+Portland vs. Brooklyn,Duop Reath,Rebounds,6.5,4.49,4.50,5.00,2,8,Under,Miss
+Atlanta vs. Orlando,Trae Young,SB,1.5,1.96,1.80,2.00,6,4,Over,Hit
+Minnesota vs. Dallas,Luka Doncic,Blocks,0.5,0.65,0.70,0.00,4,6,Under,Hit
+Portland vs. Brooklyn,Spencer Dinwiddie,Turnovers,1.5,1.07,1.10,1.00,2,8,Under,Hit
+Portland vs. Brooklyn,Jerami Grant,Blocks,0.5,0.36,0.50,0.00,4,6,Under,Miss
+Portland vs. Brooklyn,Malcolm Brogdon,PA,15.5,19.69,19.40,16.50,5,5,Over,Hit
+Atlanta vs. Orlando,Dejounte Murray,Steals,1.5,1.10,1.00,1.00,3,7,Under,Hit
+Portland vs. Brooklyn,Duop Reath,PAR,20.5,15.16,15.60,17.00,2,8,Under,Miss
+Portland vs. Brooklyn,Malcolm Brogdon,Points,11.5,14.40,14.00,12.00,5,5,Over,Hit
+New Orleans vs. Sacramento,Harrison Barnes,Three Points Made,1.5,1.86,2.00,2.00,6,4,Over,Hit
+Portland vs. Brooklyn,Cameron Johnson,Rebounds,5.0,3.83,4.00,4.00,3,7,Under,Miss
+Portland vs. Brooklyn,Mikal Bridges,SB,1.5,1.15,1.10,1.00,4,6,Under,Hit
+Portland vs. Brooklyn,Duop Reath,PR,18.5,14.35,14.70,15.50,3,7,Under,Miss
+Portland vs. Brooklyn,Dorian Finney-Smith,Turnovers,0.5,0.39,0.40,0.00,3,7,Under,Miss
+Atlanta vs. Orlando,Bogdan Bogdanovic,PA,18.5,22.57,22.40,24.00,8,2,Over,Hit
+Detroit vs. Denver,Kentavious Caldwell-Pope,Assists,2.5,3.05,3.10,3.00,6,4,Over,Miss
+Detroit vs. Denver,Aaron Gordon,SB,1.5,1.18,1.20,1.00,4,6,Under,Hit
+Detroit vs. Denver,Nikola Jokic,Turnovers,2.5,3.03,2.90,3.00,6,4,Over,Miss
+Portland vs. Brooklyn,Scoot Henderson,Rebounds,4.5,3.56,3.20,3.00,2,8,Under,Hit
+Minnesota vs. Dallas,Rudy Gobert,Turnovers,1.5,1.20,1.40,1.00,3,7,Under,Miss
+Detroit vs. Denver,Nikola Jokic,Steals,1.5,1.20,1.30,1.00,4,6,Under,Hit
+New Orleans vs. Sacramento,Keegan Murray,SB,1.5,1.20,1.60,1.00,3,7,Under,Hit
+Minnesota vs. Dallas,Karl-Anthony Towns,Three Points Made,1.5,1.20,1.30,1.00,4,6,Under,Miss
+Minnesota vs. Dallas,Rudy Gobert,SB,2.5,2.00,2.30,2.50,5,5,Under,Hit
+Detroit vs. Denver,Bojan Bogdanovic,Assists,2.5,3.00,3.00,2.50,5,5,Over,Miss
+New Orleans vs. Sacramento,Harrison Barnes,Steals,0.5,0.60,0.70,0.50,5,5,Under,Miss
+Detroit vs. Denver,Kentavious Caldwell-Pope,Blocks,0.5,0.60,0.90,0.50,5,5,Under,Miss
+Minnesota vs. Dallas,Rudy Gobert,Steals,0.5,0.60,0.90,0.50,5,5,Under,Miss
+Portland vs. Brooklyn,Malcolm Brogdon,Steals,0.5,0.60,0.70,0.50,5,5,Under,Hit
+Portland vs. Brooklyn,Duop Reath,Steals,0.5,0.60,0.60,0.50,5,5,Under,Miss
+Atlanta vs. Orlando,Onyeka Okongwu,Turnovers,0.5,0.60,0.80,0.50,5,5,Under,Hit
+Portland vs. Brooklyn,Malcolm Brogdon,PAR,19.5,23.35,22.60,19.50,5,5,Over,Hit
+New Orleans vs. Sacramento,Domantas Sabonis,Assists,8.0,9.55,9.30,10.50,6,4,Over,Miss
+Atlanta vs. Orlando,Bogdan Bogdanovic,PAR,21.5,25.61,25.30,27.00,8,2,Over,Hit
+Portland vs. Brooklyn,Cameron Johnson,RA,7.5,6.07,6.00,6.00,2,8,Under,Miss
+Portland vs. Brooklyn,Spencer Dinwiddie,PR,18.5,15.00,15.50,15.00,3,7,Under,Hit
+Detroit vs. Denver,Cade Cunningham,Fantasy Points - PrizePicks,40.0,47.42,48.13,53.35,7,3,Over,Miss
+Detroit vs. Denver,Cade Cunningham,Points,24.0,28.45,28.70,30.00,8,2,Over,Miss
+Atlanta vs. Orlando,Clint Capela,Steals,0.5,0.59,0.50,0.00,4,6,Under,Miss
+Portland vs. Brooklyn,Royce O'Neale,Rebounds,3.5,4.15,4.30,4.00,6,4,Over,Miss
+Detroit vs. Denver,Cade Cunningham,PR,27.5,32.49,33.10,34.50,7,3,Over,Miss
+Portland vs. Brooklyn,Mikal Bridges,PA,24.5,20.11,20.60,20.00,2,8,Under,Miss
+New Orleans vs. Sacramento,Brandon Ingram,Rebounds,5.0,4.12,4.10,4.00,2,8,Under,Miss
+Portland vs. Brooklyn,Mikal Bridges,Points,20.5,16.91,17.10,16.00,3,7,Under,Miss
+Portland vs. Brooklyn,Spencer Dinwiddie,Points,14.5,12.01,12.00,12.00,3,7,Under,Hit
+Portland vs. Brooklyn,Mikal Bridges,PR,26.5,22.17,21.90,22.00,2,8,Under,Miss
+Portland vs. Brooklyn,Mikal Bridges,PAR,29.5,24.69,25.40,24.00,2,8,Under,Miss
+Portland vs. Brooklyn,Malcolm Brogdon,PR,15.5,18.00,17.20,15.00,5,5,Over,Hit
+Atlanta vs. Orlando,Clint Capela,Fantasy Points - PrizePicks,30.0,34.83,34.62,37.85,7,3,Over,Hit
+Atlanta vs. Orlando,Saddiq Bey,Rebounds,6.0,6.95,7.30,7.50,6,4,Over,Hit
+Detroit vs. Denver,Cade Cunningham,PAR,35.0,40.53,41.20,44.50,7,3,Over,Miss
+Portland vs. Brooklyn,Cam Thomas,PR,18.5,15.60,15.70,19.50,5,5,Under,Hit
+Atlanta vs. Orlando,Clint Capela,Rebounds,10.0,11.56,11.60,12.00,6,4,Over,Hit
+Detroit vs. Denver,Kentavious Caldwell-Pope,Points,9.5,8.03,8.00,8.00,3,7,Under,Miss
+Minnesota vs. Dallas,Luka Doncic,Three Points Made,3.5,4.04,4.20,4.00,6,4,Over,Hit
+Atlanta vs. Orlando,Paolo Banchero,Assists,5.5,6.33,6.10,5.50,5,5,Over,Miss
+Portland vs. Brooklyn,Spencer Dinwiddie,Assists,6.5,5.52,5.40,5.00,2,8,Under,Hit
+Portland vs. Brooklyn,Jerami Grant,PA,20.5,23.58,23.70,22.50,6,4,Over,Hit
+Portland vs. Brooklyn,Duop Reath,PA,12.5,10.63,11.10,11.50,4,6,Under,Miss
+Portland vs. Brooklyn,Spencer Dinwiddie,PA,20.5,17.44,17.40,17.00,4,6,Under,Hit
+Minnesota vs. Dallas,Karl-Anthony Towns,Rebounds,9.5,8.08,8.20,8.00,2,8,Under,Hit
+Detroit vs. Denver,Kentavious Caldwell-Pope,PR,12.5,10.67,10.80,10.00,2,8,Under,Miss
+Portland vs. Brooklyn,Duop Reath,Points,11.5,9.83,10.20,10.00,3,7,Under,Miss
+Atlanta vs. Orlando,Clint Capela,Points,11.5,13.16,13.50,12.50,7,3,Over,Miss
+Minnesota vs. Dallas,Jaden McDaniels,Points,11.5,13.15,12.60,11.50,5,5,Over,Miss
+Detroit vs. Denver,Cade Cunningham,Rebounds,3.5,4.00,4.40,5.00,6,4,Over,Miss
+Portland vs. Brooklyn,Malcolm Brogdon,Rebounds,3.5,3.00,3.20,2.50,4,6,Under,Hit
+Detroit vs. Denver,Cade Cunningham,PA,32.0,36.56,36.80,39.00,7,3,Over,Miss
+Detroit vs. Denver,Nikola Jokic,Assists,9.0,7.72,7.80,7.50,2,8,Under,Miss
+Detroit vs. Denver,Aaron Gordon,RA,10.0,8.60,8.20,8.50,4,6,Under,Hit
+Portland vs. Brooklyn,Spencer Dinwiddie,PAR,24.5,21.08,20.90,20.50,4,6,Under,Hit
+Atlanta vs. Orlando,Onyeka Okongwu,Steals,0.5,0.57,0.60,0.50,5,5,Under,Hit
+Atlanta vs. Orlando,Clint Capela,PR,21.5,24.47,25.10,25.00,7,3,Over,Miss
+New Orleans vs. Sacramento,Brandon Ingram,RA,11.5,9.91,9.80,10.00,3,7,Under,Miss
+Atlanta vs. Orlando,Clint Capela,PA,12.5,14.22,14.70,14.50,7,3,Over,Miss
+Portland vs. Brooklyn,Spencer Dinwiddie,Fantasy Points - PrizePicks,30.0,25.90,26.20,26.55,4,6,Under,Hit
+Minnesota vs. Dallas,Luka Doncic,Points,33.5,38.06,37.20,39.00,8,2,Over,Hit
+Atlanta vs. Orlando,Jalen Suggs,PAR,24.5,21.17,21.30,20.50,3,7,Under,Hit
+Atlanta vs. Orlando,Saddiq Bey,RA,7.5,8.52,8.60,8.50,7,3,Over,Hit
+Atlanta vs. Orlando,Clint Capela,PAR,22.5,25.52,26.30,26.50,7,3,Over,Miss
+Minnesota vs. Dallas,Jaden McDaniels,PA,12.5,14.17,13.70,12.50,5,5,Over,Miss
+Atlanta vs. Orlando,Bogdan Bogdanovic,Points,16.5,18.69,18.60,20.00,6,4,Over,Hit
+Minnesota vs. Dallas,Luka Doncic,PA,42.5,48.08,47.30,47.50,8,2,Over,Miss
+New Orleans vs. Sacramento,De'Aaron Fox,Rebounds,4.0,4.52,4.60,4.50,5,5,Under,Hit
+Minnesota vs. Dallas,Jaden McDaniels,Rebounds,2.5,2.18,2.20,2.00,5,5,Under,Miss
+Portland vs. Brooklyn,Toumani Camara,PR,14.5,12.67,12.50,12.50,3,7,Under,Hit
+Minnesota vs. Dallas,Rudy Gobert,Points,13.5,11.82,12.40,11.50,3,7,Under,Hit
+Detroit vs. Denver,Nikola Jokic,RA,21.5,18.85,18.50,18.50,2,8,Under,Miss
+Atlanta vs. Orlando,Dejounte Murray,PR,24.5,27.51,27.70,26.00,5,5,Over,Hit
+Atlanta vs. Orlando,Jalen Suggs,PR,21.5,18.86,19.00,20.00,5,5,Under,Hit
+Minnesota vs. Dallas,Karl-Anthony Towns,RA,12.5,10.98,11.10,10.50,3,7,Under,Hit
+Minnesota vs. Dallas,Luka Doncic,Assists,9.0,10.09,10.10,10.00,7,3,Over,Miss
+Atlanta vs. Orlando,Trae Young,Fantasy Points - PrizePicks,45.0,50.41,50.23,52.95,8,2,Over,Hit
+Atlanta vs. Orlando,Trae Young,Assists,10.5,11.73,11.70,13.00,7,3,Over,Miss
+Portland vs. Brooklyn,Malcolm Brogdon,RA,8.0,8.93,8.60,7.50,3,7,Over,Miss
+Portland vs. Brooklyn,Mikal Bridges,Fantasy Points - PrizePicks,34.0,30.05,29.31,28.65,2,8,Under,Miss
+Detroit vs. Denver,Jamal Murray,Fantasy Points - PrizePicks,39.5,44.08,43.33,42.45,8,2,Over,Hit
+Atlanta vs. Orlando,Dejounte Murray,Points,20.5,22.84,23.10,21.50,7,3,Over,Hit
+Atlanta vs. Orlando,Bogdan Bogdanovic,PR,19.5,21.72,21.50,23.00,8,2,Over,Hit
+Detroit vs. Denver,Kentavious Caldwell-Pope,PA,12.5,11.09,11.10,10.50,3,7,Under,Miss
+Minnesota vs. Dallas,Karl-Anthony Towns,Steals,0.5,0.45,0.50,0.00,3,7,Under,Hit
+Minnesota vs. Dallas,Jaden McDaniels,Fantasy Points - PrizePicks,21.0,23.29,23.29,22.30,7,3,Over,Miss
+Minnesota vs. Dallas,Rudy Gobert,PA,14.5,12.93,13.50,12.00,3,7,Under,Hit
+Atlanta vs. Orlando,Jalen Suggs,PA,20.5,18.28,18.30,17.00,4,6,Under,Hit
+Detroit vs. Denver,Jamal Murray,RA,10.5,11.63,11.60,11.50,6,4,Over,Miss
+Portland vs. Brooklyn,Cam Thomas,PAR,19.5,17.40,17.70,20.00,5,5,Under,Hit
+Atlanta vs. Orlando,Dejounte Murray,RA,9.5,8.48,8.80,9.00,3,7,Under,Hit
+Detroit vs. Denver,Nikola Jokic,PAR,48.0,42.85,42.00,44.50,4,6,Under,Hit
+Atlanta vs. Orlando,Dejounte Murray,PA,24.5,27.11,27.30,27.50,7,3,Over,Hit
+Atlanta vs. Orlando,Onyeka Okongwu,Rebounds,6.0,6.63,6.40,6.50,5,5,Under,Miss
+Minnesota vs. Dallas,Rudy Gobert,PAR,27.5,24.63,25.10,26.00,3,7,Under,Hit
+Atlanta vs. Orlando,Paolo Banchero,SB,1.5,1.66,1.60,1.50,5,5,Under,Miss
+Detroit vs. Denver,Nikola Jokic,Fantasy Points - PrizePicks,59.5,53.33,52.04,52.30,4,6,Under,Hit
+Atlanta vs. Orlando,Jalen Suggs,Turnovers,2.5,2.24,2.30,2.00,4,6,Under,Hit
+Minnesota vs. Dallas,Karl-Anthony Towns,Fantasy Points - PrizePicks,37.5,33.66,34.49,34.90,4,6,Under,Hit
+Portland vs. Brooklyn,Toumani Camara,SB,1.5,1.65,1.70,1.50,5,5,Under,Hit
+Detroit vs. Denver,Jalen Duren,Points,12.0,13.22,13.70,14.00,6,4,Over,Hit
+Minnesota vs. Dallas,Luka Doncic,PAR,51.5,56.64,55.60,57.00,8,2,Over,Miss
+Minnesota vs. Dallas,Luka Doncic,PR,42.5,46.65,45.50,47.00,8,2,Over,Miss
+Detroit vs. Denver,Aaron Gordon,Points,15.5,17.00,16.60,16.00,6,4,Over,Miss
+New Orleans vs. Sacramento,Brandon Ingram,PAR,35.5,32.18,31.30,31.50,3,7,Under,Hit
+Atlanta vs. Orlando,Trae Young,RA,13.5,14.75,15.10,15.50,8,2,Over,Miss
+New Orleans vs. Sacramento,Malik Monk,PR,18.5,16.80,17.70,14.00,4,6,Under,Hit
+Minnesota vs. Dallas,Mike Conley,PR,13.5,12.31,13.20,12.50,4,6,Under,Hit
+Portland vs. Brooklyn,Scoot Henderson,RA,10.5,9.58,9.20,9.00,4,6,Under,Hit
+Detroit vs. Denver,Nikola Jokic,PA,35.5,32.41,31.30,35.00,5,5,Under,Hit
+Portland vs. Brooklyn,Mikal Bridges,RA,8.5,7.76,8.30,7.00,4,6,Under,Hit
+Detroit vs. Denver,Nikola Jokic,Points,26.5,24.21,23.50,26.00,4,6,Under,Hit
+Atlanta vs. Orlando,Jalen Suggs,Points,17.5,15.99,16.00,16.00,5,5,Under,Hit
+New Orleans vs. Sacramento,Keegan Murray,PR,22.5,20.60,21.60,20.00,5,5,Under,Hit
+New Orleans vs. Sacramento,De'Aaron Fox,Assists,6.0,5.50,5.50,6.00,3,7,Under,Hit
+New Orleans vs. Sacramento,Malik Monk,Assists,5.5,5.96,6.10,5.50,5,5,Over,Miss
+New Orleans vs. Sacramento,Domantas Sabonis,Points,21.5,23.28,22.70,23.50,7,3,Over,Miss
+Portland vs. Brooklyn,Jerami Grant,Points,18.5,19.99,20.10,19.00,5,5,Over,Hit
+New Orleans vs. Sacramento,Keegan Murray,PAR,23.5,21.62,22.90,21.00,5,5,Under,Hit
+New Orleans vs. Sacramento,Malik Monk,RA,9.0,8.29,8.60,8.00,4,6,Under,Hit
+Portland vs. Brooklyn,Anfernee Simons,Points,23.0,24.79,24.30,24.50,6,4,Over,Hit
+Detroit vs. Denver,Aaron Gordon,Rebounds,6.5,6.00,5.70,5.00,4,6,Under,Hit
+New Orleans vs. Sacramento,Brandon Ingram,PA,30.5,28.17,27.20,28.00,4,6,Under,Hit
+Minnesota vs. Dallas,Rudy Gobert,Fantasy Points - PrizePicks,35.5,32.80,33.47,36.75,5,5,Under,Hit
+Minnesota vs. Dallas,Anthony Edwards,Fantasy Points - PrizePicks,45.0,48.41,48.52,46.20,6,4,Over,Hit
+New Orleans vs. Sacramento,Domantas Sabonis,RA,21.5,23.13,23.70,23.00,6,4,Over,Miss
+Detroit vs. Denver,Nikola Jokic,PR,38.5,35.61,34.20,36.50,5,5,Under,Hit
+New Orleans vs. Sacramento,Domantas Sabonis,Fantasy Points - PrizePicks,49.0,52.66,52.53,53.20,6,4,Over,Miss
+Atlanta vs. Orlando,Dejounte Murray,Rebounds,4.5,4.16,4.60,5.00,5,5,Under,Miss
+Atlanta vs. Orlando,Trae Young,PA,36.5,39.16,39.50,43.00,6,4,Over,Hit
+Detroit vs. Denver,Cade Cunningham,Assists,7.5,8.04,8.10,8.00,5,5,Over,Miss
+New Orleans vs. Sacramento,Keegan Murray,Points,16.5,15.32,15.90,15.50,5,5,Under,Hit
+Atlanta vs. Orlando,Jalen Johnson,PR,25.5,23.68,23.90,23.50,4,6,Under,Hit
+Portland vs. Brooklyn,Cam Thomas,Points,15.5,14.40,14.60,18.00,6,4,Under,Hit
+New Orleans vs. Sacramento,Brandon Ingram,PR,28.5,26.49,25.60,26.50,5,5,Under,Hit
+New Orleans vs. Sacramento,Domantas Sabonis,PAR,43.5,46.57,46.40,48.00,7,3,Over,Miss
+Atlanta vs. Orlando,Saddiq Bey,PA,14.5,13.48,13.60,12.50,4,6,Under,Miss
+Minnesota vs. Dallas,Karl-Anthony Towns,PR,32.0,29.75,29.20,27.50,3,7,Under,Hit
+New Orleans vs. Sacramento,Harrison Barnes,PR,14.0,13.02,14.10,14.50,5,5,Under,Hit
+Minnesota vs. Dallas,Anthony Edwards,Assists,5.0,5.34,5.00,5.00,2,8,Under,Hit
+Detroit vs. Denver,Nikola Jokic,Rebounds,12.0,11.18,10.70,10.50,3,7,Under,Hit
+Portland vs. Brooklyn,Cameron Johnson,PAR,23.0,21.44,21.60,22.50,4,6,Under,Miss
+Atlanta vs. Orlando,Dejounte Murray,PAR,29.5,31.50,31.90,31.50,6,4,Over,Hit
+Minnesota vs. Dallas,Karl-Anthony Towns,PAR,34.5,32.18,32.10,30.50,4,6,Under,Hit
+New Orleans vs. Sacramento,Malik Monk,PAR,24.5,22.86,23.80,21.00,5,5,Under,Hit
+New Orleans vs. Sacramento,Keegan Murray,PA,17.5,16.34,17.20,16.00,5,5,Under,Hit
+Detroit vs. Denver,Jamal Murray,PR,25.5,27.15,27.30,27.00,8,2,Over,Hit
+Portland vs. Brooklyn,Cam Thomas,PA,17.5,16.38,16.60,18.50,7,3,Under,Hit
+Portland vs. Brooklyn,Anfernee Simons,PA,27.5,29.26,29.20,30.50,6,4,Over,Hit
+Minnesota vs. Dallas,Rudy Gobert,Rebounds,12.5,11.70,11.60,12.50,5,5,Under,Miss
+Atlanta vs. Orlando,Jalen Johnson,Rebounds,8.5,7.96,8.10,7.50,4,6,Under,Miss
+Atlanta vs. Orlando,Dejounte Murray,Assists,4.5,4.22,4.20,4.00,4,6,Under,Hit
+Atlanta vs. Orlando,Dejounte Murray,Fantasy Points - PrizePicks,35.0,37.18,37.12,35.70,6,4,Over,Miss
+New Orleans vs. Sacramento,Domantas Sabonis,PA,30.5,32.35,32.00,33.00,6,4,Over,Miss
+Detroit vs. Denver,Jalen Duren,PR,23.5,24.93,26.00,27.00,8,2,Over,Hit
+New Orleans vs. Sacramento,Harrison Barnes,Fantasy Points - PrizePicks,18.0,16.92,18.01,18.40,5,5,Under,Hit
+New Orleans vs. Sacramento,Harrison Barnes,PA,12.5,11.75,12.70,13.00,6,4,Under,Hit
+Minnesota vs. Dallas,Rudy Gobert,RA,13.5,12.69,12.70,13.00,4,6,Under,Miss
+Minnesota vs. Dallas,Mike Conley,Assists,6.0,6.36,6.30,6.00,4,6,Under,Miss
+New Orleans vs. Sacramento,Malik Monk,Points,15.5,14.60,15.20,12.50,3,7,Under,Hit
+Portland vs. Brooklyn,Cameron Johnson,PR,20.5,19.35,19.60,20.50,5,5,Under,Miss
+Minnesota vs. Dallas,Jaden McDaniels,PR,14.5,15.31,14.80,13.50,5,5,Over,Miss
+Portland vs. Brooklyn,Jerami Grant,Steals,0.5,0.47,0.60,0.00,4,6,Under,Miss
+Minnesota vs. Dallas,Luka Doncic,Rebounds,9.0,8.51,8.30,7.50,3,7,Under,Hit
+Atlanta vs. Orlando,Trae Young,PAR,40.5,42.64,42.90,47.00,6,4,Over,Hit
+Atlanta vs. Orlando,Paolo Banchero,PR,37.5,35.57,34.80,38.00,5,5,Under,Miss
+Atlanta vs. Orlando,Jalen Johnson,RA,11.5,10.91,11.10,11.50,5,5,Under,Miss
+Detroit vs. Denver,Cade Cunningham,RA,11.5,12.08,12.50,13.00,6,4,Over,Miss
+Portland vs. Brooklyn,Anfernee Simons,RA,8.0,8.40,8.50,8.50,5,5,Under,Miss
+Portland vs. Brooklyn,Anfernee Simons,PAR,31.5,33.09,32.80,33.50,6,4,Over,Hit
+Portland vs. Brooklyn,Scoot Henderson,PAR,25.5,24.23,23.60,22.50,5,5,Under,Hit
+New Orleans vs. Sacramento,De'Aaron Fox,PA,34.5,32.78,33.10,32.50,4,6,Under,Hit
+Minnesota vs. Dallas,Karl-Anthony Towns,PA,25.5,24.27,23.90,24.50,3,7,Under,Hit
+Atlanta vs. Orlando,Paolo Banchero,Points,29.5,28.08,26.90,27.50,3,7,Under,Miss
+Portland vs. Brooklyn,Dorian Finney-Smith,Points,8.0,8.39,8.40,9.00,6,4,Under,Miss
+Minnesota vs. Dallas,Karl-Anthony Towns,Points,22.5,21.42,21.00,21.50,3,7,Under,Miss
+Portland vs. Brooklyn,Dorian Finney-Smith,Fantasy Points - PrizePicks,17.5,18.32,18.32,18.10,5,5,Over,Hit
+Portland vs. Brooklyn,Mikal Bridges,Rebounds,5.0,4.77,4.80,4.50,3,7,Under,Hit
+Detroit vs. Denver,Bojan Bogdanovic,Fantasy Points - PrizePicks,27.5,28.78,29.38,27.70,5,5,Over,Miss
+Detroit vs. Denver,Bojan Bogdanovic,PAR,25.5,26.68,27.60,28.50,7,3,Over,Miss
+Minnesota vs. Dallas,Rudy Gobert,PR,25.5,24.32,24.00,25.00,4,6,Under,Miss
+Detroit vs. Denver,Jamal Murray,PAR,32.5,34.00,34.00,35.00,7,3,Over,Hit
+Detroit vs. Denver,Jalen Duren,Rebounds,11.0,11.50,12.30,12.00,6,4,Over,Miss
+New Orleans vs. Sacramento,Domantas Sabonis,PR,35.5,37.12,37.10,39.00,6,4,Over,Miss
+Portland vs. Brooklyn,Toumani Camara,Points,7.5,7.16,7.20,7.00,5,5,Under,Hit
+Detroit vs. Denver,Jalen Duren,PAR,25.5,26.64,27.70,28.50,8,2,Over,Hit
+New Orleans vs. Sacramento,Malik Monk,PA,21.5,20.56,21.30,19.50,5,5,Under,Hit
+Minnesota vs. Dallas,Mike Conley,PAR,19.5,18.65,19.50,18.50,4,6,Under,Hit
+Detroit vs. Denver,Bojan Bogdanovic,PR,22.5,23.48,24.60,26.00,7,3,Over,Miss
+New Orleans vs. Sacramento,Brandon Ingram,Points,23.5,22.48,21.50,21.50,5,5,Under,Hit
+Atlanta vs. Orlando,Jalen Johnson,Points,16.5,15.80,15.80,16.50,5,5,Under,Hit
+Portland vs. Brooklyn,Jerami Grant,PR,23.5,22.53,23.40,20.50,3,7,Under,Miss
+Atlanta vs. Orlando,Paolo Banchero,PAR,43.5,41.70,40.90,43.50,5,5,Under,Miss
+Atlanta vs. Orlando,Trae Young,Points,26.5,27.59,27.80,30.00,6,4,Over,Hit
+Detroit vs. Denver,Jamal Murray,Points,21.5,22.38,22.40,22.50,6,4,Over,Hit
+Portland vs. Brooklyn,Anfernee Simons,PR,27.5,28.62,27.90,27.00,4,6,Over,Hit
+Detroit vs. Denver,Nikola Jokic,SB,2.5,2.40,2.30,2.00,3,7,Under,Miss
+Detroit vs. Denver,Bojan Bogdanovic,Three Points Made,2.5,2.40,3.00,2.00,4,6,Under,Hit
+New Orleans vs. Sacramento,Keegan Murray,Rebounds,5.5,5.28,5.70,5.00,3,7,Under,Hit
+New Orleans vs. Sacramento,De'Aaron Fox,Points,28.5,27.42,27.60,28.00,5,5,Under,Hit
+Atlanta vs. Orlando,Jalen Johnson,PA,19.5,18.78,18.80,19.00,5,5,Under,Hit
+Minnesota vs. Dallas,Anthony Edwards,Points,30.5,31.60,31.40,31.50,6,4,Over,Hit
+Minnesota vs. Dallas,Anthony Edwards,PA,35.5,36.73,36.40,35.50,5,5,Over,Hit
+Detroit vs. Denver,Aaron Gordon,Fantasy Points - PrizePicks,31.5,30.42,29.89,29.05,4,6,Under,Hit
+Minnesota vs. Dallas,Anthony Edwards,RA,11.0,10.63,10.10,10.50,5,5,Under,Miss
+New Orleans vs. Sacramento,De'Aaron Fox,PAR,39.0,37.74,37.70,36.50,4,6,Under,Hit
+New Orleans vs. Sacramento,Brandon Ingram,Fantasy Points - PrizePicks,40.0,41.29,40.27,38.95,5,5,Over,Miss
+New Orleans vs. Sacramento,Harrison Barnes,Points,10.5,10.84,11.80,11.50,6,4,Over,Miss
+Atlanta vs. Orlando,Trae Young,PR,29.5,30.45,31.20,33.50,6,4,Over,Hit
+New Orleans vs. Sacramento,Keegan Murray,Three Points Made,2.5,2.42,2.40,2.50,5,5,Under,Hit
+Detroit vs. Denver,Aaron Gordon,PR,22.5,23.15,22.30,23.50,6,4,Over,Miss
+Portland vs. Brooklyn,Spencer Dinwiddie,Rebounds,3.5,3.60,3.50,3.00,4,6,Under,Hit
+Atlanta vs. Orlando,Paolo Banchero,Turnovers,3.5,3.60,3.50,3.00,3,7,Under,Hit
+New Orleans vs. Sacramento,De'Aaron Fox,Fantasy Points - PrizePicks,45.5,46.79,47.17,45.90,5,5,Over,Miss
+Portland vs. Brooklyn,Scoot Henderson,Assists,6.0,5.83,6.00,5.50,4,6,Under,Hit
+Portland vs. Brooklyn,Jerami Grant,PAR,25.5,26.20,27.00,24.00,5,5,Over,Hit
+Detroit vs. Denver,Jamal Murray,PA,28.5,29.21,29.10,30.00,6,4,Over,Hit
+Atlanta vs. Orlando,Saddiq Bey,Points,12.5,12.21,12.30,12.00,5,5,Under,Miss
+Atlanta vs. Orlando,Saddiq Bey,Fantasy Points - PrizePicks,24.5,25.06,25.61,25.90,7,3,Over,Hit
+Detroit vs. Denver,Jalen Duren,RA,13.5,13.19,14.00,14.00,6,4,Under,Hit
+Atlanta vs. Orlando,Jalen Johnson,PAR,28.0,27.36,26.90,26.50,5,5,Under,Hit
+New Orleans vs. Sacramento,Brandon Ingram,Assists,6.0,5.86,5.70,5.50,3,7,Under,Miss
+Detroit vs. Denver,Bojan Bogdanovic,PA,21.5,21.94,22.70,23.00,7,3,Over,Miss
+Minnesota vs. Dallas,Mike Conley,Fantasy Points - PrizePicks,24.5,24.99,25.87,23.45,4,6,Over,Miss
+Portland vs. Brooklyn,Scoot Henderson,Points,14.5,14.78,14.40,15.50,5,5,Over,Miss
+Atlanta vs. Orlando,Paolo Banchero,RA,14.5,14.77,14.00,13.50,4,6,Over,Miss
+Atlanta vs. Orlando,Paolo Banchero,PA,34.5,33.85,33.00,33.00,4,6,Under,Miss
+New Orleans vs. Sacramento,Malik Monk,Three Points Made,2.5,2.55,2.60,2.50,5,5,Under,Hit
+Portland vs. Brooklyn,Cameron Johnson,Fantasy Points - PrizePicks,26.0,25.52,25.50,27.30,6,4,Under,Miss
+Atlanta vs. Orlando,Jalen Johnson,Fantasy Points - PrizePicks,35.0,35.64,34.92,34.05,5,5,Over,Miss
+New Orleans vs. Sacramento,De'Aaron Fox,PR,32.5,31.91,32.20,31.50,4,6,Under,Hit
+Minnesota vs. Dallas,Anthony Edwards,Rebounds,5.5,5.40,5.10,4.50,4,6,Under,Miss
+Portland vs. Brooklyn,Jerami Grant,Fantasy Points - PrizePicks,29.5,29.04,30.36,31.30,5,5,Under,Miss
+Minnesota vs. Dallas,Luka Doncic,Turnovers,4.5,4.57,4.30,4.00,3,7,Under,Hit
+Portland vs. Brooklyn,Dorian Finney-Smith,PR,12.5,12.32,12.50,12.50,5,5,Under,Miss
+Minnesota vs. Dallas,Mike Conley,Points,10.5,10.35,11.10,11.00,5,5,Under,Hit
+Minnesota vs. Dallas,Anthony Edwards,PAR,41.5,42.10,41.50,40.00,4,6,Over,Hit
+New Orleans vs. Sacramento,Keegan Murray,Fantasy Points - PrizePicks,28.0,27.61,28.69,29.50,6,4,Under,Hit
+Minnesota vs. Dallas,Anthony Edwards,PR,36.5,37.00,36.50,36.50,5,5,Over,Hit
+Detroit vs. Denver,Jalen Duren,Fantasy Points - PrizePicks,32.0,31.58,32.61,34.65,6,4,Under,Hit
+Minnesota vs. Dallas,Mike Conley,PA,16.5,16.72,17.40,17.00,5,5,Over,Miss
+Portland vs. Brooklyn,Scoot Henderson,PR,18.5,18.27,17.60,16.50,4,6,Under,Hit
+Atlanta vs. Orlando,Saddiq Bey,PAR,20.5,20.74,20.90,21.50,6,4,Over,Hit
+Minnesota vs. Dallas,Luka Doncic,RA,18.5,18.68,18.40,19.00,7,3,Over,Miss
+Atlanta vs. Orlando,Saddiq Bey,PR,19.5,19.32,19.60,20.50,6,4,Under,Miss
+Detroit vs. Denver,Bojan Bogdanovic,Points,18.5,18.66,19.70,19.00,6,4,Over,Miss
+Portland vs. Brooklyn,Scoot Henderson,PA,20.5,20.67,20.40,19.50,5,5,Over,Miss
+Detroit vs. Denver,Jamal Murray,Assists,7.0,7.05,6.70,6.50,4,6,Under,Hit
+New Orleans vs. Sacramento,Domantas Sabonis,Rebounds,13.5,13.59,14.40,12.50,4,6,Over,Miss
+Portland vs. Brooklyn,Cameron Johnson,Points,15.5,15.41,15.60,16.50,6,4,Under,Miss
+Detroit vs. Denver,Aaron Gordon,PA,19.5,19.39,19.10,19.00,4,6,Under,Hit
+Detroit vs. Denver,Jalen Duren,PA,14.5,14.58,15.40,16.50,7,3,Over,Hit
+Detroit vs. Denver,Aaron Gordon,PAR,25.5,25.37,24.80,26.00,5,5,Under,Hit
+Detroit vs. Denver,Kentavious Caldwell-Pope,Fantasy Points - PrizePicks,21.0,21.09,21.71,20.95,5,5,Over,Hit
+Minnesota vs. Dallas,Mike Conley,RA,8.5,8.47,8.40,7.50,4,6,Under,Hit
+Detroit vs. Denver,Jamal Murray,Three Points Made,2.5,2.49,2.60,2.50,5,5,Under,Miss
+New Orleans vs. Sacramento,De'Aaron Fox,RA,10.0,10.03,10.10,11.00,6,4,Over,Miss
+Atlanta vs. Orlando,Paolo Banchero,Rebounds,8.5,8.52,7.90,8.50,5,5,Under,Miss
+Portland vs. Brooklyn,Cameron Johnson,PA,17.5,17.51,17.60,19.00,7,3,Over,Hit

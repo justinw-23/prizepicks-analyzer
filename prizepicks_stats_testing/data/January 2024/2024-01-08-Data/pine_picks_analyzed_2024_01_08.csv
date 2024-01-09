@@ -1,0 +1,351 @@
+Game,Player Name,Prop,Line,Projection,Mean,Median,Over Count,Under Count,Robot Likes,Result
+Phoenix vs. LA Clippers,Grayson Allen,Blocks,0.5,0.94,0.90,1.00,7,3,Over,Miss
+Oklahoma City vs. Washington,Luguentz Dort,Blocks,0.5,0.84,1.00,1.00,7,3,Over,Hit
+Houston vs. Miami,Duncan Robinson,Steals,0.5,0.80,0.70,1.00,6,4,Over,Hit
+Phoenix vs. LA Clippers,Terance Mann,Turnovers,0.5,0.80,0.60,1.00,6,4,Over,Hit
+Oklahoma City vs. Washington,Tyus Jones,Three Points Made,1.5,2.40,2.40,2.00,7,3,Over,Hit
+Phoenix vs. LA Clippers,Grayson Allen,SB,1.5,2.20,2.10,2.00,7,3,Over,Miss
+Oklahoma City vs. Washington,Luguentz Dort,Three Points Made,1.5,2.20,2.30,2.00,7,3,Over,Miss
+Phoenix vs. LA Clippers,Terance Mann,Steals,0.5,0.73,0.70,0.00,4,6,Over,Miss
+Boston vs. Indiana,Myles Turner,Steals,0.5,0.28,0.30,0.00,3,7,Under,Hit
+Houston vs. Miami,Alperen Sengun,Blocks,0.5,0.31,0.40,0.00,4,6,Under,Hit
+Houston vs. Miami,Alperen Sengun,Turnovers,2.5,1.67,2.00,2.00,3,7,Under,Miss
+Houston vs. Miami,Josh Richardson,Three Points Made,1.5,1.98,1.90,2.00,6,4,Over,Hit
+Oklahoma City vs. Washington,Chet Holmgren,Rebounds,9.0,6.14,5.90,6.00,2,8,Under,Hit
+Houston vs. Miami,Fred VanVleet,Rebounds,3.5,2.40,2.50,2.00,3,7,Under,Miss
+Utah vs. Milwaukee,Brook Lopez,PA,17.5,12.13,12.10,12.50,1,9,Under,Hit
+Phoenix vs. LA Clippers,Ivica Zubac,SB,1.5,1.04,1.30,1.00,4,6,Under,Miss
+Boston vs. Indiana,Jalen Smith,Rebounds,6.5,4.54,4.80,4.50,4,6,Under,Miss
+Utah vs. Milwaukee,Brook Lopez,Points,15.5,11.17,11.10,11.50,2,8,Under,Hit
+Utah vs. Milwaukee,Giannis Antetokounmpo,Steals,1.5,1.09,1.10,1.00,3,7,Under,Hit
+Utah vs. Milwaukee,Brook Lopez,PAR,23.0,17.12,17.70,20.50,1,9,Under,Hit
+Boston vs. Indiana,Jalen Smith,RA,7.5,5.61,6.10,6.00,4,6,Under,Miss
+Phoenix vs. LA Clippers,Bradley Beal,Points,20.5,15.46,16.10,15.50,4,6,Under,Hit
+Phoenix vs. LA Clippers,Bradley Beal,PR,25.5,19.45,20.00,21.00,3,7,Under,Hit
+Boston vs. Indiana,Myles Turner,Blocks,1.5,1.85,2.00,2.00,7,3,Over,Miss
+Houston vs. Miami,Kevin Love,Points,10.5,12.94,12.80,11.00,5,5,Over,Hit
+Phoenix vs. LA Clippers,Bradley Beal,PA,25.5,19.58,20.20,19.50,2,8,Under,Hit
+Utah vs. Milwaukee,Brook Lopez,PR,21.5,16.57,16.70,19.00,1,9,Under,Hit
+Utah vs. Milwaukee,Khris Middleton,Rebounds,4.5,3.47,3.50,3.00,2,8,Under,Hit
+Phoenix vs. LA Clippers,Bradley Beal,PAR,30.5,23.57,24.10,24.50,1,9,Under,Hit
+Chicago vs. Charlotte,Coby White,Rebounds,5.0,6.13,6.10,5.50,5,5,Over,Hit
+Utah vs. Milwaukee,John Collins,Steals,0.5,0.39,0.40,0.00,3,7,Under,Miss
+Houston vs. Miami,Jalen Green,Three Points Made,2.5,3.05,2.90,3.00,6,4,Over,Miss
+Boston vs. Indiana,Myles Turner,Points,15.5,18.92,19.40,18.00,6,4,Over,Hit
+Phoenix vs. LA Clippers,Ivica Zubac,Rebounds,9.5,11.59,11.40,11.00,6,4,Over,Miss
+Phoenix vs. LA Clippers,Grayson Allen,Fantasy Points - PrizePicks,25.0,30.49,30.48,27.55,9,1,Over,Miss
+Phoenix vs. LA Clippers,Ivica Zubac,RA,11.0,13.41,13.10,11.50,5,5,Over,Miss
+Oklahoma City vs. Washington,Tyus Jones,Points,12.5,15.18,14.90,14.00,6,4,Over,Hit
+Utah vs. Milwaukee,Khris Middleton,RA,12.5,9.85,9.70,8.50,3,7,Under,Hit
+Chicago vs. Charlotte,DeMar DeRozan,Blocks,0.5,0.39,0.40,0.00,4,6,Under,Miss
+Phoenix vs. LA Clippers,Bradley Beal,Fantasy Points - PrizePicks,34.5,27.39,27.63,27.10,2,8,Under,Hit
+Utah vs. Milwaukee,Lauri Markkanen,RA,9.0,10.82,11.00,12.50,7,3,Over,Hit
+Chicago vs. Charlotte,Terry Rozier,SB,1.5,1.20,2.00,1.00,4,6,Under,Hit
+Oklahoma City vs. Washington,Luguentz Dort,SB,1.5,1.20,1.90,1.00,4,6,Under,Hit
+Utah vs. Milwaukee,Khris Middleton,SB,1.5,1.20,1.30,1.00,3,7,Under,Miss
+Chicago vs. Charlotte,Miles Bridges,SB,1.5,1.20,1.70,1.00,4,6,Under,Miss
+Oklahoma City vs. Washington,Daniel Gafford,SB,2.5,3.00,3.50,2.50,5,5,Over,Miss
+Boston vs. Indiana,Aaron Nesmith,Blocks,0.5,0.60,0.90,0.50,5,5,Under,Miss
+Houston vs. Miami,Kevin Love,SB,0.5,0.60,0.70,0.50,5,5,Under,Miss
+Boston vs. Indiana,Jrue Holiday,Blocks,0.5,0.60,0.70,0.50,5,5,Under,Hit
+Houston vs. Miami,Josh Richardson,Steals,0.5,0.60,0.60,0.50,5,5,Under,Hit
+Houston vs. Miami,Kevin Love,Three Points Made,1.5,1.80,2.10,1.50,5,5,Over,Miss
+Chicago vs. Charlotte,DeMar DeRozan,Assists,5.0,5.99,5.60,5.00,4,6,Over,Hit
+Oklahoma City vs. Washington,Jordan Poole,Rebounds,2.5,2.01,2.00,2.50,5,5,Under,Hit
+Chicago vs. Charlotte,Nick Richards,Rebounds,10.0,8.07,8.90,10.00,2,8,Under,Hit
+Oklahoma City vs. Washington,Chet Holmgren,RA,11.5,9.31,9.10,9.00,2,8,Under,Hit
+Phoenix vs. LA Clippers,Ivica Zubac,PR,20.5,24.28,24.80,24.50,7,3,Over,Hit
+Oklahoma City vs. Washington,Daniel Gafford,Fantasy Points - PrizePicks,26.5,31.39,30.21,27.20,5,5,Over,Miss
+Phoenix vs. LA Clippers,Bradley Beal,Assists,5.0,4.09,4.10,4.00,2,8,Under,Hit
+Phoenix vs. LA Clippers,Ivica Zubac,PA,12.5,14.78,15.10,16.00,6,4,Over,Hit
+Phoenix vs. LA Clippers,Grayson Allen,Points,13.5,15.94,16.50,14.00,5,5,Over,Miss
+Boston vs. Indiana,Jrue Holiday,Assists,5.5,4.52,4.40,4.00,4,6,Under,Miss
+Utah vs. Milwaukee,Kris Dunn,RA,8.0,9.40,9.30,8.50,5,5,Over,Hit
+Utah vs. Milwaukee,Khris Middleton,Assists,7.5,6.19,6.20,5.50,2,8,Under,Miss
+Houston vs. Miami,Bam Adebayo,Points,23.5,19.41,20.00,19.50,3,7,Under,Hit
+Utah vs. Milwaukee,Khris Middleton,PAR,32.0,26.50,27.40,28.50,1,9,Under,Miss
+Boston vs. Indiana,Jaylen Brown,Blocks,0.5,0.42,0.40,0.00,4,6,Under,Hit
+Oklahoma City vs. Washington,Jalen Williams,Fantasy Points - PrizePicks,30.5,35.67,35.33,32.90,8,2,Over,Hit
+Houston vs. Miami,Kevin Love,PR,17.5,20.45,20.20,20.00,8,2,Over,Hit
+Utah vs. Milwaukee,Khris Middleton,PR,24.5,20.42,21.20,22.00,4,6,Under,Miss
+Houston vs. Miami,Kevin Love,PA,13.5,15.75,15.70,13.50,5,5,Over,Hit
+Phoenix vs. LA Clippers,Ivica Zubac,PAR,22.5,26.17,26.50,25.50,6,4,Over,Hit
+Boston vs. Indiana,Jalen Smith,Fantasy Points - PrizePicks,21.5,17.99,19.01,17.40,4,6,Under,Miss
+Utah vs. Milwaukee,Brook Lopez,Fantasy Points - PrizePicks,33.0,27.68,28.12,26.60,3,7,Under,Hit
+Phoenix vs. LA Clippers,Jusuf Nurkic,Rebounds,10.5,12.15,12.10,12.50,6,4,Over,Miss
+Houston vs. Miami,Bam Adebayo,PAR,39.5,33.30,34.10,34.50,4,6,Under,Hit
+Utah vs. Milwaukee,Khris Middleton,Fantasy Points - PrizePicks,37.5,31.66,32.50,31.55,3,7,Under,Miss
+Chicago vs. Charlotte,Miles Bridges,Turnovers,2.5,2.11,2.00,2.00,4,6,Under,Miss
+Boston vs. Indiana,Jalen Smith,PAR,18.5,15.66,16.50,15.00,3,7,Under,Miss
+Phoenix vs. LA Clippers,Grayson Allen,PA,16.5,19.02,19.50,17.50,5,5,Over,Miss
+Oklahoma City vs. Washington,Tyus Jones,PA,18.5,21.30,20.70,20.50,7,3,Over,Hit
+Oklahoma City vs. Washington,Jalen Williams,Points,17.5,20.09,19.30,18.50,5,5,Over,Hit
+Utah vs. Milwaukee,Lauri Markkanen,Fantasy Points - PrizePicks,35.5,40.74,40.75,40.45,7,3,Over,Hit
+Boston vs. Indiana,Myles Turner,PA,17.5,20.08,20.60,18.50,6,4,Over,Miss
+Phoenix vs. LA Clippers,Grayson Allen,Rebounds,3.5,4.00,3.90,4.00,7,3,Over,Miss
+Phoenix vs. LA Clippers,Grayson Allen,PR,17.5,20.01,20.40,19.00,6,4,Over,Miss
+Houston vs. Miami,Tyler Herro,Assists,5.0,4.29,4.20,4.50,4,6,Under,Hit
+Oklahoma City vs. Washington,Jalen Williams,PA,21.5,24.51,24.00,23.00,6,4,Over,Hit
+Phoenix vs. LA Clippers,Devin Booker,Rebounds,4.5,3.87,3.70,4.00,2,8,Under,Hit
+Phoenix vs. LA Clippers,Bradley Beal,RA,9.5,8.17,8.00,7.50,4,6,Under,Hit
+Utah vs. Milwaukee,Collin Sexton,Fantasy Points - PrizePicks,28.0,31.88,31.87,33.75,6,4,Over,Miss
+Oklahoma City vs. Washington,Tyus Jones,Fantasy Points - PrizePicks,26.5,30.17,29.36,29.65,6,4,Over,Hit
+Boston vs. Indiana,Kristaps Porzingis,PA,27.5,23.70,22.40,22.50,3,7,Under,Hit
+Utah vs. Milwaukee,John Collins,Turnovers,1.5,1.29,1.50,1.50,5,5,Under,Miss
+Boston vs. Indiana,Tyrese Haliburton,Fantasy Points - PrizePicks,48.5,55.13,55.11,56.25,7,3,Over,Miss
+Chicago vs. Charlotte,Nick Richards,RA,11.0,9.50,10.20,11.00,4,6,Under,Hit
+Phoenix vs. LA Clippers,Devin Booker,PR,31.5,27.22,27.20,25.00,2,8,Under,Hit
+Houston vs. Miami,Kevin Love,PAR,20.5,23.27,23.10,23.50,7,3,Over,Hit
+Houston vs. Miami,Alperen Sengun,Fantasy Points - PrizePicks,40.0,45.30,46.32,46.95,6,4,Over,Hit
+Boston vs. Indiana,Kristaps Porzingis,PAR,36.5,31.74,30.50,30.00,3,7,Under,Hit
+Utah vs. Milwaukee,Lauri Markkanen,PA,23.5,26.52,26.60,28.00,7,3,Over,Miss
+Oklahoma City vs. Washington,Tyus Jones,PR,15.5,17.49,17.20,16.50,6,4,Over,Hit
+Phoenix vs. LA Clippers,Grayson Allen,PAR,20.5,23.08,23.40,20.50,5,5,Over,Miss
+Phoenix vs. LA Clippers,Ivica Zubac,Points,11.5,12.95,13.40,15.00,7,3,Over,Hit
+Boston vs. Indiana,Kristaps Porzingis,Points,25.5,22.30,21.00,20.00,3,7,Under,Hit
+Boston vs. Indiana,Myles Turner,Fantasy Points - PrizePicks,29.5,33.20,34.12,33.85,8,2,Over,Miss
+Utah vs. Milwaukee,Lauri Markkanen,Rebounds,7.5,8.43,8.50,9.50,6,4,Over,Hit
+Houston vs. Miami,Bam Adebayo,PA,27.5,24.14,23.80,24.50,4,6,Under,Hit
+Boston vs. Indiana,Jrue Holiday,PA,20.5,18.00,18.60,15.00,3,7,Under,Miss
+Chicago vs. Charlotte,Nick Richards,PR,20.0,17.57,17.90,18.50,4,6,Under,Hit
+Boston vs. Indiana,Tyrese Haliburton,Assists,12.0,13.46,14.30,13.50,6,4,Over,Miss
+Houston vs. Miami,Bam Adebayo,RA,15.5,13.63,14.10,13.50,4,6,Under,Hit
+Boston vs. Indiana,Kristaps Porzingis,PR,34.5,30.33,29.10,28.00,3,7,Under,Hit
+Phoenix vs. LA Clippers,Ivica Zubac,Fantasy Points - PrizePicks,28.0,31.38,32.43,30.80,6,4,Over,Hit
+Chicago vs. Charlotte,Nick Richards,PAR,21.5,18.92,19.20,20.00,5,5,Under,Hit
+Oklahoma City vs. Washington,Josh Giddey,Rebounds,6.5,5.72,5.80,6.00,4,6,Under,Hit
+Phoenix vs. LA Clippers,Devin Booker,Points,26.5,23.36,23.50,22.50,2,8,Under,Hit
+Boston vs. Indiana,Jalen Smith,PR,16.5,14.55,15.20,14.00,3,7,Under,Miss
+Boston vs. Indiana,Tyrese Haliburton,RA,16.5,18.44,19.10,17.50,6,4,Over,Miss
+Oklahoma City vs. Washington,Luguentz Dort,Points,11.5,12.84,12.20,11.50,5,5,Over,Miss
+Houston vs. Miami,Bam Adebayo,PR,34.5,30.49,30.30,28.50,4,6,Under,Hit
+Utah vs. Milwaukee,Kris Dunn,Assists,5.0,5.57,5.60,5.50,5,5,Under,Miss
+Phoenix vs. LA Clippers,Kawhi Leonard,Fantasy Points - PrizePicks,41.5,46.19,47.16,48.50,7,3,Over,Miss
+Utah vs. Milwaukee,Lauri Markkanen,PAR,31.5,34.99,35.10,37.50,7,3,Over,Hit
+Oklahoma City vs. Washington,Shai Gilgeous-Alexander,Rebounds,6.5,7.22,7.10,6.50,5,5,Over,Miss
+Phoenix vs. LA Clippers,Bradley Beal,Rebounds,4.5,4.01,3.90,3.50,4,6,Under,Hit
+Phoenix vs. LA Clippers,Jusuf Nurkic,RA,13.5,14.97,14.80,15.00,6,4,Over,Miss
+Houston vs. Miami,Fred VanVleet,RA,11.5,10.25,10.40,9.00,4,6,Under,Miss
+Houston vs. Miami,Kevin Love,Assists,2.5,2.77,2.90,3.00,6,4,Over,Hit
+Utah vs. Milwaukee,Lauri Markkanen,PR,29.5,32.66,32.60,35.00,7,3,Over,Hit
+Utah vs. Milwaukee,Collin Sexton,Assists,4.5,4.98,5.10,5.00,6,4,Over,Miss
+Boston vs. Indiana,Myles Turner,PAR,23.5,26.01,26.70,24.00,7,3,Over,Hit
+Houston vs. Miami,Alperen Sengun,PA,26.0,28.77,29.70,29.50,5,5,Over,Miss
+Houston vs. Miami,Bam Adebayo,Fantasy Points - PrizePicks,47.0,41.99,40.96,40.20,2,8,Under,Hit
+Boston vs. Indiana,Jaylen Brown,Points,28.0,25.03,24.40,26.00,3,7,Under,Miss
+Phoenix vs. LA Clippers,Devin Booker,PAR,38.5,34.44,34.50,34.00,2,8,Under,Hit
+Houston vs. Miami,Duncan Robinson,PA,14.5,16.03,16.10,16.00,8,2,Over,Hit
+Houston vs. Miami,Tyler Herro,RA,10.5,9.40,9.60,10.00,4,6,Under,Hit
+Oklahoma City vs. Washington,Chet Holmgren,PA,20.5,22.64,21.80,21.00,6,4,Over,Hit
+Boston vs. Indiana,Myles Turner,PR,22.5,24.84,25.50,23.50,6,4,Over,Hit
+Boston vs. Indiana,Aaron Nesmith,Fantasy Points - PrizePicks,22.0,24.28,25.07,25.40,8,2,Over,Hit
+Oklahoma City vs. Washington,Deni Avdija,Points,13.5,12.13,12.40,12.50,3,7,Under,Miss
+Oklahoma City vs. Washington,Josh Giddey,RA,11.5,10.34,10.30,10.00,4,6,Under,Miss
+Oklahoma City vs. Washington,Tyus Jones,PAR,21.5,23.67,23.00,22.00,7,3,Over,Hit
+Utah vs. Milwaukee,Giannis Antetokounmpo,PR,49.5,44.55,45.20,46.00,3,7,Under,Hit
+Oklahoma City vs. Washington,Chet Holmgren,PR,28.0,25.31,24.50,25.50,3,7,Under,Miss
+Utah vs. Milwaukee,Giannis Antetokounmpo,Points,36.0,32.55,32.20,32.00,3,7,Under,Hit
+Oklahoma City vs. Washington,Deni Avdija,PA,17.5,15.83,16.30,15.00,4,6,Under,Miss
+Houston vs. Miami,Alperen Sengun,Rebounds,9.0,8.16,9.10,8.50,4,6,Under,Miss
+Oklahoma City vs. Washington,Deni Avdija,Fantasy Points - PrizePicks,28.0,30.61,30.71,26.75,5,5,Over,Miss
+Houston vs. Miami,Bam Adebayo,Rebounds,11.0,9.98,10.30,11.00,3,7,Under,Miss
+Houston vs. Miami,Duncan Robinson,Points,11.5,12.56,12.60,12.50,6,4,Over,Hit
+Boston vs. Indiana,Kristaps Porzingis,Fantasy Points - PrizePicks,44.5,40.42,39.12,39.65,4,6,Under,Hit
+Houston vs. Miami,Fred VanVleet,PR,20.5,18.65,19.50,16.00,4,6,Under,Miss
+Oklahoma City vs. Washington,Jalen Williams,PAR,25.5,27.80,27.40,26.00,5,5,Over,Hit
+Phoenix vs. LA Clippers,Kawhi Leonard,PR,30.5,33.23,34.20,35.00,6,4,Over,Miss
+Utah vs. Milwaukee,Collin Sexton,Points,17.5,19.07,19.10,20.00,7,3,Over,Hit
+Utah vs. Milwaukee,Khris Middleton,PA,27.5,25.06,23.90,24.50,2,8,Under,Miss
+Chicago vs. Charlotte,Miles Bridges,Three Points Made,2.5,2.28,2.20,2.50,5,5,Under,Miss
+Oklahoma City vs. Washington,Jalen Williams,Rebounds,4.0,3.64,3.40,3.50,3,7,Under,Miss
+Boston vs. Indiana,Kristaps Porzingis,RA,11.0,10.03,9.50,10.50,3,7,Under,Miss
+Phoenix vs. LA Clippers,Kawhi Leonard,PAR,33.5,36.44,37.40,37.50,7,3,Over,Miss
+Chicago vs. Charlotte,Coby White,RA,10.5,11.42,11.30,11.00,6,4,Over,Hit
+Phoenix vs. LA Clippers,Devin Booker,PA,33.5,30.57,30.80,30.50,2,8,Under,Hit
+Chicago vs. Charlotte,Nick Richards,PA,11.5,10.51,10.30,10.50,5,5,Under,Hit
+Chicago vs. Charlotte,Nick Richards,Points,10.0,9.14,9.00,9.00,4,6,Under,Miss
+Boston vs. Indiana,Aaron Nesmith,PAR,17.5,16.01,16.80,17.50,5,5,Under,Miss
+Boston vs. Indiana,Jrue Holiday,PAR,27.5,25.20,24.80,21.00,3,7,Under,Miss
+Houston vs. Miami,Alperen Sengun,Assists,4.0,3.67,4.60,4.50,5,5,Under,Hit
+Oklahoma City vs. Washington,Jordan Poole,Assists,3.5,3.79,3.60,3.50,5,5,Over,Hit
+Oklahoma City vs. Washington,Jalen Williams,PR,21.5,23.25,22.70,21.00,5,5,Over,Hit
+Oklahoma City vs. Washington,Luguentz Dort,PA,13.5,14.60,14.10,14.00,5,5,Over,Miss
+Phoenix vs. LA Clippers,Jusuf Nurkic,PR,24.5,26.48,25.90,24.00,5,5,Over,Miss
+Houston vs. Miami,Kevin Love,Rebounds,7.0,7.56,7.40,7.00,4,6,Under,Miss
+Phoenix vs. LA Clippers,Kawhi Leonard,Points,24.5,26.47,27.40,29.00,7,3,Over,Miss
+Phoenix vs. LA Clippers,Kawhi Leonard,PA,27.5,29.66,30.60,31.00,8,2,Over,Miss
+Oklahoma City vs. Washington,Luguentz Dort,Fantasy Points - PrizePicks,23.5,25.34,24.95,26.30,5,5,Over,Miss
+Utah vs. Milwaukee,Giannis Antetokounmpo,PA,43.5,40.16,39.80,39.50,2,8,Under,Hit
+Boston vs. Indiana,Myles Turner,Rebounds,6.5,6.01,6.10,6.00,4,6,Under,Miss
+Phoenix vs. LA Clippers,Devin Booker,Fantasy Points - PrizePicks,44.0,40.70,40.69,40.85,1,9,Under,Hit
+Chicago vs. Charlotte,DeMar DeRozan,RA,9.5,10.20,9.70,9.00,4,6,Over,Hit
+Boston vs. Indiana,Jaylen Brown,PA,31.5,29.19,28.50,29.50,5,5,Under,Miss
+Utah vs. Milwaukee,Lauri Markkanen,Points,22.5,24.15,24.10,25.00,6,4,Over,Miss
+Chicago vs. Charlotte,Miles Bridges,Points,23.5,21.78,21.00,21.50,4,6,Under,Miss
+Chicago vs. Charlotte,Miles Bridges,PR,31.5,29.22,28.30,30.50,5,5,Under,Miss
+Houston vs. Miami,Jalen Green,PA,21.5,19.95,19.90,19.50,4,6,Under,Hit
+Utah vs. Milwaukee,Giannis Antetokounmpo,Rebounds,13.0,12.07,13.00,13.50,5,5,Under,Hit
+Oklahoma City vs. Washington,Tyus Jones,RA,9.0,8.36,8.10,8.50,3,7,Under,Miss
+Phoenix vs. LA Clippers,Bradley Beal,Turnovers,2.5,2.32,2.30,2.00,4,6,Under,Hit
+Boston vs. Indiana,Jaylen Brown,PR,33.5,31.13,30.20,31.50,4,6,Under,Miss
+Boston vs. Indiana,Jaylen Brown,PAR,38.0,35.31,34.30,34.50,4,6,Under,Miss
+Utah vs. Milwaukee,Collin Sexton,PA,22.5,24.09,24.20,26.50,6,4,Over,Miss
+Utah vs. Milwaukee,Giannis Antetokounmpo,PAR,56.5,52.51,52.80,52.00,3,7,Under,Hit
+Chicago vs. Charlotte,Terry Rozier,Rebounds,4.0,4.28,4.20,4.00,2,8,Under,Hit
+Houston vs. Miami,Jalen Green,Points,18.5,17.20,17.30,16.50,4,6,Under,Hit
+Utah vs. Milwaukee,Brook Lopez,Rebounds,5.0,5.35,5.60,5.00,4,6,Under,Miss
+Phoenix vs. LA Clippers,James Harden,Points,18.5,19.80,19.40,16.50,4,6,Over,Hit
+Boston vs. Indiana,Aaron Nesmith,PA,13.0,12.09,13.20,12.50,4,6,Under,Miss
+Houston vs. Miami,Jalen Green,Fantasy Points - PrizePicks,28.5,26.50,27.56,27.90,5,5,Under,Hit
+Houston vs. Miami,Fred VanVleet,PAR,28.5,26.50,27.40,23.00,4,6,Under,Miss
+Oklahoma City vs. Washington,Josh Giddey,PR,19.5,18.13,18.30,17.00,5,5,Under,Hit
+Phoenix vs. LA Clippers,James Harden,Assists,9.0,9.62,9.90,9.50,5,5,Under,Miss
+Phoenix vs. LA Clippers,James Harden,PA,27.5,29.40,29.30,28.50,6,4,Over,Hit
+Boston vs. Indiana,Jrue Holiday,RA,11.5,10.71,10.60,11.50,5,5,Under,Miss
+Phoenix vs. LA Clippers,Kawhi Leonard,Rebounds,6.0,6.41,6.80,7.50,6,4,Under,Hit
+Phoenix vs. LA Clippers,Jusuf Nurkic,Fantasy Points - PrizePicks,33.5,35.74,35.37,38.00,7,3,Over,Miss
+Houston vs. Miami,Alperen Sengun,SB,1.5,1.60,1.80,2.00,6,4,Under,Miss
+Phoenix vs. LA Clippers,Kawhi Leonard,Turnovers,1.5,1.60,1.60,2.00,6,4,Under,Miss
+Oklahoma City vs. Washington,Daniel Gafford,RA,9.0,8.40,8.40,7.00,2,8,Under,Miss
+Houston vs. Miami,Alperen Sengun,PAR,35.5,37.84,38.80,39.50,7,3,Over,Miss
+Phoenix vs. LA Clippers,Jusuf Nurkic,PAR,27.5,29.30,28.60,29.00,6,4,Over,Miss
+Houston vs. Miami,Tyler Herro,PA,27.5,25.71,24.60,27.00,4,6,Under,Miss
+Phoenix vs. LA Clippers,Jusuf Nurkic,Points,13.5,14.38,13.80,13.50,5,5,Over,Miss
+Oklahoma City vs. Washington,Jordan Poole,Points,15.5,14.50,14.80,13.00,3,7,Under,Miss
+Oklahoma City vs. Washington,Kyle Kuzma,RA,9.5,10.11,9.20,10.00,6,4,Over,Hit
+Oklahoma City vs. Washington,Chet Holmgren,Fantasy Points - PrizePicks,40.5,37.93,37.08,39.40,3,7,Under,Miss
+Houston vs. Miami,Alperen Sengun,RA,13.5,12.65,13.70,14.50,6,4,Under,Hit
+Phoenix vs. LA Clippers,Paul George,Rebounds,5.0,4.70,4.60,4.00,3,7,Under,Miss
+Phoenix vs. LA Clippers,Paul George,RA,8.5,7.98,7.90,8.00,3,7,Under,Hit
+Boston vs. Indiana,Kristaps Porzingis,Rebounds,9.0,8.45,8.10,9.00,4,6,Under,Hit
+Boston vs. Indiana,Tyrese Haliburton,Rebounds,4.5,4.77,4.80,4.50,5,5,Over,Miss
+Utah vs. Milwaukee,Collin Sexton,PR,20.5,21.72,21.70,23.00,7,3,Over,Miss
+Houston vs. Miami,Alperen Sengun,PR,31.5,33.36,34.20,33.50,6,4,Over,Hit
+Chicago vs. Charlotte,DeMar DeRozan,Rebounds,4.0,4.24,4.10,4.00,4,6,Under,Miss
+Houston vs. Miami,Fred VanVleet,Fantasy Points - PrizePicks,35.5,33.42,34.45,30.30,4,6,Under,Miss
+Houston vs. Miami,Jalen Green,PR,23.5,22.14,22.10,22.50,4,6,Under,Hit
+Boston vs. Indiana,Jrue Holiday,Points,15.5,14.62,14.20,14.00,3,7,Under,Miss
+Chicago vs. Charlotte,Miles Bridges,PAR,34.5,32.58,31.60,33.00,5,5,Under,Miss
+Oklahoma City vs. Washington,Daniel Gafford,PA,11.5,10.87,11.10,11.50,5,5,Under,Hit
+Utah vs. Milwaukee,Collin Sexton,PAR,25.5,26.88,26.80,29.00,6,4,Over,Miss
+Chicago vs. Charlotte,Coby White,PA,26.5,25.07,24.90,24.00,4,6,Under,Miss
+Houston vs. Miami,Josh Richardson,Points,9.5,10.00,9.80,10.00,6,4,Over,Hit
+Phoenix vs. LA Clippers,James Harden,PAR,32.5,34.18,34.00,33.00,6,4,Over,Hit
+Boston vs. Indiana,Tyrese Haliburton,PA,35.0,36.81,36.80,39.00,6,4,Over,Miss
+Boston vs. Indiana,Jaylen Brown,Fantasy Points - PrizePicks,41.5,39.39,38.11,38.50,4,6,Under,Miss
+Houston vs. Miami,Tyler Herro,Points,22.5,21.37,20.40,23.50,5,5,Under,Miss
+Phoenix vs. LA Clippers,Paul George,PA,26.5,27.82,27.80,26.00,4,6,Over,Miss
+Phoenix vs. LA Clippers,James Harden,PR,23.5,24.67,24.10,21.00,4,6,Over,Hit
+Boston vs. Indiana,Jalen Smith,Points,10.5,9.98,10.40,10.50,5,5,Under,Miss
+Oklahoma City vs. Washington,Kyle Kuzma,Fantasy Points - PrizePicks,34.5,32.79,32.05,30.10,4,6,Under,Miss
+Utah vs. Milwaukee,Giannis Antetokounmpo,Fantasy Points - PrizePicks,66.5,63.21,63.40,60.45,3,7,Under,Hit
+Houston vs. Miami,Duncan Robinson,PAR,17.5,18.36,18.50,18.50,6,4,Over,Hit
+Boston vs. Indiana,Jrue Holiday,Fantasy Points - PrizePicks,33.5,31.87,30.94,27.30,3,7,Under,Miss
+Chicago vs. Charlotte,Miles Bridges,PA,26.5,25.26,24.30,25.50,4,6,Under,Miss
+Oklahoma City vs. Washington,Chet Holmgren,Points,18.5,19.35,18.60,18.50,5,5,Over,Hit
+Oklahoma City vs. Washington,Josh Giddey,Fantasy Points - PrizePicks,27.5,26.24,26.01,24.40,5,5,Under,Miss
+Houston vs. Miami,Tyler Herro,PAR,32.5,31.02,30.00,32.00,5,5,Under,Miss
+Oklahoma City vs. Washington,Daniel Gafford,PAR,19.5,18.61,18.40,19.50,5,5,Under,Hit
+Phoenix vs. LA Clippers,Paul George,Points,23.5,24.52,24.50,23.50,5,5,Over,Hit
+Utah vs. Milwaukee,Brook Lopez,SB,3.5,3.35,3.20,3.00,4,6,Under,Hit
+Houston vs. Miami,Josh Richardson,PR,12.5,13.03,12.90,12.50,5,5,Over,Hit
+Oklahoma City vs. Washington,Jalen Williams,RA,8.0,8.34,8.10,9.00,6,4,Under,Miss
+Phoenix vs. LA Clippers,James Harden,Fantasy Points - PrizePicks,40.5,42.21,42.59,42.65,7,3,Over,Miss
+Boston vs. Indiana,Derrick White,RA,10.0,9.58,9.50,9.50,3,7,Under,Miss
+Boston vs. Indiana,Aaron Nesmith,Points,11.5,11.03,11.90,11.00,5,5,Under,Miss
+Chicago vs. Charlotte,Terry Rozier,Assists,7.0,6.72,6.50,7.00,2,8,Under,Miss
+Phoenix vs. LA Clippers,Grayson Allen,Three Points Made,2.5,2.40,3.50,2.00,4,6,Under,Hit
+Phoenix vs. LA Clippers,James Harden,Rebounds,5.0,4.80,4.70,4.00,2,8,Under,Miss
+Phoenix vs. LA Clippers,Terance Mann,Rebounds,2.5,2.40,2.40,3.00,6,4,Under,Miss
+Phoenix vs. LA Clippers,Devin Booker,RA,11.5,11.04,11.00,11.00,3,7,Under,Hit
+Boston vs. Indiana,Tyrese Haliburton,PAR,40.0,41.59,41.60,44.50,6,4,Over,Miss
+Boston vs. Indiana,Aaron Nesmith,PR,15.5,14.89,15.50,16.00,5,5,Under,Miss
+Oklahoma City vs. Washington,Jordan Poole,PA,18.5,19.22,18.40,18.50,5,5,Over,Hit
+Utah vs. Milwaukee,Khris Middleton,Points,19.5,18.74,17.70,18.00,4,6,Under,Miss
+Boston vs. Indiana,Derrick White,Rebounds,4.5,4.33,4.30,4.50,5,5,Under,Hit
+Chicago vs. Charlotte,Terry Rozier,RA,11.5,11.06,10.70,10.50,3,7,Under,Hit
+Houston vs. Miami,Kevin Love,RA,10.0,10.38,10.30,10.00,5,5,Over,Hit
+Phoenix vs. LA Clippers,James Harden,RA,14.0,14.52,14.60,14.50,5,5,Over,Hit
+Houston vs. Miami,Fred VanVleet,Assists,8.0,7.70,7.90,7.50,4,6,Under,Hit
+Houston vs. Miami,Bam Adebayo,Assists,4.0,3.85,3.80,4.00,4,6,Under,Hit
+Boston vs. Indiana,Derrick White,Assists,5.5,5.30,5.20,5.00,4,6,Under,Miss
+Chicago vs. Charlotte,Terry Rozier,PA,31.5,30.37,30.30,30.50,5,5,Under,Miss
+Chicago vs. Charlotte,Coby White,Assists,5.5,5.31,5.20,5.00,4,6,Under,Hit
+Boston vs. Indiana,Jalen Smith,PA,11.5,11.11,11.70,11.50,5,5,Under,Miss
+Oklahoma City vs. Washington,Chet Holmgren,PAR,29.5,28.49,27.70,28.50,3,7,Under,Miss
+Oklahoma City vs. Washington,Deni Avdija,RA,10.5,10.86,11.20,9.50,4,6,Over,Miss
+Utah vs. Milwaukee,John Collins,Points,12.5,12.07,12.70,12.50,5,5,Under,Miss
+Houston vs. Miami,Tyler Herro,Fantasy Points - PrizePicks,37.5,36.24,35.08,38.55,6,4,Under,Hit
+Boston vs. Indiana,Jrue Holiday,Rebounds,6.0,6.20,6.20,6.00,4,6,Under,Miss
+Oklahoma City vs. Washington,Jordan Poole,Fantasy Points - PrizePicks,24.5,25.31,24.50,25.10,5,5,Over,Hit
+Houston vs. Miami,Tyler Herro,Rebounds,5.5,5.32,5.40,6.00,7,3,Under,Hit
+Boston vs. Indiana,Jaylen Brown,RA,10.0,10.32,9.90,9.00,4,6,Over,Miss
+Phoenix vs. LA Clippers,Devin Booker,Assists,7.0,7.22,7.30,7.00,3,7,Under,Hit
+Oklahoma City vs. Washington,Kyle Kuzma,PR,28.5,27.61,26.80,25.00,5,5,Under,Miss
+Boston vs. Indiana,Jrue Holiday,PR,21.5,20.84,20.40,20.00,3,7,Under,Miss
+Houston vs. Miami,Josh Richardson,PA,12.5,12.88,12.70,13.50,5,5,Over,Hit
+Phoenix vs. LA Clippers,Kawhi Leonard,RA,9.5,9.21,10.00,11.00,8,2,Under,Hit
+Oklahoma City vs. Washington,Daniel Gafford,Rebounds,7.5,7.73,7.30,6.50,5,5,Over,Hit
+Oklahoma City vs. Washington,Luguentz Dort,PR,16.5,16.99,16.20,16.50,5,5,Over,Miss
+Oklahoma City vs. Washington,Josh Giddey,PAR,23.5,22.82,22.80,21.50,5,5,Under,Miss
+Utah vs. Milwaukee,Kris Dunn,PA,10.5,10.20,10.90,8.50,3,7,Under,Miss
+Chicago vs. Charlotte,Terry Rozier,PR,28.5,27.72,28.00,28.00,5,5,Under,Miss
+Houston vs. Miami,Duncan Robinson,PR,14.5,14.89,15.00,15.00,6,4,Over,Hit
+Boston vs. Indiana,Tyrese Haliburton,Points,23.5,22.90,22.50,21.50,4,6,Under,Hit
+Oklahoma City vs. Washington,Shai Gilgeous-Alexander,Assists,6.5,6.33,6.30,6.50,5,5,Under,Hit
+Chicago vs. Charlotte,Terry Rozier,Points,24.0,23.39,23.80,23.50,5,5,Under,Miss
+Boston vs. Indiana,Derrick White,Fantasy Points - PrizePicks,38.5,39.44,38.26,38.65,5,5,Over,Miss
+Houston vs. Miami,Jalen Green,PAR,25.5,24.88,24.70,26.50,6,4,Under,Hit
+Oklahoma City vs. Washington,Shai Gilgeous-Alexander,PA,40.5,39.52,39.50,41.00,6,4,Under,Hit
+Phoenix vs. LA Clippers,Paul George,PR,28.5,29.19,29.10,29.00,6,4,Over,Hit
+Chicago vs. Charlotte,Terry Rozier,PAR,35.5,34.65,34.50,35.00,5,5,Under,Miss
+Chicago vs. Charlotte,Miles Bridges,Rebounds,7.5,7.67,7.30,7.00,4,6,Over,Hit
+Houston vs. Miami,Fred VanVleet,Points,16.5,16.12,17.00,14.50,4,6,Under,Miss
+Chicago vs. Charlotte,Miles Bridges,RA,11.5,11.24,10.60,10.00,4,6,Under,Miss
+Houston vs. Miami,Tyler Herro,PR,27.5,26.89,25.80,28.00,6,4,Under,Miss
+Houston vs. Miami,Fred VanVleet,PA,24.5,23.97,24.90,21.50,4,6,Under,Miss
+Oklahoma City vs. Washington,Daniel Gafford,Points,9.5,9.70,10.00,11.00,6,4,Over,Miss
+Oklahoma City vs. Washington,Josh Giddey,PA,16.5,16.83,17.00,16.50,5,5,Over,Hit
+Oklahoma City vs. Washington,Shai Gilgeous-Alexander,Points,34.0,33.36,33.20,34.00,3,7,Under,Hit
+Utah vs. Milwaukee,John Collins,PR,18.5,18.85,19.30,20.50,7,3,Over,Hit
+Phoenix vs. LA Clippers,Terance Mann,Points,7.0,7.12,6.90,6.50,4,6,Under,Miss
+Oklahoma City vs. Washington,Shai Gilgeous-Alexander,PAR,47.5,46.66,46.60,48.00,5,5,Under,Hit
+Boston vs. Indiana,Derrick White,PR,24.5,24.07,23.40,22.50,4,6,Under,Hit
+Boston vs. Indiana,Derrick White,Points,19.5,19.84,19.10,18.50,4,6,Over,Miss
+Chicago vs. Charlotte,DeMar DeRozan,PR,26.5,26.04,25.60,26.00,4,6,Under,Hit
+Chicago vs. Charlotte,DeMar DeRozan,Points,21.5,21.85,21.50,21.00,4,6,Over,Miss
+Oklahoma City vs. Washington,Kyle Kuzma,Points,21.5,21.84,21.30,21.50,5,5,Over,Hit
+Oklahoma City vs. Washington,Josh Giddey,Points,12.5,12.31,12.50,11.50,4,6,Under,Hit
+Chicago vs. Charlotte,Coby White,PR,25.5,25.89,25.80,26.00,5,5,Over,Hit
+Oklahoma City vs. Washington,Deni Avdija,PR,19.5,19.20,19.70,16.00,4,6,Under,Miss
+Oklahoma City vs. Washington,Deni Avdija,Rebounds,6.5,6.60,7.30,5.50,4,6,Under,Hit
+Oklahoma City vs. Washington,Deni Avdija,Assists,4.0,4.06,3.90,4.00,3,7,Under,Miss
+Oklahoma City vs. Washington,Jordan Poole,PAR,21.5,21.18,20.40,21.50,5,5,Under,Miss
+Boston vs. Indiana,Derrick White,PA,25.5,25.13,24.30,26.50,5,5,Under,Hit
+Oklahoma City vs. Washington,Luguentz Dort,PAR,18.5,18.76,18.10,18.50,5,5,Over,Miss
+Utah vs. Milwaukee,Giannis Antetokounmpo,SB,2.5,2.46,2.40,2.50,5,5,Under,Hit
+Chicago vs. Charlotte,Coby White,Points,19.5,19.77,19.70,19.50,5,5,Over,Hit
+Boston vs. Indiana,Jaylen Brown,Rebounds,6.0,6.08,5.80,5.50,2,8,Under,Hit
+Chicago vs. Charlotte,DeMar DeRozan,PAR,31.5,31.90,31.20,32.00,5,5,Over,Hit
+Oklahoma City vs. Washington,Kyle Kuzma,Rebounds,6.0,6.07,5.50,6.00,5,5,Under,Miss
+Oklahoma City vs. Washington,Tyus Jones,Assists,6.0,6.07,5.80,6.00,3,7,Under,Miss
+Utah vs. Milwaukee,Giannis Antetokounmpo,RA,20.0,19.78,20.60,19.00,4,6,Under,Miss
+Oklahoma City vs. Washington,Daniel Gafford,PR,17.5,17.32,17.30,18.50,6,4,Under,Miss
+Phoenix vs. LA Clippers,Jusuf Nurkic,PA,17.0,17.16,16.50,17.00,5,5,Over,Miss
+Phoenix vs. LA Clippers,Paul George,Fantasy Points - PrizePicks,38.5,38.85,38.87,36.70,4,6,Over,Miss
+Chicago vs. Charlotte,DeMar DeRozan,PA,27.5,27.71,27.10,27.50,5,5,Over,Miss
+Utah vs. Milwaukee,John Collins,PAR,20.0,19.87,20.20,21.00,6,4,Under,Miss
+Oklahoma City vs. Washington,Shai Gilgeous-Alexander,Fantasy Points - PrizePicks,57.5,57.14,56.77,57.80,5,5,Under,Hit
+Oklahoma City vs. Washington,Shai Gilgeous-Alexander,RA,13.5,13.42,13.40,13.50,5,5,Under,Hit
+Boston vs. Indiana,Derrick White,PAR,29.5,29.32,28.60,30.50,6,4,Under,Hit
+Oklahoma City vs. Washington,Jordan Poole,PR,17.5,17.40,16.80,15.50,4,6,Under,Miss
+Chicago vs. Charlotte,Coby White,PAR,31.0,31.17,31.00,29.50,4,6,Over,Hit
+Utah vs. Milwaukee,Giannis Antetokounmpo,Assists,7.5,7.54,7.60,7.00,4,6,Under,Miss
+Boston vs. Indiana,Tyrese Haliburton,PR,27.5,27.63,27.30,25.50,4,6,Over,Miss
+Oklahoma City vs. Washington,Deni Avdija,PAR,23.5,23.40,23.60,19.50,4,6,Under,Miss
+Oklahoma City vs. Washington,Shai Gilgeous-Alexander,PR,40.5,40.34,40.30,41.00,5,5,Under,Hit
+Oklahoma City vs. Washington,Kyle Kuzma,PAR,31.5,31.38,30.50,29.00,4,6,Under,Miss
+Oklahoma City vs. Washington,Kyle Kuzma,PA,25.5,25.51,25.00,25.50,5,5,Over,Hit
+Utah vs. Milwaukee,John Collins,Fantasy Points - PrizePicks,23.0,23.00,23.47,24.95,7,3,Under,Miss
+Phoenix vs. LA Clippers,Paul George,PAR,32.5,32.49,32.40,32.50,5,5,Under,Hit
+Utah vs. Milwaukee,John Collins,Rebounds,6.0,6.00,6.60,5.00,3,7,Under,Hit
